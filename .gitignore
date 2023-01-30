@@ -1,0 +1,8 @@
+*.rar
+**/bin/*
+**/obj/*
+**/Debug/*
+/Run/*
+/RunCE/*
+/RunCRM/*
+*.bak

@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tbPath>
+    <path>E:\Libs\Drive\Libs\SystemMain version 1.2.4 - CRM\LoyalHRM\bin\Debug</path>
+    <connection>Data Source=loyalty_pc;Initial Catalog=system;Persist Security Info=True;User ID=sa;Password=123456</connection>
+  </tbPath>
+</NewDataSet>

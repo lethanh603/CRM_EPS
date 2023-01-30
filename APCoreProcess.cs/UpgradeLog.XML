@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="APCoreProcess.cs">
+</Property><Property Name="Solution File" Value="F:\Documents\XDPM\Project2011\DO_AN_LT_N_LOP\DO_AN_DPT\QLBH - vesion 1.1.7\Libs\APCoreProcess.cs\APCoreProcess.cs.sln">
+</Property><Property Name="Date" Value="25 Tháng Tám 2012">
+</Property><Property Name="Time" Value="9:15 SA">
+</Property></Properties><Event ErrorLevel="0" Project="APCoreProcess" Source="APCoreProcess.cs\APCoreProcess.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="APCoreProcess" Source="APCoreProcess.cs\APCoreProcess.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="APCoreProcess.cs.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="APCoreProcess.cs.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="APCoreProcess" Source="APCoreProcess.cs\APCoreProcess.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

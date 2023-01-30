@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="QLBH">
+</Property><Property Name="Solution File" Value="F:\Documents\XDPM\Project2011\DO_AN_LT_N_LOP\DO_AN_DPT\QLBH - vesion 1.1.6\QLBH Main version 1.2.2\QLBH.sln">
+</Property><Property Name="Date" Value="15 Tháng Tám 2012">
+</Property><Property Name="Time" Value="21:58 CH">
+</Property></Properties><Event ErrorLevel="0" Project="QLBH" Source="QLBH\QLBH.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="QLBH" Source="QLBH\QLBH.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="QLBH.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="QLBH.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="QLBH" Source="QLBH\QLBH.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

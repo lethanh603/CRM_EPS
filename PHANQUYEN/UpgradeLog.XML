@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DMBAN">
+</Property><Property Name="Solution File" Value="F:\Documents\XDPM\Project2011\DO_AN_LT_N_LOP\DO_AN_DPT\QLBH - vesion 1.1.6\DanhMuc\DM_BAN\DMBAN.sln">
+</Property><Property Name="Date" Value="17 Tháng Tám 2012">
+</Property><Property Name="Time" Value="16:18 CH">
+</Property></Properties><Event ErrorLevel="4" Project="DMBAN" Source="http://go.microsoft.com/fwlink/?LinkId=159919" Description="Warning: this project requires Crystal Reports, which is no longer included with Visual Studio. Please click here for more information.">
+</Event><Event ErrorLevel="0" Project="DMBAN" Source="DMBAN\DMBAN.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DMBAN" Source="DMBAN\DMBAN.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DMBAN.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="DMBAN.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DMBAN" Source="DMBAN\DMBAN.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

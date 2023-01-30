@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{885DD751-9B58-4D44-BA5D-7657A3F43624}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SOURCE_FORM_TIENDODONHANG</RootNamespace>
+    <AssemblyName>SOURCE_FORM_TIENDODONHANG</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <FileAlignment>1024</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="AxInterop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\AxInterop.zkemkeeper.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DXCore.Controls.Data.v6.3">
+      <HintPath>..\..\SOURCE_FORM\SOURCE_FORM\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.DXCore.Controls.Utils.v6.3">
+      <HintPath>..\..\SOURCE_FORM\SOURCE_FORM\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.PivotGrid.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.SpellChecker.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v13.1.UI, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v13.1.Wizard, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v13.1.Extensions, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraRichEdit.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraScheduler.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpellChecker.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IMPORTEXCEL, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RunCE\IMPORTEXCEL.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+      <HintPath>bin\Debug\Interop.zkemkeeper.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.ConnectionInfo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.ConnectionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Management.Sdk.Sfc, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Management.Sdk.Sfc.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Smo, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.Smo.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.SmoExtended, Version=10.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Program Files\Microsoft SQL Server\100\SDK\Assemblies\Microsoft.SqlServer.SmoExtended.dll</HintPath>
+    </Reference>
+    <Reference Include="ReportControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RunCE\ReportControls.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMAREA, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Run\SOURCE_FORM_DMAREA.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMCUSTOMERTYPE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SOURCE_FORM_DMCUSTOMERTYPE\SOURCE_FORM_DMCUSTOMERTYPE\bin\Debug\SOURCE_FORM_DMCUSTOMERTYPE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMDEPARTMENT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Run\SOURCE_FORM_DMDEPARTMENT.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMFLOORS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Run\SOURCE_FORM_DMFLOORS.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMGROUP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RunCE\SOURCE_FORM_DMGROUP.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMKIND">
+      <HintPath>..\..\Run\SOURCE_FORM_DMKIND.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMPOSITION">
+      <HintPath>..\..\RunCE\SOURCE_FORM_DMPOSITION.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMPROCEDURE">
+      <HintPath>..\..\RunCE\SOURCE_FORM_DMPROCEDURE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMPROCEDURETYPE">
+      <HintPath>..\..\RunCE\SOURCE_FORM_DMPROCEDURETYPE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMSCALE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SOURCE_FORM_DMSCALE\SOURCE_FORM_DMSCALE\bin\Debug\SOURCE_FORM_DMSCALE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMSTORE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Run\SOURCE_FORM_DMSTORE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMUNIT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\RunCE\SOURCE_FORM_DMUNIT.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_DMWAREHOUSE">
+      <HintPath>..\..\Run\SOURCE_FORM_DMWAREHOUSE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_TRACE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Run\SOURCE_FORM_TRACE.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Data.SqlServerCe, Version=4.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SystemMain version 1.2.4 - CRM\LoyalHRM\bin\Debug\System.Data.SqlServerCe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Deployment">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>True</Private>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Presentation\frm_PLANBAOTRI_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_PLANBAOTRI_S.designer.cs">
+      <DependentUpon>frm_PLANBAOTRI_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmChiTietGiaohang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmChiTietGiaohang.Designer.cs">
+      <DependentUpon>frmChiTietGiaohang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_listCommodity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_listCommodity.Designer.cs">
+      <DependentUpon>frm_listCommodity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVUKYHAN_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVUKYHAN_S.designer.cs">
+      <DependentUpon>frm_NHIEMVUKYHAN_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_PLANGIAOHANG_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_PLANGIAOHANG_S.designer.cs">
+      <DependentUpon>frm_PLANGIAOHANG_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frmPLANPO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frmPLANPO.Designer.cs">
+      <DependentUpon>frmPLANPO.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_BAOHANH_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_BAOHANH_S.designer.cs">
+      <DependentUpon>frm_BAOHANH_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_CHITIETSUVU_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_CHITIETSUVU_S.designer.cs">
+      <DependentUpon>frm_CHITIETSUVU_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_TIENDOCONGVIEC_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_TIENDOCONGVIEC_S.designer.cs">
+      <DependentUpon>frm_TIENDOCONGVIEC_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVU_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVU_S.designer.cs">
+      <DependentUpon>frm_NHIEMVU_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVU_SH.cs">
+      <SubType>Form</SubType>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Presentation\frm_NHIEMVU_SH.designer.cs">
+      <DependentUpon>frm_NHIEMVU_SH.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Presentation\frm_CHITIETCONGVIECHANGNGAY_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_CHITIETCONGVIECHANGNGAY_S.designer.cs">
+      <DependentUpon>frm_CHITIETCONGVIECHANGNGAY_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_CONGVIECHANGNGAY_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_CONGVIECHANGNGAY_S.designer.cs">
+      <DependentUpon>frm_CONGVIECHANGNGAY_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_QUANLYSUVU_S.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_QUANLYSUVU_S.designer.cs">
+      <DependentUpon>frm_QUANLYSUVU_S.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Presentation\frm_QUANLYSUVU_SH.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presentation\frm_QUANLYSUVU_SH.designer.cs">
+      <DependentUpon>frm_QUANLYSUVU_SH.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Presentation\frm_PLANBAOTRI_S.resx">
+      <DependentUpon>frm_PLANBAOTRI_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmChiTietGiaohang.resx">
+      <DependentUpon>frmChiTietGiaohang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_listCommodity.resx">
+      <DependentUpon>frm_listCommodity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_NHIEMVUKYHAN_S.resx">
+      <DependentUpon>frm_NHIEMVUKYHAN_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_PLANGIAOHANG_S.resx">
+      <DependentUpon>frm_PLANGIAOHANG_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frmPLANPO.resx">
+      <DependentUpon>frmPLANPO.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_BAOHANH_S.resx">
+      <DependentUpon>frm_BAOHANH_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_CHITIETSUVU_S.resx">
+      <DependentUpon>frm_CHITIETSUVU_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_TIENDOCONGVIEC_S.resx">
+      <DependentUpon>frm_TIENDOCONGVIEC_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_NHIEMVU_S.resx">
+      <DependentUpon>frm_NHIEMVU_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_NHIEMVU_SH.resx">
+      <DependentUpon>frm_NHIEMVU_SH.cs</DependentUpon>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_CHITIETCONGVIECHANGNGAY_S.resx">
+      <DependentUpon>frm_CHITIETCONGVIECHANGNGAY_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_CONGVIECHANGNGAY_S.resx">
+      <DependentUpon>frm_CONGVIECHANGNGAY_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_QUANLYSUVU_S.resx">
+      <DependentUpon>frm_QUANLYSUVU_S.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presentation\frm_QUANLYSUVU_SH.resx">
+      <DependentUpon>frm_QUANLYSUVU_SH.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Images\login.png" />
+    <None Include="bin\Debug\Images\exit.png" />
+    <None Include="bin\Debug\Images\close.png" />
+    <None Include="bin\Debug\Images\config.png" />
+    <None Include="bin\Debug\Images\paint.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\APCoreProcess.cs\APCoreProcess.cs\APCoreProcess.csproj">
+      <Project>{BFCD11FB-6032-4582-A4D5-679A61757134}</Project>
+      <Name>APCoreProcess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Controls\Controls\ControlDev.csproj">
+      <Project>{A39FCC7D-2A76-4462-BD45-47373F3C1862}</Project>
+      <Name>ControlDev</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Data\Data\Data.csproj">
+      <Project>{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Function\Function\Function.csproj">
+      <Project>{C32FE0AF-401D-4608-A2E6-2A603617C62E}</Project>
+      <Name>Function</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SOURCE_FORM_CRM\SOURCE_FORM_CRM\SOURCE_FORM_CRM.csproj">
+      <Project>{A12B05CD-C36C-4484-9E19-59D54B4B11E2}</Project>
+      <Name>SOURCE_FORM_CRM</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\SOURCE_FORM_QUOTATION\SOURCE_FORM_QUOTATION\SOURCE_FORM_QUOTATION.csproj">
+      <Project>{C0A88420-C8F5-4E09-B514-1D29D2730233}</Project>
+      <Name>SOURCE_FORM_QUOTATION</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SOURCE_FORM_TIENDODONHANG.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
