@@ -53,8 +53,10 @@ namespace SOURCE_FORM_REPORT.Presentation
             dte_todate_S.EditValue = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1).AddMonths(1).AddDays(-1);
             loadGridLookupStatus();
             loadGridLookupEmp();
+            loadGridLookupBranch();
+            loadGridLookupTeam();
             ControlDev.FormatControls.setContainsFilter(gv_cskh_C);
-            ControlDev.FormatControls.setContainsFilter(gv_device_C);
+            //ControlDev.FormatControls.setContainsFilter(gv_device_C);
             ControlDev.FormatControls.setContainsFilter(bgv_list_C);
         }
         
@@ -101,7 +103,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                 sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                 FROM QUOTATION QS with(nolock)
-                INNER JOIN EMPLOYEES E with(nolock) ON QS.IDEMP = E.IDEMP
+                INNER JOIN EMPLOYEES E with(nolock) ON  expresion_join
                 WHERE QS.dateimport between 'from_date' and 'to_date' {0}
                 GROUP BY E.IDEMP, E.StaffName
                 --select * from DMSTATUSQUOTATION
@@ -109,9 +111,10 @@ namespace SOURCE_FORM_REPORT.Presentation
 
                 string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
 
-
+                
                 sql = string.Format(sql, expEmp);
                 sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                 //MessageBox.Show(sql);
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
                 //loadCSKH("", "");
@@ -316,7 +319,7 @@ namespace SOURCE_FORM_REPORT.Presentation
 
             sql = string.Format(sql, expEmp);
             sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
-            gct_device_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
+            //gct_device_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
         }
 
         private void loadCSKH(string idEmp, string idStatus)
@@ -355,9 +358,35 @@ namespace SOURCE_FORM_REPORT.Presentation
         {
             try
             {
-                string[] caption = new string[] { "ID", "Status" };
-                string[] fieldname = new string[] { "idstatus", "statusname" };
-                ControlDev.FormatControls.LoadGridLookupEdit(glue_iddepartment_I1, "select '' idstatus, 'All' statusname union select  idstatus, statusname from DMSTATUS with(nolock) where status =1", "statusname", "idstatus", caption, fieldname, this.Name, glue_iddepartment_I1.Width);
+                string[] caption = new string[] { "Mã", "Bộ phận" };
+                string[] fieldname = new string[] { "iddepartment", "department" };
+                ControlDev.FormatControls.LoadGridLookupEdit(glue_iddepartment_I1, "select '' iddepartment, 'All' department union select  iddepartment, department from DMDEPARTMENT with(nolock) where status =1", "department", "iddepartment", caption, fieldname, this.Name, glue_iddepartment_I1.Width);
+            }
+            catch { }
+        }
+
+        private void loadGridLookupBranch()
+        {
+            try
+            {
+                string[] caption = new string[] { "Mã CN", "Chi nhánh" };
+                string[] fieldname = new string[] { "idstore", "store" };
+                ControlDev.FormatControls.LoadGridLookupEdit(glue_idstore_Ik1, "select '' idstatus, 'All' statusname union select  idstatus, statusname from DMSTATUS with(nolock) where status =1", "store", "idstore", caption, fieldname, this.Name, glue_idstore_Ik1.Width);
+                glue_idstore_Ik1.EditValue = "CH000002";
+
+            }
+            catch { }
+        }
+
+        private void loadGridLookupTeam()
+        {
+            try
+            {
+                string[] caption = new string[] { "Mã", "Đội nhóm" };
+                string[] fieldname = new string[] { "idteam", "teamname" };
+                ControlDev.FormatControls.LoadGridLookupEdit(glue_idteam_IK1, "select '' idteam, 'All' teamname union select  idteam, teamname from DMSTEAM with(nolock) where status =1", "teamname", "idteam", caption, fieldname, this.Name, glue_idteam_IK1.Width);
+                glue_idteam_IK1.EditValue = "EMP000008";
+
             }
             catch { }
         }
@@ -368,13 +397,15 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 string[] caption = new string[] { "Mã NV", "Tên Nhân Viên" };
                 string[] fieldname = new string[] { "idemp", "staffname" };
+                string department = "";
+                department = glue_iddepartment_I1.EditValue.ToString();
                 if (clsFunction.checkAdmin())
                 {
-                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select '' idemp, 'All' staffname union select idemp,staffname from employees where status=1", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
+                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select '' idemp, 'All' staffname union select idemp,staffname from employees  where status=1 and iddepartment like '%"+department+"%'", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
                 }
                 else
                 {
-                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select idemp,staffname from employees where status=1 and CHARINDEX('" + clsFunction.GetIDEMPByUser() + "', idrecursive) >0 ", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
+                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select idemp,staffname from employees where status=1  and iddepartment like '%"+department+"%' and CHARINDEX('" + clsFunction.GetIDEMPByUser() + "', idrecursive) >0 ", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
                 }
                 glue_IDEMP_I1.EditValue = clsFunction.GetIDEMPByUser();
 
@@ -385,11 +416,7 @@ namespace SOURCE_FORM_REPORT.Presentation
 
         #endregion
 
-        private void bandedGridView1_FocusedRowChanged(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
-        {
-            loadCSKH(bgv_list_C.GetRowCellValue(bgv_list_C.FocusedRowHandle, "idemp").ToString(), glue_iddepartment_I1.EditValue.ToString());
-            loadDevice(bgv_list_C.GetRowCellValue(bgv_list_C.FocusedRowHandle, "idemp").ToString());
-        }
+        
 
         private void gct_cskh_C_DoubleClick(object sender, EventArgs e)
         {
@@ -405,8 +432,8 @@ namespace SOURCE_FORM_REPORT.Presentation
             frm_Device_DETAIL frm = new frm_Device_DETAIL();
             frm.fromDate = Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd");
             frm.toDate = Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd");
-            frm.idEmp = gv_device_C.GetRowCellValue(gv_device_C.FocusedRowHandle, "idemp").ToString();
-            frm.idCustomer = gv_device_C.GetRowCellValue(gv_device_C.FocusedRowHandle, "idcustomer").ToString();
+            //frm.idEmp = gv_device_C.GetRowCellValue(gv_device_C.FocusedRowHandle, "idemp").ToString();
+            //frm.idCustomer = gv_device_C.GetRowCellValue(gv_device_C.FocusedRowHandle, "idcustomer").ToString();
             frm.idStatus = glue_iddepartment_I1.EditValue.ToString();
             frm.ShowDialog();
         }
@@ -464,6 +491,44 @@ namespace SOURCE_FORM_REPORT.Presentation
           
         #endregion
 
+        private void gct_list_C_Click(object sender, EventArgs e)
+        {
+           
+        }
+
+        private void bandedGridView1_FocusedRowChanged(object sender, DevExpress.XtraGrid.Views.Base.FocusedRowChangedEventArgs e)
+        {
+            try
+            {
+                string sql = @"
+                select 
+            Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+            QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+            Q.nguoi_can_thiep, Q.reason
+            from QUOTATION Q with(nolock)
+            INNER JOIN EMPLOYEES E with(nolock) 
+            ON Q.IDEMP = E.IDEMP
+            INNER JOIN EMPLOYEES EM with(nolock) 
+            ON Q.idemppo	 = EM.IDEMP
+            INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+            INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+            INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+            INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+            where Q.IDEMP = '{2}' and dateimport between '{0}' and '{1}'
+            GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName,
+            QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason
+            ";
+                string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
+                sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
+                DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
+
+                gct_cskh_C.DataSource = dt;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
         
 
     

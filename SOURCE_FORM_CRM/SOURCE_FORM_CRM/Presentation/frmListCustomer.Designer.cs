@@ -28,8 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmListCustomer));
-            this.bar_menu_C = new DevExpress.XtraBars.BarManager();
+            this.bar_menu_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.bbi_idarea_I1 = new DevExpress.XtraBars.BarEditItem();
             this.res_idarea_I1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
@@ -61,7 +62,7 @@
             this.repositoryItemComboBox1 = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
             this.repositoryItemDateEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemDateEdit();
             this.repositoryItemComboBox2 = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
-            this.bar_campaign_C = new DevExpress.XtraBars.BarManager();
+            this.bar_campaign_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar3 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_campaign_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_campaign_S = new DevExpress.XtraBars.BarButtonItem();
@@ -70,7 +71,7 @@
             this.barDockControl14 = new DevExpress.XtraBars.BarDockControl();
             this.barDockControl15 = new DevExpress.XtraBars.BarDockControl();
             this.barDockControl16 = new DevExpress.XtraBars.BarDockControl();
-            this.bar_plan_C = new DevExpress.XtraBars.BarManager();
+            this.bar_plan_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar2 = new DevExpress.XtraBars.Bar();
             this.bbi_plan_allow_insert_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_plan_allow_delete_S = new DevExpress.XtraBars.BarButtonItem();
@@ -79,7 +80,7 @@
             this.barDockControl2 = new DevExpress.XtraBars.BarDockControl();
             this.barDockControl3 = new DevExpress.XtraBars.BarDockControl();
             this.barDockControl4 = new DevExpress.XtraBars.BarDockControl();
-            this.bar_contact_C = new DevExpress.XtraBars.BarManager();
+            this.bar_contact_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar4 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_contact_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_contact_S = new DevExpress.XtraBars.BarButtonItem();
@@ -91,7 +92,7 @@
             this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem3 = new DevExpress.XtraBars.BarButtonItem();
-            this.bar_cusnote_C = new DevExpress.XtraBars.BarManager();
+            this.bar_cusnote_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar5 = new DevExpress.XtraBars.Bar();
             this.bbi_note_allow_insert_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_note_allow_delete_S = new DevExpress.XtraBars.BarButtonItem();
@@ -103,7 +104,7 @@
             this.barButtonItem7 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem8 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem9 = new DevExpress.XtraBars.BarButtonItem();
-            this.bar_device_C = new DevExpress.XtraBars.BarManager();
+            this.bar_device_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar7 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_device_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_device_S = new DevExpress.XtraBars.BarButtonItem();
@@ -117,7 +118,7 @@
             this.barButtonItem4 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem5 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem6 = new DevExpress.XtraBars.BarButtonItem();
-            this.bar_voxe_C = new DevExpress.XtraBars.BarManager();
+            this.bar_voxe_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar10 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_voxe_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_voxe_S = new DevExpress.XtraBars.BarButtonItem();
@@ -274,7 +275,7 @@
             this.gv_survey_C = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.gridView13 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.bar_binhdien_C = new DevExpress.XtraBars.BarManager();
+            this.bar_binhdien_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar9 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_binhdien_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_binhdien_S = new DevExpress.XtraBars.BarButtonItem();
@@ -292,7 +293,7 @@
             this.barButtonItem11 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem12 = new DevExpress.XtraBars.BarButtonItem();
             this.barButtonItem16 = new DevExpress.XtraBars.BarButtonItem();
-            this.bar_Survey_C = new DevExpress.XtraBars.BarManager();
+            this.bar_Survey_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar6 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_survey_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_survey_S = new DevExpress.XtraBars.BarButtonItem();
@@ -2078,7 +2079,7 @@
             this.xtap_campaign_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_campaign_C.Name = "xtap_campaign_C";
             this.xtap_campaign_C.PageVisible = false;
-            this.xtap_campaign_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_campaign_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_campaign_C.Text = "Thông tin thiết bị";
             // 
             // gct_campaign_C
@@ -2092,7 +2093,7 @@
             this.gct_campaign_C.Name = "gct_campaign_C";
             this.gct_campaign_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit1});
-            this.gct_campaign_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_campaign_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_campaign_C.TabIndex = 11;
             this.gct_campaign_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_campaign_C,
@@ -2127,7 +2128,7 @@
             this.tap_contact_C.Controls.Add(this.gct_contact_C);
             this.tap_contact_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.tap_contact_C.Name = "tap_contact_C";
-            this.tap_contact_C.Size = new System.Drawing.Size(1116, 0);
+            this.tap_contact_C.Size = new System.Drawing.Size(1303, 128);
             this.tap_contact_C.Text = "Người liên hệ";
             // 
             // gct_contact_C
@@ -2140,7 +2141,7 @@
             this.gct_contact_C.Name = "gct_contact_C";
             this.gct_contact_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit6});
-            this.gct_contact_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_contact_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_contact_C.TabIndex = 13;
             this.gct_contact_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_contact_C,
@@ -2238,7 +2239,7 @@
             this.xtap_contactRent_C.Controls.Add(this.gct_contactRent_C);
             this.xtap_contactRent_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_contactRent_C.Name = "xtap_contactRent_C";
-            this.xtap_contactRent_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_contactRent_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_contactRent_C.Text = "Người liên hệ cho thuê thiết bị";
             // 
             // gct_contactRent_C
@@ -2252,7 +2253,7 @@
             this.gct_contactRent_C.Name = "gct_contactRent_C";
             this.gct_contactRent_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit5});
-            this.gct_contactRent_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_contactRent_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_contactRent_C.TabIndex = 14;
             this.gct_contactRent_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_contactrent_C,
@@ -2338,7 +2339,7 @@
             this.tap_plan_C.Controls.Add(this.gct_plan_C);
             this.tap_plan_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.tap_plan_C.Name = "tap_plan_C";
-            this.tap_plan_C.Size = new System.Drawing.Size(1116, 0);
+            this.tap_plan_C.Size = new System.Drawing.Size(1303, 128);
             this.tap_plan_C.Text = "Lịch sử CSKH";
             // 
             // gct_plan_C
@@ -2351,7 +2352,7 @@
             this.gct_plan_C.Name = "gct_plan_C";
             this.gct_plan_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit3});
-            this.gct_plan_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_plan_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_plan_C.TabIndex = 10;
             this.gct_plan_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_plan_C,
@@ -2461,7 +2462,7 @@
             this.xtap_deviceinfo_C.Controls.Add(this.gct_deviceinfo_C);
             this.xtap_deviceinfo_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_deviceinfo_C.Name = "xtap_deviceinfo_C";
-            this.xtap_deviceinfo_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_deviceinfo_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_deviceinfo_C.Text = "Thông tin thiết bị";
             // 
             // gct_deviceinfo_C
@@ -2472,7 +2473,7 @@
             this.gct_deviceinfo_C.MainView = this.gv_deviceinfo_C;
             this.gct_deviceinfo_C.Margin = new System.Windows.Forms.Padding(0);
             this.gct_deviceinfo_C.Name = "gct_deviceinfo_C";
-            this.gct_deviceinfo_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_deviceinfo_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_deviceinfo_C.TabIndex = 11;
             this.gct_deviceinfo_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_deviceinfo_C,
@@ -2504,7 +2505,7 @@
             this.xtap_voxe_C.Controls.Add(this.gct_voxe_C);
             this.xtap_voxe_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_voxe_C.Name = "xtap_voxe_C";
-            this.xtap_voxe_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_voxe_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_voxe_C.Text = "Vỏ xe";
             // 
             // gct_voxe_C
@@ -2515,7 +2516,7 @@
             this.gct_voxe_C.MainView = this.gv_voxe_C;
             this.gct_voxe_C.Margin = new System.Windows.Forms.Padding(0);
             this.gct_voxe_C.Name = "gct_voxe_C";
-            this.gct_voxe_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_voxe_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_voxe_C.TabIndex = 12;
             this.gct_voxe_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_voxe_C,
@@ -2545,7 +2546,7 @@
             this.xtap_binhdien_C.Controls.Add(this.gc_binhdien_C);
             this.xtap_binhdien_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_binhdien_C.Name = "xtap_binhdien_C";
-            this.xtap_binhdien_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_binhdien_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_binhdien_C.Text = "Bình điện";
             // 
             // gc_binhdien_C
@@ -2556,7 +2557,7 @@
             this.gc_binhdien_C.MainView = this.gv_binhdien_C;
             this.gc_binhdien_C.Margin = new System.Windows.Forms.Padding(0);
             this.gc_binhdien_C.Name = "gc_binhdien_C";
-            this.gc_binhdien_C.Size = new System.Drawing.Size(1116, 0);
+            this.gc_binhdien_C.Size = new System.Drawing.Size(1303, 128);
             this.gc_binhdien_C.TabIndex = 13;
             this.gc_binhdien_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_binhdien_C});
@@ -2582,7 +2583,7 @@
             this.tap_quotation_C.Controls.Add(this.gct_quotation_C);
             this.tap_quotation_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.tap_quotation_C.Name = "tap_quotation_C";
-            this.tap_quotation_C.Size = new System.Drawing.Size(1116, 0);
+            this.tap_quotation_C.Size = new System.Drawing.Size(1303, 128);
             this.tap_quotation_C.Text = "Báo cáo tổng hợp báo giá";
             // 
             // gct_quotation_C
@@ -2593,7 +2594,7 @@
             this.gct_quotation_C.MainView = this.gv_quotation_C;
             this.gct_quotation_C.Margin = new System.Windows.Forms.Padding(0);
             this.gct_quotation_C.Name = "gct_quotation_C";
-            this.gct_quotation_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_quotation_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_quotation_C.TabIndex = 10;
             this.gct_quotation_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_quotation_C,
@@ -2625,7 +2626,7 @@
             this.tap_history_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.tap_history_C.Name = "tap_history_C";
             this.tap_history_C.PageVisible = false;
-            this.tap_history_C.Size = new System.Drawing.Size(1116, 0);
+            this.tap_history_C.Size = new System.Drawing.Size(1303, 128);
             this.tap_history_C.Text = "Lịch sử giao dịch";
             // 
             // gridControl1
@@ -2636,7 +2637,7 @@
             this.gridControl1.MainView = this.gridView1;
             this.gridControl1.Margin = new System.Windows.Forms.Padding(0);
             this.gridControl1.Name = "gridControl1";
-            this.gridControl1.Size = new System.Drawing.Size(1116, 0);
+            this.gridControl1.Size = new System.Drawing.Size(1303, 128);
             this.gridControl1.TabIndex = 11;
             this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gridView1,
@@ -2665,7 +2666,7 @@
             this.tap_note_C.Controls.Add(this.gct_cusnote_C);
             this.tap_note_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.tap_note_C.Name = "tap_note_C";
-            this.tap_note_C.Size = new System.Drawing.Size(1116, 0);
+            this.tap_note_C.Size = new System.Drawing.Size(1303, 128);
             this.tap_note_C.Text = "Ghi chú";
             // 
             // gct_cusnote_C
@@ -2678,7 +2679,7 @@
             this.gct_cusnote_C.Name = "gct_cusnote_C";
             this.gct_cusnote_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit7});
-            this.gct_cusnote_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_cusnote_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_cusnote_C.TabIndex = 13;
             this.gct_cusnote_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_cusnote_C,
@@ -2742,7 +2743,7 @@
             this.xtap_cusdup_C.Controls.Add(this.gct_cusdup_C);
             this.xtap_cusdup_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_cusdup_C.Name = "xtap_cusdup_C";
-            this.xtap_cusdup_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_cusdup_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_cusdup_C.Text = "Khách hàng trùng";
             // 
             // gct_cusdup_C
@@ -2755,7 +2756,7 @@
             this.gct_cusdup_C.Name = "gct_cusdup_C";
             this.gct_cusdup_C.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
             this.repositoryItemCheckEdit4});
-            this.gct_cusdup_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_cusdup_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_cusdup_C.TabIndex = 14;
             this.gct_cusdup_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_cusdup_C});
@@ -2844,7 +2845,7 @@
             this.xtap_survey_C.Controls.Add(this.gct_survey_C);
             this.xtap_survey_C.Margin = new System.Windows.Forms.Padding(3, 5, 3, 5);
             this.xtap_survey_C.Name = "xtap_survey_C";
-            this.xtap_survey_C.Size = new System.Drawing.Size(1116, 0);
+            this.xtap_survey_C.Size = new System.Drawing.Size(1303, 128);
             this.xtap_survey_C.Text = "Khảo sát";
             // 
             // gct_survey_C
@@ -2855,7 +2856,7 @@
             this.gct_survey_C.MainView = this.gv_survey_C;
             this.gct_survey_C.Margin = new System.Windows.Forms.Padding(0);
             this.gct_survey_C.Name = "gct_survey_C";
-            this.gct_survey_C.Size = new System.Drawing.Size(1116, 0);
+            this.gct_survey_C.Size = new System.Drawing.Size(1303, 128);
             this.gct_survey_C.TabIndex = 12;
             this.gct_survey_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
             this.gv_survey_C,

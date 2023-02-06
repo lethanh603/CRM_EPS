@@ -56,6 +56,7 @@
             this.barStaticItem2 = new DevExpress.XtraBars.BarStaticItem();
             this.barStaticItem1 = new DevExpress.XtraBars.BarStaticItem();
             this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.btnPrint = new DevExpress.XtraEditors.SimpleButton();
             this.btn_search_S = new DevExpress.XtraEditors.SimpleButton();
             this.dte_todate_S = new DevExpress.XtraEditors.DateEdit();
             this.labelControl3 = new DevExpress.XtraEditors.LabelControl();
@@ -97,7 +98,6 @@
             this.gridColumn29 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn30 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.panelControl1 = new DevExpress.XtraEditors.PanelControl();
-            this.btnPrint = new DevExpress.XtraEditors.SimpleButton();
             ((System.ComponentModel.ISupportInitialize)(this.gct_list_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bgv_list_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
@@ -129,10 +129,12 @@
             // gct_list_C
             // 
             this.gct_list_C.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gct_list_C.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_list_C.Location = new System.Drawing.Point(2, 2);
             this.gct_list_C.MainView = this.bgv_list_C;
+            this.gct_list_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_list_C.Name = "gct_list_C";
-            this.gct_list_C.Size = new System.Drawing.Size(1179, 247);
+            this.gct_list_C.Size = new System.Drawing.Size(1377, 305);
             this.gct_list_C.TabIndex = 4;
             this.gct_list_C.UseEmbeddedNavigator = true;
             this.gct_list_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -423,17 +425,30 @@
             this.groupControl1.Controls.Add(this.dte_fromdate_S);
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Top;
             this.groupControl1.Location = new System.Drawing.Point(0, 0);
+            this.groupControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(1187, 69);
+            this.groupControl1.Size = new System.Drawing.Size(1385, 85);
             this.groupControl1.TabIndex = 5;
             this.groupControl1.Text = "Tìm kiếm";
+            // 
+            // btnPrint
+            // 
+            this.btnPrint.Image = ((System.Drawing.Image)(resources.GetObject("btnPrint.Image")));
+            this.btnPrint.Location = new System.Drawing.Point(638, 30);
+            this.btnPrint.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.btnPrint.Name = "btnPrint";
+            this.btnPrint.Size = new System.Drawing.Size(90, 43);
+            this.btnPrint.TabIndex = 29;
+            this.btnPrint.Text = "F6 Print";
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // btn_search_S
             // 
             this.btn_search_S.Image = ((System.Drawing.Image)(resources.GetObject("btn_search_S.Image")));
-            this.btn_search_S.Location = new System.Drawing.Point(464, 23);
+            this.btn_search_S.Location = new System.Drawing.Point(541, 28);
+            this.btn_search_S.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_search_S.Name = "btn_search_S";
-            this.btn_search_S.Size = new System.Drawing.Size(77, 35);
+            this.btn_search_S.Size = new System.Drawing.Size(90, 43);
             this.btn_search_S.TabIndex = 29;
             this.btn_search_S.Text = "F10 Tìm";
             this.btn_search_S.Click += new System.EventHandler(this.btn_search_S_Click);
@@ -441,7 +456,8 @@
             // dte_todate_S
             // 
             this.dte_todate_S.EditValue = null;
-            this.dte_todate_S.Location = new System.Drawing.Point(73, 45);
+            this.dte_todate_S.Location = new System.Drawing.Point(85, 55);
+            this.dte_todate_S.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dte_todate_S.Name = "dte_todate_S";
             this.dte_todate_S.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -453,35 +469,38 @@
             this.dte_todate_S.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dte_todate_S.Properties.Mask.EditMask = "dd/MM/yyyy";
             this.dte_todate_S.Properties.Mask.UseMaskAsDisplayFormat = true;
-            this.dte_todate_S.Size = new System.Drawing.Size(83, 20);
+            this.dte_todate_S.Size = new System.Drawing.Size(97, 22);
             this.dte_todate_S.TabIndex = 22;
             // 
             // labelControl3
             // 
-            this.labelControl3.Location = new System.Drawing.Point(8, 26);
+            this.labelControl3.Location = new System.Drawing.Point(9, 32);
+            this.labelControl3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(44, 13);
+            this.labelControl3.Size = new System.Drawing.Size(57, 17);
             this.labelControl3.TabIndex = 26;
             this.labelControl3.Text = "Từ ngày:";
             // 
             // labelControl12
             // 
             this.labelControl12.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl12.Location = new System.Drawing.Point(168, 48);
+            this.labelControl12.Location = new System.Drawing.Point(196, 59);
+            this.labelControl12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl12.Name = "labelControl12";
-            this.labelControl12.Size = new System.Drawing.Size(82, 13);
+            this.labelControl12.Size = new System.Drawing.Size(106, 17);
             this.labelControl12.TabIndex = 28;
             this.labelControl12.Text = "Tình trạng CSKH:";
             // 
             // glue_idstatus_I1
             // 
             this.glue_idstatus_I1.EditValue = "";
-            this.glue_idstatus_I1.Location = new System.Drawing.Point(272, 45);
+            this.glue_idstatus_I1.Location = new System.Drawing.Point(317, 55);
+            this.glue_idstatus_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idstatus_I1.Name = "glue_idstatus_I1";
             this.glue_idstatus_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.glue_idstatus_I1.Properties.View = this.gridView3;
-            this.glue_idstatus_I1.Size = new System.Drawing.Size(186, 20);
+            this.glue_idstatus_I1.Size = new System.Drawing.Size(217, 22);
             this.glue_idstatus_I1.TabIndex = 23;
             // 
             // gridView3
@@ -493,17 +512,19 @@
             // 
             // labelControl8
             // 
-            this.labelControl8.Location = new System.Drawing.Point(168, 25);
+            this.labelControl8.Location = new System.Drawing.Point(196, 31);
+            this.labelControl8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl8.Name = "labelControl8";
-            this.labelControl8.Size = new System.Drawing.Size(52, 13);
+            this.labelControl8.Size = new System.Drawing.Size(61, 16);
             this.labelControl8.TabIndex = 25;
             this.labelControl8.Text = "Nhân viên:";
             // 
             // labelControl2
             // 
-            this.labelControl2.Location = new System.Drawing.Point(8, 48);
+            this.labelControl2.Location = new System.Drawing.Point(9, 59);
+            this.labelControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(51, 13);
+            this.labelControl2.Size = new System.Drawing.Size(65, 17);
             this.labelControl2.TabIndex = 27;
             this.labelControl2.Text = "Đến ngày:";
             // 
@@ -511,12 +532,13 @@
             // 
             this.glue_IDEMP_I1.EditValue = "All";
             this.glue_IDEMP_I1.Enabled = false;
-            this.glue_IDEMP_I1.Location = new System.Drawing.Point(272, 20);
+            this.glue_IDEMP_I1.Location = new System.Drawing.Point(317, 25);
+            this.glue_IDEMP_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_IDEMP_I1.Name = "glue_IDEMP_I1";
             this.glue_IDEMP_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.glue_IDEMP_I1.Properties.View = this.gridView4;
-            this.glue_IDEMP_I1.Size = new System.Drawing.Size(186, 20);
+            this.glue_IDEMP_I1.Size = new System.Drawing.Size(217, 22);
             this.glue_IDEMP_I1.TabIndex = 24;
             // 
             // gridView4
@@ -529,7 +551,8 @@
             // dte_fromdate_S
             // 
             this.dte_fromdate_S.EditValue = null;
-            this.dte_fromdate_S.Location = new System.Drawing.Point(73, 24);
+            this.dte_fromdate_S.Location = new System.Drawing.Point(85, 30);
+            this.dte_fromdate_S.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dte_fromdate_S.Name = "dte_fromdate_S";
             this.dte_fromdate_S.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -541,7 +564,7 @@
             this.dte_fromdate_S.Properties.EditFormat.FormatType = DevExpress.Utils.FormatType.DateTime;
             this.dte_fromdate_S.Properties.Mask.EditMask = "dd/MM/yyyy";
             this.dte_fromdate_S.Properties.Mask.UseMaskAsDisplayFormat = true;
-            this.dte_fromdate_S.Size = new System.Drawing.Size(83, 20);
+            this.dte_fromdate_S.Size = new System.Drawing.Size(97, 22);
             this.dte_fromdate_S.TabIndex = 21;
             // 
             // groupControl2
@@ -549,9 +572,10 @@
             this.groupControl2.Controls.Add(this.panelControl2);
             this.groupControl2.Controls.Add(this.panelControl1);
             this.groupControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupControl2.Location = new System.Drawing.Point(0, 69);
+            this.groupControl2.Location = new System.Drawing.Point(0, 85);
+            this.groupControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(1187, 543);
+            this.groupControl2.Size = new System.Drawing.Size(1385, 668);
             this.groupControl2.TabIndex = 6;
             this.groupControl2.Text = "Tổng hợp";
             // 
@@ -559,18 +583,20 @@
             // 
             this.panelControl2.Controls.Add(this.xtraTabControl1);
             this.panelControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panelControl2.Location = new System.Drawing.Point(2, 272);
+            this.panelControl2.Location = new System.Drawing.Point(2, 333);
+            this.panelControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelControl2.Name = "panelControl2";
-            this.panelControl2.Size = new System.Drawing.Size(1183, 269);
+            this.panelControl2.Size = new System.Drawing.Size(1381, 333);
             this.panelControl2.TabIndex = 6;
             // 
             // xtraTabControl1
             // 
             this.xtraTabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.xtraTabControl1.Location = new System.Drawing.Point(2, 2);
+            this.xtraTabControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabControl1.Name = "xtraTabControl1";
             this.xtraTabControl1.SelectedTabPage = this.xtraTabPage1;
-            this.xtraTabControl1.Size = new System.Drawing.Size(1179, 265);
+            this.xtraTabControl1.Size = new System.Drawing.Size(1377, 329);
             this.xtraTabControl1.TabIndex = 5;
             this.xtraTabControl1.TabPages.AddRange(new DevExpress.XtraTab.XtraTabPage[] {
             this.xtraTabPage1,
@@ -579,17 +605,20 @@
             // xtraTabPage1
             // 
             this.xtraTabPage1.Controls.Add(this.gct_cskh_C);
+            this.xtraTabPage1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage1.Name = "xtraTabPage1";
-            this.xtraTabPage1.Size = new System.Drawing.Size(1173, 237);
+            this.xtraTabPage1.Size = new System.Drawing.Size(1371, 297);
             this.xtraTabPage1.Text = "Chi tiết Lịch sử CSKH";
             // 
             // gct_cskh_C
             // 
             this.gct_cskh_C.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gct_cskh_C.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_cskh_C.Location = new System.Drawing.Point(0, 0);
             this.gct_cskh_C.MainView = this.gv_cskh_C;
+            this.gct_cskh_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_cskh_C.Name = "gct_cskh_C";
-            this.gct_cskh_C.Size = new System.Drawing.Size(1173, 237);
+            this.gct_cskh_C.Size = new System.Drawing.Size(1371, 297);
             this.gct_cskh_C.TabIndex = 5;
             this.gct_cskh_C.UseEmbeddedNavigator = true;
             this.gct_cskh_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -700,17 +729,20 @@
             // xtraTabPage2
             // 
             this.xtraTabPage2.Controls.Add(this.gct_device_C);
+            this.xtraTabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(1173, 237);
+            this.xtraTabPage2.Size = new System.Drawing.Size(1369, 294);
             this.xtraTabPage2.Text = "Số lượng Thiết bị/ Phụ tùng nhập mới";
             // 
             // gct_device_C
             // 
             this.gct_device_C.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.gct_device_C.EmbeddedNavigator.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_device_C.Location = new System.Drawing.Point(0, 0);
             this.gct_device_C.MainView = this.gv_device_C;
+            this.gct_device_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_device_C.Name = "gct_device_C";
-            this.gct_device_C.Size = new System.Drawing.Size(1173, 237);
+            this.gct_device_C.Size = new System.Drawing.Size(1369, 294);
             this.gct_device_C.TabIndex = 5;
             this.gct_device_C.UseEmbeddedNavigator = true;
             this.gct_device_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
@@ -841,30 +873,22 @@
             // 
             this.panelControl1.Controls.Add(this.gct_list_C);
             this.panelControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panelControl1.Location = new System.Drawing.Point(2, 21);
+            this.panelControl1.Location = new System.Drawing.Point(2, 24);
+            this.panelControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.panelControl1.Name = "panelControl1";
-            this.panelControl1.Size = new System.Drawing.Size(1183, 251);
+            this.panelControl1.Size = new System.Drawing.Size(1381, 309);
             this.panelControl1.TabIndex = 5;
-            // 
-            // btnPrint
-            // 
-            this.btnPrint.Image = ((System.Drawing.Image)(resources.GetObject("btnPrint.Image")));
-            this.btnPrint.Location = new System.Drawing.Point(547, 24);
-            this.btnPrint.Name = "btnPrint";
-            this.btnPrint.Size = new System.Drawing.Size(77, 35);
-            this.btnPrint.TabIndex = 29;
-            this.btnPrint.Text = "F6 Print";
-            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
             // 
             // frm_REPORT_SH
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1187, 612);
+            this.ClientSize = new System.Drawing.Size(1385, 753);
             this.Controls.Add(this.groupControl2);
             this.Controls.Add(this.groupControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_REPORT_SH";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = ".:: REPORT ::.";

@@ -28,13 +28,14 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmListProblem));
             this.xtap_cus_C = new DevExpress.XtraTab.XtraTabControl();
             this.tap_contact_C = new DevExpress.XtraTab.XtraTabPage();
             this.gct_contact_C = new DevExpress.XtraGrid.GridControl();
             this.gv_contact_C = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.repositoryItemCheckEdit6 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
-            this.bar_menu_C = new DevExpress.XtraBars.BarManager();
+            this.bar_menu_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar1 = new DevExpress.XtraBars.Bar();
             this.barStaticItem2 = new DevExpress.XtraBars.BarStaticItem();
             this.bbi_fromdate_S = new DevExpress.XtraBars.BarEditItem();
@@ -80,7 +81,7 @@
             this.gct_listProlem_C = new DevExpress.XtraGrid.GridControl();
             this.gv_listProlem_C = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.repositoryItemCheckEdit2 = new DevExpress.XtraEditors.Repository.RepositoryItemCheckEdit();
-            this.bar_contact_C = new DevExpress.XtraBars.BarManager();
+            this.bar_contact_C = new DevExpress.XtraBars.BarManager(this.components);
             this.bar4 = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_contact_S = new DevExpress.XtraBars.BarButtonItem();
             this.bbi_allow_delete_contact_S = new DevExpress.XtraBars.BarButtonItem();
