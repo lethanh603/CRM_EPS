@@ -17,7 +17,7 @@ using DevExpress.XtraReports.UI;
 using DevExpress.XtraPrinting.Preview;
 using DevExpress.XtraPrinting.Control;
 using DevExpress.XtraGrid.Columns;
-using GemBox.Spreadsheet;
+//using GemBox.Spreadsheet;
 ////F1 thêm, F2 sửa, F3 Xóa, F4 Lưu & Thêm, F5 Lưu & thoát, F6 In, F7 Nhập, F8 Xuất F9 Thoát, F10 Tim,F11 lam mới
 
 namespace SOURCE_FORM_QUOTATION.Presentation

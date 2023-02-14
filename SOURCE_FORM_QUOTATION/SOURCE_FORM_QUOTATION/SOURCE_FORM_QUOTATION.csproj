@@ -696,10 +696,6 @@
       <Project>{B4880C04-EA31-452F-AAB1-4BBBBED04FEB}</Project>
       <Name>SOURCE_FORM_DMWAREHOUSE</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\SOURCE_FORM_CRM\SOURCE_FORM_CRM\SOURCE_FORM_CRM.csproj">
-      <Project>{A12B05CD-C36C-4484-9E19-59D54B4B11E2}</Project>
-      <Name>SOURCE_FORM_CRM</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\SOURCE_FORM_DMAREA\SOURCE_FORM_DMAREA\SOURCE_FORM_DMGROUP.csproj">
       <Project>{2F42EB4F-C6EE-457C-B6C0-197715CD6C8D}</Project>
       <Name>SOURCE_FORM_DMGROUP</Name>

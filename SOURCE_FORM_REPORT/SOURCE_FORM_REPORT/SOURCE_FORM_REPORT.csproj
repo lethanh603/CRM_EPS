@@ -6,7 +6,7 @@
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{B4880C04-EA31-452F-AAB1-4BBBBED04FEB}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SOURCE_FORM_REPORT</RootNamespace>
     <AssemblyName>SOURCE_FORM_REPORT</AssemblyName>
@@ -60,13 +60,11 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
-    <Reference Include="APCoreProcess.cs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>bin\Debug\APCoreProcess.cs.dll</HintPath>
+    <Reference Include="APCoreProcess.cs">
+      <HintPath>E:\EPS\RunCE\APCoreProcess.cs.dll</HintPath>
     </Reference>
-    <Reference Include="ControlDev, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\ControlDev.dll</HintPath>
+    <Reference Include="ControlDev">
+      <HintPath>E:\EPS\RunCE\ControlDev.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -169,6 +167,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\RunCE\ReportControls.dll</HintPath>
     </Reference>
+    <Reference Include="SOURCE_FORM_CRM">
+      <HintPath>E:\EPS\RunCE\SOURCE_FORM_CRM.dll</HintPath>
+    </Reference>
     <Reference Include="SOURCE_FORM_DMAREA, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\Run\SOURCE_FORM_DMAREA.dll</HintPath>
@@ -210,6 +211,9 @@
     </Reference>
     <Reference Include="SOURCE_FORM_DMWAREHOUSE">
       <HintPath>..\..\Run\SOURCE_FORM_DMWAREHOUSE.dll</HintPath>
+    </Reference>
+    <Reference Include="SOURCE_FORM_QUOTATION_EPS">
+      <HintPath>E:\EPS\RunCE\SOURCE_FORM_QUOTATION_EPS.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_TRACE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
