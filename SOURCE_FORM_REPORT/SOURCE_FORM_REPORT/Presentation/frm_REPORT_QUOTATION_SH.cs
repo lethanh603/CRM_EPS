@@ -117,6 +117,15 @@ namespace SOURCE_FORM_REPORT.Presentation
                 sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                 //MessageBox.Show(sql);
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
+                if (rg_auth_S.EditValue.ToString() == "1")
+                {
+                    gv_cskh_C.Columns["amount"].Visible = false;
+                }
+                else 
+                {
+                    gv_cskh_C.Columns["amount"].Visible = true;
+
+                }
                 //loadCSKH("", "");
                 //loadDevice("");
             }
@@ -420,11 +429,20 @@ namespace SOURCE_FORM_REPORT.Presentation
 
         private void gct_cskh_C_DoubleClick(object sender, EventArgs e)
         {
-            frmCSKH_DETAIL frm = new frmCSKH_DETAIL();
-            frm.fromDate = Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd");
-            frm.toDate = Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd");
-            frm.idCustomer = gv_cskh_C.GetRowCellValue(gv_cskh_C.FocusedRowHandle, "idcustomer").ToString();
-            frm.ShowDialog();
+            if (rg_auth_S.EditValue.ToString() == "1")
+            {
+                gv_cskh_C.Columns["amount"].Visible = false;
+            }
+            else
+            {
+                frmCSKH_DETAIL frm = new frmCSKH_DETAIL();
+                frm.fromDate = Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd");
+                frm.toDate = Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd");
+                frm.idCustomer = gv_cskh_C.GetRowCellValue(gv_cskh_C.FocusedRowHandle, "idcustomer").ToString();
+                frm.ShowDialog();
+
+            }
+            
         }
 
         private void gv_device_C_DoubleClick(object sender, EventArgs e)
@@ -502,21 +520,21 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 string sql = @"
                 select 
-            Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-            QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
-            Q.nguoi_can_thiep, Q.reason
-            from QUOTATION Q with(nolock)
-            INNER JOIN EMPLOYEES E with(nolock) 
-            ON Q.IDEMP = E.IDEMP
-            INNER JOIN EMPLOYEES EM with(nolock) 
-            ON Q.idemppo	 = EM.IDEMP
-            INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
-            INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
-            INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
-            INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
-            where Q.IDEMP = '{2}' and dateimport between '{0}' and '{1}'
-            GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName,
-            QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason
+                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+                QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                Q.nguoi_can_thiep, Q.reason
+                from QUOTATION Q with(nolock)
+                INNER JOIN EMPLOYEES E with(nolock) 
+                ON Q.IDEMP = E.IDEMP
+                INNER JOIN EMPLOYEES EM with(nolock) 
+                ON Q.idemppo	 = EM.IDEMP
+                INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+                where Q.IDEMP = '{2}' and dateimport between '{0}' and '{1}'
+                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName,
+                QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason
             ";
                 string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
                 sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
