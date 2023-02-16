@@ -429,20 +429,24 @@ namespace SOURCE_FORM_REPORT.Presentation
 
         private void gct_cskh_C_DoubleClick(object sender, EventArgs e)
         {
-            if (rg_auth_S.EditValue.ToString() == "1")
+            try
             {
-                gv_cskh_C.Columns["amount"].Visible = false;
-            }
-            else
-            {
-                frmCSKH_DETAIL frm = new frmCSKH_DETAIL();
-                frm.fromDate = Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd");
-                frm.toDate = Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd");
-                frm.idCustomer = gv_cskh_C.GetRowCellValue(gv_cskh_C.FocusedRowHandle, "idcustomer").ToString();
-                frm.ShowDialog();
+                if (rg_auth_S.EditValue.ToString() == "1")
+                {
 
+                }
+                else
+                {
+                    SOURCE_FORM_QUOTATION_EPS.Presentation.frm_QUOTATION_S2 frm = new SOURCE_FORM_QUOTATION_EPS.Presentation.frm_QUOTATION_S2();
+                    frm.txt_idexport_IK1.Text = gv_cskh_C.GetRowCellValue(gv_cskh_C.FocusedRowHandle,"idexport").ToString();
+                    frm.calForm = true;
+                    frm.idPoOriginal = "";
+                    frm.isload = false;
+                    //frm.allow_edit = false;                   
+                    frm.ShowDialog();
+                }
             }
-            
+            catch{}
         }
 
         private void gv_device_C_DoubleClick(object sender, EventArgs e)
@@ -460,10 +464,7 @@ namespace SOURCE_FORM_REPORT.Presentation
         {
             try
             {
-                string idEmp = bgv_list_C.GetRowCellValue(bgv_list_C.FocusedRowHandle, "idemp").ToString();
-                string idStatus = glue_iddepartment_I1.EditValue.ToString();
-                loadDevice(idEmp);
-                loadCSKH(idEmp, idStatus);
+                
             }
             catch (Exception ex) { }
         }
@@ -482,29 +483,34 @@ namespace SOURCE_FORM_REPORT.Presentation
 
         private void gridView_CustomDrawRowIndicator(object sender, DevExpress.XtraGrid.Views.Grid.RowIndicatorCustomDrawEventArgs e)
         {
-            bool indicatorIcon = false;
-            DevExpress.XtraGrid.Views.Grid.GridView view = (DevExpress.XtraGrid.Views.Grid.GridView)sender;
-            if (e.Info.IsRowIndicator && e.RowHandle >= 0)
-            {
-                e.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-                e.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
-                e.Appearance.DrawString(e.Cache, e.RowHandle.ToString(), e.Bounds);
-                e.Info.DisplayText = Convert.ToString(int.Parse(e.RowHandle.ToString()) + 1);
 
-                if (!indicatorIcon)
-                    e.Info.ImageIndex = -1;
-            }
-            if (e.RowHandle == DevExpress.XtraGrid.GridControl.InvalidRowHandle)
+            try
             {
-                e.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
-                e.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
-                e.Appearance.DrawString(e.Cache, e.RowHandle.ToString(), e.Bounds);
-                e.Info.DisplayText = Function.clsFunction.transLateText("STT");
-            }
+                bool indicatorIcon = false;
+                DevExpress.XtraGrid.Views.Grid.GridView view = (DevExpress.XtraGrid.Views.Grid.GridView)sender;
+                if (e.Info.IsRowIndicator && e.RowHandle >= 0)
+                {
+                    e.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+                    e.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
+                    e.Appearance.DrawString(e.Cache, e.RowHandle.ToString(), e.Bounds);
+                    e.Info.DisplayText = Convert.ToString(int.Parse(e.RowHandle.ToString()) + 1);
 
-            e.Painter.DrawObject(e.Info);
-            clsG.DrawCellBorder(e.RowHandle, e.Bounds, e.Graphics);
-            e.Handled = true;
+                    if (!indicatorIcon)
+                        e.Info.ImageIndex = -1;
+                }
+                if (e.RowHandle == DevExpress.XtraGrid.GridControl.InvalidRowHandle)
+                {
+                    e.Appearance.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+                    e.Appearance.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
+                    e.Appearance.DrawString(e.Cache, e.RowHandle.ToString(), e.Bounds);
+                    e.Info.DisplayText = Function.clsFunction.transLateText("STT");
+                }
+
+                e.Painter.DrawObject(e.Info);
+                clsG.DrawCellBorder(e.RowHandle, e.Bounds, e.Graphics);
+                e.Handled = true;
+            }
+            catch(Exception ex){}
         }
           
         #endregion
@@ -519,25 +525,26 @@ namespace SOURCE_FORM_REPORT.Presentation
             try
             {
                 string sql = @"
-                select 
-                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-                QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                select Q.idexport,
+                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, case when (E.iddepartment='BP000002' or EM.iddepartment='BP000002' ) then 'Marketing' else 'Sale' end nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+                QT.quotationtype, QS.statusquotation, case when (quotation_term_date is null or quotation_term_date< GETDATE()) then -1 else datediff(d,quotation_term_date, getdate()) end quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
                 Q.nguoi_can_thiep, Q.reason
                 from QUOTATION Q with(nolock)
-                INNER JOIN EMPLOYEES E with(nolock) 
+                LEFT JOIN EMPLOYEES E with(nolock) 
                 ON Q.IDEMP = E.IDEMP
-                INNER JOIN EMPLOYEES EM with(nolock) 
+                LEFT JOIN EMPLOYEES EM with(nolock) 
                 ON Q.idemppo	 = EM.IDEMP
                 INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
                 INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
                 INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
                 INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
-                where Q.IDEMP = '{2}' and dateimport between '{0}' and '{1}'
-                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, nguon_bg, dateimport, datepo,  E.StaffName,
-                QT.quotationtype, QS.statusquotation, Q.thoigiantt, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason
+                where Q.IDEMP = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' expresion_join
+                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, case when (E.iddepartment='BP000002' or EM.iddepartment='BP000002' ) then 'Marketing' else 'Sale' end, dateimport, datepo,  E.StaffName,
+                QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
             ";
                 string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
                 sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMP = EM.IDEMP");
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
 
                 gct_cskh_C.DataSource = dt;
@@ -546,6 +553,11 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 MessageBox.Show(ex.Message);
             }
+        }
+
+        private void labelControl3_Click(object sender, EventArgs e)
+        {
+
         }
         
 

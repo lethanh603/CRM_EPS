@@ -6,7 +6,7 @@
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{B4880C04-EA31-452F-AAB1-4BBBBED04FEB}</ProjectGuid>
-    <OutputType>WinExe</OutputType>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SOURCE_FORM_REPORT</RootNamespace>
     <AssemblyName>SOURCE_FORM_REPORT</AssemblyName>
@@ -75,10 +75,10 @@
     </Reference>
     <Reference Include="DevExpress.Data.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
     <Reference Include="DevExpress.DXCore.Controls.Data.v6.3">
-      <HintPath>..\..\SOURCE_FORM\SOURCE_FORM\bin\Debug\DevExpress.DXCore.Controls.Data.v6.3.dll</HintPath>
+      <HintPath>..\..\..\RunCE\DevExpress.DXCore.Controls.Data.v6.3.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.DXCore.Controls.Utils.v6.3">
-      <HintPath>..\..\SOURCE_FORM\SOURCE_FORM\bin\Debug\DevExpress.DXCore.Controls.Utils.v6.3.dll</HintPath>
+      <HintPath>..\..\..\RunCE\DevExpress.DXCore.Controls.Utils.v6.3.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.Office.v13.1.Core, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>True</Private>
@@ -213,7 +213,7 @@
       <HintPath>..\..\Run\SOURCE_FORM_DMWAREHOUSE.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_QUOTATION_EPS">
-      <HintPath>E:\EPS\RunCE\SOURCE_FORM_QUOTATION_EPS.dll</HintPath>
+      <HintPath>..\..\..\RunCE\SOURCE_FORM_QUOTATION_EPS.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_TRACE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -391,6 +391,12 @@
       <Isolated>False</Isolated>
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Data\Data\Data.csproj">
+      <Project>{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
