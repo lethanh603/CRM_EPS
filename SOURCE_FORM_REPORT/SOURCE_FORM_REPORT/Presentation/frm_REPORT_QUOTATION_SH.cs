@@ -526,7 +526,8 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 string sql = @"
                 select Q.idexport,
-                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, case when (E.iddepartment='BP000002' or EM.iddepartment='BP000002' ) then 'Marketing' else 'Sale' end nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
                 QT.quotationtype, QS.statusquotation, case when (quotation_term_date is null or quotation_term_date< GETDATE()) then -1 else datediff(d,quotation_term_date, getdate()) end quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
                 Q.nguoi_can_thiep, Q.reason
                 from QUOTATION Q with(nolock)
@@ -538,8 +539,10 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
                 INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
                 INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+                LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
                 where Q.IDEMP = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' expresion_join
-                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, case when (E.iddepartment='BP000002' or EM.iddepartment='BP000002' ) then 'Marketing' else 'Sale' end, dateimport, datepo,  E.StaffName,
+                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
             ";
                 string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();

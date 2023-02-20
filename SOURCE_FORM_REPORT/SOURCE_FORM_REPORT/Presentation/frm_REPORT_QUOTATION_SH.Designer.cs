@@ -797,7 +797,7 @@
             // gridColumn20
             // 
             this.gridColumn20.Caption = "Người tạo (10)";
-            this.gridColumn20.FieldName = "created_staffname";
+            this.gridColumn20.FieldName = "creadted_StaffName";
             this.gridColumn20.Name = "gridColumn20";
             this.gridColumn20.Visible = true;
             this.gridColumn20.VisibleIndex = 8;
