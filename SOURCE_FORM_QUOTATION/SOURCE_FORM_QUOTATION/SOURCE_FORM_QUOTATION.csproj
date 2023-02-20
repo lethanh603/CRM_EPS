@@ -196,7 +196,7 @@
     </Reference>
     <Reference Include="Function, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\EPS\RunCE\Function.dll</HintPath>
+      <HintPath>..\..\..\RunCE\Function.dll</HintPath>
     </Reference>
     <Reference Include="GemBox.Spreadsheet, Version=43.0.35.1036, Culture=neutral, PublicKeyToken=b1b72c69714d4847, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>

@@ -12,6 +12,7 @@ namespace Data
     public class APCoreData
     {
         public static string chuoiKetNoi = @"Data Source=THANHLM\SQLEXPRESS2016;Initial Catalog=system_2020;Persist Security Info=True;User ID=sa;Password=SA@123456";
+        //public static string chuoiKetNoi = @"Data Source=DESKTOP-LFNQR60;Initial Catalog=system_2020;Persist Security Info=True;User ID=sa;Password=123456";
         //public static string chuoiKetNoi = @"Data Source=103.28.38.251;Initial Catalog=LOAN_MANAGER;Persist Security Info=True;User ID=sa;Password=%*xpof0!7QQ6D^TL";
         public static DataTable read(string sql)
         {

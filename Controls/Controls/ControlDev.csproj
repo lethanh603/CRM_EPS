@@ -77,7 +77,7 @@
     <Reference Include="DevExpress.XtraVerticalGrid.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
     <Reference Include="Function, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>E:\EPS\RunCE\Function.dll</HintPath>
+      <HintPath>..\..\..\RunCE\Function.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core">
@@ -148,10 +148,6 @@
     <ProjectReference Include="..\..\APCoreProcess.cs\APCoreProcess.cs\APCoreProcess.csproj">
       <Project>{BFCD11FB-6032-4582-A4D5-679A61757134}</Project>
       <Name>APCoreProcess</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\Data\Data\Data.csproj">
-      <Project>{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}</Project>
-      <Name>Data</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
