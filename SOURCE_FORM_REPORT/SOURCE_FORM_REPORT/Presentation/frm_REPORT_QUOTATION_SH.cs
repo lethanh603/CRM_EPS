@@ -103,8 +103,10 @@ namespace SOURCE_FORM_REPORT.Presentation
                 sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                 FROM QUOTATION QS with(nolock)
-                INNER JOIN EMPLOYEES E with(nolock) ON  expresion_join
-                WHERE QS.dateimport between 'from_date' and 'to_date' {0}
+                LEFT JOIN EMPLOYEES E with(nolock) ON  QS.idemp = E.IDEMP
+				LEFT JOIN EMPLOYEES EM with(nolock) ON QS.idemppo =EM.IDEMP 
+                WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                AND expresion_join
                 GROUP BY E.IDEMP, E.StaffName
                 --select * from DMSTATUSQUOTATION
                 ";
@@ -114,7 +116,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                 
                 sql = string.Format(sql, expEmp);
                 sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = EM.IDEMP");
                 //MessageBox.Show(sql);
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
                 if (rg_auth_S.EditValue.ToString() == "1")
@@ -526,7 +528,7 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 string sql = @"
                 select Q.idexport,
-                Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
                 QT.quotationtype, QS.statusquotation, case when (quotation_term_date is null or quotation_term_date< GETDATE()) then -1 else datediff(d,quotation_term_date, getdate()) end quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
                 Q.nguoi_can_thiep, Q.reason
@@ -541,13 +543,13 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
                 LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
                 where Q.IDEMP = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' expresion_join
-                GROUP BY Q.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
             ";
                 string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
                 sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMP = EM.IDEMP");
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMPPO = EM.IDEMP");
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
 
                 gct_cskh_C.DataSource = dt;

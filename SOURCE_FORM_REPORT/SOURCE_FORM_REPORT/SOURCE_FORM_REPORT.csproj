@@ -6,7 +6,7 @@
     <ProductVersion>9.0.30729</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{B4880C04-EA31-452F-AAB1-4BBBBED04FEB}</ProjectGuid>
-    <OutputType>Library</OutputType>
+    <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>SOURCE_FORM_REPORT</RootNamespace>
     <AssemblyName>SOURCE_FORM_REPORT</AssemblyName>
