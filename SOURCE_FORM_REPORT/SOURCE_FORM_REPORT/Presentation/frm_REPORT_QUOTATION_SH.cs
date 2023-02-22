@@ -108,7 +108,6 @@ namespace SOURCE_FORM_REPORT.Presentation
                 WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
                 AND expresion_join
                 GROUP BY E.IDEMP, E.StaffName
-                --select * from DMSTATUSQUOTATION
                 ";
 
                 string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
@@ -117,6 +116,23 @@ namespace SOURCE_FORM_REPORT.Presentation
                 sql = string.Format(sql, expEmp);
                 sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
                 sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = EM.IDEMP");
+                if (rad_type_S.EditValue.ToString() == "qty") 
+                {
+
+                }
+                else if (rad_type_S.EditValue.ToString() == "row")
+                {
+                    sql = "with temp as (" + sql + ") ";
+                    sql += @"select IDEMP, StaffName, 100 count_all, convert(float,count_nc_ch)*100/ count_all count_nc_ch
+				        , convert(float, count_nc_tn)*100/convert(float, count_all) count_nc_tn, convert(float, count_nc_ktn)*100/count_all count_nc_ktn
+				        , convert(float,count_hg)*100/count_all count_hg, convert(float,count_bg)*100/count_all count_bg, convert(float,count_tl)*100/ count_all count_tl,
+				        convert(float,count_tc)*100/count_all count_tc, convert(float,count_tb)*100/count_all count_tb
+				        from temp
+                        ";
+                }
+                else
+                {
+                }
                 //MessageBox.Show(sql);
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
                 if (rg_auth_S.EditValue.ToString() == "1")
@@ -561,6 +577,11 @@ namespace SOURCE_FORM_REPORT.Presentation
         }
 
         private void labelControl3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void rg_auth_S_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
