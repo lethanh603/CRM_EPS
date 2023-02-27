@@ -104,7 +104,7 @@ namespace SOURCE_FORM_REPORT.Presentation
 
                 FROM QUOTATION QS with(nolock)
                 LEFT JOIN EMPLOYEES E with(nolock) ON  QS.idemp = E.IDEMP
-				LEFT JOIN EMPLOYEES EM with(nolock) ON QS.idemppo =EM.IDEMP 
+				
                 WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
                 AND expresion_join
                 GROUP BY E.IDEMP, E.StaffName
@@ -115,23 +115,99 @@ namespace SOURCE_FORM_REPORT.Presentation
                 
                 sql = string.Format(sql, expEmp);
                 sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = EM.IDEMP");
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                 if (rad_type_S.EditValue.ToString() == "qty") 
                 {
-
+                    //bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+                    bgv_list_C.Columns["count_all"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_nc_tn"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_nc_ktn"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_hg"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_bg"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_tl"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_tc"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.Columns["count_tb"].DisplayFormat.FormatString = "N0";
+                    bgv_list_C.OptionsView.ShowFooter = true;
+                    bgv_list_C.Columns["count_all"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_nc_ch"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_nc_tn"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_nc_ktn"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_hg"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_bg"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_tl"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_tc"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_tb"].SummaryItem.DisplayFormat = "{0:N0}";
+                    bgv_list_C.Columns["count_tb"].SummaryItem.DisplayFormat = "{0:N0}";
                 }
                 else if (rad_type_S.EditValue.ToString() == "row")
                 {
-                    sql = "with temp as (" + sql + ") ";
-                    sql += @"select IDEMP, StaffName, 100 count_all, convert(float,count_nc_ch)*100/ count_all count_nc_ch
-				        , convert(float, count_nc_tn)*100/convert(float, count_all) count_nc_tn, convert(float, count_nc_ktn)*100/count_all count_nc_ktn
-				        , convert(float,count_hg)*100/count_all count_hg, convert(float,count_bg)*100/count_all count_bg, convert(float,count_tl)*100/ count_all count_tl,
-				        convert(float,count_tc)*100/count_all count_tc, convert(float,count_tb)*100/count_all count_tb
+                    
+                    // change format column
+                    //bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
+                    bgv_list_C.Columns["count_all"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_tn"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_ktn"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_hg"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_bg"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tl"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tc"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tb"].DisplayFormat.FormatString = "P2";
+                    
+
+                        bgv_list_C.OptionsView.ShowFooter = false;
+                        sql = "with temp as (" + sql + ") ";
+                        sql += @"select IDEMP, StaffName, 1 count_all, convert(float,count_nc_ch)/ count_all count_nc_ch
+				        , convert(float, count_nc_tn)/convert(float, count_all) count_nc_tn, convert(float, count_nc_ktn)/count_all count_nc_ktn
+				        , convert(float,count_hg)/count_all count_hg, convert(float,count_bg)/count_all count_bg, convert(float,count_tl)/ count_all count_tl,
+				        convert(float,count_tc)/count_all count_tc, convert(float,count_tb)/count_all count_tb
 				        from temp
                         ";
-                }
+                    }
+                
                 else
                 {
+                     bgv_list_C.Columns["count_all"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_tn"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_nc_ktn"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_hg"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_bg"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tl"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tc"].DisplayFormat.FormatString = "P2";
+                    bgv_list_C.Columns["count_tb"].DisplayFormat.FormatString = "P2";
+
+                    bgv_list_C.Columns["count_all"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_nc_ch"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_nc_tn"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_nc_ktn"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_hg"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_bg"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_tl"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_tc"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_tb"].SummaryItem.DisplayFormat = "{0:P}";
+                    bgv_list_C.Columns["count_tb"].SummaryItem.DisplayFormat = "{0:P}";
+                    
+
+                        bgv_list_C.OptionsView.ShowFooter = true;
+                        sql = "with temp as (" + sql + ") ";
+                        sql += @"select IDEMP, StaffName,  
+				case when (select sum(count_all) from temp)>0 then  convert(float,  count_all)/ convert(float,(select sum(count_all) from temp)) else 0 end count_all,
+				case when (select sum(count_nc_ch) from temp)>0 then  convert(float, count_nc_ch)/(select sum(count_nc_ch) from temp) else 0 end count_nc_ch,
+				case when (select sum(count_nc_tn) from temp)>0 then convert(float, count_nc_tn)/(select sum(count_nc_tn) from temp) else 0 end count_nc_tn,
+				case when (select sum(count_nc_ktn) from temp)>0 then convert(float, count_nc_ktn)/(select sum(count_nc_ktn) from temp) else 0 end count_nc_ktn,
+				case when (select sum(count_hg) from temp) >0 then convert(float, count_hg)/(select sum(count_hg) from temp) else 0 end count_hg,
+				case when (select sum(count_bg) from temp) >0 then  convert(float, count_bg)/(select sum(count_bg) from temp)  else 0 end count_bg,
+				case when (select sum(count_tl) from temp)>0 then convert(float, count_tl)/(select sum(count_tl) from temp) else 0 end count_tl,
+				case when (select sum(count_tc) from temp) >0 then convert(float, count_tc)/(select sum(count_tc) from temp) else 0 end count_tc,
+				case when (select sum(count_tb) from temp) >0 then convert(float, count_tb)/(select sum(count_tb) from temp) else 0 end count_tb
+
+
+				from temp
+                        ";
+                    
+
                 }
                 //MessageBox.Show(sql);
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
@@ -546,7 +622,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                 select Q.idexport,
                 EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-                QT.quotationtype, QS.statusquotation, case when (quotation_term_date is null or quotation_term_date< GETDATE()) then -1 else datediff(d,quotation_term_date, getdate()) end quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
                 Q.nguoi_can_thiep, Q.reason
                 from QUOTATION Q with(nolock)
                 LEFT JOIN EMPLOYEES E with(nolock) 
@@ -565,7 +641,7 @@ namespace SOURCE_FORM_REPORT.Presentation
             ";
                 string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
                 sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMPPO = EM.IDEMP");
+                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMPPO = E.IDEMP");
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
 
                 gct_cskh_C.DataSource = dt;
