@@ -490,7 +490,7 @@
             // btn_search_S
             // 
             this.btn_search_S.Image = ((System.Drawing.Image)(resources.GetObject("btn_search_S.Image")));
-            this.btn_search_S.Location = new System.Drawing.Point(1185, 28);
+            this.btn_search_S.Location = new System.Drawing.Point(1185, 30);
             this.btn_search_S.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_search_S.Name = "btn_search_S";
             this.btn_search_S.Size = new System.Drawing.Size(90, 43);
