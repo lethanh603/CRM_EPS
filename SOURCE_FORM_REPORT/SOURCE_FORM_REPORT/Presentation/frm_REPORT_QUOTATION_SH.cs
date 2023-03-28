@@ -663,6 +663,10 @@ namespace SOURCE_FORM_REPORT.Presentation
         {
             try
             {
+                if (bgv_list_C.FocusedRowHandle < 0)
+                {
+                    return;
+                }
                 string sql = "";
                 if (rad_option_S.EditValue.ToString() == "emp")
                 {

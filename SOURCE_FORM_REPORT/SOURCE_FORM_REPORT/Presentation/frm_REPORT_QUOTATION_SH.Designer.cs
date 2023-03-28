@@ -522,9 +522,9 @@
             this.labelControl3.Location = new System.Drawing.Point(9, 32);
             this.labelControl3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(65, 17);
+            this.labelControl3.Size = new System.Drawing.Size(57, 17);
             this.labelControl3.TabIndex = 26;
-            this.labelControl3.Text = "Từ ngày:1";
+            this.labelControl3.Text = "Từ ngày:";
             this.labelControl3.Click += new System.EventHandler(this.labelControl3_Click);
             // 
             // glue_iddepartment_I1
@@ -576,7 +576,6 @@
             // glue_IDEMP_I1
             // 
             this.glue_IDEMP_I1.EditValue = "All";
-            this.glue_IDEMP_I1.Enabled = false;
             this.glue_IDEMP_I1.Location = new System.Drawing.Point(483, 55);
             this.glue_IDEMP_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_IDEMP_I1.Name = "glue_IDEMP_I1";
