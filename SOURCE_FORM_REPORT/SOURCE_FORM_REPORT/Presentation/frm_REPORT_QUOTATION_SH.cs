@@ -90,8 +90,43 @@ namespace SOURCE_FORM_REPORT.Presentation
             try
             {
                 string sql = "";
-                sql = @"
-                SELECT E.IDEMP, E.StaffName,
+                if (rad_option_S.EditValue.ToString()=="emp")
+                {
+                    sql = @"
+                    SELECT E.IDEMP, E.StaffName,
+                    count(QS.quotationno) count_all,
+                    sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
+                    sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
+                    sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
+                    sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
+                    sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
+                    sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
+                    sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
+
+                    FROM QUOTATION QS with(nolock)
+                    LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
+				
+                    WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                    AND E.idstore like '{1}'
+				    AND isnull(E.idgroup,'') like '{2}'
+                    and E.iddepartment like '{3}'
+                    GROUP BY E.IDEMP, E.StaffName
+                    ";
+
+                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+
+
+                    sql = string.Format(sql, expEmp, "%" + glue_idstore_Ik1.EditValue.ToString() + "%", "%" + glue_idteam_IK1.EditValue.ToString() + "%", "%" + glue_iddepartment_I1.EditValue.ToString() + "%");
+                    sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
+                    sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
+                    bgv_list_C.Columns["IDEMP"].Caption = "Mã NV";
+                    bgv_list_C.Columns["StaffName"].Caption = "Tên Nhân Viên";
+                }
+                else if (rad_option_S.EditValue.ToString() == "cus")
+                {
+                    sql = @"
+                SELECT C.idcustomer IDEMP, C.customer StaffName,
                 count(QS.quotationno) count_all,
                 sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
                 sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
@@ -103,19 +138,29 @@ namespace SOURCE_FORM_REPORT.Presentation
                 sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                 FROM QUOTATION QS with(nolock)
-                LEFT JOIN EMPLOYEES E with(nolock) ON  QS.idemp = E.IDEMP
-				
+                LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
+				LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = QS.idcustomer
                 WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
-                AND expresion_join
-                GROUP BY E.IDEMP, E.StaffName
+                --AND expresion_join
+                AND E.idstore like '{1}'
+				    AND isnull(E.idgroup,'') like '{2}'
+ and E.iddepartment like '{3}'
+                GROUP BY C.idcustomer , C.customer
                 ";
 
-                string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
 
-                
-                sql = string.Format(sql, expEmp);
-                sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
+                    sql = string.Format(sql, expEmp, "%" + glue_idstore_Ik1.EditValue.ToString() + "%", "%" + glue_idteam_IK1.EditValue.ToString() + "%", "%" + glue_iddepartment_I1.EditValue.ToString() + "%");
+                    sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
+                    sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
+                    bgv_list_C.Columns["IDEMP"].Caption = "Mã KH";
+                    bgv_list_C.Columns["StaffName"].Caption = "Tên Khách Hàng";
+                }
+                else
+                {
+                }
+
+
                 if (rad_type_S.EditValue.ToString() == "qty") 
                 {
                     //bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
@@ -474,8 +519,8 @@ namespace SOURCE_FORM_REPORT.Presentation
             {
                 string[] caption = new string[] { "Mã CN", "Chi nhánh" };
                 string[] fieldname = new string[] { "idstore", "store" };
-                ControlDev.FormatControls.LoadGridLookupEdit(glue_idstore_Ik1, "select '' idstatus, 'All' statusname union select  idstatus, statusname from DMSTATUS with(nolock) where status =1", "store", "idstore", caption, fieldname, this.Name, glue_idstore_Ik1.Width);
-                glue_idstore_Ik1.EditValue = "CH000002";
+                ControlDev.FormatControls.LoadGridLookupEdit(glue_idstore_Ik1, "select '' idstore, 'All' store union select idstore,store from dmstore with(nolock) where status=1", "store", "idstore", caption, fieldname, this.Name, glue_idstore_Ik1.Width);
+                glue_idstore_Ik1.EditValue = "";
 
             }
             catch { }
@@ -486,9 +531,9 @@ namespace SOURCE_FORM_REPORT.Presentation
             try
             {
                 string[] caption = new string[] { "Mã", "Đội nhóm" };
-                string[] fieldname = new string[] { "idteam", "teamname" };
-                ControlDev.FormatControls.LoadGridLookupEdit(glue_idteam_IK1, "select '' idteam, 'All' teamname union select  idteam, teamname from DMSTEAM with(nolock) where status =1", "teamname", "idteam", caption, fieldname, this.Name, glue_idteam_IK1.Width);
-                glue_idteam_IK1.EditValue = "EMP000008";
+                string[] fieldname = new string[] { "idgroup", "groupname" };
+                ControlDev.FormatControls.LoadGridLookupEdit(glue_idteam_IK1, "select '' idgroup, 'All' groupname union select  idgroup, groupname from DMGROUPEMP with(nolock) where status =1", "groupname", "idgroup", caption, fieldname, this.Name, glue_idteam_IK1.Width);
+                glue_idteam_IK1.EditValue = "";
 
             }
             catch { }
@@ -618,7 +663,41 @@ namespace SOURCE_FORM_REPORT.Presentation
         {
             try
             {
-                string sql = @"
+                if (bgv_list_C.FocusedRowHandle < 0)
+                {
+                    return;
+                }
+                string sql = "";
+                if (rad_option_S.EditValue.ToString() == "emp")
+                {
+                        sql = @"
+                    select Q.idexport,
+                    EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                    DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+                    QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                    Q.nguoi_can_thiep, Q.reason
+                    from QUOTATION Q with(nolock)
+                    LEFT JOIN EMPLOYEES E with(nolock) 
+                    ON Q.IDEMP = E.IDEMP
+                    LEFT JOIN EMPLOYEES EM with(nolock) 
+                    ON Q.idemppo	 = EM.IDEMP
+                    INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                    INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                    INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+                    LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
+                    where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
+                    GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                    DP.department, dateimport, datepo,  E.StaffName,
+                    QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
+                ";
+                        string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
+                        sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
+                        sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "   Q.IDEMP" : " Q.IDEMPPO");
+                }
+                else if (rad_option_S.EditValue.ToString() == "cus")
+                {
+                    sql = @"
                 select Q.idexport,
                 EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
@@ -634,14 +713,18 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
                 INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
                 LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
-                where Q.IDEMP = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' expresion_join
+                where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
                 GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
             ";
-                string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
-                sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
-                sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? " AND Q.IDEMP = E.IDEMP" : " AND Q.IDEMPPO = E.IDEMP");
+                    string empId = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
+                    sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), empId);
+                    sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "   Q.idcustomer" : " Q.idcustomer");
+                }
+                else
+                {
+                }
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
 
                 gct_cskh_C.DataSource = dt;
