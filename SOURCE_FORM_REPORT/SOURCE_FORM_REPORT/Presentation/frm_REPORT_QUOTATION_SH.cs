@@ -60,6 +60,7 @@ namespace SOURCE_FORM_REPORT.Presentation
             ControlDev.FormatControls.setContainsFilter(bgv_list_C);
             loadGridLookupKV();
             loadGridLookupCT();
+            loadGridLookupGroupTk();
             loadGridLookupFields();
             rad_option_S.EditValue = "cus";
             rad_option_S.EditValue = "emp";
@@ -72,6 +73,16 @@ namespace SOURCE_FORM_REPORT.Presentation
             ControlDev.FormatControls.LoadGridLookupEdit(glue_idregion_I1, "select '' idregion, 'All' region union select idregion, region from dmregion", "region", "idregion", caption, fieldname, this.Name, glue_idregion_I1.Width);
             glue_idregion_I1.EditValue = "";
         }
+
+        private void loadGridLookupGroupTk()
+        {
+            string[] caption = new string[] { "Mã Nhóm", "Tên Nhóm" };
+            string[] fieldname = new string[] { "idgrouptk", "grouptk" };
+
+            ControlDev.FormatControls.LoadGridLookupEdit(glue_idgrouptk, "select '' idgrouptk, 'All' grouptk union select idgrouptk, grouptk from dmgrouptk", "grouptk", "idgrouptk", caption, fieldname, this.Name, glue_idgrouptk.Width);
+            glue_idgrouptk.EditValue = "";
+        }
+
         private void loadGridLookupCT()
         {
             string[] caption = new string[] { "Mã loại", "Loại khách hàng" };
@@ -188,6 +199,37 @@ namespace SOURCE_FORM_REPORT.Presentation
                 }
                 else
                 {
+                    // group sp
+                    sql = @"
+                    SELECT G.idgrouptk IDEMP, G.grouptk StaffName,
+                    count(QS.quotationno) count_all,
+                    sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
+                    sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
+                    sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
+                    sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
+                    sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
+                    sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
+                    sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
+
+                    FROM QUOTATION QS with(nolock)
+                    LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
+				    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QS.idexport = QD.idexport
+					INNER JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
+                    WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                    --AND expresion_join
+                    AND G.idgrouptk like '{1}'
+				       
+                    GROUP BY G.idgrouptk , G.grouptk
+                ";
+
+                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+
+                    sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%");
+                    sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
+                    sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
+                    bgv_list_C.Columns["IDEMP"].Caption = "Mã Nhóm";
+                    bgv_list_C.Columns["StaffName"].Caption = "Tên Nhóm";
                 }
 
 
@@ -754,6 +796,32 @@ namespace SOURCE_FORM_REPORT.Presentation
                 }
                 else
                 {
+                    // grouptk
+                    sql = @"
+                select Q.idexport,
+                EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
+                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                Q.nguoi_can_thiep, Q.reason
+                from QUOTATION Q with(nolock)
+                LEFT JOIN EMPLOYEES E with(nolock) 
+                ON Q.IDEMP = E.IDEMP
+                LEFT JOIN EMPLOYEES EM with(nolock) 
+                ON Q.idemppo	 = EM.IDEMP
+                INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+				INNER JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
+                LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
+                where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
+                GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
+                DP.department, dateimport, datepo,  E.StaffName,
+                QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
+            ";
+                    string idgrouptk = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
+                    sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), idgrouptk);
+                    sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "   G.idgrouptk" : "  G.idgrouptk");
                 }
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);
 
@@ -791,6 +859,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 glue_idregion_I1.Visible = false;
                 glue_idfields_I1.Visible = false;
                 cboNhom.Visible = false;
+                lbl_g_tk.Visible = false;
+                glue_idgrouptk.Visible = false;
 
                 glue_iddepartment_I1.Visible = true;
                 glue_idstore_Ik1.Visible = true;
@@ -809,6 +879,28 @@ namespace SOURCE_FORM_REPORT.Presentation
                 glue_idregion_I1.Visible = true;
                 glue_idfields_I1.Visible = true;
                 cboNhom.Visible = true;
+                lbl_g_tk.Visible = false;
+                glue_idgrouptk.Visible = false;
+
+                glue_iddepartment_I1.Visible = false;
+                glue_idstore_Ik1.Visible = false;
+                glue_idteam_IK1.Visible = false;
+            }
+            else
+            {
+                lbl_g_kh_2.Visible = false;
+                lbl_g_kh1.Visible = false;
+                lbl_g_kh2.Visible = false;
+                lbl_g_kh4.Visible = false;
+                lbl_g_nv1.Visible = false;
+                lbl_g_nv2.Visible = false;
+                lbl_g_nv3.Visible = false;
+                glue_idtype_I1.Visible = false;
+                glue_idregion_I1.Visible = false;
+                glue_idfields_I1.Visible = false;
+                cboNhom.Visible = false;
+                lbl_g_tk.Visible = true;
+                glue_idgrouptk.Visible = true;
 
                 glue_iddepartment_I1.Visible = false;
                 glue_idstore_Ik1.Visible = false;
