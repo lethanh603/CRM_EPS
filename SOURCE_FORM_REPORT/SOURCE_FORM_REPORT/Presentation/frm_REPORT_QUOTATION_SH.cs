@@ -58,8 +58,36 @@ namespace SOURCE_FORM_REPORT.Presentation
             ControlDev.FormatControls.setContainsFilter(gv_cskh_C);
             //ControlDev.FormatControls.setContainsFilter(gv_device_C);
             ControlDev.FormatControls.setContainsFilter(bgv_list_C);
+            loadGridLookupKV();
+            loadGridLookupCT();
+            loadGridLookupFields();
+            rad_option_S.EditValue = "cus";
+            rad_option_S.EditValue = "emp";
         }
+        private void loadGridLookupKV()
+        {
+            string[] caption = new string[] { "Mã Vùng", "Tên Vùng" };
+            string[] fieldname = new string[] { "idregion", "region" };
         
+            ControlDev.FormatControls.LoadGridLookupEdit(glue_idregion_I1, "select '' idregion, 'All' region union select idregion, region from dmregion", "region", "idregion", caption, fieldname, this.Name, glue_idregion_I1.Width);
+            glue_idregion_I1.EditValue = "";
+        }
+        private void loadGridLookupCT()
+        {
+            string[] caption = new string[] { "Mã loại", "Loại khách hàng" };
+            string[] fieldname = new string[] { "idtype", "customertype" };
+            ControlDev.FormatControls.LoadGridLookupEdit(glue_idtype_I1, "select '' idtype, 'All' customertype union select idtype, customertype from dmcustomertype", "customertype", "idtype", caption, fieldname, this.Name, glue_idtype_I1.Width);
+            glue_idtype_I1.EditValue = "";
+        }
+        private void loadGridLookupFields()
+        {
+            string[] caption = new string[] { "Mã", "Lĩnh vực" };
+            string[] fieldname = new string[] { "idfields", "fieldname" };
+            ControlDev.FormatControls.LoadGridLookupEdit(glue_idfields_I1, "select '' idfields, 'All' fieldname union select idfields, fieldname from dmfields", "fieldname", "idfields", caption, fieldname, this.Name, glue_idfields_I1.Width);
+
+           
+            glue_idfields_I1.EditValue = "";
+        }
         
         #endregion
 
@@ -122,6 +150,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                     sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                     bgv_list_C.Columns["IDEMP"].Caption = "Mã NV";
                     bgv_list_C.Columns["StaffName"].Caption = "Tên Nhân Viên";
+                    
+                    
                 }
                 else if (rad_option_S.EditValue.ToString() == "cus")
                 {
@@ -142,15 +172,15 @@ namespace SOURCE_FORM_REPORT.Presentation
 				LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = QS.idcustomer
                 WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
                 --AND expresion_join
-                AND E.idstore like '{1}'
-				    AND isnull(E.idgroup,'') like '{2}'
- and E.iddepartment like '{3}'
+                AND C.idfields like '{1}'
+				    AND  isnull(C.idregion,'') like '{2}'
+                 AND isnull(C.idtype,'') like '{3}'  and isnull(C.idgroup,0) like '{4}' 
                 GROUP BY C.idcustomer , C.customer
                 ";
 
                     string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
 
-                    sql = string.Format(sql, expEmp, "%" + glue_idstore_Ik1.EditValue.ToString() + "%", "%" + glue_idteam_IK1.EditValue.ToString() + "%", "%" + glue_iddepartment_I1.EditValue.ToString() + "%");
+                    sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%", "%" + glue_idregion_I1.EditValue.ToString() + "%", "%" + glue_idtype_I1.EditValue.ToString() + "%", "%" + cboNhom.SelectedIndex + "%");
                     sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
                     sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                     bgv_list_C.Columns["IDEMP"].Caption = "Mã KH";
@@ -743,6 +773,47 @@ namespace SOURCE_FORM_REPORT.Presentation
         private void rg_auth_S_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void rad_option_S_EditValueChanged(object sender, EventArgs e)
+        {
+            if (rad_option_S.EditValue == "emp")
+            {
+                lbl_g_kh_2.Visible = false;
+                lbl_g_kh1.Visible = false;
+                lbl_g_kh2.Visible = false;
+                lbl_g_kh4.Visible = false;
+                lbl_g_nv1.Visible = true;
+                lbl_g_nv2.Visible = true;
+                lbl_g_nv3.Visible = true;
+
+                glue_idtype_I1.Visible = false;
+                glue_idregion_I1.Visible = false;
+                glue_idfields_I1.Visible = false;
+                cboNhom.Visible = false;
+
+                glue_iddepartment_I1.Visible = true;
+                glue_idstore_Ik1.Visible = true;
+                glue_idteam_IK1.Visible = true;
+            }
+            else if (rad_option_S.EditValue == "cus")
+            {
+                lbl_g_kh_2.Visible = true;
+                lbl_g_kh1.Visible = true;
+                lbl_g_kh2.Visible = true;
+                lbl_g_kh4.Visible = true;
+                lbl_g_nv1.Visible = false;
+                lbl_g_nv2.Visible = false;
+                lbl_g_nv3.Visible = false;
+                glue_idtype_I1.Visible = true;
+                glue_idregion_I1.Visible = true;
+                glue_idfields_I1.Visible = true;
+                cboNhom.Visible = true;
+
+                glue_iddepartment_I1.Visible = false;
+                glue_idstore_Ik1.Visible = false;
+                glue_idteam_IK1.Visible = false;
+            }
         }
         
 
