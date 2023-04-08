@@ -183,15 +183,21 @@ namespace SOURCE_FORM_REPORT.Presentation
 				LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = QS.idcustomer
                 WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
                 --AND expresion_join
-                AND C.idfields like '{1}'
+                AND isnull(C.idfields,'') like '{1}'
 				    AND  isnull(C.idregion,'') like '{2}'
                  AND isnull(C.idtype,'') like '{3}'  and isnull(C.idgroup,0) like '{4}' 
                 GROUP BY C.idcustomer , C.customer
                 ";
-
+                    string group = "";
+                    group = cboNhom.SelectedIndex.ToString();
+                    if (group == "0")
+                    {
+                        group = "";
+                    }
                     string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
 
-                    sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%", "%" + glue_idregion_I1.EditValue.ToString() + "%", "%" + glue_idtype_I1.EditValue.ToString() + "%", "%" + cboNhom.SelectedIndex + "%");
+                    sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%", "%" + glue_idregion_I1.EditValue.ToString() + "%", "%" + glue_idtype_I1.EditValue.ToString() + "%", "%" +group + "%");
+                   
                     sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
                     sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
                     bgv_list_C.Columns["IDEMP"].Caption = "Mã KH";
