@@ -174,34 +174,37 @@
             this.grp_footer_C.Controls.Add(this.lbl_userid2_10_I2);
             this.grp_footer_C.Controls.Add(this.lbl_userid1_10_I2);
             this.grp_footer_C.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.grp_footer_C.Location = new System.Drawing.Point(0, 427);
+            this.grp_footer_C.Location = new System.Drawing.Point(0, 521);
+            this.grp_footer_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.grp_footer_C.Name = "grp_footer_C";
-            this.grp_footer_C.Size = new System.Drawing.Size(615, 39);
+            this.grp_footer_C.Size = new System.Drawing.Size(713, 48);
             this.grp_footer_C.TabIndex = 0;
             // 
             // dte_date2_I5
             // 
             this.dte_date2_I5.EditValue = null;
-            this.dte_date2_I5.Location = new System.Drawing.Point(178, 11);
+            this.dte_date2_I5.Location = new System.Drawing.Point(208, 14);
+            this.dte_date2_I5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dte_date2_I5.Name = "dte_date2_I5";
             this.dte_date2_I5.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.dte_date2_I5.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.dte_date2_I5.Size = new System.Drawing.Size(53, 20);
+            this.dte_date2_I5.Size = new System.Drawing.Size(62, 22);
             this.dte_date2_I5.TabIndex = 24;
             this.dte_date2_I5.Visible = false;
             // 
             // dte_date1_I5
             // 
             this.dte_date1_I5.EditValue = null;
-            this.dte_date1_I5.Location = new System.Drawing.Point(62, 11);
+            this.dte_date1_I5.Location = new System.Drawing.Point(72, 14);
+            this.dte_date1_I5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.dte_date1_I5.Name = "dte_date1_I5";
             this.dte_date1_I5.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
             this.dte_date1_I5.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
-            this.dte_date1_I5.Size = new System.Drawing.Size(53, 20);
+            this.dte_date1_I5.Size = new System.Drawing.Size(62, 22);
             this.dte_date1_I5.TabIndex = 24;
             this.dte_date1_I5.Visible = false;
             // 
@@ -209,9 +212,10 @@
             // 
             this.btn_insert_allow_insert.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_insert_allow_insert.Image = ((System.Drawing.Image)(resources.GetObject("btn_insert_allow_insert.Image")));
-            this.btn_insert_allow_insert.Location = new System.Drawing.Point(289, 4);
+            this.btn_insert_allow_insert.Location = new System.Drawing.Point(333, 5);
+            this.btn_insert_allow_insert.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_insert_allow_insert.Name = "btn_insert_allow_insert";
-            this.btn_insert_allow_insert.Size = new System.Drawing.Size(117, 31);
+            this.btn_insert_allow_insert.Size = new System.Drawing.Size(136, 38);
             this.btn_insert_allow_insert.TabIndex = 20;
             this.btn_insert_allow_insert.Text = "F4 Lưu - Thêm";
             this.btn_insert_allow_insert.Click += new System.EventHandler(this.btn_insert_allow_insert_Click);
@@ -220,9 +224,10 @@
             // 
             this.bbi_allow_insert.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.bbi_allow_insert.Image = ((System.Drawing.Image)(resources.GetObject("bbi_allow_insert.Image")));
-            this.bbi_allow_insert.Location = new System.Drawing.Point(407, 4);
+            this.bbi_allow_insert.Location = new System.Drawing.Point(471, 5);
+            this.bbi_allow_insert.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.bbi_allow_insert.Name = "bbi_allow_insert";
-            this.bbi_allow_insert.Size = new System.Drawing.Size(120, 31);
+            this.bbi_allow_insert.Size = new System.Drawing.Size(140, 38);
             this.bbi_allow_insert.TabIndex = 18;
             this.bbi_allow_insert.Text = "F5 Lưu - Thoát";
             this.bbi_allow_insert.Click += new System.EventHandler(this.bbi_allow_insert_Click);
@@ -231,27 +236,30 @@
             // 
             this.btn_exit_S.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.btn_exit_S.Image = ((System.Drawing.Image)(resources.GetObject("btn_exit_S.Image")));
-            this.btn_exit_S.Location = new System.Drawing.Point(528, 4);
+            this.btn_exit_S.Location = new System.Drawing.Point(612, 5);
+            this.btn_exit_S.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.btn_exit_S.Name = "btn_exit_S";
-            this.btn_exit_S.Size = new System.Drawing.Size(82, 31);
+            this.btn_exit_S.Size = new System.Drawing.Size(96, 38);
             this.btn_exit_S.TabIndex = 22;
             this.btn_exit_S.Text = "F9 Thoát";
             this.btn_exit_S.Click += new System.EventHandler(this.btn_exit_S_Click);
             // 
             // lbl_userid2_10_I2
             // 
-            this.lbl_userid2_10_I2.Location = new System.Drawing.Point(121, 14);
+            this.lbl_userid2_10_I2.Location = new System.Drawing.Point(141, 17);
+            this.lbl_userid2_10_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lbl_userid2_10_I2.Name = "lbl_userid2_10_I2";
-            this.lbl_userid2_10_I2.Size = new System.Drawing.Size(36, 13);
+            this.lbl_userid2_10_I2.Size = new System.Drawing.Size(43, 16);
             this.lbl_userid2_10_I2.TabIndex = 0;
             this.lbl_userid2_10_I2.Text = "Userid2";
             this.lbl_userid2_10_I2.Visible = false;
             // 
             // lbl_userid1_10_I2
             // 
-            this.lbl_userid1_10_I2.Location = new System.Drawing.Point(11, 14);
+            this.lbl_userid1_10_I2.Location = new System.Drawing.Point(13, 17);
+            this.lbl_userid1_10_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.lbl_userid1_10_I2.Name = "lbl_userid1_10_I2";
-            this.lbl_userid1_10_I2.Size = new System.Drawing.Size(36, 13);
+            this.lbl_userid1_10_I2.Size = new System.Drawing.Size(43, 16);
             this.lbl_userid1_10_I2.TabIndex = 0;
             this.lbl_userid1_10_I2.Text = "Userid1";
             this.lbl_userid1_10_I2.Visible = false;
@@ -262,8 +270,9 @@
             this.grp_main_C.Controls.Add(this.groupControl1);
             this.grp_main_C.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grp_main_C.Location = new System.Drawing.Point(0, 0);
+            this.grp_main_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.grp_main_C.Name = "grp_main_C";
-            this.grp_main_C.Size = new System.Drawing.Size(615, 427);
+            this.grp_main_C.Size = new System.Drawing.Size(713, 521);
             this.grp_main_C.TabIndex = 1;
             this.grp_main_C.Text = "Thông tin";
             // 
@@ -330,15 +339,17 @@
             this.groupControl2.Controls.Add(this.labelControl3);
             this.groupControl2.Controls.Add(this.labelControl4);
             this.groupControl2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.groupControl2.Location = new System.Drawing.Point(2, 31);
+            this.groupControl2.Location = new System.Drawing.Point(2, 36);
+            this.groupControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupControl2.Name = "groupControl2";
-            this.groupControl2.Size = new System.Drawing.Size(611, 394);
+            this.groupControl2.Size = new System.Drawing.Size(709, 483);
             this.groupControl2.TabIndex = 10;
             this.groupControl2.Text = "groupControl2";
             // 
             // cal_nguonvon_10_I4
             // 
-            this.cal_nguonvon_10_I4.Location = new System.Drawing.Point(123, 325);
+            this.cal_nguonvon_10_I4.Location = new System.Drawing.Point(143, 400);
+            this.cal_nguonvon_10_I4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cal_nguonvon_10_I4.Name = "cal_nguonvon_10_I4";
             this.cal_nguonvon_10_I4.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -347,12 +358,13 @@
             this.cal_nguonvon_10_I4.Properties.MaxLength = 10;
             this.cal_nguonvon_10_I4.Properties.NullText = "0";
             this.cal_nguonvon_10_I4.Properties.NullValuePrompt = "0";
-            this.cal_nguonvon_10_I4.Size = new System.Drawing.Size(160, 20);
+            this.cal_nguonvon_10_I4.Size = new System.Drawing.Size(187, 22);
             this.cal_nguonvon_10_I4.TabIndex = 14;
             // 
             // cal_sothietbi_10_I4
             // 
-            this.cal_sothietbi_10_I4.Location = new System.Drawing.Point(407, 303);
+            this.cal_sothietbi_10_I4.Location = new System.Drawing.Point(475, 373);
+            this.cal_sothietbi_10_I4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cal_sothietbi_10_I4.Name = "cal_sothietbi_10_I4";
             this.cal_sothietbi_10_I4.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -361,12 +373,13 @@
             this.cal_sothietbi_10_I4.Properties.MaxLength = 10;
             this.cal_sothietbi_10_I4.Properties.NullText = "0";
             this.cal_sothietbi_10_I4.Properties.NullValuePrompt = "0";
-            this.cal_sothietbi_10_I4.Size = new System.Drawing.Size(73, 20);
+            this.cal_sothietbi_10_I4.Size = new System.Drawing.Size(85, 22);
             this.cal_sothietbi_10_I4.TabIndex = 22;
             // 
             // cal_solaodong_6_I4
             // 
-            this.cal_solaodong_6_I4.Location = new System.Drawing.Point(123, 304);
+            this.cal_solaodong_6_I4.Location = new System.Drawing.Point(143, 374);
+            this.cal_solaodong_6_I4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cal_solaodong_6_I4.Name = "cal_solaodong_6_I4";
             this.cal_solaodong_6_I4.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -375,12 +388,13 @@
             this.cal_solaodong_6_I4.Properties.MaxLength = 10;
             this.cal_solaodong_6_I4.Properties.NullText = "0";
             this.cal_solaodong_6_I4.Properties.NullValuePrompt = "0";
-            this.cal_solaodong_6_I4.Size = new System.Drawing.Size(73, 20);
+            this.cal_solaodong_6_I4.Size = new System.Drawing.Size(85, 22);
             this.cal_solaodong_6_I4.TabIndex = 13;
             // 
             // cal_doanhso_10_I4
             // 
-            this.cal_doanhso_10_I4.Location = new System.Drawing.Point(123, 283);
+            this.cal_doanhso_10_I4.Location = new System.Drawing.Point(143, 348);
+            this.cal_doanhso_10_I4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.cal_doanhso_10_I4.Name = "cal_doanhso_10_I4";
             this.cal_doanhso_10_I4.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
@@ -389,33 +403,35 @@
             this.cal_doanhso_10_I4.Properties.MaxLength = 10;
             this.cal_doanhso_10_I4.Properties.NullText = "0";
             this.cal_doanhso_10_I4.Properties.NullValuePrompt = "0";
-            this.cal_doanhso_10_I4.Size = new System.Drawing.Size(160, 20);
+            this.cal_doanhso_10_I4.Size = new System.Drawing.Size(187, 22);
             this.cal_doanhso_10_I4.TabIndex = 12;
             // 
             // rg_idgroup_I14
             // 
             this.rg_idgroup_I14.EditValue = ((short)(1));
-            this.rg_idgroup_I14.Location = new System.Drawing.Point(3, 4);
+            this.rg_idgroup_I14.Location = new System.Drawing.Point(3, 5);
+            this.rg_idgroup_I14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.rg_idgroup_I14.Name = "rg_idgroup_I14";
             this.rg_idgroup_I14.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
             new DevExpress.XtraEditors.Controls.RadioGroupItem(0, "Công ty"),
             new DevExpress.XtraEditors.Controls.RadioGroupItem(1, "Đại lý"),
             new DevExpress.XtraEditors.Controls.RadioGroupItem(2, "Khách lẻ")});
-            this.rg_idgroup_I14.Size = new System.Drawing.Size(281, 25);
+            this.rg_idgroup_I14.Size = new System.Drawing.Size(328, 31);
             this.rg_idgroup_I14.TabIndex = 0;
             this.rg_idgroup_I14.SelectedIndexChanged += new System.EventHandler(this.rg_idgroup_I14_SelectedIndexChanged);
             // 
             // glue_idscale_I1
             // 
             this.glue_idscale_I1.EditValue = "";
-            this.glue_idscale_I1.Location = new System.Drawing.Point(123, 262);
+            this.glue_idscale_I1.Location = new System.Drawing.Point(143, 322);
+            this.glue_idscale_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idscale_I1.Name = "glue_idscale_I1";
             this.glue_idscale_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idscale_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject1, "", null, null, true)});
             this.glue_idscale_I1.Properties.NullText = "";
             this.glue_idscale_I1.Properties.View = this.gridView4;
-            this.glue_idscale_I1.Size = new System.Drawing.Size(161, 20);
+            this.glue_idscale_I1.Size = new System.Drawing.Size(188, 22);
             this.glue_idscale_I1.TabIndex = 11;
             this.glue_idscale_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
@@ -429,23 +445,25 @@
             // chk_status_I6
             // 
             this.chk_status_I6.EditValue = true;
-            this.chk_status_I6.Location = new System.Drawing.Point(220, 69);
+            this.chk_status_I6.Location = new System.Drawing.Point(257, 85);
+            this.chk_status_I6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.chk_status_I6.Name = "chk_status_I6";
             this.chk_status_I6.Properties.Caption = "Status";
-            this.chk_status_I6.Size = new System.Drawing.Size(65, 19);
+            this.chk_status_I6.Size = new System.Drawing.Size(76, 20);
             this.chk_status_I6.TabIndex = 77;
             // 
             // glue_idfields_I1
             // 
             this.glue_idfields_I1.EditValue = "";
-            this.glue_idfields_I1.Location = new System.Drawing.Point(409, 26);
+            this.glue_idfields_I1.Location = new System.Drawing.Point(477, 32);
+            this.glue_idfields_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idfields_I1.Name = "glue_idfields_I1";
             this.glue_idfields_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idfields_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject2, "", null, null, true)});
             this.glue_idfields_I1.Properties.NullText = "";
             this.glue_idfields_I1.Properties.View = this.gridView3;
-            this.glue_idfields_I1.Size = new System.Drawing.Size(203, 20);
+            this.glue_idfields_I1.Size = new System.Drawing.Size(237, 22);
             this.glue_idfields_I1.TabIndex = 3;
             this.glue_idfields_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
@@ -459,14 +477,15 @@
             // glue_idregion_I1
             // 
             this.glue_idregion_I1.EditValue = "";
-            this.glue_idregion_I1.Location = new System.Drawing.Point(409, 4);
+            this.glue_idregion_I1.Location = new System.Drawing.Point(477, 5);
+            this.glue_idregion_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idregion_I1.Name = "glue_idregion_I1";
             this.glue_idregion_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idregion_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject3, "", null, null, true)});
             this.glue_idregion_I1.Properties.NullText = "";
             this.glue_idregion_I1.Properties.View = this.gridLookUpEdit1View;
-            this.glue_idregion_I1.Size = new System.Drawing.Size(203, 20);
+            this.glue_idregion_I1.Size = new System.Drawing.Size(237, 22);
             this.glue_idregion_I1.TabIndex = 1;
             this.glue_idregion_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
@@ -480,14 +499,15 @@
             // glue_idprovince_I1
             // 
             this.glue_idprovince_I1.EditValue = "";
-            this.glue_idprovince_I1.Location = new System.Drawing.Point(407, 281);
+            this.glue_idprovince_I1.Location = new System.Drawing.Point(475, 346);
+            this.glue_idprovince_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idprovince_I1.Name = "glue_idprovince_I1";
             this.glue_idprovince_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idprovince_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject4, "", null, null, true)});
             this.glue_idprovince_I1.Properties.NullText = "";
             this.glue_idprovince_I1.Properties.View = this.gridView2;
-            this.glue_idprovince_I1.Size = new System.Drawing.Size(205, 20);
+            this.glue_idprovince_I1.Size = new System.Drawing.Size(239, 22);
             this.glue_idprovince_I1.TabIndex = 21;
             this.glue_idprovince_I1.EditValueChanged += new System.EventHandler(this.glue_idprovince_I1_EditValueChanged);
             this.glue_idprovince_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
@@ -502,41 +522,45 @@
             // labelControl5
             // 
             this.labelControl5.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl5.Location = new System.Drawing.Point(292, 5);
+            this.labelControl5.Location = new System.Drawing.Point(341, 6);
+            this.labelControl5.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl5.Name = "labelControl5";
-            this.labelControl5.Size = new System.Drawing.Size(42, 13);
+            this.labelControl5.Size = new System.Drawing.Size(52, 16);
             this.labelControl5.TabIndex = 0;
             this.labelControl5.Text = "Vùng(*):";
             // 
             // labelControl21
             // 
             this.labelControl21.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl21.Location = new System.Drawing.Point(289, 287);
+            this.labelControl21.Location = new System.Drawing.Point(337, 353);
+            this.labelControl21.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl21.Name = "labelControl21";
-            this.labelControl21.Size = new System.Drawing.Size(72, 13);
+            this.labelControl21.Size = new System.Drawing.Size(88, 16);
             this.labelControl21.TabIndex = 0;
             this.labelControl21.Text = "Tình thành (*):";
             // 
             // labelControl22
             // 
             this.labelControl22.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl22.Location = new System.Drawing.Point(294, 27);
+            this.labelControl22.Location = new System.Drawing.Point(343, 33);
+            this.labelControl22.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl22.Name = "labelControl22";
-            this.labelControl22.Size = new System.Drawing.Size(79, 13);
+            this.labelControl22.Size = new System.Drawing.Size(102, 17);
             this.labelControl22.TabIndex = 0;
             this.labelControl22.Text = "Ngành nghề (*):";
             // 
             // glue_idarea_I1
             // 
             this.glue_idarea_I1.EditValue = "";
-            this.glue_idarea_I1.Location = new System.Drawing.Point(409, 69);
+            this.glue_idarea_I1.Location = new System.Drawing.Point(477, 85);
+            this.glue_idarea_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idarea_I1.Name = "glue_idarea_I1";
             this.glue_idarea_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idarea_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject5, "", null, null, true)});
             this.glue_idarea_I1.Properties.NullText = "";
             this.glue_idarea_I1.Properties.View = this.gridView5;
-            this.glue_idarea_I1.Size = new System.Drawing.Size(203, 20);
+            this.glue_idarea_I1.Size = new System.Drawing.Size(237, 22);
             this.glue_idarea_I1.TabIndex = 2;
             this.glue_idarea_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
@@ -550,23 +574,25 @@
             // labelControl23
             // 
             this.labelControl23.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl23.Location = new System.Drawing.Point(291, 75);
+            this.labelControl23.Location = new System.Drawing.Point(339, 92);
+            this.labelControl23.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl23.Name = "labelControl23";
-            this.labelControl23.Size = new System.Drawing.Size(49, 13);
+            this.labelControl23.Size = new System.Drawing.Size(63, 17);
             this.labelControl23.TabIndex = 0;
             this.labelControl23.Text = "Quốc gia :";
             // 
             // glue_idtype_I1
             // 
             this.glue_idtype_I1.EditValue = "";
-            this.glue_idtype_I1.Location = new System.Drawing.Point(409, 48);
+            this.glue_idtype_I1.Location = new System.Drawing.Point(477, 59);
+            this.glue_idtype_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idtype_I1.Name = "glue_idtype_I1";
             this.glue_idtype_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idtype_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject6, "", null, null, true)});
             this.glue_idtype_I1.Properties.NullText = "";
             this.glue_idtype_I1.Properties.View = this.gridView1;
-            this.glue_idtype_I1.Size = new System.Drawing.Size(203, 20);
+            this.glue_idtype_I1.Size = new System.Drawing.Size(237, 22);
             this.glue_idtype_I1.TabIndex = 2;
             this.glue_idtype_I1.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
@@ -580,49 +606,54 @@
             // labelControl19
             // 
             this.labelControl19.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl19.Location = new System.Drawing.Point(291, 52);
+            this.labelControl19.Location = new System.Drawing.Point(339, 64);
+            this.labelControl19.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl19.Name = "labelControl19";
-            this.labelControl19.Size = new System.Drawing.Size(98, 13);
+            this.labelControl19.Size = new System.Drawing.Size(127, 17);
             this.labelControl19.TabIndex = 0;
             this.labelControl19.Text = "Loại khách hàng (*):";
             // 
             // txt_idcustomer_IK1
             // 
             this.txt_idcustomer_IK1.Enabled = false;
-            this.txt_idcustomer_IK1.Location = new System.Drawing.Point(123, 69);
+            this.txt_idcustomer_IK1.Location = new System.Drawing.Point(143, 85);
+            this.txt_idcustomer_IK1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_idcustomer_IK1.Name = "txt_idcustomer_IK1";
             this.txt_idcustomer_IK1.Properties.Appearance.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(224)))), ((int)(((byte)(192)))));
             this.txt_idcustomer_IK1.Properties.Appearance.Options.UseBackColor = true;
             this.txt_idcustomer_IK1.Properties.MaxLength = 20;
-            this.txt_idcustomer_IK1.Size = new System.Drawing.Size(91, 20);
+            this.txt_idcustomer_IK1.Size = new System.Drawing.Size(106, 22);
             this.txt_idcustomer_IK1.TabIndex = 222;
             this.txt_idcustomer_IK1.Visible = false;
             // 
             // labelControl1
             // 
             this.labelControl1.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl1.Location = new System.Drawing.Point(8, 69);
+            this.labelControl1.Location = new System.Drawing.Point(9, 85);
+            this.labelControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl1.Name = "labelControl1";
-            this.labelControl1.Size = new System.Drawing.Size(93, 13);
+            this.labelControl1.Size = new System.Drawing.Size(113, 16);
             this.labelControl1.TabIndex = 0;
             this.labelControl1.Text = "Mã khách hàng (*):";
             // 
             // labelControl2
             // 
             this.labelControl2.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl2.Location = new System.Drawing.Point(317, 5);
+            this.labelControl2.Location = new System.Drawing.Point(370, 6);
+            this.labelControl2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl2.Name = "labelControl2";
-            this.labelControl2.Size = new System.Drawing.Size(56, 13);
+            this.labelControl2.Size = new System.Drawing.Size(72, 17);
             this.labelControl2.TabIndex = 0;
             this.labelControl2.Text = "Ký hiệu (*):";
             this.labelControl2.Visible = false;
             // 
             // mmo_note_I3
             // 
-            this.mmo_note_I3.Location = new System.Drawing.Point(123, 348);
+            this.mmo_note_I3.Location = new System.Drawing.Point(143, 428);
+            this.mmo_note_I3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.mmo_note_I3.Name = "mmo_note_I3";
             this.mmo_note_I3.Properties.MaxLength = 500;
-            this.mmo_note_I3.Size = new System.Drawing.Size(489, 56);
+            this.mmo_note_I3.Size = new System.Drawing.Size(570, 69);
             this.mmo_note_I3.TabIndex = 18;
             this.mmo_note_I3.UseOptimizedRendering = true;
             this.mmo_note_I3.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
@@ -630,200 +661,222 @@
             // txt_sign_20_I2
             // 
             this.txt_sign_20_I2.Enabled = false;
-            this.txt_sign_20_I2.Location = new System.Drawing.Point(123, 69);
+            this.txt_sign_20_I2.Location = new System.Drawing.Point(143, 85);
+            this.txt_sign_20_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_sign_20_I2.Name = "txt_sign_20_I2";
             this.txt_sign_20_I2.Properties.MaxLength = 20;
-            this.txt_sign_20_I2.Size = new System.Drawing.Size(91, 20);
+            this.txt_sign_20_I2.Size = new System.Drawing.Size(106, 22);
             this.txt_sign_20_I2.TabIndex = 1;
             this.txt_sign_20_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // txt_nick_50_I2
             // 
-            this.txt_nick_50_I2.Location = new System.Drawing.Point(407, 260);
+            this.txt_nick_50_I2.Location = new System.Drawing.Point(475, 320);
+            this.txt_nick_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_nick_50_I2.Name = "txt_nick_50_I2";
             this.txt_nick_50_I2.Properties.MaxLength = 100;
-            this.txt_nick_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_nick_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_nick_50_I2.TabIndex = 20;
             this.txt_nick_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl18
             // 
             this.labelControl18.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl18.Location = new System.Drawing.Point(289, 264);
+            this.labelControl18.Location = new System.Drawing.Point(337, 325);
+            this.labelControl18.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl18.Name = "labelControl18";
-            this.labelControl18.Size = new System.Drawing.Size(47, 13);
+            this.labelControl18.Size = new System.Drawing.Size(56, 16);
             this.labelControl18.TabIndex = 0;
             this.labelControl18.Text = "Nick chat:";
             // 
             // labelControl17
             // 
             this.labelControl17.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl17.Location = new System.Drawing.Point(289, 159);
+            this.labelControl17.Location = new System.Drawing.Point(337, 196);
+            this.labelControl17.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl17.Name = "labelControl17";
-            this.labelControl17.Size = new System.Drawing.Size(84, 13);
+            this.labelControl17.Size = new System.Drawing.Size(109, 17);
             this.labelControl17.TabIndex = 0;
             this.labelControl17.Text = "CMND / Hộ chiếu:";
             // 
             // labelControl11
             // 
             this.labelControl11.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl11.Location = new System.Drawing.Point(8, 113);
+            this.labelControl11.Location = new System.Drawing.Point(9, 139);
+            this.labelControl11.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl11.Name = "labelControl11";
-            this.labelControl11.Size = new System.Drawing.Size(77, 13);
+            this.labelControl11.Size = new System.Drawing.Size(99, 17);
             this.labelControl11.TabIndex = 0;
             this.labelControl11.Text = "Địa chỉ đăng ký:";
             // 
             // txt_passport_50_I2
             // 
-            this.txt_passport_50_I2.Location = new System.Drawing.Point(407, 155);
+            this.txt_passport_50_I2.Location = new System.Drawing.Point(475, 191);
+            this.txt_passport_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_passport_50_I2.Name = "txt_passport_50_I2";
             this.txt_passport_50_I2.Properties.MaxLength = 100;
-            this.txt_passport_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_passport_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_passport_50_I2.TabIndex = 15;
             this.txt_passport_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             this.txt_passport_50_I2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_tax_20_I1_KeyPress);
             // 
             // txt_bank_50_I2
             // 
-            this.txt_bank_50_I2.Location = new System.Drawing.Point(407, 197);
+            this.txt_bank_50_I2.Location = new System.Drawing.Point(475, 242);
+            this.txt_bank_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_bank_50_I2.Name = "txt_bank_50_I2";
             this.txt_bank_50_I2.Properties.MaxLength = 100;
-            this.txt_bank_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_bank_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_bank_50_I2.TabIndex = 17;
             this.txt_bank_50_I2.EditValueChanged += new System.EventHandler(this.txt_bank_50_I2_EditValueChanged);
             this.txt_bank_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // txt_atm_50_I2
             // 
-            this.txt_atm_50_I2.Location = new System.Drawing.Point(407, 176);
+            this.txt_atm_50_I2.Location = new System.Drawing.Point(475, 217);
+            this.txt_atm_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_atm_50_I2.Name = "txt_atm_50_I2";
             this.txt_atm_50_I2.Properties.MaxLength = 100;
-            this.txt_atm_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_atm_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_atm_50_I2.TabIndex = 16;
             this.txt_atm_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl16
             // 
             this.labelControl16.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl16.Location = new System.Drawing.Point(289, 201);
+            this.labelControl16.Location = new System.Drawing.Point(337, 247);
+            this.labelControl16.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl16.Name = "labelControl16";
-            this.labelControl16.Size = new System.Drawing.Size(56, 13);
+            this.labelControl16.Size = new System.Drawing.Size(66, 16);
             this.labelControl16.TabIndex = 0;
             this.labelControl16.Text = "Ngân hàng:";
             // 
             // labelControl12
             // 
             this.labelControl12.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl12.Location = new System.Drawing.Point(8, 262);
+            this.labelControl12.Location = new System.Drawing.Point(9, 322);
+            this.labelControl12.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl12.Name = "labelControl12";
-            this.labelControl12.Size = new System.Drawing.Size(41, 13);
+            this.labelControl12.Size = new System.Drawing.Size(49, 16);
             this.labelControl12.TabIndex = 0;
             this.labelControl12.Text = "Quy mô:";
             // 
             // labelControl10
             // 
             this.labelControl10.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl10.Location = new System.Drawing.Point(289, 179);
+            this.labelControl10.Location = new System.Drawing.Point(337, 220);
+            this.labelControl10.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl10.Name = "labelControl10";
-            this.labelControl10.Size = new System.Drawing.Size(50, 13);
+            this.labelControl10.Size = new System.Drawing.Size(64, 17);
             this.labelControl10.TabIndex = 0;
             this.labelControl10.Text = "Tài khoản:";
             // 
             // txt_website_50_I2
             // 
-            this.txt_website_50_I2.Location = new System.Drawing.Point(407, 239);
+            this.txt_website_50_I2.Location = new System.Drawing.Point(475, 294);
+            this.txt_website_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_website_50_I2.Name = "txt_website_50_I2";
             this.txt_website_50_I2.Properties.MaxLength = 100;
-            this.txt_website_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_website_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_website_50_I2.TabIndex = 19;
             this.txt_website_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // txt_email_50_I2
             // 
-            this.txt_email_50_I2.Location = new System.Drawing.Point(407, 218);
+            this.txt_email_50_I2.Location = new System.Drawing.Point(475, 268);
+            this.txt_email_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_email_50_I2.Name = "txt_email_50_I2";
             this.txt_email_50_I2.Properties.MaxLength = 100;
-            this.txt_email_50_I2.Size = new System.Drawing.Size(205, 20);
+            this.txt_email_50_I2.Size = new System.Drawing.Size(239, 22);
             this.txt_email_50_I2.TabIndex = 18;
             this.txt_email_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl15
             // 
             this.labelControl15.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl15.Location = new System.Drawing.Point(289, 241);
+            this.labelControl15.Location = new System.Drawing.Point(337, 297);
+            this.labelControl15.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl15.Name = "labelControl15";
-            this.labelControl15.Size = new System.Drawing.Size(43, 13);
+            this.labelControl15.Size = new System.Drawing.Size(51, 16);
             this.labelControl15.TabIndex = 0;
             this.labelControl15.Text = "Website:";
             // 
             // labelControl9
             // 
             this.labelControl9.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl9.Location = new System.Drawing.Point(289, 220);
+            this.labelControl9.Location = new System.Drawing.Point(337, 271);
+            this.labelControl9.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl9.Name = "labelControl9";
-            this.labelControl9.Size = new System.Drawing.Size(28, 13);
+            this.labelControl9.Size = new System.Drawing.Size(36, 16);
             this.labelControl9.TabIndex = 0;
             this.labelControl9.Text = "Email:";
             // 
             // txt_hieuthuongdung_500_I2
             // 
-            this.txt_hieuthuongdung_500_I2.Location = new System.Drawing.Point(407, 325);
+            this.txt_hieuthuongdung_500_I2.Location = new System.Drawing.Point(475, 400);
+            this.txt_hieuthuongdung_500_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_hieuthuongdung_500_I2.Name = "txt_hieuthuongdung_500_I2";
             this.txt_hieuthuongdung_500_I2.Properties.MaxLength = 100;
-            this.txt_hieuthuongdung_500_I2.Size = new System.Drawing.Size(207, 20);
+            this.txt_hieuthuongdung_500_I2.Size = new System.Drawing.Size(241, 22);
             this.txt_hieuthuongdung_500_I2.TabIndex = 23;
             // 
             // labelControl28
             // 
             this.labelControl28.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl28.Location = new System.Drawing.Point(289, 328);
+            this.labelControl28.Location = new System.Drawing.Point(337, 404);
+            this.labelControl28.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl28.Name = "labelControl28";
-            this.labelControl28.Size = new System.Drawing.Size(90, 13);
+            this.labelControl28.Size = new System.Drawing.Size(117, 17);
             this.labelControl28.TabIndex = 0;
             this.labelControl28.Text = "Hiệu thường dùng:";
             // 
             // labelControl27
             // 
             this.labelControl27.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl27.Location = new System.Drawing.Point(289, 307);
+            this.labelControl27.Location = new System.Drawing.Point(337, 378);
+            this.labelControl27.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl27.Name = "labelControl27";
-            this.labelControl27.Size = new System.Drawing.Size(89, 13);
+            this.labelControl27.Size = new System.Drawing.Size(114, 17);
             this.labelControl27.TabIndex = 0;
             this.labelControl27.Text = "Số thiết bị hiện có:";
             // 
             // labelControl29
             // 
             this.labelControl29.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl29.Location = new System.Drawing.Point(7, 349);
+            this.labelControl29.Location = new System.Drawing.Point(8, 430);
+            this.labelControl29.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl29.Name = "labelControl29";
-            this.labelControl29.Size = new System.Drawing.Size(39, 13);
+            this.labelControl29.Size = new System.Drawing.Size(47, 16);
             this.labelControl29.TabIndex = 0;
             this.labelControl29.Text = "Ghi chú:";
             // 
             // labelControl26
             // 
             this.labelControl26.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl26.Location = new System.Drawing.Point(7, 327);
+            this.labelControl26.Location = new System.Drawing.Point(8, 402);
+            this.labelControl26.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl26.Name = "labelControl26";
-            this.labelControl26.Size = new System.Drawing.Size(77, 13);
+            this.labelControl26.Size = new System.Drawing.Size(101, 17);
             this.labelControl26.TabIndex = 0;
             this.labelControl26.Text = "Nguồn vốn (tỷ):";
             // 
             // labelControl25
             // 
             this.labelControl25.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl25.Location = new System.Drawing.Point(7, 306);
+            this.labelControl25.Location = new System.Drawing.Point(8, 377);
+            this.labelControl25.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl25.Name = "labelControl25";
-            this.labelControl25.Size = new System.Drawing.Size(98, 13);
+            this.labelControl25.Size = new System.Drawing.Size(127, 17);
             this.labelControl25.TabIndex = 0;
             this.labelControl25.Text = "Số lao động (người):";
             // 
             // txt_mobile_50_I2
             // 
-            this.txt_mobile_50_I2.Location = new System.Drawing.Point(123, 240);
+            this.txt_mobile_50_I2.Location = new System.Drawing.Point(143, 295);
+            this.txt_mobile_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_mobile_50_I2.Name = "txt_mobile_50_I2";
             this.txt_mobile_50_I2.Properties.MaxLength = 100;
-            this.txt_mobile_50_I2.Size = new System.Drawing.Size(161, 20);
+            this.txt_mobile_50_I2.Size = new System.Drawing.Size(188, 22);
             this.txt_mobile_50_I2.TabIndex = 10;
             this.txt_mobile_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             this.txt_mobile_50_I2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_tax_20_I1_KeyPress);
@@ -831,18 +884,20 @@
             // labelControl24
             // 
             this.labelControl24.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl24.Location = new System.Drawing.Point(7, 284);
+            this.labelControl24.Location = new System.Drawing.Point(8, 350);
+            this.labelControl24.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl24.Name = "labelControl24";
-            this.labelControl24.Size = new System.Drawing.Size(70, 13);
+            this.labelControl24.Size = new System.Drawing.Size(91, 17);
             this.labelControl24.TabIndex = 0;
             this.labelControl24.Text = "Doanh số (tỷ):";
             // 
             // txt_tel_50_I2
             // 
-            this.txt_tel_50_I2.Location = new System.Drawing.Point(123, 197);
+            this.txt_tel_50_I2.Location = new System.Drawing.Point(143, 242);
+            this.txt_tel_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_tel_50_I2.Name = "txt_tel_50_I2";
             this.txt_tel_50_I2.Properties.MaxLength = 100;
-            this.txt_tel_50_I2.Size = new System.Drawing.Size(161, 20);
+            this.txt_tel_50_I2.Size = new System.Drawing.Size(188, 22);
             this.txt_tel_50_I2.TabIndex = 8;
             this.txt_tel_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             this.txt_tel_50_I2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_tax_20_I1_KeyPress);
@@ -850,27 +905,30 @@
             // labelControl14
             // 
             this.labelControl14.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl14.Location = new System.Drawing.Point(7, 243);
+            this.labelControl14.Location = new System.Drawing.Point(8, 299);
+            this.labelControl14.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl14.Name = "labelControl14";
-            this.labelControl14.Size = new System.Drawing.Size(34, 13);
+            this.labelControl14.Size = new System.Drawing.Size(42, 16);
             this.labelControl14.TabIndex = 0;
             this.labelControl14.Text = "Mobile:";
             // 
             // labelControl8
             // 
             this.labelControl8.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl8.Location = new System.Drawing.Point(8, 199);
+            this.labelControl8.Location = new System.Drawing.Point(9, 245);
+            this.labelControl8.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl8.Name = "labelControl8";
-            this.labelControl8.Size = new System.Drawing.Size(53, 13);
+            this.labelControl8.Size = new System.Drawing.Size(66, 17);
             this.labelControl8.TabIndex = 0;
             this.labelControl8.Text = "Điện thoại:";
             // 
             // txt_fax_50_I2
             // 
-            this.txt_fax_50_I2.Location = new System.Drawing.Point(123, 219);
+            this.txt_fax_50_I2.Location = new System.Drawing.Point(143, 270);
+            this.txt_fax_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_fax_50_I2.Name = "txt_fax_50_I2";
             this.txt_fax_50_I2.Properties.MaxLength = 100;
-            this.txt_fax_50_I2.Size = new System.Drawing.Size(161, 20);
+            this.txt_fax_50_I2.Size = new System.Drawing.Size(188, 22);
             this.txt_fax_50_I2.TabIndex = 9;
             this.txt_fax_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             this.txt_fax_50_I2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txt_tax_20_I1_KeyPress);
@@ -878,27 +936,30 @@
             // labelControl13
             // 
             this.labelControl13.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl13.Location = new System.Drawing.Point(7, 222);
+            this.labelControl13.Location = new System.Drawing.Point(8, 273);
+            this.labelControl13.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl13.Name = "labelControl13";
-            this.labelControl13.Size = new System.Drawing.Size(22, 13);
+            this.labelControl13.Size = new System.Drawing.Size(25, 16);
             this.labelControl13.TabIndex = 0;
             this.labelControl13.Text = "Fax:";
             // 
             // txt_station_300_I2
             // 
-            this.txt_station_300_I2.Location = new System.Drawing.Point(123, 134);
+            this.txt_station_300_I2.Location = new System.Drawing.Point(143, 165);
+            this.txt_station_300_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_station_300_I2.Name = "txt_station_300_I2";
             this.txt_station_300_I2.Properties.MaxLength = 255;
-            this.txt_station_300_I2.Size = new System.Drawing.Size(489, 20);
+            this.txt_station_300_I2.Size = new System.Drawing.Size(570, 22);
             this.txt_station_300_I2.TabIndex = 5;
             this.txt_station_300_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // txt_tax_50_I2
             // 
-            this.txt_tax_50_I2.Location = new System.Drawing.Point(123, 176);
+            this.txt_tax_50_I2.Location = new System.Drawing.Point(143, 217);
+            this.txt_tax_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_tax_50_I2.Name = "txt_tax_50_I2";
             this.txt_tax_50_I2.Properties.MaxLength = 100;
-            this.txt_tax_50_I2.Size = new System.Drawing.Size(161, 20);
+            this.txt_tax_50_I2.Size = new System.Drawing.Size(188, 22);
             this.txt_tax_50_I2.TabIndex = 7;
             this.txt_tax_50_I2.EditValueChanged += new System.EventHandler(this.txt_tax_50_I2_EditValueChanged);
             this.txt_tax_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
@@ -908,71 +969,79 @@
             // labelControl7
             // 
             this.labelControl7.Appearance.ForeColor = System.Drawing.Color.Red;
-            this.labelControl7.Location = new System.Drawing.Point(8, 178);
+            this.labelControl7.Location = new System.Drawing.Point(9, 219);
+            this.labelControl7.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl7.Name = "labelControl7";
-            this.labelControl7.Size = new System.Drawing.Size(74, 13);
+            this.labelControl7.Size = new System.Drawing.Size(94, 17);
             this.labelControl7.TabIndex = 0;
             this.labelControl7.Text = "Mã số thuế (*):";
             // 
             // txt_address_300_I2
             // 
-            this.txt_address_300_I2.Location = new System.Drawing.Point(123, 112);
+            this.txt_address_300_I2.Location = new System.Drawing.Point(143, 138);
+            this.txt_address_300_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_address_300_I2.Name = "txt_address_300_I2";
             this.txt_address_300_I2.Properties.MaxLength = 255;
-            this.txt_address_300_I2.Size = new System.Drawing.Size(489, 20);
+            this.txt_address_300_I2.Size = new System.Drawing.Size(570, 22);
             this.txt_address_300_I2.TabIndex = 6;
             this.txt_address_300_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl6
             // 
             this.labelControl6.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.labelControl6.Location = new System.Drawing.Point(8, 136);
+            this.labelControl6.Location = new System.Drawing.Point(9, 167);
+            this.labelControl6.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl6.Name = "labelControl6";
-            this.labelControl6.Size = new System.Drawing.Size(81, 13);
+            this.labelControl6.Size = new System.Drawing.Size(103, 17);
             this.labelControl6.TabIndex = 0;
             this.labelControl6.Text = "Địa chỉ giao dịch:";
             // 
             // txt_surrogate_50_I2
             // 
-            this.txt_surrogate_50_I2.Location = new System.Drawing.Point(123, 155);
+            this.txt_surrogate_50_I2.Location = new System.Drawing.Point(143, 191);
+            this.txt_surrogate_50_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_surrogate_50_I2.Name = "txt_surrogate_50_I2";
             this.txt_surrogate_50_I2.Properties.MaxLength = 100;
-            this.txt_surrogate_50_I2.Size = new System.Drawing.Size(161, 20);
+            this.txt_surrogate_50_I2.Size = new System.Drawing.Size(188, 22);
             this.txt_surrogate_50_I2.TabIndex = 6;
             this.txt_surrogate_50_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl20
             // 
             this.labelControl20.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl20.Location = new System.Drawing.Point(8, 158);
+            this.labelControl20.Location = new System.Drawing.Point(9, 194);
+            this.labelControl20.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl20.Name = "labelControl20";
-            this.labelControl20.Size = new System.Drawing.Size(75, 13);
+            this.labelControl20.Size = new System.Drawing.Size(95, 17);
             this.labelControl20.TabIndex = 0;
             this.labelControl20.Text = "Người đại diện :";
             // 
             // txt_customer_300_I2
             // 
-            this.txt_customer_300_I2.Location = new System.Drawing.Point(123, 91);
+            this.txt_customer_300_I2.Location = new System.Drawing.Point(143, 112);
+            this.txt_customer_300_I2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_customer_300_I2.Name = "txt_customer_300_I2";
             this.txt_customer_300_I2.Properties.MaxLength = 255;
-            this.txt_customer_300_I2.Size = new System.Drawing.Size(489, 20);
+            this.txt_customer_300_I2.Size = new System.Drawing.Size(570, 22);
             this.txt_customer_300_I2.TabIndex = 4;
             this.txt_customer_300_I2.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txt_sign_I2_KeyDown);
             // 
             // labelControl3
             // 
             this.labelControl3.Appearance.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.labelControl3.Location = new System.Drawing.Point(8, 94);
+            this.labelControl3.Location = new System.Drawing.Point(9, 116);
+            this.labelControl3.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl3.Name = "labelControl3";
-            this.labelControl3.Size = new System.Drawing.Size(97, 13);
+            this.labelControl3.Size = new System.Drawing.Size(118, 16);
             this.labelControl3.TabIndex = 0;
             this.labelControl3.Text = "Tên khách hàng (*):";
             // 
             // labelControl4
             // 
-            this.labelControl4.Location = new System.Drawing.Point(8, 264);
+            this.labelControl4.Location = new System.Drawing.Point(9, 325);
+            this.labelControl4.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.labelControl4.Name = "labelControl4";
-            this.labelControl4.Size = new System.Drawing.Size(39, 13);
+            this.labelControl4.Size = new System.Drawing.Size(47, 16);
             this.labelControl4.TabIndex = 0;
             this.labelControl4.Text = "Ghi chú:";
             this.labelControl4.Visible = false;
@@ -981,9 +1050,10 @@
             // 
             this.groupControl1.BorderStyle = DevExpress.XtraEditors.Controls.BorderStyles.NoBorder;
             this.groupControl1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.groupControl1.Location = new System.Drawing.Point(2, 21);
+            this.groupControl1.Location = new System.Drawing.Point(2, 24);
+            this.groupControl1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.groupControl1.Name = "groupControl1";
-            this.groupControl1.Size = new System.Drawing.Size(611, 10);
+            this.groupControl1.Size = new System.Drawing.Size(709, 12);
             this.groupControl1.TabIndex = 9;
             this.groupControl1.Text = "groupControl1";
             // 
@@ -993,14 +1063,15 @@
             // 
             // frm_DMCUSTOMERS_S
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(615, 466);
+            this.ClientSize = new System.Drawing.Size(713, 569);
             this.ControlBox = false;
             this.Controls.Add(this.grp_main_C);
             this.Controls.Add(this.grp_footer_C);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "frm_DMCUSTOMERS_S";

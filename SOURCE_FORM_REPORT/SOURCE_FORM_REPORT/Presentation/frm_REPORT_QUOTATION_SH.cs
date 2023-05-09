@@ -152,9 +152,15 @@ namespace SOURCE_FORM_REPORT.Presentation
                     and E.iddepartment like '{3}'
                     GROUP BY E.IDEMP, E.StaffName
                     ";
-
-                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
-
+                    string expEmp = "";
+                    if (glue_IDEMP_I1.EditValue.ToString() != "")
+                    {
+                        expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%')";
+                    }
+                    else
+                    {
+                        expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+                    }
 
                     sql = string.Format(sql, expEmp, "%" + glue_idstore_Ik1.EditValue.ToString() + "%", "%" + glue_idteam_IK1.EditValue.ToString() + "%", "%" + glue_iddepartment_I1.EditValue.ToString() + "%");
                     sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
@@ -189,10 +195,26 @@ namespace SOURCE_FORM_REPORT.Presentation
                 GROUP BY C.idcustomer , C.customer
                 ";
                     string group = "";
-                    group = cboNhom.SelectedIndex.ToString();
-                    if (group == "0")
+                    string sgroup = cboNhom.SelectedIndex.ToString();// 0 CÔNG TY, 1 DAI LY, 2 KHACH LE, 3 TIEU CUC
+                    if (sgroup == "0")
                     {
                         group = "";
+                    }
+                    else if (sgroup == "1")
+                    {
+                        group = "0";
+                    }
+                    else if (sgroup == "2")
+                    {
+                        group = "1";
+                    }
+                    else if (sgroup == "3")
+                    {
+                        group = "2";
+                    }
+                    else if (sgroup == "4")
+                    {
+                        group = "3";
                     }
                     string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
 
@@ -218,10 +240,14 @@ namespace SOURCE_FORM_REPORT.Presentation
                     sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
                     sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
-                    FROM QUOTATION QS with(nolock)
+                    FROM 
+                        (
+                        SELECT  distinct  QS.quotationno,QS.idstatusquotation, QS.dateimport, QS.IDEMP, QS.idemppo, QD.idgrouptk FROM QUOTATION QS with(nolock) 
+					    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QS.idexport = QD.idexport
+                        ) QS
                     LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
-				    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QS.idexport = QD.idexport
-					INNER JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
+				    
+					INNER JOIN DMGROUPTK G with(nolock) ON QS.idgrouptk =G.idgrouptk
                     WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
                     --AND expresion_join
                     AND G.idgrouptk like '{1}'
