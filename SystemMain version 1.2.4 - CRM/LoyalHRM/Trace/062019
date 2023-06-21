@@ -1,0 +1,2452 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>80961</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T12:58:34.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80962</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T13:17:32.133+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80963</ID>
+    <userid>US000012</userid>
+    <date>2019-06-01T13:20:53.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80964</ID>
+    <userid>US000012</userid>
+    <date>2019-06-01T13:21:33.88+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000009</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-01T13:21:32+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000009&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000009&lt;/sign&gt;
+    &lt;idplan&gt;GH000007&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80965</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T14:09:47.7+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80966</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T14:26:43.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80967</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T14:28:53.347+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003110</object>
+    <caption>QS003110</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T14:28:44+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T14:28:44+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003110&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;invoice&gt;THANH_TEST&lt;/invoice&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD046-0619/EPS-BG-S&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-0519/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2019-05-08T00:00:00+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2019-05-10T00:00:00+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80968</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T14:40:51.847+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80969</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T14:41:13.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80970</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T14:44:08.48+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80971</ID>
+    <userid>US000008</userid>
+    <date>2019-06-01T14:44:23.933+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80972</ID>
+    <userid>US000020</userid>
+    <date>2019-06-01T14:44:48.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80973</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T15:16:09.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80974</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:16:36.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80975</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:21:46.773+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80976</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:22:32.853+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003112</object>
+    <caption>QS003112</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:22:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:22:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003112&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN047-0619/EPS-BG-s&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80977</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:23:33.81+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003114</object>
+    <caption>QS003114</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:23:24+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:22:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003114&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN048-0619/EPS-BG-r&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80978</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:31:38.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80979</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:32:08.607+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003116</object>
+    <caption>QS003116</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:31:59+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:31:59+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003116&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN049-0619/EPS-BG_A&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80980</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:35:09.767+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80981</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:35:55.567+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003118</object>
+    <caption>QS003118</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:35:42+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:31:59+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003118&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN050-0619/EPS-BG_T&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80982</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:36:29.973+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003120</object>
+    <caption>QS003120</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:36:18+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:36:18+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003120&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN051-0619/EPS-BG_119&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80983</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:38:55.703+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80984</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T15:39:34.463+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003122</object>
+    <caption>QS003122</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:39:25+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:36:18+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003122&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN052-0619/EPS-BG_121&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80985</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T15:54:01.797+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003125</object>
+    <caption>QS003125</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:52:42+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:47:37+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003125&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD054-0619/EPS-BG_DDD&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80986</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T15:57:10.747+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003127</object>
+    <caption>QS003127</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T15:54:51+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T15:54:51+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003127&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD055-0619/EPS-BG-3126&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương, Phường Thới An, Quận 12, TPHCM.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH003158&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80987</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T16:01:55.41+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80988</ID>
+    <userid>US000024</userid>
+    <date>2019-06-01T16:02:56.88+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003130</object>
+    <caption>QS003130</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-01T16:02:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-01T16:02:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000158&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003130&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN058-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH002921&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80989</ID>
+    <userid>US000001</userid>
+    <date>2019-06-01T16:30:02.05+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80990</ID>
+    <userid>US000012</userid>
+    <date>2019-06-01T16:44:55.66+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80991</ID>
+    <userid>US000012</userid>
+    <date>2019-06-01T16:53:38.61+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80992</ID>
+    <userid>US000012</userid>
+    <date>2019-06-01T16:58:26.247+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80993</ID>
+    <userid>US000001</userid>
+    <date>2019-06-03T06:39:56.143+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80994</ID>
+    <userid>US000001</userid>
+    <date>2019-06-03T06:40:21.73+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000010</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-03T06:40:20+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000010&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000010&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80995</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T06:53:10.7+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80996</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T06:53:41.027+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000011</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-03T06:53:39+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000011&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000011&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>80997</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T06:56:52.15+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80998</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T22:43:07.15+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>80999</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T22:44:02.2+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000010</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-02T22:43:46+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000010&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000010&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81000</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T22:50:24.687+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81001</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T22:53:12.737+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81002</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T22:54:09.163+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000010</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-03T22:54:07+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000010&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000010&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81003</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:02:10.4+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81004</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:13:35.833+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81005</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:14:07.58+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000010</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-02T23:14:03+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000010&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000010&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81006</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:22:16.86+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81007</ID>
+    <userid>US000001</userid>
+    <date>2019-06-03T23:34:35.387+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000010</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-03T23:34:30+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000010&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000010&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81008</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:38:28.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81009</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:39:14.843+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000011</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-03T23:39:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000011&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000011&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81010</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:45:50.4+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81011</ID>
+    <userid>US000012</userid>
+    <date>2019-06-03T23:46:13.897+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000011</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-04T23:46:08+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000011&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000011&lt;/sign&gt;
+    &lt;idplan&gt;GH000008&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81012</ID>
+    <userid>US000001</userid>
+    <date>2019-06-06T06:33:48.72+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81013</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T12:42:01.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81014</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T12:42:22.327+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH003690</object>
+    <caption>rwer</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000001&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH003690&lt;/idcustomer&gt;
+    &lt;note&gt;54&lt;/note&gt;
+    &lt;sign&gt;KH003690&lt;/sign&gt;
+    &lt;tel&gt;324&lt;/tel&gt;
+    &lt;customer&gt;rwer&lt;/customer&gt;
+    &lt;idgroup&gt;2&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2019-06-08T12:42:05+07:00&lt;/date2&gt;
+    &lt;date1&gt;2019-06-08T12:42:05+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000024&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81015</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T12:43:18.117+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000576</object>
+    <caption>CÔNG TY CỔ PHẦN BAO BÌ BIÊN HÒA</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000002&lt;/idscale&gt;
+    &lt;idfields&gt;LV000011&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000022&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000576&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;000751&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;NH CT KCN BIÊN HOÀ&lt;/bank&gt;
+    &lt;atm&gt;710a00018&lt;/atm&gt;
+    &lt;website&gt;www.sovi.com.vn&lt;/website&gt;
+    &lt;email&gt;baobibienhoa@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;061 3836 121&lt;/tel&gt;
+    &lt;fax&gt;0613836030&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;3600648493&lt;/tax&gt;
+    &lt;address&gt;Đường số 7, Khu Công Nghiệp Biên Hoà 1, tỉnh Đồng Nai.&lt;/address&gt;
+    &lt;surrogate&gt;LÊ QUỐC TUYÊN&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN BAO BÌ BIÊN HÒA&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:22:24+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000024&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81016</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T12:57:17.63+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003131</object>
+    <caption>QS003131</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-08T12:56:28+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-08T12:56:28+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000982&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003131&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN059-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000616&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81017</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T13:56:10.54+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81018</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:07:06.403+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81019</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:10:04.957+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81020</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:16:19.293+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81021</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:17:23.18+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003132</object>
+    <caption>QS003132</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-08T14:17:03+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-08T14:17:03+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000198&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003132&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN060-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000685&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000025&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81022</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:40:54.87+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81023</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T14:56:54.32+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81024</ID>
+    <userid>US000024</userid>
+    <date>2019-06-08T15:03:19.443+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81025</ID>
+    <userid>US000001</userid>
+    <date>2019-06-08T16:10:09.96+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81026</ID>
+    <userid>US000024</userid>
+    <date>2019-06-13T20:28:10.06+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81027</ID>
+    <userid>US000024</userid>
+    <date>2019-06-13T20:28:42.63+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003133</object>
+    <caption>QS003133</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-13T20:28:26+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-13T20:28:26+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003133&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN061-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000019&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81028</ID>
+    <userid>US000024</userid>
+    <date>2019-06-13T20:36:29.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81029</ID>
+    <userid>US000024</userid>
+    <date>2019-06-13T21:00:59.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81030</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T14:43:25.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81031</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T14:44:15.43+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003135</object>
+    <caption>QS003135</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-15T14:43:42+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-15T14:43:42+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003135&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000004&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN063-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000799&lt;/receiver&gt;
+    &lt;chatluong&gt;- Mới 100% 
+- Nguyên liệu thép: Theo tiêu chuẩn Nhật Jis 3101.
+- Khung cột  FΩ90*2.0 được thiết kế định hình, có dạng Ω , mỗi khung gồm 2 cột và các thanh giằng ngang và chéo đựơc liên kết bằng các bulon.
+- Cột và thanh giằng được sơn tĩnh điện màu xanh.  
+- Thanh beam, cột bảo vệ, chân đế : sơn tĩnh điện màu cam.
+- Tòan bộ kệ được sơn tĩnh điện theo màu tiêu chuẩn. 
+- Sơn: Toàn bộ hệ thống kệ selective đựơc xử lý bề mặt theo công nghệ Châu Âu trước khi sơn tĩnh điện.
+- Tải trọng thiết kế: 700 Kg/ Pallet 
+- Độ võng cho phép( Max): +- 0.5%L. Dung sai vật liệu +-5%.
+- Hệ số an toàn: K=1,2 
+- Bảo hành 36 tháng.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 45 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Thanh toán chia làm 2 đợt: Đợt 1: 50% ngay sau khi ký hợp đồng. Đợt 2 ngay sau khi ký biên bản bàn giao và nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81032</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T14:45:20.883+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81033</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T14:47:12.07+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003136</object>
+    <caption>QS003136</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-15T14:46:42+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-15T14:46:42+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003136&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000004&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD064-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;chatluong&gt;- Mới 100% 
+- Nguyên liệu thép: Theo tiêu chuẩn Nhật Jis 3101.
+- Khung cột  FΩ90*2.0 được thiết kế định hình, có dạng Ω , mỗi khung gồm 2 cột và các thanh giằng ngang và chéo đựơc liên kết bằng các bulon.
+- Cột và thanh giằng được sơn tĩnh điện màu xanh.  
+- Thanh beam, cột bảo vệ, chân đế : sơn tĩnh điện màu cam.
+- Tòan bộ kệ được sơn tĩnh điện theo màu tiêu chuẩn. 
+- Sơn: Toàn bộ hệ thống kệ selective đựơc xử lý bề mặt theo công nghệ Châu Âu trước khi sơn tĩnh điện.
+- Tải trọng thiết kế: 700 Kg/ Pallet 
+- Độ võng cho phép( Max): +- 0.5%L. Dung sai vật liệu +-5%.
+- Hệ số an toàn: K=1,2 
+- Bảo hành 36 tháng.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 45 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Thanh toán chia làm 2 đợt: Đợt 1: 50% ngay sau khi ký hợp đồng. Đợt 2 ngay sau khi ký biên bản bàn giao và nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81034</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T15:34:15.593+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81035</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T15:36:05.99+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81036</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T15:48:13.657+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81037</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T16:00:22.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81038</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T16:01:28.32+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000012</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T16:01:27+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000012&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000012&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81039</ID>
+    <userid>US000024</userid>
+    <date>2019-06-15T16:05:55.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81040</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T16:17:18.15+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81041</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T16:36:10.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81042</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T16:40:31.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81043</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T16:42:54.823+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81044</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T16:58:08.317+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81045</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:08:31.917+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81046</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:08:49.99+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000012</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:08:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000012&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000012&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81047</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:09:02.743+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000013</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:09:01+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000013&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000013&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81048</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:09:32.373+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000012</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:09:30+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000012&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000012&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81049</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:09:40.167+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000013</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:09:38+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000013&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000013&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81050</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:09:55.187+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000014</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:09:53+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000014&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000014&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81051</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:10:10.283+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000015</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:10:04+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000015&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000015&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81052</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:15:03.58+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81053</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:28:00.017+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81054</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:28:19.08+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000013</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:28:18+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000013&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000013&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81055</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:28:25.927+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000014</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:28:25+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000014&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000014&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81056</ID>
+    <userid>US000001</userid>
+    <date>2019-06-15T17:28:36.673+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000015</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-15T17:28:35+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000015&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000015&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81057</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T21:49:17.043+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81058</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T21:54:59.963+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000016</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-17T21:54:58+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000016&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000016&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81059</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T21:55:13.35+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-17T21:55:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81060</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T22:05:42.157+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000018</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-17T22:05:28+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000018&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000018&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81061</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T22:11:01.77+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000019</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-17T22:10:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000019&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000019&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81062</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T22:14:08.857+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000020</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-06-17T22:13:59+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000020&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000020&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81063</ID>
+    <userid>US000001</userid>
+    <date>2019-06-17T22:24:27.307+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81064</ID>
+    <userid>US000001</userid>
+    <date>2019-06-18T21:59:02.387+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81065</ID>
+    <userid>US000001</userid>
+    <date>2019-06-18T22:19:42.193+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81066</ID>
+    <userid>US000001</userid>
+    <date>2019-06-18T22:20:25.25+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003139</object>
+    <caption>QS003139</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-18T22:20:17+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-18T22:20:17+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003139&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD067-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;hieulucbaogia&gt;báo giá trên có hiệu lực trong vòng 15 ngày kể từ ngày báo giá.&lt;/hieulucbaogia&gt;
+    &lt;dieukienthanhtoan&gt;- Hàng có sẵn thanh toán 100% giá trị ngay sau khi nhận được hàng, thời hạn không quá 7 ngày kề từ ngày nghiệm thu hàng hóa.
+ - Hàng đặt phải kí quỹ 30% giá trị đơn hàng ngay sau khi xác nhận đặt hàng. Thanh toán 70% còn lại của đơn hàng trong vòng trong vòng 7 ngày kể từ ngày nghiệm thu hàng hóa.&lt;/dieukienthanhtoan&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81067</ID>
+    <userid>US000001</userid>
+    <date>2019-06-19T21:30:18.99+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81068</ID>
+    <userid>US000001</userid>
+    <date>2019-06-19T21:30:37.9+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003140</object>
+    <caption>QS003140</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-19T21:30:25+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-19T21:30:25+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003140&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD068-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81069</ID>
+    <userid>US000024</userid>
+    <date>2019-06-20T22:56:01.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81070</ID>
+    <userid>US000001</userid>
+    <date>2019-06-20T22:58:10.073+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81071</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:02:51.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81376</ID>
+    <userid>US000024</userid>
+    <date>2019-06-30T22:06:30.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81377</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:07:10.533+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81378</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:10:45.363+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003141</object>
+    <caption>QS003141</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-30T22:07:16+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-30T22:07:16+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000005&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003141&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;EMP000029001-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000621&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000029&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81379</ID>
+    <userid>US000012</userid>
+    <date>2019-06-30T22:13:30.257+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81380</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:14:09.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81381</ID>
+    <userid>US000001</userid>
+    <date>2019-06-30T22:15:20.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81382</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:18:33.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81383</ID>
+    <userid>US000022</userid>
+    <date>2019-06-30T22:19:41.53+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003142</object>
+    <caption>QS003142</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-06-30T22:18:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-06-30T22:18:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003142&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;KN025-0619/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000029&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81384</ID>
+    <userid>US000001</userid>
+    <date>2019-06-30T22:24:36.793+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

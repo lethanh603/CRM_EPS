@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>13840</ID>
+    <userid>US000001</userid>
+    <date>2015-05-05T22:18:52.787+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

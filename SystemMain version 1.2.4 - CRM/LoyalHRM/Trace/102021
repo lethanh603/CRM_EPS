@@ -1,0 +1,113 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>92244</ID>
+    <userid>US000001</userid>
+    <date>2021-10-15T17:17:04.853+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92245</ID>
+    <userid>US000001</userid>
+    <date>2021-10-28T17:35:42.233+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92246</ID>
+    <userid>US000001</userid>
+    <date>2021-10-28T17:40:02.42+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.4.7</object>
+    <caption>Tổng hợp báo giá 2</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.4.7&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Tổng hợp báo giá 2&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.4&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_reports_S&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION_EPS&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92247</ID>
+    <userid>US000001</userid>
+    <date>2021-10-28T17:41:04.347+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.4.8</object>
+    <caption>Phân loại sản phẩm</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.4.8&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Phân loại sản phẩm&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.4&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_reports_quotation_type_S&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION_EPS&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92248</ID>
+    <userid>US000001</userid>
+    <date>2021-10-28T17:42:35.213+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92249</ID>
+    <userid>US000022</userid>
+    <date>2021-10-28T17:43:45.68+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92250</ID>
+    <userid>US000001</userid>
+    <date>2021-10-30T12:56:51.343+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

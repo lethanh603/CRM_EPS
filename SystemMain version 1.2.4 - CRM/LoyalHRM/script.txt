@@ -1,0 +1,6 @@
+frm_VOXEINFO_S	chk_bacdanvoxe_I6	CheckEdit	1		True	bacdanvoxe	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL	NULL
+
+bacdanvoxe bit
+
+frmListCustomer	iddevice/idbrand/thongso/quantity/xuatxu/note/	Mã VX/Hiệu(Brand)/Thông số/Số lượng/Xuất xứ/Ghi chú/	iddevice/idbrand/thongso/quantity/xuatxu/note/	TextColumn/GridLookupEditColumn/TextColumn/SpinEditColumn/TextColumn/MemoColumn/	80/200/220/100/100/300/	False/False/False/False/False/False/	True/True/True/True/True/True/				@@	@@		0	select idbrand,brand  from dmbrand where idbrandtype='BT000002'/	brand/	idbrand/	Mã NH/Nhãn hiệu/@	idbrand/brand/@		0		frmListCustomer	gv_voxe_C
+frmListCustomer	iddevice/idbrand/thongso/quantity/xuatxu/note/	Mã BĐ/Hiệu(Brand)/Thông số/Số lượng/Xuất xứ/Ghi chú/	iddevice/idbrand/thongso/quantity/xuatxu/note/	TextColumn/GridLookupEditColumn/TextColumn/SpinEditColumn/TextColumn/MemoColumn/	80/200/220/100/100/300/	False/False/False/False/False/False/	True/True/True/True/True/True/				@@	@@		0	select idbrand,brand  from dmbrand where idbrandtype='BT000002'/	brand/	idbrand/	Mã NH/Nhãn hiệu/@	idbrand/brand/@		0		frmListCustomer	gv_bacdan_C

@@ -1,0 +1,2373 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>56735</ID>
+    <userid>US000001</userid>
+    <date>2017-02-03T12:33:01.527+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56736</ID>
+    <userid>US000001</userid>
+    <date>2017-02-03T20:48:15.057+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56737</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T22:37:55.707+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56738</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:37:33.927+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000021</object>
+    <caption>Thanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000021&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000021&lt;/Sign&gt;
+    &lt;identitycard&gt;3213131231&lt;/identitycard&gt;
+    &lt;StaffName&gt;Thanh&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000021@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2017-02-07T23:37:14+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2017-02-07T23:37:14+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;true&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56739</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:38:07.897+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>56740</ID>
+    <userid>US000016</userid>
+    <date>2017-02-07T23:38:16.693+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56741</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:38:31.123+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56742</ID>
+    <userid>US000016</userid>
+    <date>2017-02-07T23:38:57.317+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56743</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:39:16.89+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56744</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:40:42.973+07:00</date>
+    <idform>frm_DMCAMPAIGN_S</idform>
+    <status>0</status>
+    <object>CD000066</object>
+    <caption>Cho thue thiet bi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCAMPAIGN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCAMPAIGN&gt;
+    &lt;todate&gt;2017-02-07T23:39:26+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-07T23:39:26+07:00&lt;/fromdate&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;sign&gt;CHOTHUETB&lt;/sign&gt;
+    &lt;campaign&gt;Cho thue thiet bi&lt;/campaign&gt;
+    &lt;frequency&gt;1&lt;/frequency&gt;
+    &lt;remind&gt;false&lt;/remind&gt;
+    &lt;dateremind&gt;2017-02-07T23:39:26+07:00&lt;/dateremind&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;unlimited&gt;true&lt;/unlimited&gt;
+  &lt;/DMCAMPAIGN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56745</ID>
+    <userid>US000016</userid>
+    <date>2017-02-07T23:40:54.207+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56746</ID>
+    <userid>US000006</userid>
+    <date>2017-02-07T23:42:35.59+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56747</ID>
+    <userid>US000001</userid>
+    <date>2017-02-07T23:42:51.763+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56748</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T00:21:43.853+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56749</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T00:24:13.08+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002342</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002342&lt;/idcontact&gt;
+    &lt;sign&gt;KH002342&lt;/sign&gt;
+    &lt;address&gt;123&lt;/address&gt;
+    &lt;contactname&gt;123&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56750</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T00:24:19.517+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000664</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH002342&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-08T00:23:44+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-08T00:23:44+07:00&lt;/fromdate&gt;
+    &lt;process&gt;10&lt;/process&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000007&lt;/idtask&gt;
+    &lt;idcammiss&gt;CM000664&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56751</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T00:26:40.523+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000665</object>
+    <caption>xuantung71@yahoo.com.vn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH000016&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-08T00:26:20+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-08T00:26:20+07:00&lt;/fromdate&gt;
+    &lt;process&gt;30&lt;/process&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000010&lt;/idtask&gt;
+    &lt;idcammiss&gt;CM000665&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56752</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T00:26:46.05+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000664</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH002342&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-08T00:23:44+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-08T00:23:44+07:00&lt;/fromdate&gt;
+    &lt;process&gt;40&lt;/process&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000007&lt;/idtask&gt;
+    &lt;note /&gt;
+    &lt;idcammiss&gt;CM000664&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56753</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T00:27:06.563+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56754</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T22:20:11.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56755</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T22:21:47.07+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000666</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH002342&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-08T22:21:30+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-08T22:21:30+07:00&lt;/fromdate&gt;
+    &lt;process&gt;50&lt;/process&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000007&lt;/idtask&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;idcammiss&gt;CM000666&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56756</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T22:21:53.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56757</ID>
+    <userid>US000006</userid>
+    <date>2017-02-08T22:23:33.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56758</ID>
+    <userid>US000006</userid>
+    <date>2017-02-08T22:23:54.387+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000667</object>
+    <caption>ngoc.ht@vinacafebienhoa.com</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH001487&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-08T22:23:52+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-08T22:23:52+07:00&lt;/fromdate&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000007&lt;/idtask&gt;
+    &lt;idcammiss&gt;CM000667&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000576&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56759</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T22:24:00.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56760</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T22:24:38.223+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56761</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T22:27:14.713+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000008</object>
+    <caption>KH000001</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;5000000&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2017-02-08T22:26:40+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000008&lt;/iddoithu&gt;
+    &lt;sign&gt;DT000008&lt;/sign&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;tendoithu&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/tendoithu&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000023_QS001460&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56762</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T22:27:30.93+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001460</object>
+    <caption>QS001460</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;30&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-08T22:24:44+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-03-10T22:24:44+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000021&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001460&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;EMP000021001-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;32 Lys thai to&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-08T22:24:44+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-08T22:24:44+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;thoigiantt&gt;30&lt;/thoigiantt&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56763</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T22:28:14.737+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56764</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T22:34:49.517+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56765</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:22:17.35+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56766</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:30:12.223+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56767</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:30:27.043+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000013</object>
+    <caption>Bánh đặc Nexen</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;4400000&lt;/price&gt;
+    &lt;cogs&gt;4200000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000013&lt;/idcommodity&gt;
+    &lt;note&gt;Xuất xứ: Hàn Quốc&lt;/note&gt;
+    &lt;sign&gt;Nexen&lt;/sign&gt;
+    &lt;commodity&gt;Bánh đặc Nexen&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;spec&gt;18 * 7 - 8&lt;/spec&gt;
+    &lt;model /&gt;
+    &lt;equipmentinfo&gt;XE NÂNG ĐIỆN 1,5 TẤN TCM&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;6&lt;/baohanh&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56768</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:38:02.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56769</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:43:54.983+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56770</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:45:06.353+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000009</object>
+    <caption>KH000008</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;0&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2017-02-08T23:44:15+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000009&lt;/iddoithu&gt;
+    &lt;sign&gt;DT000009&lt;/sign&gt;
+    &lt;tel&gt;(84) 773-616 448&lt;/tel&gt;
+    &lt;tendoithu&gt;Công ty Cổ Phần Gas Việt Nhật-Chi Nhánh Mỹ Xuân&lt;/tendoithu&gt;
+    &lt;address&gt;KHU CÔNG NGHIỆP MỸ XUÂN A, HUYỆN TÂN THÀNH, TỈNH BÀ RỊA - VŨNG TÀU&lt;/address&gt;
+    &lt;idcustomer&gt;KH000008&lt;/idcustomer&gt;
+    &lt;idcommodity&gt;HH000013&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000013_QS001461&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56771</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:45:10.47+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001461</object>
+    <caption>QS001461</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-08T23:44:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-08T23:44:00+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001461&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD001-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-08T23:44:00+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-08T23:44:00+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56772</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T23:52:17.837+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56773</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T23:52:34.38+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001462</object>
+    <caption>QS001462</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-08T23:52:25+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-08T23:52:25+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000021&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001462&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;EMP000021002-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-08T23:52:25+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-08T23:52:25+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56774</ID>
+    <userid>US000001</userid>
+    <date>2017-02-08T23:54:39.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56775</ID>
+    <userid>US000016</userid>
+    <date>2017-02-08T23:58:52.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56776</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:00:49.697+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56777</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:01:59.86+07:00</date>
+    <idform>frm_DMTASK_S</idform>
+    <status>0</status>
+    <object>TA000011</object>
+    <caption>TIM KIEM KHACH HANG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMTASK</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTASK&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idtask&gt;TA000011&lt;/idtask&gt;
+    &lt;sign&gt;TA000011&lt;/sign&gt;
+    &lt;taskname&gt;TIM KIEM KHACH HANG&lt;/taskname&gt;
+  &lt;/DMTASK&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTASK</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56778</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T00:03:27.123+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56779</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T00:03:48.317+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000668</object>
+    <caption>klsmat2003@gmail.com</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH000279&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-10T00:03:41+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-10T00:03:41+07:00&lt;/fromdate&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000011&lt;/idtask&gt;
+    &lt;idcammiss&gt;CM000668&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000102&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56780</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:04:21.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56781</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T00:05:46.67+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000010</object>
+    <caption>KH000008</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;400000&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2017-02-10T00:05:34+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000010&lt;/iddoithu&gt;
+    &lt;sign&gt;DT000010&lt;/sign&gt;
+    &lt;tel&gt;(84) 773-616 448&lt;/tel&gt;
+    &lt;tendoithu&gt;Công ty Cổ Phần Gas Việt Nhật-Chi Nhánh Mỹ Xuân&lt;/tendoithu&gt;
+    &lt;address&gt;KHU CÔNG NGHIỆP MỸ XUÂN A, HUYỆN TÂN THÀNH, TỈNH BÀ RỊA - VŨNG TÀU&lt;/address&gt;
+    &lt;idcustomer&gt;KH000008&lt;/idcustomer&gt;
+    &lt;idcommodity&gt;HH000016&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000016_QS001463&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56782</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T00:06:27.563+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001463</object>
+    <caption>QS001463</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-10T00:03:59+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-10T00:03:59+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000102&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000021&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001463&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;EMP000021003-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000279&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-10T00:03:59+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-10T00:03:59+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56783</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:39:07.297+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56784</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:46:12.343+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56785</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:50:41.303+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56786</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T00:54:35.297+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56787</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:04:20.713+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56788</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:09:58.613+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56789</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:23:47.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56790</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:31:24.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56791</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T01:32:06.917+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56792</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:33:25.637+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56793</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T01:34:05.06+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56794</ID>
+    <userid>US000006</userid>
+    <date>2017-02-10T01:35:24.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56795</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:36:14.6+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56796</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:38:40.62+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>tyuiop</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-10T01:38:16+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000006&lt;/idproblemdetail&gt;
+    &lt;solution&gt;tyuiop&lt;/solution&gt;
+    &lt;note&gt;567890&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56797</ID>
+    <userid>US000016</userid>
+    <date>2017-02-10T01:46:37.863+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56798</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:47:03.04+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56799</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:58:06.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56800</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T01:58:26.083+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>tyuiop</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-10T01:38:16+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000006&lt;/idproblemdetail&gt;
+    &lt;solution&gt;tyuiop&lt;/solution&gt;
+    &lt;note&gt;567890&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;issupport&gt;1&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56801</ID>
+    <userid>US000001</userid>
+    <date>2017-02-10T02:03:51.12+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>123ee</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-01-21T17:03:35+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000004&lt;/idproblemdetail&gt;
+    &lt;solution&gt;123ee&lt;/solution&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56802</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T07:59:07.643+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56803</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T08:00:35.36+07:00</date>
+    <idform>frm_POHISTORY_S</idform>
+    <status>0</status>
+    <object>HS000158</object>
+    <caption>Theo dõi PO</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>POHISTORY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;POHISTORY&gt;
+    &lt;idpohistory&gt;HS000158&lt;/idpohistory&gt;
+    &lt;procedurename&gt;Theo dõi PO&lt;/procedurename&gt;
+    &lt;pos&gt;1&lt;/pos&gt;
+    &lt;idemprequire&gt;EMP000009&lt;/idemprequire&gt;
+    &lt;idempaction&gt;EMP000009&lt;/idempaction&gt;
+    &lt;dateend&gt;2017-02-25T00:00:00+07:00&lt;/dateend&gt;
+    &lt;vouchers /&gt;
+    &lt;proplem&gt;333&lt;/proplem&gt;
+    &lt;causal&gt;333&lt;/causal&gt;
+    &lt;solution&gt;33&lt;/solution&gt;
+    &lt;idstatusprocedure&gt;ST000001&lt;/idstatusprocedure&gt;
+    &lt;note&gt;33&lt;/note&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idquotation&gt;QS001463&lt;/idquotation&gt;
+    &lt;chiphi&gt;400000.0000&lt;/chiphi&gt;
+    &lt;tamung&gt;500000.0000&lt;/tamung&gt;
+    &lt;idprocedure&gt;PD000007&lt;/idprocedure&gt;
+    &lt;daterequire&gt;2017-02-11T00:00:00+07:00&lt;/daterequire&gt;
+  &lt;/POHISTORY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56804</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T08:16:01.903+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56805</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:26:46.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56806</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:29:16.593+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>0</status>
+    <object>VT000005</object>
+    <caption>NVKH</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>56807</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:29:27.357+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>56808</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:29:36.957+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>56809</ID>
+    <userid>US000016</userid>
+    <date>2017-02-11T09:29:49.36+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56810</ID>
+    <userid>US000016</userid>
+    <date>2017-02-11T09:30:30.737+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>xxx</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idemppre&gt;EMP000021&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-02-11T09:30:13+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;problem&gt;xxx&lt;/problem&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idpre&gt;CM000668&lt;/idpre&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56811</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:30:36.88+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56812</ID>
+    <userid>US000016</userid>
+    <date>2017-02-11T09:30:58.897+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56813</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:32:34.273+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56814</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:49:28.623+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>vaans dde</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idemppre&gt;EMP000008&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-01-21T17:55:17+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;problem&gt;vaans dde&lt;/problem&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre&gt;QS001455&lt;/idpre&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56815</ID>
+    <userid>US000016</userid>
+    <date>2017-02-11T09:50:38.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56816</ID>
+    <userid>US000016</userid>
+    <date>2017-02-11T09:51:08.567+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>nhinh giải quyet nha</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idemppre&gt;EMP000008&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-02-11T09:50:52+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;problem&gt;nhinh giải quyet nha&lt;/problem&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idpre&gt;CM000666&lt;/idpre&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56817</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:51:16.393+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56818</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:51:45.51+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>da lam gi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:51:32+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000007&lt;/idproblemdetail&gt;
+    &lt;solution&gt;da lam gi&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56819</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:51:57.877+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>da lam gi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:51:32+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000007&lt;/idproblemdetail&gt;
+    &lt;solution&gt;da lam gi&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;1&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56820</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:52:11.267+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>da lam gi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:51:32+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000007&lt;/idproblemdetail&gt;
+    &lt;solution&gt;da lam gi&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;1&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56821</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:52:54.947+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>da lam gi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:51:32+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000007&lt;/idproblemdetail&gt;
+    &lt;solution&gt;da lam gi&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56822</ID>
+    <userid>US000006</userid>
+    <date>2017-02-11T09:57:15.667+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>da lam gi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:51:32+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000007&lt;/idproblemdetail&gt;
+    &lt;solution&gt;da lam gi&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56823</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T09:57:59.61+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56824</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T10:00:03.89+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000008</object>
+    <caption>rrwerw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T09:59:57+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000008&lt;/idproblemdetail&gt;
+    &lt;solution&gt;rrwerw&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;process&gt;20&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56825</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T10:01:19.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56826</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T10:01:32.903+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000009</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-02-11T10:01:29+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000009&lt;/idproblemdetail&gt;
+    &lt;solution&gt;rewrw&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56827</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T12:38:19.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56828</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T12:38:32.517+07:00</date>
+    <idform>frm_MISSION_S</idform>
+    <status>0</status>
+    <object>CM000669</object>
+    <caption>klsmat2003@gmail.com</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>MISSION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;MISSION&gt;
+    &lt;idcontact&gt;KH000279&lt;/idcontact&gt;
+    &lt;todate&gt;2017-02-11T12:38:30+07:00&lt;/todate&gt;
+    &lt;fromdate&gt;2017-02-11T12:38:30+07:00&lt;/fromdate&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idtask&gt;TA000007&lt;/idtask&gt;
+    &lt;idcammiss&gt;CM000669&lt;/idcammiss&gt;
+    &lt;idcampaign&gt;CD000066&lt;/idcampaign&gt;
+    &lt;idcustomer&gt;KH000102&lt;/idcustomer&gt;
+  &lt;/MISSION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCAMPAIGN</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56829</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T12:57:32.177+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56830</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T14:06:51.9+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56831</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T14:37:20.507+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001464</object>
+    <caption>QS001464</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-11T14:37:12+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-11T14:37:12+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001464&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD002-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-11T14:37:12+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-11T14:37:12+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56832</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T14:38:22.057+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001465</object>
+    <caption>QS001465</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-11T14:38:12+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-11T14:38:12+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001465&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD003-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;32 Lys thai to&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000799&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-11T14:38:12+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-11T14:38:12+07:00&lt;/datedelivery&gt;
+    &lt;dieukhoan&gt;xxxx&lt;/dieukhoan&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;thoigiantt&gt;30&lt;/thoigiantt&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56833</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T14:50:53.59+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56834</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T15:01:29.123+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56835</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T15:09:40.313+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56836</ID>
+    <userid>US000001</userid>
+    <date>2017-02-11T15:11:46.673+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56837</ID>
+    <userid>US000001</userid>
+    <date>2017-02-15T22:31:57.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56838</ID>
+    <userid>US000001</userid>
+    <date>2017-02-16T23:18:22.647+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56839</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T04:57:31.293+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56840</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T05:37:04.657+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56841</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T05:59:46.207+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56842</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:07:23.557+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56843</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:22:50.76+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56844</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:23:40.263+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001466</object>
+    <caption>QS001466</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-18T06:23:30+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-18T06:23:30+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001466&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD004-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Số 6A, đường 17A, KCN Biên Hòa II, Phường An Bình , Thành phố Biên Hoà, Tỉnh Đồng Nai, Việt Nam&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-18T06:23:30+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-18T06:23:30+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56845</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:28:22.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56846</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:35:58.157+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001467</object>
+    <caption>QS001467</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-02-18T06:35:48+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-18T06:35:48+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001467&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD005-0217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Số 6A, đường 17A, KCN Biên Hòa II, Phường An Bình , Thành phố Biên Hoà, Tỉnh Đồng Nai, Việt Nam&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-18T06:35:48+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-18T06:35:48+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56847</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:39:04.77+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56848</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:45:06.53+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56849</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:56:20.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56850</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T06:59:48.893+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56851</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T07:16:44.553+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56852</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T09:41:16.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56853</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T09:49:53.49+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56854</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T09:58:05.737+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56855</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T10:12:18.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56856</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T10:14:48.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56857</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T10:22:11.03+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56858</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T10:30:57.74+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56859</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T11:08:36.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56860</ID>
+    <userid>US000001</userid>
+    <date>2017-02-18T12:36:19.637+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56861</ID>
+    <userid>US000001</userid>
+    <date>2017-02-20T06:42:42.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56862</ID>
+    <userid>US000001</userid>
+    <date>2017-02-23T23:06:44.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56863</ID>
+    <userid>US000001</userid>
+    <date>2017-02-23T23:13:19.75+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001468</object>
+    <caption>QS001468</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2015-11-18T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-02-23T23:07:01+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000531&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001468&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AV105-1115/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;32 ĐẶNG VĂN BI, PHƯỜNG TRƯỜNG THỌ, QUẬN THỦ ĐỨC, TP. HCM&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000394&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 06 tháng  theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-02-23T23:07:01+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-02-23T23:07:01+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56864</ID>
+    <userid>US000001</userid>
+    <date>2017-02-23T23:13:53.133+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56865</ID>
+    <userid>US000001</userid>
+    <date>2017-02-24T00:38:23.02+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56866</ID>
+    <userid>US000001</userid>
+    <date>2017-02-24T00:44:05.64+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56867</ID>
+    <userid>US000001</userid>
+    <date>2017-02-24T00:48:48.523+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56868</ID>
+    <userid>US000001</userid>
+    <date>2017-02-25T01:17:06.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56869</ID>
+    <userid>US000001</userid>
+    <date>2017-02-25T08:19:46.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56870</ID>
+    <userid>US000001</userid>
+    <date>2017-02-25T08:39:18.133+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56871</ID>
+    <userid>US000001</userid>
+    <date>2017-02-25T14:12:12.07+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

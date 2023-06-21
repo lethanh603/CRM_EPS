@@ -1,0 +1,73 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>92240</ID>
+    <userid>US000001</userid>
+    <date>2021-09-27T20:19:43.117+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92241</ID>
+    <userid>US000001</userid>
+    <date>2021-09-27T20:21:12.11+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92242</ID>
+    <userid>US000022</userid>
+    <date>2021-09-30T16:20:09.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92243</ID>
+    <userid>US000022</userid>
+    <date>2021-09-30T16:20:26.58+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS000167</object>
+    <caption>QS000167</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2021-09-30T16:20:16+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000167&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BPT001-0921/KN/NC-CH&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000029&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;address&gt;Số 33 Đại lộ Tự Do, KCN Việt Nam - Singapore, Phường Thuận Giao, TX Thuận An, Bình Dương&lt;/address&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+</NewDataSet>

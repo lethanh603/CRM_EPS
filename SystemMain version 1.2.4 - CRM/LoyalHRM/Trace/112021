@@ -1,0 +1,330 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>92251</ID>
+    <userid>US000001</userid>
+    <date>2021-11-13T10:40:21.457+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92252</ID>
+    <userid>US000001</userid>
+    <date>2021-11-27T11:21:56.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92253</ID>
+    <userid>US000001</userid>
+    <date>2021-11-27T11:54:09.43+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92254</ID>
+    <userid>US000022</userid>
+    <date>2021-11-27T11:55:20.347+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92255</ID>
+    <userid>US000001</userid>
+    <date>2021-11-27T11:56:44.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92256</ID>
+    <userid>US000001</userid>
+    <date>2021-11-27T11:58:12.417+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000010</object>
+    <caption>Goi dien khach hang</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatus&gt;ST000010&lt;/idstatus&gt;
+    &lt;sign&gt;ST000010&lt;/sign&gt;
+    &lt;statusname&gt;Goi dien khach hang&lt;/statusname&gt;
+    &lt;iscall&gt;true&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92257</ID>
+    <userid>US000022</userid>
+    <date>2021-11-27T11:59:08.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92258</ID>
+    <userid>US000022</userid>
+    <date>2021-11-27T11:59:27.71+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH006358</object>
+    <caption>Tesst</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;description&gt;Tesst&lt;/description&gt;
+    &lt;idcontact&gt;KH000619&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000010&lt;/idstatus&gt;
+    &lt;idplan&gt;KH006358&lt;/idplan&gt;
+    &lt;sign&gt;KH006358&lt;/sign&gt;
+    &lt;datecontact&gt;2021-11-27T11:59:15+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000029&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;description2&gt;tesst&lt;/description2&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92259</ID>
+    <userid>US000022</userid>
+    <date>2021-11-27T12:02:47.907+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92260</ID>
+    <userid>US000022</userid>
+    <date>2021-11-27T12:04:36.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92261</ID>
+    <userid>US000001</userid>
+    <date>2021-11-28T08:12:30.357+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92262</ID>
+    <userid>US000001</userid>
+    <date>2021-11-28T08:13:49.06+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000010</object>
+    <caption>Khách không nghe máy</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatus&gt;ST000010&lt;/idstatus&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ST000010&lt;/sign&gt;
+    &lt;statusname&gt;Khách không nghe máy&lt;/statusname&gt;
+    &lt;idcolor /&gt;
+    &lt;iscall&gt;true&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92263</ID>
+    <userid>US000001</userid>
+    <date>2021-11-28T08:14:18.607+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000011</object>
+    <caption>Khách nghe máy, hẹn liêu lạc lại sau</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatus&gt;ST000011&lt;/idstatus&gt;
+    &lt;sign&gt;ST000011&lt;/sign&gt;
+    &lt;statusname&gt;Khách nghe máy, hẹn liêu lạc lại sau&lt;/statusname&gt;
+    &lt;iscall&gt;true&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92264</ID>
+    <userid>US000001</userid>
+    <date>2021-11-28T08:15:27.883+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000012</object>
+    <caption>Đang chắm sóc, chỉ trao đổi thông thường, chưa xuất hiện nhu cầu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatus&gt;ST000012&lt;/idstatus&gt;
+    &lt;sign&gt;ST000012&lt;/sign&gt;
+    &lt;statusname&gt;Đang chắm sóc, chỉ trao đổi thông thường, chưa xuất hiện nhu cầu&lt;/statusname&gt;
+    &lt;iscall&gt;true&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92265</ID>
+    <userid>US000001</userid>
+    <date>2021-11-28T08:15:53.797+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000013</object>
+    <caption>Cần nhập phiếu nhu cầu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatus&gt;ST000013&lt;/idstatus&gt;
+    &lt;sign&gt;ST000013&lt;/sign&gt;
+    &lt;statusname&gt;Cần nhập phiếu nhu cầu&lt;/statusname&gt;
+    &lt;iscall&gt;true&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92266</ID>
+    <userid>US000022</userid>
+    <date>2021-11-28T08:19:40.653+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92267</ID>
+    <userid>US000022</userid>
+    <date>2021-11-28T08:20:11.13+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH006359</object>
+    <caption>ok</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;description&gt;ok&lt;/description&gt;
+    &lt;idcontact&gt;KH000619&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000011&lt;/idstatus&gt;
+    &lt;idplan&gt;KH006359&lt;/idplan&gt;
+    &lt;sign&gt;KH006359&lt;/sign&gt;
+    &lt;datecontact&gt;2021-11-28T08:20:01+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000029&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;description2&gt;k&lt;/description2&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92268</ID>
+    <userid>US000022</userid>
+    <date>2021-11-28T08:48:04.897+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92269</ID>
+    <userid>US000022</userid>
+    <date>2021-11-28T09:03:13.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92270</ID>
+    <userid>US000001</userid>
+    <date>2021-11-29T17:50:04.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

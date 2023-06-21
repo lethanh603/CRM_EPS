@@ -1,0 +1,939 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>52680</ID>
+    <userid>US000001</userid>
+    <date>2018-01-05T06:20:27.467+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52681</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T11:56:58.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52682</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T12:40:37.247+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52683</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T12:42:44.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52684</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T12:46:21.54+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52685</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T12:58:29.3+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52686</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T13:10:34.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52687</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T13:13:34.96+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52688</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T13:17:37.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52689</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T13:42:25.277+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52690</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T13:51:29.123+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52691</ID>
+    <userid>US000016</userid>
+    <date>2018-01-06T13:52:11.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52692</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T14:00:02.913+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52693</ID>
+    <userid>US000016</userid>
+    <date>2018-01-06T14:00:33.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52694</ID>
+    <userid>US000018</userid>
+    <date>2018-01-06T14:01:50.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52695</ID>
+    <userid>US000016</userid>
+    <date>2018-01-06T14:02:52.657+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52696</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T14:03:50.003+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52697</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T14:07:25.25+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52698</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T14:10:47.723+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52699</ID>
+    <userid>US000001</userid>
+    <date>2018-01-06T14:14:30.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52700</ID>
+    <userid>US000001</userid>
+    <date>2018-01-10T00:39:08.847+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52701</ID>
+    <userid>US000016</userid>
+    <date>2018-01-10T00:44:50.3+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52702</ID>
+    <userid>US000001</userid>
+    <date>2018-01-12T00:00:17.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52703</ID>
+    <userid>US000016</userid>
+    <date>2018-01-12T00:06:02.617+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52704</ID>
+    <userid>US000016</userid>
+    <date>2018-01-12T00:07:38.28+07:00</date>
+    <idform>frm_survey_S</idform>
+    <status>0</status>
+    <object>KS000008</object>
+    <caption>KS000008</caption>
+    <action>F4 Lưu - In</action>
+    <computer>HOME-PC</computer>
+    <tableName>survey</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;survey&gt;
+    &lt;dateaction&gt;2018-01-12T00:07:25+07:00&lt;/dateaction&gt;
+    &lt;daterequest&gt;2018-01-12T00:07:25+07:00&lt;/daterequest&gt;
+    &lt;note&gt;fsfs&lt;/note&gt;
+    &lt;description&gt;fsf&lt;/description&gt;
+    &lt;spec&gt;dsfsfdsf&lt;/spec&gt;
+    &lt;content&gt;fdsf&lt;/content&gt;
+    &lt;sex&gt;0&lt;/sex&gt;
+    &lt;useraction&gt;fsf&lt;/useraction&gt;
+    &lt;userrequest&gt;fsdf&lt;/userrequest&gt;
+    &lt;surveyno&gt;KS000008&lt;/surveyno&gt;
+    &lt;sign&gt;sdfs&lt;/sign&gt;
+    &lt;idsurvey&gt;KS000008&lt;/idsurvey&gt;
+    &lt;address&gt;Số 18 A1, ngõ 51, đường Nguyễn Khoái - Phường Bạch Đằng - Quận Hai Bà Trưng - Hà Nội&lt;/address&gt;
+    &lt;contact&gt;fsdsfsf&lt;/contact&gt;
+    &lt;idcommodity&gt;HH000773&lt;/idcommodity&gt;
+    &lt;idquotation&gt;QS002317&lt;/idquotation&gt;
+  &lt;/survey&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52705</ID>
+    <userid>US000001</userid>
+    <date>2018-01-12T00:28:11.86+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52706</ID>
+    <userid>US000016</userid>
+    <date>2018-01-12T00:28:27.407+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52707</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T10:39:47.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52708</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T13:21:31.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52709</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T13:44:26.45+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52710</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T14:39:14.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52711</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T14:49:12.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52712</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T15:36:36.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52713</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T15:54:50.85+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52714</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:00:17.4+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52715</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:12:46.283+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52716</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:19:21.38+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52717</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:35:03.867+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52718</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:36:05.267+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52719</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:40:16.97+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52720</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T16:48:10.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52721</ID>
+    <userid>US000001</userid>
+    <date>2018-01-13T17:02:05.733+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52722</ID>
+    <userid>US000001</userid>
+    <date>2018-01-20T11:13:55.213+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52723</ID>
+    <userid>US000001</userid>
+    <date>2018-01-20T12:37:36.09+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52724</ID>
+    <userid>US000001</userid>
+    <date>2018-01-20T12:38:56.54+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52725</ID>
+    <userid>US000001</userid>
+    <date>2018-01-20T13:40:25.277+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52726</ID>
+    <userid>US000001</userid>
+    <date>2018-01-20T14:47:09.397+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52727</ID>
+    <userid>US000001</userid>
+    <date>2018-01-21T13:59:50.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52728</ID>
+    <userid>US000001</userid>
+    <date>2018-01-21T23:57:45.783+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52729</ID>
+    <userid>US000001</userid>
+    <date>2018-01-27T00:28:41.143+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52730</ID>
+    <userid>US000001</userid>
+    <date>2018-01-28T20:34:14.05+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52731</ID>
+    <userid>US000001</userid>
+    <date>2018-01-28T22:23:03.5+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52732</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:24:06.87+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52733</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:30:12.777+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.4.3</object>
+    <caption>Báo cáo doanh số tổng hợp</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>HOME-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.4.3&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo doanh số tổng hợp&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;14.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmReportDoanhSoBaoGia&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52734</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:33:18.283+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>12.1.4</object>
+    <caption>Báo cáo hàng hóa tổng hợp</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>HOME-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;12.1.4&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo hàng hóa tổng hợp&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.4&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmListPO&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52735</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:40:47.923+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>12.1.5</object>
+    <caption>Báo cáo tổng hợp sản phẩm</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>HOME-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;12.1.5&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo tổng hợp sản phẩm&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.4&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;&amp;lt;exportExcelTeamplate&amp;gt;o__SiteContainer0&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52736</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:45:08.057+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52737</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:49:16.423+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52738</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T00:59:51.58+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52739</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:06:34.82+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52740</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:15:03.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52741</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:17:49.727+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52742</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:19:44.953+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52743</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:24:31.403+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52744</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:27:09.443+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52745</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:28:24.353+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52746</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:31:31.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52747</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:32:48.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52748</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:34:13.163+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52749</ID>
+    <userid>US000016</userid>
+    <date>2018-01-29T01:35:22.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52750</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:39:43.38+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52751</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:41:09.447+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52752</ID>
+    <userid>US000001</userid>
+    <date>2018-01-29T01:42:51.493+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

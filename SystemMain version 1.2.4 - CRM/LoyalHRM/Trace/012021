@@ -1,0 +1,2244 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>91297</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:32:30.957+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91298</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:32:48.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91299</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:33:36.783+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-08T08:33:17+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/AD/NC&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91300</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:39:47.607+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000052</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000007&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000052&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000052&lt;/Sign&gt;
+    &lt;identitycard&gt;12345678&lt;/identitycard&gt;
+    &lt;StaffName&gt;QLDH&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:38:49+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:38:49+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000002&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91301</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:40:42.103+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000053</object>
+    <caption>Kinh doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000052&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000053&lt;/Sign&gt;
+    &lt;StaffName&gt;Kinh doanh&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@EMP000053@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:40:15+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:40:15+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91302</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:41:31.993+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>91303</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:42:06.56+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>91304</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:42:15.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91305</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T08:42:30.53+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91306</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:43:15.81+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91307</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:43:35.197+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91308</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:43:59.333+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000052</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000007&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000052&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;EMP000052&lt;/Sign&gt;
+    &lt;identitycard&gt;12345678&lt;/identitycard&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;QLDH&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:38:49+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:38:49+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000002&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;true&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91309</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:44:11.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91310</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:44:23.95+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91311</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:45:15.863+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000053</object>
+    <caption>Kinh doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000025&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;EMP000053&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000025@EMP000029@EMP000053@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:40:15+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:40:15+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91312</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:45:22.9+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91313</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:47:32.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91314</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:48:55.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91315</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:50:27.72+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91316</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:50:52.483+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91317</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:52:28.74+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91318</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T08:53:46.747+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91319</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:54:13.177+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91320</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:54:37.413+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000052</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000007&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000052&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000052&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;QLDH&lt;/Sign&gt;
+    &lt;identitycard&gt;12345678&lt;/identitycard&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;QLDH&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@EMP000052@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:38:49+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:38:49+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000002&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;true&lt;/ismanager&gt;
+    &lt;ismanagerpo&gt;true&lt;/ismanagerpo&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91321</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:54:47.023+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91322</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:55:13.067+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000053</object>
+    <caption>Kinh doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000025&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;KD&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000025@EMP000029@EMP000053@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:40:15+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:40:15+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91323</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T08:55:24.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91324</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:55:59.76+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91325</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T08:56:24.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91326</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:57:07.357+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91327</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:57:22.163+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000053</object>
+    <caption>Kinh doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000052&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;KD&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@EMP000052@EMP000053@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-08T08:40:15+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-08T08:40:15+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91328</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:58:04.92+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>91329</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T08:58:14.193+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91330</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T08:58:37.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91331</ID>
+    <userid>US000001</userid>
+    <date>2021-01-08T09:01:44.467+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>91332</ID>
+    <userid>US000034</userid>
+    <date>2021-01-08T09:01:54.157+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91333</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T09:02:11.27+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91334</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T09:02:58.697+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-08T09:02:32+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91335</ID>
+    <userid>US000035</userid>
+    <date>2021-01-08T09:09:40.49+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH006891</object>
+    <caption>Bảng kê</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000003&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000015&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH006891&lt;/idcommodity&gt;
+    &lt;sign&gt;HH006891&lt;/sign&gt;
+    &lt;commodity&gt;Bảng kê&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;equipmentinfo&gt;Nhập thông tin từ khách hàng&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;Bang ke&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91336</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T11:31:48.073+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91337</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T11:32:59.537+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91338</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T11:34:57.627+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91339</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T11:40:58.427+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005288</object>
+    <caption>QS005288</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T11:40:27+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000302&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005288&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91340</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T11:45:39.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91341</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:08:11.5+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91342</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:08:46.69+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000054</object>
+    <caption>Kinh doanh 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000052&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;Sign&gt;KD2&lt;/Sign&gt;
+    &lt;StaffName&gt;Kinh doanh 2&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@EMP000052@EMP000054@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-09T12:08:20+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-09T12:08:20+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91343</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:10:32.623+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000054</object>
+    <caption>Kinh doanh 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000052&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;KD2&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh 2&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000052@EMP000052@EMP000054@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-09T12:08:20+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-09T12:08:20+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000052&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91344</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:12:26.01+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000054</object>
+    <caption>Kinh doanh 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;KD2&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh 2&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000054@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-09T12:08:20+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-09T12:08:20+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000052&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91345</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:12:58.703+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>91346</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:15:10.117+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91347</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T12:19:48.937+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:13:15+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91348</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T12:20:42.38+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:20:08+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000273&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91349</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:23:06.653+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000054</object>
+    <caption>Kinh doanh 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;KD2&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Kinh doanh 2&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000054@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2021-01-09T12:08:20+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2021-01-09T12:08:20+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000052&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91350</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T12:28:06.73+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:27:48+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000273&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91351</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:29:13.15+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:28:55+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91352</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:36:17.007+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:35:25.123+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005287&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005286&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:29:13.16+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;2&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91353</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:38:19.883+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:28:55+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;invoice /&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;placedelivery /&gt;
+    &lt;receiver /&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;vuotdinhmuc /&gt;
+    &lt;dieukhoan /&gt;
+    &lt;idmanager /&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;thoigiantt /&gt;
+    &lt;idpotype /&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;pokethua /&gt;
+    &lt;hieulucbaogia /&gt;
+    &lt;dieukienthanhtoan /&gt;
+    &lt;last_modified&gt;2021-01-09T12:36:34.373+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;2&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91354</ID>
+    <userid>US000001</userid>
+    <date>2021-01-09T12:38:38.013+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005288</object>
+    <caption>QS005288</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:36:42.617+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005288&lt;/idexport&gt;
+    &lt;invoice /&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;placedelivery /&gt;
+    &lt;receiver /&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;vuotdinhmuc /&gt;
+    &lt;dieukhoan /&gt;
+    &lt;idmanager /&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;thoigiantt /&gt;
+    &lt;idpotype /&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005286&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;pokethua /&gt;
+    &lt;hieulucbaogia /&gt;
+    &lt;dieukienthanhtoan /&gt;
+    &lt;last_modified&gt;2021-01-09T12:36:34.373+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;2&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91355</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:43:28.113+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:43:16+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91356</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T12:44:15.773+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:43:53+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000273&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91357</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T12:49:28.04+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91358</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:50:03.09+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91359</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:50:18.18+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:45:19.113+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005287&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:43:28.117+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;1&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91360</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:51:21.433+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005288</object>
+    <caption>QS005288</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:50:28.597+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005288&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:43:28.117+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;1&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91361</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:52:15.54+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005289</object>
+    <caption>QS005289</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:51:33.353+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005289&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:43:28.117+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;1&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91362</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T12:58:59.087+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005290</object>
+    <caption>QS005290</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T12:57:08.067+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005290&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:43:28.117+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;1&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91363</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:17:02.683+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91364</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:17:18.637+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005291</object>
+    <caption>QS005291</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:02:02.803+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005291&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T12:43:28.117+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;3&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91365</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:18:33.223+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:18:18+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91366</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:20:03.813+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:18:44.04+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:18:33.247+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;6&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91367</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:24:44.96+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91368</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:25:33.34+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:25:21+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91369</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:26:37.383+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:25:45.417+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005286&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB002-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;2&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91370</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:28:23.56+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91371</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:28:59.82+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:28:39.43+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005287&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;3&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91372</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:31:39.447+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005288</object>
+    <caption>QS005288</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:30:46.59+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005288&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB004-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;4&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91373</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:34:34.26+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005289</object>
+    <caption>QS005289</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:32:49.307+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005289&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB005-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;5&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91374</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:36:50.843+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005290</object>
+    <caption>QS005290</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:35:11.593+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005290&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB006-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;6&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91375</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:40:35.967+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005291</object>
+    <caption>QS005291</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:37:50.717+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005291&lt;/idexport&gt;
+    &lt;isdelete&gt;true&lt;/isdelete&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB007-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;invoiceeps /&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;quotationorginal&gt;QS005285&lt;/quotationorginal&gt;
+    &lt;tachbg&gt;true&lt;/tachbg&gt;
+    &lt;gopbg&gt;false&lt;/gopbg&gt;
+    &lt;last_modified&gt;2021-01-09T13:25:33.35+07:00&lt;/last_modified&gt;
+    &lt;index_po&gt;7&lt;/index_po&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91376</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:48:21.903+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91377</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:48:43.62+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:48:31+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000102&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91378</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:49:44.42+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91379</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:52:23.183+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T13:52:14+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91380</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T13:53:14.653+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91381</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:12:24.617+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91382</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T14:13:20.597+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000035</object>
+    <caption>kinhdoanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91383</ID>
+    <userid>US000035</userid>
+    <date>2021-01-09T14:13:50.75+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T14:13:31+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000365&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000053&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005287&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB003-0121/KD/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000053&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91384</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T14:14:35.787+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91385</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T14:38:17.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91386</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:47:18.853+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91387</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:48:45.667+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS005285</object>
+    <caption>QS005285</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2021-01-09T14:47:29+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000054&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS005285&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BTB001-0121/KD2/NC&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000054&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91388</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:51:30.97+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005286</object>
+    <caption>QS005286</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91389</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:53:06.653+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91390</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T14:58:25.86+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91391</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T15:00:16.203+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>2</status>
+    <object>QS005287</object>
+    <caption>QS005287</caption>
+    <action>F3 Xóa</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>91392</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T15:02:29.117+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91393</ID>
+    <userid>US000034</userid>
+    <date>2021-01-09T15:23:55.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000034</object>
+    <caption>qldh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91394</ID>
+    <userid>US000036</userid>
+    <date>2021-01-09T15:32:06.267+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000036</object>
+    <caption>kinhdoanh2</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

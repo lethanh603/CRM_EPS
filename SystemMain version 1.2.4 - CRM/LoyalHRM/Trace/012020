@@ -1,0 +1,80 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>101524</ID>
+    <userid>US000001</userid>
+    <date>2020-01-07T11:28:27.717+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>111524</ID>
+    <userid>US000001</userid>
+    <date>2020-01-15T08:31:23.31+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>111525</ID>
+    <userid>US000001</userid>
+    <date>2020-01-15T08:35:21.46+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH003691</object>
+    <caption>CÔNG TY LIÊN DOANH CANXI CACBONAT YBB</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000001&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH003691&lt;/idcustomer&gt;
+    &lt;sign&gt;KH003691&lt;/sign&gt;
+    &lt;passport&gt;434&lt;/passport&gt;
+    &lt;station&gt;432&lt;/station&gt;
+    &lt;tax&gt;2432432432&lt;/tax&gt;
+    &lt;address&gt;432&lt;/address&gt;
+    &lt;surrogate&gt;4444&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY LIÊN DOANH CANXI CACBONAT YBB&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2020-01-15T08:35:08+07:00&lt;/date2&gt;
+    &lt;date1&gt;2020-01-15T08:35:08+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000001&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>111526</ID>
+    <userid>US000001</userid>
+    <date>2020-01-20T11:51:52.21+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

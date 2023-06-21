@@ -1,0 +1,59 @@
+with temp as ( SELECT       EM.IDEMP idemp, EM.StaffName staffname, COUNT(DISTINCT EC.idcustomer) AS total_customer_count, 
+                      
+                         COUNT(DISTINCT CC.idcustomer) AS customer_takecare, COUNT(DISTINCT EC.idcustomer) - COUNT(DISTINCT ISNULL(CC.idcustomer, 0)) +1 AS customer_not_takecare, 
+                          COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000006')) 
+                         THEN Q.idexport ELSE NULL END) AS required_ch, COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000007')) THEN Q.idexport ELSE NULL END) AS required_tn, 
+                         COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000008')) THEN Q.idexport ELSE NULL END) AS required_ktn, COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000001')) THEN Q.idexport ELSE NULL END) 
+                         AS hg, COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000004')) THEN Q.idexport ELSE NULL END) AS bg, COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000004')) THEN Q.idexport ELSE NULL END) AS po, 
+                         COUNT(DISTINCT CASE WHEN (Q.idstatusquotation IN ('ST000005')) THEN Q.idexport ELSE NULL END) AS tb, 
+                           TT.total_bg, 
+                        TT.total_po,
+                        TT.total_lost
+                        FROM            dbo.EMPLOYEES AS EM WITH (nolock) LEFT OUTER JOIN
+                                                     (
+								                        SELECT       Q.dateimport, Q.idcustomer, Q.IDEMP, Q.idexport, Q.invoice, Q.idstatusquotation, Q.idquotationtype, Q.quotationno, Q.invoiceeps, Q.datepo, Q.idemppo, Q.idpotype, Q.last_modified, Q.index_po, SUM(D.amount) 
+                                                                                 AS total
+                                                       FROM             dbo.QUOTATION AS Q WITH (nolock) INNER JOIN
+                                                                                 dbo.QUOTATIONDETAIL AS D WITH (nolock) ON Q.idexport = D.idexport
+								                        Where  cast( Q.dateimport as date) between '2022-03-01' and '2022-03-13'
+                                                       GROUP BY  Q.dateimport, Q.idcustomer, Q.IDEMP, Q.idexport, Q.invoice, Q.idstatusquotation, Q.idquotationtype, Q.quotationno, 
+							                           Q.invoiceeps, Q.datepo, Q.idemppo, Q.idpotype, Q.last_modified, Q.index_po
+							                           ) AS Q ON 
+                                                 EM.IDEMP = Q.idemppo LEFT OUTER JOIN
+                                                 dbo.EMPCUS AS EC WITH (nolock) ON EM.IDEMP = EC.idemp AND EC.status = 'true' LEFT OUTER JOIN
+                                                 dbo.DMCUSTOMERS AS C WITH (nolock) ON EC.idcustomer = C.idcustomer LEFT OUTER JOIN
+                                                 dbo.PLANCRM AS CC WITH (nolock) ON C.idcustomer = CC.idcustomer AND CC.idemp = EM.IDEMP
+												 left join
+												 (
+												  SELECT     Q.idemppo,     
+												  SUM( case when idstatusquotation='ST000002' then  D.amount  else 0 end)   AS total_bg,
+												  SUM( case when idstatusquotation='ST000004' then  D.amount  else 0 end)   AS total_po,
+												  SUM( case when idstatusquotation='ST000005' then  D.amount  else 0 end)   AS total_lost
+                                                       FROM             dbo.QUOTATION AS Q WITH (nolock) INNER JOIN
+                                                                                 dbo.QUOTATIONDETAIL AS D WITH (nolock) ON Q.idexport = D.idexport
+								                        Where  cast( Q.dateimport as date) between '2022-03-01' and '2022-03-13'
+                                                       GROUP BY  Q.idemppo
+												 ) TT
+												 ON EM.IDEMP = TT.idemppo
+                        WHERE EM.IDEMP like '%%'
+                        GROUP BY EM.IDEMP, EM.StaffName,TT.total_bg, 
+                        TT.total_po,
+                        TT.total_lost
+                       
+                        HAVING       (COUNT(DISTINCT EC.idcustomer) > 0)
+                           )
+                        select *,required_ch+required_ktn+required_tn+hg+bg+po+tb required,
+						(select count(*) from DMCUSTOMERS C inner join sysUser U with(nolock)
+						on C.userid1 =  U.userid
+						where U.IDEMP = temp.idemp
+						and  cast( c.date1 as date)  between  '2022-03-01' and '2022-03-13'
+						
+						) new_customer ,isnull(count_call,0) count_call from temp 
+						left join
+						(select  idemp, count(P.idstatus) count_call from PLANCRM P with(nolock)
+							inner join dmstatus S with(nolock) ON
+							P.idstatus = S.idstatus
+							where  cast( datecontact as date)  between  '2022-03-01' and '2022-03-13' and iscall=1
+
+							group by idemp) C
+							on temp.idemp = C.idemp

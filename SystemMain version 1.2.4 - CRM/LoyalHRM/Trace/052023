@@ -1,0 +1,493 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>152746</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T13:41:50.387+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152747</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:21:44.927+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2022-11-02T15:44:19.553+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000041&lt;/user_action&gt;
+    &lt;custype /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152748</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:21:52.5+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;1&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2022-11-02T15:44:19.553+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000041&lt;/user_action&gt;
+    &lt;custype /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152749</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:24:23.197+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2022-11-02T15:44:19.553+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000041&lt;/user_action&gt;
+    &lt;custype /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152750</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:24:38.693+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;2&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2022-11-02T15:44:19.553+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000041&lt;/user_action&gt;
+    &lt;custype /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152751</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:24:54.34+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;3&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2022-11-02T15:44:19.553+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000041&lt;/user_action&gt;
+    &lt;custype /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152752</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:43:09.293+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152753</ID>
+    <userid>US000001</userid>
+    <date>2023-05-03T14:48:04.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152754</ID>
+    <userid>US000001</userid>
+    <date>2023-05-06T12:37:48.063+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152755</ID>
+    <userid>US000001</userid>
+    <date>2023-05-06T13:43:23.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152756</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:13:54.357+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>152757</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:21:58.823+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV001609</object>
+    <caption>111</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;111&lt;/quantity&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;iddevice&gt;DV001609&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2023-05-09T22:21:41+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000037&lt;/idbrand&gt;
+    &lt;createdDate&gt;2023-05-09T22:21:41+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;thongso&gt;111&lt;/thongso&gt;
+    &lt;bacdanvoxe&gt;false&lt;/bacdanvoxe&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152758</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:22:17.237+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>DV001043</object>
+    <caption>111</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;namsx&gt;2023&lt;/namsx&gt;
+    &lt;quantity&gt;111&lt;/quantity&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;iddevice&gt;DV001043&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2023-05-09T22:22:03+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000002&lt;/idbrand&gt;
+    &lt;createdDate&gt;2023-05-09T22:22:03+07:00&lt;/createdDate&gt;
+    &lt;model&gt;111&lt;/model&gt;
+    &lt;sokhung&gt;111&lt;/sokhung&gt;
+    &lt;hethongphutro&gt;111&lt;/hethongphutro&gt;
+    &lt;dongco&gt;111&lt;/dongco&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;xuatxu&gt;111&lt;/xuatxu&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152759</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:22:41.973+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV001610</object>
+    <caption>111</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;111&lt;/quantity&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;iddevice&gt;DV001610&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2023-05-09T22:22:33+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000019&lt;/idbrand&gt;
+    &lt;createdDate&gt;2023-05-09T22:22:33+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;thongso&gt;111&lt;/thongso&gt;
+    &lt;bacdanvoxe&gt;true&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;111&lt;/sign&gt;
+    &lt;brand&gt;111&lt;/brand&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152760</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:23:07.25+07:00</date>
+    <idform>frm_BINHDIENINFO_S</idform>
+    <status>0</status>
+    <object>DV000025</object>
+    <caption>111</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>BINHDIENINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;BINHDIENINFO&gt;
+    &lt;idbrandtype&gt;NH000038&lt;/idbrandtype&gt;
+    &lt;iddevice&gt;NH000003&lt;/iddevice&gt;
+    &lt;quantity&gt;111&lt;/quantity&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;idbinh&gt;DV000025&lt;/idbinh&gt;
+    &lt;upadatedat&gt;2023-05-09T22:22:56+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2023-05-09T22:22:56+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;modelxe&gt;111&lt;/modelxe&gt;
+    &lt;kichthuoc&gt;111&lt;/kichthuoc&gt;
+    &lt;thongso&gt;111&lt;/thongso&gt;
+    &lt;modelbinh&gt;111&lt;/modelbinh&gt;
+  &lt;/BINHDIENINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152761</ID>
+    <userid>US000001</userid>
+    <date>2023-05-09T22:29:52.83+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV001611</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;123&lt;/quantity&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;iddevice&gt;DV001611&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2023-05-09T22:29:43+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000019&lt;/idbrand&gt;
+    &lt;createdDate&gt;2023-05-09T22:29:43+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;thongso&gt;123&lt;/thongso&gt;
+    &lt;bacdanvoxe&gt;true&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;123&lt;/sign&gt;
+    &lt;brand&gt;123&lt;/brand&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>152762</ID>
+    <userid>US000001</userid>
+    <date>2023-05-11T11:53:56.6+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

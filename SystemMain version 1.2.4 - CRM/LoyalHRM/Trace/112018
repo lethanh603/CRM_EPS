@@ -1,0 +1,1380 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>64490</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:27:16.923+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64491</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:31:23.563+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64492</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:36:41.913+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64493</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:41:50.103+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64494</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:46:18.837+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64495</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T21:56:34.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64496</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T22:07:25.777+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64497</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T22:08:06.837+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002555</object>
+    <caption>0303177976</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000001&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002555&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002555&lt;/sign&gt;
+    &lt;station&gt;0303177976&lt;/station&gt;
+    &lt;tax&gt;0303177976&lt;/tax&gt;
+    &lt;address&gt;0303177976&lt;/address&gt;
+    &lt;surrogate&gt;0303177976&lt;/surrogate&gt;
+    &lt;customer&gt;0303177976&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2018-11-01T22:07:46+07:00&lt;/date2&gt;
+    &lt;date1&gt;2018-11-01T22:07:46+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000001&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64498</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T22:21:35.223+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64499</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T22:30:54.213+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64500</ID>
+    <userid>US000001</userid>
+    <date>2018-11-01T22:34:47.74+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64501</ID>
+    <userid>US000001</userid>
+    <date>2018-11-03T05:40:52.203+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64502</ID>
+    <userid>US000001</userid>
+    <date>2018-11-03T05:42:48.053+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002556</object>
+    <caption>ssss</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000001&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002556&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002556&lt;/sign&gt;
+    &lt;station&gt;sss&lt;/station&gt;
+    &lt;tax&gt;333333333&lt;/tax&gt;
+    &lt;address&gt;ss&lt;/address&gt;
+    &lt;surrogate&gt;sss&lt;/surrogate&gt;
+    &lt;customer&gt;ssss&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2018-11-03T05:42:36+07:00&lt;/date2&gt;
+    &lt;date1&gt;2018-11-03T05:42:36+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000001&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64503</ID>
+    <userid>US000001</userid>
+    <date>2018-11-03T06:04:00.65+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64504</ID>
+    <userid>US000001</userid>
+    <date>2018-11-03T09:41:07.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64505</ID>
+    <userid>US000001</userid>
+    <date>2018-11-03T10:13:20.323+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64506</ID>
+    <userid>US000001</userid>
+    <date>2018-11-07T05:47:22.903+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64507</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:07:35.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64508</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:07:47.913+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002706</object>
+    <caption>rwrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002706&lt;/idcontact&gt;
+    &lt;note&gt;ewew&lt;/note&gt;
+    &lt;sign&gt;KH002706&lt;/sign&gt;
+    &lt;tel&gt;wrw&lt;/tel&gt;
+    &lt;email&gt;rwrw&lt;/email&gt;
+    &lt;address&gt;rwr&lt;/address&gt;
+    &lt;contactname&gt;rwrw&lt;/contactname&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64509</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:34:03.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64510</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:37:37.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64511</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:37:52.27+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000017</object>
+    <caption>KS000017</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-07T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-07T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-07T05:56:12+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000017&lt;/manhiemvu&gt;
+    &lt;ghichu /&gt;
+    &lt;congviecduocgiao /&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;5&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;5&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000003&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64512</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:37:55.14+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000016</object>
+    <caption>KS000016</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-07T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-08T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-07T05:53:30+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000016&lt;/manhiemvu&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;5&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000002&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64513</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:37:57.747+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000015</object>
+    <caption>KS000015</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-03T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-03T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-03T10:14:41+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000015&lt;/manhiemvu&gt;
+    &lt;ghichu /&gt;
+    &lt;congviecduocgiao /&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;8&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;8&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000003&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64514</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:00.633+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000014</object>
+    <caption>KS000014</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-03T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-04T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-03T06:04:35+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000014&lt;/manhiemvu&gt;
+    &lt;ghichu /&gt;
+    &lt;congviecduocgiao&gt;eeee&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;6&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;6&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000003&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64515</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:02.927+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000011</object>
+    <caption>KS000011</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-10-23T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-23T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-23T06:38:36+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;40&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000011&lt;/manhiemvu&gt;
+    &lt;ghichu /&gt;
+    &lt;congviecduocgiao&gt;trư&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;4&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000002&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64516</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:05.623+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000010</object>
+    <caption>KS000010</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaygiaohang&gt;2018-10-23T00:00:00+07:00&lt;/ngaygiaohang&gt;
+    &lt;ngaynghiemthunoibo&gt;2018-10-22T00:00:00+07:00&lt;/ngaynghiemthunoibo&gt;
+    &lt;ngaynhanviec&gt;2018-10-23T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-23T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-23T06:32:45+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000010&lt;/manhiemvu&gt;
+    &lt;ghichu /&gt;
+    &lt;congviecduocgiao&gt;dfdsfsf&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64517</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:08.073+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000009</object>
+    <caption>KS000009</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-10-22T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-23T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-23T06:30:31+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000009&lt;/manhiemvu&gt;
+    &lt;congviecduocgiao&gt;432432&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64518</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:10.367+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000008</object>
+    <caption>KS000008</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaygiaohang&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohang&gt;
+    &lt;ngaynghiemthunoibo&gt;2018-10-20T00:00:00+07:00&lt;/ngaynghiemthunoibo&gt;
+    &lt;ngaynhanviec&gt;2018-10-20T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-20T10:37:00+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000008&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;bao hanh&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;bao hanh&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;6&lt;/sothangbaohanh&gt;
+    &lt;ngaybatdaubaohanh&gt;2018-10-20T00:00:00+07:00&lt;/ngaybatdaubaohanh&gt;
+    &lt;ngayketthucbaohanh&gt;2019-04-20T00:00:00+07:00&lt;/ngayketthucbaohanh&gt;
+    &lt;quydinhbaohanh&gt;khong bao hanh gi het&lt;/quydinhbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000004&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64519</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:13.143+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000007</object>
+    <caption>KS000007</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaygiaohang&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohang&gt;
+    &lt;ngaynghiemthunoibo&gt;2018-10-20T00:00:00+07:00&lt;/ngaynghiemthunoibo&gt;
+    &lt;ngaynhanviec&gt;2018-10-20T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-20T10:36:07+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000007&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;bao tri&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;bao tri&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;quydinhbaohanh /&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;3&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;4&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;true&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000003&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64520</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:15.593+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000006</object>
+    <caption>KS000006</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaygiaohang&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohang&gt;
+    &lt;ngaynghiemthunoibo&gt;2018-10-20T00:00:00+07:00&lt;/ngaynghiemthunoibo&gt;
+    &lt;ngaynhanviec&gt;2018-10-20T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-20T10:35:24+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000006&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;cho thue&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;cho thue&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;4&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000002&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64521</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:38:18.337+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000005</object>
+    <caption>KS000005</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaygiaohang&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohang&gt;
+    &lt;ngaynghiemthunoibo&gt;2018-10-20T00:00:00+07:00&lt;/ngaynghiemthunoibo&gt;
+    &lt;ngaynhanviec&gt;2018-10-20T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-10-20T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-10-20T10:34:33+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-0518/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000005&lt;/manhiemvu&gt;
+    &lt;congviecduocgiao&gt;Giao hang den dia chi a&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;HH000023&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64522</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:48:18.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64523</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T15:55:22.56+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64524</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T16:04:54.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64525</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T16:11:13.513+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64526</ID>
+    <userid>US000001</userid>
+    <date>2018-11-10T17:18:00.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64527</ID>
+    <userid>US000001</userid>
+    <date>2018-11-14T06:03:32.95+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64528</ID>
+    <userid>US000001</userid>
+    <date>2018-11-14T06:27:16.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64529</ID>
+    <userid>US000001</userid>
+    <date>2018-11-14T06:33:01.19+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64530</ID>
+    <userid>US000001</userid>
+    <date>2018-11-14T06:38:40.01+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64531</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T04:34:47.143+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64532</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T05:26:39.207+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64533</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T05:28:33.36+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002653</object>
+    <caption>QS002653</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-11-16T05:27:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-11-16T05:27:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002653&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD003-1118/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000799&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1118/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64534</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T05:30:38.543+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002654</object>
+    <caption>QS002654</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-11-16T05:30:02+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-11-16T05:30:02+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002654&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD004-1118/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000014&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64535</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T05:59:31.983+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64536</ID>
+    <userid>US000001</userid>
+    <date>2018-11-16T06:03:38.567+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000020</object>
+    <caption>KS000020</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-16T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-16T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-16T06:00:16+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-1118/MTC&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000020&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;ccc&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;ccc&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;'HH000010','HH000018&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64537</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T13:19:41.457+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64538</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:24:03.523+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64539</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:25:26.04+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64540</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:26:56.18+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000026</object>
+    <caption>KS000026</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-17T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-17T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-17T14:26:39+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-1118/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000026&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;cc&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;ccc&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;'HH000009'&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64541</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:26:58.77+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000025</object>
+    <caption>KS000025</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-17T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-17T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-17T14:26:39+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-1118/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000025&lt;/manhiemvu&gt;
+    &lt;ghichu&gt;cc&lt;/ghichu&gt;
+    &lt;congviecduocgiao&gt;ccc&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;'HH000009'&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64542</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:27:01.53+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000024</object>
+    <caption>KS000024</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-17T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-17T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-17T14:26:08+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-1118/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000024&lt;/manhiemvu&gt;
+    &lt;congviecduocgiao&gt;rrrr&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;'HH000009'&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64543</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:27:04.39+07:00</date>
+    <idform>frmPlanPO</idform>
+    <status>0</status>
+    <object>KS000023</object>
+    <caption>KS000023</caption>
+    <action>Xóa</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVU&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;ngaynhanviec&gt;2018-11-17T00:00:00+07:00&lt;/ngaynhanviec&gt;
+    &lt;ngaygiaohangdudinh&gt;2018-11-17T00:00:00+07:00&lt;/ngaygiaohangdudinh&gt;
+    &lt;ngaytao&gt;2018-11-17T14:26:08+07:00&lt;/ngaytao&gt;
+    &lt;manhanvienphutrach&gt;EMP000001&lt;/manhanvienphutrach&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;songaythuctethuchien&gt;0&lt;/songaythuctethuchien&gt;
+    &lt;sogiodudinhthuchien&gt;0&lt;/sogiodudinhthuchien&gt;
+    &lt;idquotation&gt;PO001-1118/BTM&lt;/idquotation&gt;
+    &lt;manhiemvu&gt;KS000023&lt;/manhiemvu&gt;
+    &lt;congviecduocgiao&gt;rrrr&lt;/congviecduocgiao&gt;
+    &lt;sothangbaohanh&gt;0&lt;/sothangbaohanh&gt;
+    &lt;sothangchothue&gt;0&lt;/sothangchothue&gt;
+    &lt;solanbaotri&gt;0&lt;/solanbaotri&gt;
+    &lt;sothangbaotri&gt;0&lt;/sothangbaotri&gt;
+    &lt;optionbaotri&gt;false&lt;/optionbaotri&gt;
+    &lt;idcommodity&gt;'HH000009'&lt;/idcommodity&gt;
+    &lt;idplanstatus&gt;PS000001&lt;/idplanstatus&gt;
+    &lt;idplantype&gt;PT000001&lt;/idplantype&gt;
+    &lt;manhanvienthuchien&gt;EMP000001&lt;/manhanvienthuchien&gt;
+    &lt;songaythongbao&gt;0&lt;/songaythongbao&gt;
+    &lt;idloaibaotri&gt;L000001&lt;/idloaibaotri&gt;
+  &lt;/NHIEMVU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64544</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T14:58:29.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64545</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T15:33:55.727+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64546</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T16:11:12.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64547</ID>
+    <userid>US000001</userid>
+    <date>2018-11-17T17:21:23.707+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002655</object>
+    <caption>QS002655</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-11-17T17:20:28+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-11-17T17:20:28+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002655&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000002&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD005-1118/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000799&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO002-1118/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idmanager&gt;EMP000014&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;pokethua&gt;PO001-1118/BTM&lt;/pokethua&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>64548</ID>
+    <userid>US000001</userid>
+    <date>2018-11-18T15:11:29.55+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64549</ID>
+    <userid>US000001</userid>
+    <date>2018-11-24T16:25:41.607+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64550</ID>
+    <userid>US000001</userid>
+    <date>2018-11-27T05:44:39.77+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>64551</ID>
+    <userid>US000001</userid>
+    <date>2018-11-27T06:09:26.31+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

@@ -1,0 +1,5339 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>13176</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:07:11.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13177</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:07:52.127+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000002</object>
+    <caption>Giải Khát</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000002&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;GK&lt;/sign&gt;
+    &lt;groupname&gt;Giải Khát&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13178</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:08:12.567+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>Đậu phộng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;100&lt;/mininventory&gt;
+    &lt;price&gt;8000&lt;/price&gt;
+    &lt;cogs&gt;5000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;sign&gt;DP&lt;/sign&gt;
+    &lt;commodity&gt;Đậu phộng&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13179</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:08:25.077+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 333</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;12000&lt;/price&gt;
+    &lt;cogs&gt;10000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000002&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000002&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000002&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;333&lt;/sign&gt;
+    &lt;commodity&gt;Bia 333&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13180</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:08:53.133+07:00</date>
+    <idform>frm_DMWAREHOUSE_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Kho 1</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMWAREHOUSE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMWAREHOUSE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idstore&gt;TA000000&lt;/idstore&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;note&gt;Kho 1&lt;/note&gt;
+    &lt;sign&gt;K1&lt;/sign&gt;
+    &lt;warehouse&gt;Kho 1&lt;/warehouse&gt;
+  &lt;/DMWAREHOUSE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMWAREHOUSE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13181</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:09:08.823+07:00</date>
+    <idform>frm_DMWAREHOUSE_S</idform>
+    <status>0</status>
+    <object>KH000003</object>
+    <caption>Kho 3</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMWAREHOUSE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMWAREHOUSE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;idwarehouse&gt;KH000003&lt;/idwarehouse&gt;
+    &lt;note&gt;Kho 3&lt;/note&gt;
+    &lt;sign&gt;K3&lt;/sign&gt;
+    &lt;warehouse&gt;Kho 3&lt;/warehouse&gt;
+  &lt;/DMWAREHOUSE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMWAREHOUSE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13182</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:09:19.213+07:00</date>
+    <idform>frm_DMWAREHOUSE_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Kho 2</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMWAREHOUSE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMWAREHOUSE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;note&gt;Kho 2&lt;/note&gt;
+    &lt;sign&gt;K2&lt;/sign&gt;
+    &lt;warehouse&gt;Kho 2&lt;/warehouse&gt;
+  &lt;/DMWAREHOUSE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMWAREHOUSE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13183</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:09:38.633+07:00</date>
+    <idform>frm_DMSTORE_SH</idform>
+    <status>0</status>
+    <object>CH000002</object>
+    <caption>CH000002</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMSTORE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTORE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;id&gt;KV000001&lt;/id&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;note&gt;vzc&lt;/note&gt;
+    &lt;sign&gt;vzvz&lt;/sign&gt;
+    &lt;bank&gt;vzc&lt;/bank&gt;
+    &lt;atm&gt;vcz&lt;/atm&gt;
+    &lt;website&gt;vczx&lt;/website&gt;
+    &lt;email&gt;vczv&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;vcz&lt;/tel&gt;
+    &lt;fax&gt;vcz&lt;/fax&gt;
+    &lt;tax&gt;vz&lt;/tax&gt;
+    &lt;address&gt;vz&lt;/address&gt;
+    &lt;store&gt;vz&lt;/store&gt;
+  &lt;/DMSTORE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTORE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13184</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:09:42.167+07:00</date>
+    <idform>frm_DMSTORE_SH</idform>
+    <status>0</status>
+    <object>CH000003</object>
+    <caption>CH000003</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMSTORE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTORE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;id&gt;KV000001&lt;/id&gt;
+    &lt;idstore&gt;CH000003&lt;/idstore&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;fds&lt;/sign&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel /&gt;
+    &lt;fax /&gt;
+    &lt;tax /&gt;
+    &lt;address&gt;fsd&lt;/address&gt;
+    &lt;store&gt;fsf&lt;/store&gt;
+  &lt;/DMSTORE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTORE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13185</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:09:45.49+07:00</date>
+    <idform>frm_DMSTORE_SH</idform>
+    <status>0</status>
+    <object>TA000000</object>
+    <caption>TA000000</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMSTORE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTORE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;id&gt;KV000001&lt;/id&gt;
+    &lt;idstore&gt;TA000000&lt;/idstore&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;rest&lt;/sign&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email&gt;fs&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;fda&lt;/tel&gt;
+    &lt;fax /&gt;
+    &lt;tax&gt;fasf&lt;/tax&gt;
+    &lt;address /&gt;
+    &lt;store&gt;reafsa&lt;/store&gt;
+  &lt;/DMSTORE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTORE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13186</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:10:00.227+07:00</date>
+    <idform>frm_DMWAREHOUSE_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Kho 1</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMWAREHOUSE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMWAREHOUSE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;note&gt;Kho 1&lt;/note&gt;
+    &lt;sign&gt;K1&lt;/sign&gt;
+    &lt;warehouse&gt;Kho 1&lt;/warehouse&gt;
+  &lt;/DMWAREHOUSE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMWAREHOUSE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13187</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:10:25.513+07:00</date>
+    <idform>frm_DMFLOORS_S</idform>
+    <status>0</status>
+    <object>TA000004</object>
+    <caption>Tầng 3</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMFLOORS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMFLOORS&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;idfloors&gt;TA000004&lt;/idfloors&gt;
+    &lt;note&gt;Tầng 3&lt;/note&gt;
+    &lt;sign&gt;T3&lt;/sign&gt;
+    &lt;floors&gt;Tầng 3&lt;/floors&gt;
+  &lt;/DMFLOORS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMFLOORS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13188</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:10:49.38+07:00</date>
+    <idform>frm_DMDEPARTMENT_S</idform>
+    <status>0</status>
+    <object>BP000002</object>
+    <caption>Phục vụ</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMDEPARTMENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMDEPARTMENT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000002&lt;/iddepartment&gt;
+    &lt;note&gt;Phục vụ&lt;/note&gt;
+    &lt;sign&gt;PV&lt;/sign&gt;
+    &lt;department&gt;Phục vụ&lt;/department&gt;
+  &lt;/DMDEPARTMENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMDEPARTMENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13189</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:11:27.47+07:00</date>
+    <idform>frm_DMPROVIDER_S</idform>
+    <status>0</status>
+    <object>NCC000001</object>
+    <caption>An Thịnh VIệt</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMPROVIDER</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROVIDER&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;debts&gt;0&lt;/debts&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;id&gt;KV000001&lt;/id&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ATV&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;0907012207&lt;/tel&gt;
+    &lt;fax&gt;0838771212&lt;/fax&gt;
+    &lt;tax /&gt;
+    &lt;address&gt;123 Lý Nam Đế&lt;/address&gt;
+    &lt;provider&gt;An Thịnh VIệt&lt;/provider&gt;
+  &lt;/DMPROVIDER&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVIDERS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13190</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:11:48.367+07:00</date>
+    <idform>frm_DMPROVIDER_S</idform>
+    <status>0</status>
+    <object>NCC000002</object>
+    <caption>Viễn Đông</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMPROVIDER</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROVIDER&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;debts&gt;0&lt;/debts&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;id&gt;KV000001&lt;/id&gt;
+    &lt;idprovider&gt;NCC000002&lt;/idprovider&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;VD&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;0907012221&lt;/tel&gt;
+    &lt;fax&gt;08338684409&lt;/fax&gt;
+    &lt;tax /&gt;
+    &lt;address&gt;123 Chu Văn An&lt;/address&gt;
+    &lt;provider&gt;Viễn Đông&lt;/provider&gt;
+  &lt;/DMPROVIDER&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVIDERS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13191</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:13:34.99+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T01:12:16+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T01:12:16+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13192</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:56:52.67+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T01:56:14+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T01:56:14+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13193</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T01:58:19.467+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T01:56:54+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T01:56:54+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13194</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:01:39.147+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:01:20+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:01:20+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13195</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:02:30.167+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:02:10+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:02:10+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13196</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:03:44.75+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:03:25+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:03:25+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13197</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:05:13.963+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:04:59+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:04:59+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13198</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:06:37.353+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:06:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:06:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13199</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:07:36.53+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:07:17+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:07:17+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13200</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:10:03.42+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:09:51+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:09:51+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13201</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:12:46.267+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:12:33+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:12:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13202</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:33:07.823+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>1</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:12:33+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:12:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13203</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:48:42.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13204</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T02:49:04.38+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:48:45+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:48:45+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000002&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13205</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:14:26.593+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:12:45+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:12:45+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13206</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:25:22.2+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13207</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:29:04.4+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:28:45+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:28:45+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13208</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:30:56.813+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:30:40+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:30:40+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13209</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:33:26.833+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:33:12+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:33:12+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13210</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:39:22.77+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13211</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:39:56.92+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:39:22+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:39:22+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13212</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:43:40.103+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13213</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:43:56.167+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:43:40+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:43:40+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13214</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:48:05.25+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13215</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:48:19.187+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:48:05+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:48:05+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13216</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:51:35.39+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:51:20+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:51:20+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13217</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:53:56.62+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13218</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:54:45.06+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:53:56+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:53:56+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13219</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:56:07.27+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13220</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T03:56:20.71+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T03:56:07+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T03:56:07+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13221</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:04:00.077+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13222</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:11:41.68+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T04:11:17+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T04:11:17+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13223</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:25:03.793+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13224</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:25:40.213+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T04:25:03+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T04:25:03+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13225</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:26:34.527+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13226</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:27:20.517+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T04:27:02+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T04:27:02+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13227</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:35:07.453+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13228</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:36:11.273+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T04:35:07+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T04:35:07+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13229</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:38:50.517+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13230</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T04:39:16.89+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T04:38:50+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T04:38:50+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000002&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13231</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:24:08.717+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>1</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T02:48:45+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T02:48:45+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000002&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13232</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:41:35.27+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000003</object>
+    <caption>PN000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T11:41:16+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T11:41:16+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000003&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13233</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:44:43.627+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13234</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:45:00.627+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13235</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:45:07.037+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13236</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:45:26.113+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13237</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:49:41.213+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13238</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:50:35.503+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13239</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:51:18.993+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T11:50:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T11:50:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000002&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13240</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:52:00.08+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T11:51:19+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T11:51:19+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13241</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:52:45.613+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000004</object>
+    <caption>PN000004</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T11:52:22+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T11:52:22+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000004&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13242</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:56:56.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13243</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T11:58:38.503+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T11:58:16+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T11:58:16+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13244</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:03:28.59+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13245</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:03:33.703+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13246</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:03:37.663+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13247</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:04:27.247+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13248</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:05:53.243+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13249</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:06:07.1+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000003</object>
+    <caption>PN000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13250</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:06:48.903+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T12:06:23+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T12:06:23+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13251</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:08:08.567+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T12:06:48+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T12:06:48+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13252</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:09:01.727+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T12:08:08+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T12:08:08+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13253</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T12:09:39.393+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000005</object>
+    <caption>PN000005</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T12:09:23+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T12:09:23+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000005&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13254</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:44:33.087+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13255</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:46:37.813+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.2</object>
+    <caption>Tồn kho</caption>
+    <action>&amp;1 Save</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.2&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Tồn kho&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;Resources&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_INVENTORY&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note&gt;Tồn kho&lt;/note&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13256</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:46:43.57+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13257</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:48:04.83+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.2</object>
+    <caption>Tồn kho</caption>
+    <action>&amp;1 Save</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.2&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Tồn kho&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_INVENTORY_S&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_INVENTORY&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note&gt;Tồn kho&lt;/note&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13258</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:48:11.043+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13259</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T14:55:57.57+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13260</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:05:45.643+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13261</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:07:18.85+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000006</object>
+    <caption>PN000006</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T15:06:48+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T15:06:48+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000006&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13262</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:43:41.427+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13263</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:44:47.633+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000007</object>
+    <caption>PN000007</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T15:44:02+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T15:44:02+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000007&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13264</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:49:26.707+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13265</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:49:30.547+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13266</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:49:33.907+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13267</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:00.673+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000007</object>
+    <caption>PN000007</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13268</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:04.717+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000006</object>
+    <caption>PN000006</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13269</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:06.247+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000006</object>
+    <caption>PN000006</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13270</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:10.33+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000004</object>
+    <caption>PN000004</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13271</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:13.907+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000005</object>
+    <caption>PN000005</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13272</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:50:17.04+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13273</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:51:01.86+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T15:49:33+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T15:49:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13274</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:51:39.35+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T15:50:17+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T15:50:17+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13275</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:53:35.853+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13276</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:53:41.95+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13277</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T15:56:23.693+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13278</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:05:06.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13279</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:23:46.117+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:18:57+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:18:57+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13280</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:25:04.137+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13281</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:25:22.207+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13282</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:26:56.477+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:25:04+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:25:04+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13283</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:28:17.673+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13284</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:29:32.093+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:29:04+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:29:04+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13285</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:30:21.367+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13286</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:30:48.707+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:30:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:30:21+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13287</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:31:23.633+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13288</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:35:50.317+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13289</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:37:01.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13290</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:37:32.907+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:37:10+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:37:10+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13291</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:38:00.357+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:37:38+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:37:38+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13292</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:39:29.423+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13293</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:39:39.303+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13294</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:39:45.97+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13295</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:40:01.003+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:39:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:39:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13296</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:41:31.313+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:40:52+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:40:52+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13297</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:43:42.197+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13298</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:43:54.81+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>2</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13299</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:44:02.097+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13300</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:44:36.09+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:43:54+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:43:54+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000002&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13301</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:45:13.413+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:40:52+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:40:52+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13302</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:52:33.503+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T16:52:05+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T16:52:05+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000002&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13303</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T16:54:10.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13304</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:02:22.707+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000003</object>
+    <caption>PN000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T17:01:58+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T17:01:58+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000002&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000003&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13305</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:03:04.917+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T17:02:42+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T17:02:42+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13306</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:03:37.713+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T17:03:04+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T17:03:04+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13307</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:04:05.04+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000004</object>
+    <caption>PN000004</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T17:02:22+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T17:02:22+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000004&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13308</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:04:43.17+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000005</object>
+    <caption>PN000005</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2015-02-01T17:04:05+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-02-01T17:04:05+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000002&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000005&lt;/idpurchase&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13309</ID>
+    <userid>US000001</userid>
+    <date>2015-02-01T17:07:02.283+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13310</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:35:07.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13311</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:35:54.01+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>Đậu phộng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;100&lt;/mininventory&gt;
+    &lt;price&gt;8000&lt;/price&gt;
+    &lt;cogs&gt;5000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;sign&gt;DP&lt;/sign&gt;
+    &lt;commodity&gt;Đậu phộng&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13312</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:35:56.75+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 333</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;12000&lt;/price&gt;
+    &lt;cogs&gt;10000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000002&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000002&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000002&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;333&lt;/sign&gt;
+    &lt;commodity&gt;Bia 333&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13313</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:36:02.757+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>Đậu phộng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;100&lt;/mininventory&gt;
+    &lt;price&gt;8000&lt;/price&gt;
+    &lt;cogs&gt;5000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;sign&gt;DP&lt;/sign&gt;
+    &lt;commodity&gt;Đậu phộng&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13314</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:36:05.663+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 333</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;12000&lt;/price&gt;
+    &lt;cogs&gt;10000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000002&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000002&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000002&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;333&lt;/sign&gt;
+    &lt;commodity&gt;Bia 333&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13315</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:37:50.9+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 3331</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;22000&lt;/price&gt;
+    &lt;cogs&gt;20000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;3331&lt;/sign&gt;
+    &lt;commodity&gt;Bia 3331&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13316</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:37:59.87+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 3331</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;22000&lt;/price&gt;
+    &lt;cogs&gt;20000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note&gt;ew&lt;/note&gt;
+    &lt;sign&gt;3331&lt;/sign&gt;
+    &lt;commodity&gt;Bia 3331&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13317</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:38:10.137+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 3331</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;22000&lt;/price&gt;
+    &lt;cogs&gt;20000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note&gt;ew&lt;/note&gt;
+    &lt;sign&gt;3331&lt;/sign&gt;
+    &lt;commodity&gt;Bia 3331&lt;/commodity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13318</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:56:12.963+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>Đậu phộng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;100&lt;/mininventory&gt;
+    &lt;price&gt;8000&lt;/price&gt;
+    &lt;cogs&gt;5000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;sign&gt;DP&lt;/sign&gt;
+    &lt;commodity&gt;Đậu phộng&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13319</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T19:56:47.167+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Bia 3331</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;22000&lt;/price&gt;
+    &lt;cogs&gt;20000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note&gt;ew&lt;/note&gt;
+    &lt;sign&gt;3331&lt;/sign&gt;
+    &lt;commodity&gt;Bia 3331&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13320</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:31:58.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13321</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:32:29.343+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000004</object>
+    <caption>Bàn 4</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000004&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B4&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 4&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13322</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:32:35.42+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000005</object>
+    <caption>Bàn 5</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000005&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B5&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 5&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13323</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:32:41.833+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000006</object>
+    <caption>Bàn 6</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000006&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B6&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 6&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13324</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:33:05.64+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000007</object>
+    <caption>Bàn 7</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000002&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000007&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B7&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 7&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13325</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:33:18.733+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000008</object>
+    <caption>Bàn 8</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000002&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000008&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B8&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 8&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13326</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:33:33.293+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000009</object>
+    <caption>Bàn 9</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000002&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000009&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B9&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 9&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13327</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:33:42.88+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000010</object>
+    <caption>Bàn 10</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000002&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000010&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B10&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 10&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13328</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:33:49.08+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000006</object>
+    <caption>Bàn 6</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000002&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000006&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B6&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 6&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13329</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:34:06.423+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000011</object>
+    <caption>Bàn 11</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000011&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B11&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 11&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13330</ID>
+    <userid>US000001</userid>
+    <date>2015-02-02T21:34:10.783+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000012</object>
+    <caption>Bàn 12</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000012&lt;/idtable&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;B12&lt;/sign&gt;
+    &lt;tableNO&gt;Bàn 12&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13331</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:37:16.287+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13332</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:37:50.74+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000003</object>
+    <caption>Dê</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000002&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000003&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;De&lt;/sign&gt;
+    &lt;groupname&gt;Dê&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13333</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:37:57.65+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000004</object>
+    <caption>Bò</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000004&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Bò&lt;/sign&gt;
+    &lt;groupname&gt;Bò&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13334</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:08.747+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000005</object>
+    <caption>HEo</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000005&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;HEO&lt;/sign&gt;
+    &lt;groupname&gt;HEo&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13335</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:13.717+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000006</object>
+    <caption>Gà</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000006&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ga&lt;/sign&gt;
+    &lt;groupname&gt;Gà&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13336</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:20.497+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000007</object>
+    <caption>Chó</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000007&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;cho&lt;/sign&gt;
+    &lt;groupname&gt;Chó&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13337</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:25.427+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000008</object>
+    <caption>vit</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000008&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;vit&lt;/sign&gt;
+    &lt;groupname&gt;vit&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13338</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:33.72+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000009</object>
+    <caption>Lươn</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000009&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Luon&lt;/sign&gt;
+    &lt;groupname&gt;Lươn&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13339</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:42.89+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000010</object>
+    <caption>Ech</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000010&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Ech&lt;/sign&gt;
+    &lt;groupname&gt;Ech&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13340</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:38:57.047+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000011</object>
+    <caption>Rắn</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000011&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ran&lt;/sign&gt;
+    &lt;groupname&gt;Rắn&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13341</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:03.74+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000012</object>
+    <caption>Huơu</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000012&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Huou&lt;/sign&gt;
+    &lt;groupname&gt;Huơu&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13342</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:11.507+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000013</object>
+    <caption>Nay</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000013&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Nay&lt;/sign&gt;
+    &lt;groupname&gt;Nay&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13343</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:22.117+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000014</object>
+    <caption>Heo rừng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000014&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Heorung&lt;/sign&gt;
+    &lt;groupname&gt;Heo rừng&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13344</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:28.427+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000015</object>
+    <caption>ốc</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000015&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;oc&lt;/sign&gt;
+    &lt;groupname&gt;ốc&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13345</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:35.867+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000016</object>
+    <caption>Cá</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000016&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Ca&lt;/sign&gt;
+    &lt;groupname&gt;Cá&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13346</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:48.167+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000017</object>
+    <caption>Rau</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000017&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ra&lt;/sign&gt;
+    &lt;groupname&gt;Rau&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13347</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:39:59.47+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000018</object>
+    <caption>Trái cây</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000018&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Trai cay&lt;/sign&gt;
+    &lt;groupname&gt;Trái cây&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13348</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:40:13.693+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000019</object>
+    <caption>Giải khát</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000019&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;GT&lt;/sign&gt;
+    &lt;groupname&gt;Giải khát&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13349</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:40:31.32+07:00</date>
+    <idform>frm_DMGROUP_S</idform>
+    <status>0</status>
+    <object>NH000020</object>
+    <caption>Tráng miệng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000020&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Tráng miệng&lt;/sign&gt;
+    &lt;groupname&gt;Tráng miệng&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13350</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T01:57:46.477+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13351</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:00:35.647+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.3</object>
+    <caption>Bán hàng</caption>
+    <action>&amp;1 Save</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.3&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Bán hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_RETAIL_S&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_RETAIL&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13352</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:00:42.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13353</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:02:14.623+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13354</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:02:21.347+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13355</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:02:26.5+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13356</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:03:28.91+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13357</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:11:10.457+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13358</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:11:47.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13359</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T02:12:12.49+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13360</ID>
+    <userid>US000001</userid>
+    <date>2015-02-04T20:50:10.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13361</ID>
+    <userid>US000001</userid>
+    <date>2015-02-05T20:18:00.407+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13362</ID>
+    <userid>US000001</userid>
+    <date>2015-02-05T20:26:19.733+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13363</ID>
+    <userid>US000001</userid>
+    <date>2015-02-05T20:27:16.487+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13364</ID>
+    <userid>US000001</userid>
+    <date>2015-02-05T20:30:34.643+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13365</ID>
+    <userid>US000001</userid>
+    <date>2015-02-05T20:31:44.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13366</ID>
+    <userid>US000001</userid>
+    <date>2015-02-09T23:37:59.96+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13367</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T00:50:17.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13368</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T01:48:17.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13369</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T01:58:00.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13370</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T01:59:27.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13371</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T19:50:34.277+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13372</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:02:21.66+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13373</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:02:45.2+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13374</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:04:03.55+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13375</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:04:33.007+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13376</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:05:29.75+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13377</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:07:23.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13378</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:09:57.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13379</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:11:14.933+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13380</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:14:47.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13381</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:17:14.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13382</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:22:35.203+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13383</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:23:39.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13384</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:24:05.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13385</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:25:30.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13386</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:26:01.533+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13387</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:27:04.373+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13388</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:29:41.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13389</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:30:00.9+07:00</date>
+    <idform>frm_DMCOMMODITY_SH</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>HH000002</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;22000&lt;/price&gt;
+    &lt;cogs&gt;20000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000002&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note&gt;ew&lt;/note&gt;
+    &lt;sign&gt;3331&lt;/sign&gt;
+    &lt;commodity&gt;Bia 3331&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13390</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:30:05.07+07:00</date>
+    <idform>frm_DMCOMMODITY_SH</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>HH000001</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;100&lt;/mininventory&gt;
+    &lt;price&gt;8000&lt;/price&gt;
+    &lt;cogs&gt;5000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;sign&gt;DP&lt;/sign&gt;
+    &lt;commodity&gt;Đậu phộng&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13391</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:43:18.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13392</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:47:29.883+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13393</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:55:04.863+07:00</date>
+    <idform>frm_DMGROUP_SH</idform>
+    <status>0</status>
+    <object>NH000020</object>
+    <caption>NH000020</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMGROUP</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMGROUP&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsector&gt;NH000001&lt;/idsector&gt;
+    &lt;idgroup&gt;NH000020&lt;/idgroup&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Tráng miệng&lt;/sign&gt;
+    &lt;groupname&gt;Tráng miệng&lt;/groupname&gt;
+  &lt;/DMGROUP&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMGROUP</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13394</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T20:56:51.88+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13395</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:05:43.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13396</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:11:25.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13397</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:12:35.583+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13398</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:19:33.733+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000003</object>
+    <caption>Đĩa</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;DIA&lt;/sign&gt;
+    &lt;unit&gt;Đĩa&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13399</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:20:09.99+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000004</object>
+    <caption>Thố</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000004&lt;/idunit&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;THO&lt;/sign&gt;
+    &lt;unit&gt;Thố&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13400</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:20:46.913+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>Cải ngọt xào tỏi</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;30000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;CNXT&lt;/sign&gt;
+    &lt;commodity&gt;Cải ngọt xào tỏi&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13401</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:21:06.153+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>Đậu bắp luộc chấm chao</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;30000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ĐBLCC&lt;/sign&gt;
+    &lt;commodity&gt;Đậu bắp luộc chấm chao&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13402</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:21:20.423+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000003</object>
+    <caption>Đậu hủ chiên giòn</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;30000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ĐHCG&lt;/sign&gt;
+    &lt;commodity&gt;Đậu hủ chiên giòn&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13403</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:21:32.577+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000004</object>
+    <caption>Đậu hủ sương mù hải sản</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;85000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000004&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ĐHSMHS&lt;/sign&gt;
+    &lt;commodity&gt;Đậu hủ sương mù hải sản&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13404</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:30:20.87+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13405</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:31:34.187+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13406</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:39:33.473+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13407</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:41:59.997+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000005</object>
+    <caption>Kim Chi Hàn Quốc</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;20000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000005&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KCHQ&lt;/sign&gt;
+    &lt;commodity&gt;Kim Chi Hàn Quốc&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13408</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:42:14.377+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000005</object>
+    <caption>CON</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000005&lt;/idunit&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;CON&lt;/sign&gt;
+    &lt;unit&gt;CON&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13409</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:42:30.237+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000006</object>
+    <caption>Khô mực</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;70000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000005&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000003&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000006&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KM&lt;/sign&gt;
+    &lt;commodity&gt;Khô mực&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13410</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:42:52.683+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000007</object>
+    <caption>Khoai tây chiên</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;30000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000007&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KTC&lt;/sign&gt;
+    &lt;commodity&gt;Khoai tây chiên&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13411</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:43:18.957+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000008</object>
+    <caption>Rau muống xào tỏi</caption>
+    <action>F4 Save - Insert</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;30000&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000008&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;RMXT&lt;/sign&gt;
+    &lt;commodity&gt;Rau muống xào tỏi&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13412</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:46:16.403+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13413</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:47:02.81+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13414</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:50:45.86+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000006</object>
+    <caption>Chay</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000006&lt;/idunit&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;Chay&lt;/sign&gt;
+    &lt;unit&gt;Chay&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13415</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:52:02.047+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000007</object>
+    <caption>Tô</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000007&lt;/idunit&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;TO&lt;/sign&gt;
+    &lt;unit&gt;Tô&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13416</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:53:05.98+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000008</object>
+    <caption>fdsa</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000008&lt;/idunit&gt;
+    &lt;note&gt;fafa&lt;/note&gt;
+    &lt;sign&gt;fsa&lt;/sign&gt;
+    &lt;unit&gt;fdsa&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13417</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:55:09.213+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13418</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T21:55:18.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13419</ID>
+    <userid>US000001</userid>
+    <date>2015-02-10T23:38:56.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13420</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T00:56:27.667+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13421</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T19:31:19.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13422</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T20:35:34.33+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13423</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T20:37:02.19+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.4</object>
+    <caption>Báo cáo bán hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.4&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo bán hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_REPORTRETAIL_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_REPORT_RETAIL&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13424</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T20:37:07.423+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13425</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T21:34:52.813+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13426</ID>
+    <userid>US000001</userid>
+    <date>2015-02-11T21:35:48.2+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000349</object>
+    <caption>aaa</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000349&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;aaa&lt;/sign&gt;
+    &lt;commodity&gt;aaa&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13427</ID>
+    <userid>US000001</userid>
+    <date>2015-02-12T21:34:47.343+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13428</ID>
+    <userid>US000001</userid>
+    <date>2015-02-13T18:35:45.957+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13429</ID>
+    <userid>US000001</userid>
+    <date>2015-02-13T18:46:58.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13430</ID>
+    <userid>US000001</userid>
+    <date>2015-02-13T19:27:50.537+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13431</ID>
+    <userid>US000001</userid>
+    <date>2015-02-26T00:35:35.443+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13432</ID>
+    <userid>US000001</userid>
+    <date>2015-02-27T01:27:37.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13433</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:07:22.297+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13434</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:15:14.49+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13435</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:19:05.107+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13436</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:20:55.8+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.1</object>
+    <caption>Xuất hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.1&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Xuất hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_panel_export&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_EXPORT&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;1&lt;/pos&gt;
+    &lt;note&gt;Xuất hàng&lt;/note&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13437</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:21:20.793+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.3</object>
+    <caption>Bán hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.3&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Bán hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_RETAIL_S&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_RETAIL&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;3&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13438</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:21:54.217+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.4</object>
+    <caption>Báo cáo bán hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.4&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo bán hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_REPORTRETAIL_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_REPORT_RETAIL&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13439</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:22:01.03+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13440</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T00:29:33.243+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13441</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:17:02+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13442</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:35:58.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13443</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:55:51.007+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13444</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:56:30.11+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000003</object>
+    <caption>Duong Tan Long</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000003&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;DTL&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Duong Tan Long&lt;/StaffName&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13445</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:56:34.82+07:00</date>
+    <idform>frm_EMPLOYEES_SH</idform>
+    <status>0</status>
+    <object>EMP000003</object>
+    <caption>EMP000003</caption>
+    <action>bbi_allow_delete</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000003&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;DTL&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Duong Tan Long&lt;/StaffName&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13446</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:59:50.997+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>2.1.12</object>
+    <caption>Hàng hóa</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;2.1.12&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Hàng hóa&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;2.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_DMCOMMODITY_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_DMCOMMODITY&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;3&lt;/pos&gt;
+    &lt;note&gt;Hàng hóa&lt;/note&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13447</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T13:59:56.597+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13448</ID>
+    <userid>US000001</userid>
+    <date>2015-02-28T14:05:14.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

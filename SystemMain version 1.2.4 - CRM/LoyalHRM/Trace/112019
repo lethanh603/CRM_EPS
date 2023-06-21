@@ -1,0 +1,51 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>91445</ID>
+    <userid>US000024</userid>
+    <date>2019-11-23T14:42:04.623+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91446</ID>
+    <userid>US000001</userid>
+    <date>2019-11-23T14:42:49.38+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91447</ID>
+    <userid>US000022</userid>
+    <date>2019-11-23T14:43:33.767+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>91448</ID>
+    <userid>US000024</userid>
+    <date>2019-11-23T15:09:13.037+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

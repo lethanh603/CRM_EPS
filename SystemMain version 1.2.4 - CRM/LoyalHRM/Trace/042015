@@ -1,0 +1,2003 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>13715</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:18:32.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13716</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:23:52.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13717</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:32:46.787+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000001</object>
+    <caption>1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000001&lt;/idtable&gt;
+    &lt;note&gt;Bàn1&lt;/note&gt;
+    &lt;sign&gt;B1&lt;/sign&gt;
+    &lt;tableNO&gt;1&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13718</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:32:51.567+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000002</object>
+    <caption>2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000002&lt;/idtable&gt;
+    &lt;note&gt;Bàn 2&lt;/note&gt;
+    &lt;sign&gt;B2&lt;/sign&gt;
+    &lt;tableNO&gt;2&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13719</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:32:55.423+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000003</object>
+    <caption>3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000003&lt;/idtable&gt;
+    &lt;note&gt;Bàn 3&lt;/note&gt;
+    &lt;sign&gt;B3&lt;/sign&gt;
+    &lt;tableNO&gt;3&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13720</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:32:58.173+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000004</object>
+    <caption>4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000004&lt;/idtable&gt;
+    &lt;note&gt;Bàn 4&lt;/note&gt;
+    &lt;sign&gt;B4&lt;/sign&gt;
+    &lt;tableNO&gt;4&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13721</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:00.643+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000005</object>
+    <caption>5</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000005&lt;/idtable&gt;
+    &lt;note&gt;Bàn 5&lt;/note&gt;
+    &lt;sign&gt;B5&lt;/sign&gt;
+    &lt;tableNO&gt;5&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13722</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:04.267+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000006</object>
+    <caption>6</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000006&lt;/idtable&gt;
+    &lt;note&gt;Bàn 6&lt;/note&gt;
+    &lt;sign&gt;B6&lt;/sign&gt;
+    &lt;tableNO&gt;6&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13723</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:08.243+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000007</object>
+    <caption>7</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000007&lt;/idtable&gt;
+    &lt;note&gt;Bàn 7&lt;/note&gt;
+    &lt;sign&gt;B7&lt;/sign&gt;
+    &lt;tableNO&gt;7&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13724</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:11.493+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000008</object>
+    <caption>8</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000008&lt;/idtable&gt;
+    &lt;note&gt;Bàn 8&lt;/note&gt;
+    &lt;sign&gt;B8&lt;/sign&gt;
+    &lt;tableNO&gt;8&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13725</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:14.46+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000009</object>
+    <caption>9</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000009&lt;/idtable&gt;
+    &lt;note&gt;Bàn 9&lt;/note&gt;
+    &lt;sign&gt;B9&lt;/sign&gt;
+    &lt;tableNO&gt;9&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13726</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:17.243+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000010</object>
+    <caption>10</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000010&lt;/idtable&gt;
+    &lt;note&gt;Bàn 10&lt;/note&gt;
+    &lt;sign&gt;B10&lt;/sign&gt;
+    &lt;tableNO&gt;10&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13727</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:20.093+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000011</object>
+    <caption>11</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000011&lt;/idtable&gt;
+    &lt;note&gt;Bàn 11&lt;/note&gt;
+    &lt;sign&gt;B11&lt;/sign&gt;
+    &lt;tableNO&gt;11&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13728</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:23.123+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000012</object>
+    <caption>12</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000012&lt;/idtable&gt;
+    &lt;note&gt;Bàn 12&lt;/note&gt;
+    &lt;sign&gt;B12&lt;/sign&gt;
+    &lt;tableNO&gt;12&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13729</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:25.883+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000013</object>
+    <caption>13</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000013&lt;/idtable&gt;
+    &lt;note&gt;Bàn 13&lt;/note&gt;
+    &lt;sign&gt;B13&lt;/sign&gt;
+    &lt;tableNO&gt;13&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13730</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:29.313+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000014</object>
+    <caption>14</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000014&lt;/idtable&gt;
+    &lt;note&gt;Bàn 14&lt;/note&gt;
+    &lt;sign&gt;B14&lt;/sign&gt;
+    &lt;tableNO&gt;14&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13731</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:32.023+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000015</object>
+    <caption>15</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000015&lt;/idtable&gt;
+    &lt;note&gt;Bàn 15&lt;/note&gt;
+    &lt;sign&gt;B15&lt;/sign&gt;
+    &lt;tableNO&gt;15&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13732</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:34.48+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000016</object>
+    <caption>16</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000016&lt;/idtable&gt;
+    &lt;note&gt;Bàn 16&lt;/note&gt;
+    &lt;sign&gt;B16&lt;/sign&gt;
+    &lt;tableNO&gt;16&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13733</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:36.807+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000017</object>
+    <caption>17</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000017&lt;/idtable&gt;
+    &lt;note&gt;Bàn 17&lt;/note&gt;
+    &lt;sign&gt;B17&lt;/sign&gt;
+    &lt;tableNO&gt;17&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13734</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:39.173+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000018</object>
+    <caption>18</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000018&lt;/idtable&gt;
+    &lt;note&gt;Bàn 18&lt;/note&gt;
+    &lt;sign&gt;B18&lt;/sign&gt;
+    &lt;tableNO&gt;18&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13735</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:42.977+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000019</object>
+    <caption>19</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000019&lt;/idtable&gt;
+    &lt;note&gt;Bàn 19&lt;/note&gt;
+    &lt;sign&gt;B19&lt;/sign&gt;
+    &lt;tableNO&gt;19&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13736</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:33:46.29+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000020</object>
+    <caption>20</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000020&lt;/idtable&gt;
+    &lt;note&gt;Bàn 20&lt;/note&gt;
+    &lt;sign&gt;B20&lt;/sign&gt;
+    &lt;tableNO&gt;20&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13737</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:34:52.617+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000021</object>
+    <caption>21</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000021&lt;/idtable&gt;
+    &lt;note&gt;Bàn 21&lt;/note&gt;
+    &lt;sign&gt;B21&lt;/sign&gt;
+    &lt;tableNO&gt;21&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13738</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:34:57.183+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000022</object>
+    <caption>22</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000022&lt;/idtable&gt;
+    &lt;note&gt;Bàn 22&lt;/note&gt;
+    &lt;sign&gt;B22&lt;/sign&gt;
+    &lt;tableNO&gt;22&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13739</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:00.9+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000023</object>
+    <caption>23</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000023&lt;/idtable&gt;
+    &lt;note&gt;Bàn 23&lt;/note&gt;
+    &lt;sign&gt;B23&lt;/sign&gt;
+    &lt;tableNO&gt;23&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13740</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:04.443+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000024</object>
+    <caption>24</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000024&lt;/idtable&gt;
+    &lt;note&gt;Bàn 24&lt;/note&gt;
+    &lt;sign&gt;B24&lt;/sign&gt;
+    &lt;tableNO&gt;24&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13741</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:08.15+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000025</object>
+    <caption>25</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000025&lt;/idtable&gt;
+    &lt;note&gt;Bàn 25&lt;/note&gt;
+    &lt;sign&gt;B25&lt;/sign&gt;
+    &lt;tableNO&gt;25&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13742</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:11.137+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000026</object>
+    <caption>26</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000026&lt;/idtable&gt;
+    &lt;note&gt;Bàn 26&lt;/note&gt;
+    &lt;sign&gt;B26&lt;/sign&gt;
+    &lt;tableNO&gt;26&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13743</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:14.23+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000027</object>
+    <caption>27</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000027&lt;/idtable&gt;
+    &lt;note&gt;Bàn 27&lt;/note&gt;
+    &lt;sign&gt;B27&lt;/sign&gt;
+    &lt;tableNO&gt;27&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13744</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:18.253+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000028</object>
+    <caption>28</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000028&lt;/idtable&gt;
+    &lt;note&gt;Bàn 28&lt;/note&gt;
+    &lt;sign&gt;B28&lt;/sign&gt;
+    &lt;tableNO&gt;28&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13745</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:21.603+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000029</object>
+    <caption>29</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000029&lt;/idtable&gt;
+    &lt;note&gt;Bàn 29&lt;/note&gt;
+    &lt;sign&gt;B29&lt;/sign&gt;
+    &lt;tableNO&gt;29&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13746</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:24.64+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000030</object>
+    <caption>30</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000030&lt;/idtable&gt;
+    &lt;note&gt;Bàn 30&lt;/note&gt;
+    &lt;sign&gt;B30&lt;/sign&gt;
+    &lt;tableNO&gt;30&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13747</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:27.663+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000031</object>
+    <caption>31</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000031&lt;/idtable&gt;
+    &lt;note&gt;Bàn 31&lt;/note&gt;
+    &lt;sign&gt;B31&lt;/sign&gt;
+    &lt;tableNO&gt;31&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13748</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:31.277+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000032</object>
+    <caption>32</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000032&lt;/idtable&gt;
+    &lt;note&gt;Bàn 32&lt;/note&gt;
+    &lt;sign&gt;B32&lt;/sign&gt;
+    &lt;tableNO&gt;32&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13749</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:34.847+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000033</object>
+    <caption>33</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000033&lt;/idtable&gt;
+    &lt;note&gt;Bàn 33&lt;/note&gt;
+    &lt;sign&gt;B33&lt;/sign&gt;
+    &lt;tableNO&gt;33&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13750</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:38.39+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000034</object>
+    <caption>34</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000034&lt;/idtable&gt;
+    &lt;note&gt;Bàn 34&lt;/note&gt;
+    &lt;sign&gt;B34&lt;/sign&gt;
+    &lt;tableNO&gt;34&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13751</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:42.03+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000035</object>
+    <caption>35</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000035&lt;/idtable&gt;
+    &lt;note&gt;Bàn 35&lt;/note&gt;
+    &lt;sign&gt;B35&lt;/sign&gt;
+    &lt;tableNO&gt;35&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13752</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:45.82+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000036</object>
+    <caption>36</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000036&lt;/idtable&gt;
+    &lt;note&gt;Bàn 36&lt;/note&gt;
+    &lt;sign&gt;B36&lt;/sign&gt;
+    &lt;tableNO&gt;36&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13753</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:49.08+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000037</object>
+    <caption>37</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000037&lt;/idtable&gt;
+    &lt;note&gt;Bàn 37&lt;/note&gt;
+    &lt;sign&gt;B37&lt;/sign&gt;
+    &lt;tableNO&gt;37&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13754</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:52.907+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000038</object>
+    <caption>38</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000038&lt;/idtable&gt;
+    &lt;note&gt;Bàn 38&lt;/note&gt;
+    &lt;sign&gt;B38&lt;/sign&gt;
+    &lt;tableNO&gt;38&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13755</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:35:56.443+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000039</object>
+    <caption>39</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000039&lt;/idtable&gt;
+    &lt;note&gt;Bàn 39&lt;/note&gt;
+    &lt;sign&gt;B39&lt;/sign&gt;
+    &lt;tableNO&gt;39&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13756</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:36:00.333+07:00</date>
+    <idform>frm_DMTABLE_S</idform>
+    <status>0</status>
+    <object>BA000040</object>
+    <caption>40</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMTABLE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMTABLE&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idfloors&gt;TA000001&lt;/idfloors&gt;
+    &lt;idtable&gt;BA000040&lt;/idtable&gt;
+    &lt;note&gt;Bàn 40&lt;/note&gt;
+    &lt;sign&gt;B40&lt;/sign&gt;
+    &lt;tableNO&gt;40&lt;/tableNO&gt;
+  &lt;/DMTABLE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMTABLE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13757</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T18:46:12.51+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13758</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T21:11:41.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13759</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T21:16:41.59+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13760</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T21:18:27.357+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13761</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T21:19:28.013+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13762</ID>
+    <userid>US000001</userid>
+    <date>2015-04-02T21:57:30.84+07:00</date>
+    <idform>frm_DMSHIFT_S</idform>
+    <status>0</status>
+    <object>CA000001</object>
+    <caption>c1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMSHIFT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSHIFT&gt;
+    &lt;isNight&gt;true&lt;/isNight&gt;
+    &lt;tohour&gt;02:00&lt;/tohour&gt;
+    &lt;fromhour&gt;08:00&lt;/fromhour&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idshift&gt;CA000001&lt;/idshift&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;c1&lt;/sign&gt;
+    &lt;shiftname&gt;c1&lt;/shiftname&gt;
+  &lt;/DMSHIFT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSHIFT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13763</ID>
+    <userid>US000001</userid>
+    <date>2015-04-03T18:06:28.57+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13764</ID>
+    <userid>US000001</userid>
+    <date>2015-04-03T18:14:29.583+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13765</ID>
+    <userid>US000001</userid>
+    <date>2015-04-07T18:53:00.46+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13766</ID>
+    <userid>US000001</userid>
+    <date>2015-04-07T18:54:14.777+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13767</ID>
+    <userid>US000001</userid>
+    <date>2015-04-08T17:01:24.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13768</ID>
+    <userid>US000001</userid>
+    <date>2015-04-08T17:01:58.41+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13769</ID>
+    <userid>US000001</userid>
+    <date>2015-04-09T18:28:08.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13770</ID>
+    <userid>US000001</userid>
+    <date>2015-04-09T18:31:25.647+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13771</ID>
+    <userid>US000001</userid>
+    <date>2015-04-10T16:48:21.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13772</ID>
+    <userid>US000001</userid>
+    <date>2015-04-10T19:22:38.683+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13773</ID>
+    <userid>US000001</userid>
+    <date>2015-04-10T21:36:37.51+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13774</ID>
+    <userid>US000001</userid>
+    <date>2015-04-11T16:46:30.883+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13775</ID>
+    <userid>US000001</userid>
+    <date>2015-04-11T20:39:41.847+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000172</object>
+    <caption>dau hu óihi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;59000&lt;/price&gt;
+    &lt;cogs&gt;59&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000003&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000172&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;dho&lt;/sign&gt;
+    &lt;commodity&gt;dau hu óihi&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13776</ID>
+    <userid>US000001</userid>
+    <date>2015-04-12T17:15:45.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13777</ID>
+    <userid>US000001</userid>
+    <date>2015-04-12T20:52:26.017+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000173</object>
+    <caption>bo vien them</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;50000&lt;/price&gt;
+    &lt;cogs&gt;50000&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000173&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;bvt&lt;/sign&gt;
+    &lt;commodity&gt;bo vien them&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13778</ID>
+    <userid>US000001</userid>
+    <date>2015-04-13T17:16:17.327+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13779</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T17:22:07.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13780</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T19:33:13.053+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13781</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:07:42.78+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>PC2015030922RXD</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13782</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:19:12.653+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13783</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:23:12.383+07:00</date>
+    <idform>frm_sysPrintConfig_S</idform>
+    <status>0</status>
+    <object>P000001</object>
+    <caption>send to onenote 2007</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>sysPrintConfig</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysPrintConfig&gt;
+    &lt;numberpage&gt;1&lt;/numberpage&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idprint&gt;P000001&lt;/idprint&gt;
+    &lt;note&gt;58 printer&lt;/note&gt;
+    &lt;sign&gt;send to onenote 2007&lt;/sign&gt;
+    &lt;printname&gt;send to onenote 2007&lt;/printname&gt;
+  &lt;/sysPrintConfig&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_sysPrintConfig</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>13784</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:25:20.643+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13785</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:44:37.243+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13786</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T20:48:19.6+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13787</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T22:50:18.267+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13788</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:02:21.71+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13789</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:16:21.413+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13790</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:18:04.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13791</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:20:34.327+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13792</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:31:38.097+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13793</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:36:56.427+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13794</ID>
+    <userid>US000001</userid>
+    <date>2015-04-14T23:42:15.41+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13795</ID>
+    <userid>US000001</userid>
+    <date>2015-04-15T00:04:52.743+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13796</ID>
+    <userid>US000001</userid>
+    <date>2015-04-15T00:31:15.193+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13797</ID>
+    <userid>US000001</userid>
+    <date>2015-04-15T00:36:02.117+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13798</ID>
+    <userid>US000001</userid>
+    <date>2015-04-16T20:40:43.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13799</ID>
+    <userid>US000001</userid>
+    <date>2015-04-16T21:35:02.483+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13800</ID>
+    <userid>US000001</userid>
+    <date>2015-04-16T21:41:45.477+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13801</ID>
+    <userid>US000001</userid>
+    <date>2015-04-16T21:54:30.82+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13802</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T21:48:23.797+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13803</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T22:16:36.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13804</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T22:48:36.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13805</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:24:37.603+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13806</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:28:53.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13807</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:32:55.763+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13808</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:35:29.893+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13809</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:43:09.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13810</ID>
+    <userid>US000001</userid>
+    <date>2015-04-17T23:56:07.97+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13811</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T15:09:41.777+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13812</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T15:13:02.45+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13813</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T15:19:10.877+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13814</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T15:43:13.94+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13815</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:00:59.283+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13816</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:04:16.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13817</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:07:02.02+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13818</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:10:59.553+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13819</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:20:10.84+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13820</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:23:27.54+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13821</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T16:40:34.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13822</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T17:38:44.697+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13823</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T17:47:50.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13824</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T17:49:38.7+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13825</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T17:55:41.333+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13826</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:03:39.95+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13827</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:07:09.677+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13828</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:12:46.077+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13829</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:13:42.297+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13830</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:31:44.003+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13831</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:47:02.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13832</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T18:50:31.017+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13833</ID>
+    <userid>US000001</userid>
+    <date>2015-04-18T20:15:59.81+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13834</ID>
+    <userid>US000001</userid>
+    <date>2015-04-19T10:00:43.793+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13835</ID>
+    <userid>US000001</userid>
+    <date>2015-04-19T10:27:00.45+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13836</ID>
+    <userid>US000001</userid>
+    <date>2015-04-19T10:56:45.94+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13837</ID>
+    <userid>US000001</userid>
+    <date>2015-04-19T11:12:36.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13838</ID>
+    <userid>US000001</userid>
+    <date>2015-04-20T23:44:21.787+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>13839</ID>
+    <userid>US000001</userid>
+    <date>2015-04-20T23:46:23.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Đăng Nhập</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

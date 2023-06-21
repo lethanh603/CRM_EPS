@@ -1,0 +1,395 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>14160</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T11:56:22.55+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>2</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F3 Xóa</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-10-02T11:54:31+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-10-02T11:54:31+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14161</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T11:56:36.217+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T11:56:23+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T11:56:23+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000002&lt;/idpurchase&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14162</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:03:21.737+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:02:52+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:02:52+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14163</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:19:02.693+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:03:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:03:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14164</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:21:39.577+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>1</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:03:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:03:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14165</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:22:06.37+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>1</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:03:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:03:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14166</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:22:48.507+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000003</object>
+    <caption>PN000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:22:35+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:22:35+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000003&lt;/idpurchase&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14167</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:27:05.763+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000004</object>
+    <caption>PN000004</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:26:50+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:26:50+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000004&lt;/idpurchase&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14168</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T12:27:28.87+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T12:27:14+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T12:27:14+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14175</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T16:03:00.79+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000001</object>
+    <caption>PN000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T16:02:24+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T16:02:24+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000001&lt;/idpurchase&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14176</ID>
+    <userid>US000001</userid>
+    <date>2015-08-01T16:03:44.6+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000001</object>
+    <caption>PX000001</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-01T16:03:22+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-01T16:03:22+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000001&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14177</ID>
+    <userid>US000001</userid>
+    <date>2015-08-02T16:04:24.257+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000002</object>
+    <caption>PX000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-02T16:04:09+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-02T16:04:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000002&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14178</ID>
+    <userid>US000001</userid>
+    <date>2015-08-03T16:05:12.757+07:00</date>
+    <idform>frm_PURCHASE_S</idform>
+    <status>0</status>
+    <object>PN000002</object>
+    <caption>PN000002</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>PURCHASE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PURCHASE&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-03T16:04:55+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-03T16:04:55+07:00&lt;/limitdept&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;idprovider&gt;NCC000001&lt;/idprovider&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;note /&gt;
+    &lt;idpurchase&gt;PN000002&lt;/idpurchase&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;IDMETHOD&gt;MT000001&lt;/IDMETHOD&gt;
+  &lt;/PURCHASE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_PURCHASE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14179</ID>
+    <userid>US000001</userid>
+    <date>2015-08-04T16:05:56.62+07:00</date>
+    <idform>frm_EXPORT_S</idform>
+    <status>0</status>
+    <object>PX000003</object>
+    <caption>PX000003</caption>
+    <action>F1 Tạo</action>
+    <computer>LOYALTY_PC</computer>
+    <tableName>EXPORT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EXPORT&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2015-08-04T16:05:40+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2015-08-04T16:05:40+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;PX000003&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+  &lt;/EXPORT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EXPORT</namespace>
+  </sysTrace>
+</NewDataSet>

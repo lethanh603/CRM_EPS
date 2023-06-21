@@ -1,0 +1,3470 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>52529</ID>
+    <userid>US000019</userid>
+    <date>2017-12-01T08:49:29.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52530</ID>
+    <userid>US000018</userid>
+    <date>2017-12-01T14:51:00.317+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52531</ID>
+    <userid>US000018</userid>
+    <date>2017-12-02T09:18:32.203+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52532</ID>
+    <userid>US000018</userid>
+    <date>2017-12-02T10:24:46.357+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000610</object>
+    <caption>KẾT QUA BAO TRÌ </caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Ngày 1/12/2017 kỹ thuật xuống thay 12 vũ mỡ cho khách hàng theo yêu cầu . Nhưng trong quá trình làm thực tễ nhận thấy vú mỡ vãn bình thường không hư nên chỉ vệ sinh và bơm mỡ ( vật tư do khách hàng cung cấp)
+đã gửi kế toán hủy PO 002 NGÀY 21/11/2017&lt;/note&gt;
+    &lt;description&gt;KẾT QUA BAO TRÌ&lt;/description&gt;
+    &lt;idcontact&gt;KH001089&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000008&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000610&lt;/idplan&gt;
+    &lt;sign&gt;KH000610&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-01T10:20:44+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000735&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52533</ID>
+    <userid>US000016</userid>
+    <date>2017-12-02T11:33:32.92+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52534</ID>
+    <userid>US000018</userid>
+    <date>2017-12-04T08:50:03.86+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52535</ID>
+    <userid>US000016</userid>
+    <date>2017-12-04T11:21:08.387+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52536</ID>
+    <userid>US000018</userid>
+    <date>2017-12-04T13:35:10.333+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002533</object>
+    <caption>ANH MINH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002533&lt;/idcontact&gt;
+    &lt;note&gt;kỹ thuật&lt;/note&gt;
+    &lt;sign&gt;KH002533&lt;/sign&gt;
+    &lt;tel&gt;0274.365.2631/0916031033&lt;/tel&gt;
+    &lt;email&gt;minh2@grc.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;ANH MINH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001483&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52537</ID>
+    <userid>US000018</userid>
+    <date>2017-12-04T13:35:18.627+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002531</object>
+    <caption>VIỆT ANH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002531&lt;/idcontact&gt;
+    &lt;note&gt;mua hàng&lt;/note&gt;
+    &lt;sign&gt;KH002531&lt;/sign&gt;
+    &lt;tel&gt;0906925612&lt;/tel&gt;
+    &lt;email&gt;anh5@grc.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;VIỆT ANH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001483&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52538</ID>
+    <userid>US000016</userid>
+    <date>2017-12-04T14:56:33.913+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52539</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T08:55:54.293+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52540</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T09:02:01.827+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000611</object>
+    <caption>Tiếp nhận thông tin</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;ngày 2/12/2017 lúc 11h30 khách hàng gọi điện báo
+thắng con bị xì dầu
+đèn pha không sáng
+thắng không ăn
+đã viết mail lúc 11h37 -&amp;gt; 4/12 đã xuống khẵ phục&lt;/note&gt;
+    &lt;description&gt;Tiếp nhận thông tin&lt;/description&gt;
+    &lt;idcontact&gt;KH001838&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000611&lt;/idplan&gt;
+    &lt;sign&gt;KH000611&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-02T08:59:32+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000139&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52541</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T14:28:06.367+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>DV000270</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;namsx&gt;0&lt;/namsx&gt;
+    &lt;quantity&gt;4&lt;/quantity&gt;
+    &lt;note&gt;Công ty sử dụng 2 xe nang dầu TOYOTA( kh không nhớ thông số)&lt;/note&gt;
+    &lt;iddevice&gt;DV000270&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-12-05T14:28:06+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000002&lt;/idbrand&gt;
+    &lt;createdDate&gt;2017-10-09T08:34:20+07:00&lt;/createdDate&gt;
+    &lt;model /&gt;
+    &lt;sokhung /&gt;
+    &lt;hethongphutro /&gt;
+    &lt;dongco /&gt;
+    &lt;idcustomer&gt;KH000697&lt;/idcustomer&gt;
+    &lt;xuatxu /&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52542</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T14:29:06.373+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000612</object>
+    <caption>LIÊN HỆ KHÁCH HÀNG </caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;LIÊN HỆ HỎI THĂM NHU CẦU
+KHI NÀO CÓ ĐƠN HÀNG KHÁCH HÀNG BÁO GIÁ&lt;/note&gt;
+    &lt;description&gt;LIÊN HỆ KHÁCH HÀNG&lt;/description&gt;
+    &lt;idcontact&gt;KH000978&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000612&lt;/idplan&gt;
+    &lt;sign&gt;KH000612&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-05T14:28:12+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000697&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52543</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:12:06.39+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002507</object>
+    <caption>CÔNG TY TNHH AK VINA</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000022&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002507&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002507&lt;/sign&gt;
+    &lt;tel&gt;0613543731&lt;/tel&gt;
+    &lt;station&gt;Số 02, KCN Gò Dầu, Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai&lt;/station&gt;
+    &lt;tax&gt;3600649634&lt;/tax&gt;
+    &lt;address&gt;Số 02, KCN Gò Dầu, Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai&lt;/address&gt;
+    &lt;surrogate&gt;LIM HO QEUN&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH AK VINA&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-05T15:07:05+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-05T15:07:05+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000018&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000008&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52544</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:14:58.523+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002361</object>
+    <caption>QS002361</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-01T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-05T15:13:35+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002507&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002361&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM001-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Số 02, KCN Gò Dầu, Xã Phước Thái, Huyện Long Thành, Tỉnh Đồng Nai&lt;/placedelivery&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52545</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:22:51.003+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002508</object>
+    <caption>CÔNG TY THE FRUIT REPUBLIC</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002508&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002508&lt;/sign&gt;
+    &lt;station&gt;SỐ 86 ĐƯỜNG CAO TRIỀU PHÁT, HƯNG GIA 4, TÂN PHONG, QUẬN 7, HCM&lt;/station&gt;
+    &lt;tax&gt;1801277862-003&lt;/tax&gt;
+    &lt;address&gt;VPĐDSỐ 86 ĐƯỜNG CAO TRIỀU PHÁT, HƯNG GIA 4, TÂN PHONG, QUẬN 7, HCM&lt;/address&gt;
+    &lt;surrogate&gt;MAATEN SICBE VAN WIJK&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY THE FRUIT REPUBLIC&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-05T15:16:53+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-05T15:16:52+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000018&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea&gt;KV000008&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52546</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:37:01.93+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002362</object>
+    <caption>QS002362</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-01T15:24:19+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-05T15:24:19+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002508&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002362&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM004-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;ĐỨC TRỌNG,LÂM ĐỒNG&lt;/placedelivery&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52547</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:42:55.95+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002363</object>
+    <caption>QS002363</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-04T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-05T15:41:12+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002407&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002363&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM005-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Số 2, KCN VSIP II-A, đường số 28, thị trấn Tân Uyên, tỉnh Bình Dương.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002442&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52548</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:47:53.727+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002364</object>
+    <caption>QS002364</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-04T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-05T15:45:43+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH001483&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002364&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM007-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lô M8, Đường N8, KCN Nam Tân Uyên, Phường Khánh Bình, Thị xã Tân Uyên, Tỉnh Bình Dương&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002533&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52549</ID>
+    <userid>US000018</userid>
+    <date>2017-12-05T15:54:26.38+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002365</object>
+    <caption>QS002365</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-01T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-05T15:49:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH001483&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002365&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM006-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lô M8, Đường N8, KCN Nam Tân Uyên, Phường Khánh Bình, Thị xã Tân Uyên, Tỉnh Bình Dương&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002533&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52550</ID>
+    <userid>US000020</userid>
+    <date>2017-12-06T07:46:35.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52551</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T08:24:29.35+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52552</ID>
+    <userid>US000016</userid>
+    <date>2017-12-06T09:21:27.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52553</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T11:11:07.81+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000599</object>
+    <caption>Tiếp nhận thông tin</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Ngày 10/11/2017 khách hàng phản hồi bình điện 48V-290AH		
+ bán cho công ty Thăng Long 6/2016 xạc không vào điện-&amp;gt;
+kỹ thuật xuống khắc phục ok ngày 14/11/2017&lt;/note&gt;
+    &lt;description&gt;Tiếp nhận thông tin&lt;/description&gt;
+    &lt;idcontact&gt;KH000174&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000008&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000599&lt;/idplan&gt;
+    &lt;sign&gt;KH000599&lt;/sign&gt;
+    &lt;datecontact&gt;2017-11-10T09:22:21+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000495&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52554</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T13:41:33.027+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52555</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T14:04:35.833+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH005836</object>
+    <caption>Tán bố ma sát</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000015&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH005836&lt;/idcommodity&gt;
+    &lt;sign&gt;HH005836&lt;/sign&gt;
+    &lt;commodity&gt;Tán bố ma sát&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;equipmentinfo&gt;Máy ly tâm&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;Tan bo ma sat&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52556</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T14:05:08.94+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002366</object>
+    <caption>QS002366</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-06T13:46:53+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T13:46:53+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002366&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM011-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương. quận 12&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002348&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52557</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T14:08:53.63+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002367</object>
+    <caption>QS002367</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-05T14:05:30+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T14:05:30+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH001483&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002367&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM010-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lô M8, Đường N8, KCN Nam Tân Uyên, Phường Khánh Bình, Thị xã Tân Uyên, Tỉnh Bình Dương&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002533&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52558</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T14:32:15.587+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002368</object>
+    <caption>QS002368</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-04T14:11:38+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T14:11:38+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002508&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002368&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000003&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM009-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;ĐỨC TRỌNG, LÂM ĐỒNG&lt;/placedelivery&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;dieukhoan&gt;- Những hư hỏng do lỗi kỹ thuật , hao mòn công ty EPS chịu phí sửa chữa. 
+- Công ty EPS sẽ bảo trì định kỳ xe, thay nhớt, lọc…
+- Những hư hỏng do tác động bên ngoài như va chạm, ..do người vận hành không đúng thì BÊN THUÊ chịu trách nhiệm sửa chữa
+- Một năm thay 2 vỏ xe trước và 2 vỏ xe sau.
+- Sửa chữa đại tu động cơ trong vòng 5 ngày.
+- Sửa chữa đại tu hộp số trong vòng 3 ngày.
+- Sửa chữa nhỏ trong vòng 2 ngày.
+- Xe ngưng hoạt động để sửa chửa 6 ngày phải đổi xe khác.
+-  Thời gian kỹ thuật có mặt kiểm tra sửa chữa: 24-36h kể từ lúc nhận thông tin không tính ngày lễ và chủ nhật tính từ thời điểm tiếp nhận thông tin.
++ 8h-12h tính trong ngày.
++ Sau 12h tính ngày hôm sau.
+- Xe ngừng hoạt động từ ngày thứ 2 mà kỹ thuật không đến kiểm tra sửa chữa không tính phí.
+- Khi bàn giao xe, kiểm tra định kỳ số giờ hoạt động của xe phải lập biên bản.&lt;/dieukhoan&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52559</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T14:45:22.887+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002369</object>
+    <caption>QS002369</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-04T14:38:28+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T14:38:28+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002508&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002369&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM008-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Đức trọng, Lâm đồng&lt;/placedelivery&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52560</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T15:57:22.273+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH005837</object>
+    <caption>Bộ xy lanh thủy lực ( Hệ thống side shifter)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000021&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH005837&lt;/idcommodity&gt;
+    &lt;sign&gt;HH005837&lt;/sign&gt;
+    &lt;commodity&gt;Bộ xy lanh thủy lực ( Hệ thống side shifter)&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;equipmentinfo&gt;XE NÂNG HIỆU MITSUBISHI 2,5 TẤN&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;Bo xy lanh thuy luc ( He thong side shifter)&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52561</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T15:59:12.713+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002370</object>
+    <caption>QS002370</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-06T15:21:03+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T15:21:03+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002370&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM012-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;Lê Văn Khương. quận 12&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002348&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52562</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T16:17:09.35+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000613</object>
+    <caption>tiếp nhận nhu cầu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH Y/C KHẢO SÁT BEN XẾP CÀNG -&amp;gt; ĐÃ KHẢO SÁT -&amp;gt; GỬI BÁO GIÁ THAY BỘ XYLANH THỦY LỰC ( HỆ THỐNG SIDE SHIFTER) NGÀY 6/12/2017 -&amp;gt; CHỜ PHẢN HỒI&lt;/note&gt;
+    &lt;description&gt;tiếp nhận nhu cầu&lt;/description&gt;
+    &lt;idcontact&gt;KH002348&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000003&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000613&lt;/idplan&gt;
+    &lt;sign&gt;KH000613&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-06T16:15:34+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52563</ID>
+    <userid>US000018</userid>
+    <date>2017-12-06T16:45:56.807+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002371</object>
+    <caption>QS002371</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-04T16:40:38+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-06T16:40:38+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000139&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002371&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM013-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH001837&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52564</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T08:17:10.02+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52565</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T09:05:11.06+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52566</ID>
+    <userid>US000016</userid>
+    <date>2017-12-07T09:16:15.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52567</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:18.27+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52568</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:21.223+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52569</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:27.8+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52570</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:30.127+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52571</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:40.377+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52572</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:28:54.69+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52573</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:29:02.063+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002372</object>
+    <caption>QS002372</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-06-29T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T10:25:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000996&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002372&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AV049B-0617/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;ĐƯỜNG LÝ THÁI TỔ, PHƯỜNG VÕ CƯỜNG, TP BẮC NINH, BẮC NINH&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000642&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52574</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:32:44.833+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002373</object>
+    <caption>QS002373</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-06-27T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T10:31:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000996&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002373&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AV049A-0617/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;ĐƯỜNG LÝ THÁI TỔ, PHƯỜNG VÕ CƯỜNG, TP BẮC NINH, BẮC NINH&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000642&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52575</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T10:57:25.707+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002374</object>
+    <caption>QS002374</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-06-23T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T10:53:32+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000447&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002374&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AV019A-0617/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;LÔ B3 ĐƯỜNG 2 KCN BÌNH CHIỂU, P.BÌNH CHIỂU, Q.THỦ ĐỨC. HỒ CHÍ MINH&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002389&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52576</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T11:08:57.287+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000914</object>
+    <caption>CÔNG TY TNHH NHÀ MÁY BIA HEINEKEN  VIỆT NAM TIỀN GIANG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000007&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000057&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000006&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000914&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;000284&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;07 3385 3023&lt;/tel&gt;
+    &lt;fax /&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;1200100571&lt;/tax&gt;
+    &lt;address&gt;KCN Mỹ Tho, Xã Trung An, Thành phố Mỹ Tho, Tiền Giang&lt;/address&gt;
+    &lt;surrogate&gt;Paulus Adrianus Hendrikus Blei&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH NHÀ MÁY BIA HEINEKEN  VIỆT NAM TIỀN GIANG&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:26:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000018&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52577</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T13:52:01.927+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000957</object>
+    <caption>CÔNG TY CP RAU QUẢ TIỀN GIANG (VEGETIGI)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000057&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000957&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;000327&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;NH NN&amp;amp;PTNN-CNTG&lt;/bank&gt;
+    &lt;atm&gt;6900431101000005&lt;/atm&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;(073)3834 677&lt;/tel&gt;
+    &lt;fax /&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;1200100123&lt;/tax&gt;
+    &lt;address&gt;Km 1977, QL1, Long Định, Châu Thành, Tiền Giang&lt;/address&gt;
+    &lt;surrogate&gt;VÕ VĂN BON / ALEX TRAN&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CP RAU QUẢ TIỀN GIANG (VEGETIGI)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:26:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000018&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea&gt;KV000008&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52578</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T13:57:44.323+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002375</object>
+    <caption>QS002375</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-07-26T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T13:56:48+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000957&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002375&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM041-0717&lt;/quotationno&gt;
+    &lt;receiver&gt;KH001524&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52579</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T14:20:14.123+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002376</object>
+    <caption>QS002376</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-07T13:56:01+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T13:56:01+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000712&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002376&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM014-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000217&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52580</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T15:00:40.937+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000614</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ hỏi thăm nhu cầu. kh thông báo công ty đang xây xưởng mới nên chưa có nhu cầu
+có nhu cầu khách hàng liên hệ&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002394&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000614&lt;/idplan&gt;
+    &lt;sign&gt;KH000614&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-07T14:59:21+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001344&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52581</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T15:02:33.697+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000615</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ khách hàng hỏi thăm kết quả báo giá -&amp;gt; đang trình sắp-? chờ&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000217&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000003&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000615&lt;/idplan&gt;
+    &lt;sign&gt;KH000615&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-07T15:00:51+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000712&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52582</ID>
+    <userid>US000020</userid>
+    <date>2017-12-07T15:17:27.587+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52583</ID>
+    <userid>US000020</userid>
+    <date>2017-12-07T15:20:16.93+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002509</object>
+    <caption>CTY TNHH SẢN XUẤT THƯƠNG MẠI CÔNG NGHIỆP A.V.A.L</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002509&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002509&lt;/sign&gt;
+    &lt;email&gt;vanctt0108@gmail.com&lt;/email&gt;
+    &lt;station&gt;Lô 65-72/II KCN Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, Thành phố Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301928458&lt;/tax&gt;
+    &lt;address&gt;Lô 65-72/II KCN Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, Thành phố Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;PHẠM THỊ PHƯƠNG VÂN&lt;/surrogate&gt;
+    &lt;customer&gt;CTY TNHH SẢN XUẤT THƯƠNG MẠI CÔNG NGHIỆP A.V.A.L&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-07T15:17:36+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-07T15:36:31+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000020&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52584</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T16:57:44.867+07:00</date>
+    <idform>frm_survey_S</idform>
+    <status>0</status>
+    <object>KS000007</object>
+    <caption>KS000007</caption>
+    <action>F4 Lưu - In</action>
+    <computer>HCHANH-07</computer>
+    <tableName>survey</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;survey&gt;
+    &lt;dateaction&gt;2017-12-06T16:51:58+07:00&lt;/dateaction&gt;
+    &lt;daterequest&gt;2017-12-06T16:51:58+07:00&lt;/daterequest&gt;
+    &lt;note&gt;Đã hoàn thành khảo sát -&amp;gt; đề nghị thay Bộ xy lanh thủy lực ( hệ thống side shifter)&lt;/note&gt;
+    &lt;description&gt;Hư ty ben xếp càng&lt;/description&gt;
+    &lt;content&gt;Yêu cầu khảo sát  báo giá sửa chữa&lt;/content&gt;
+    &lt;sex&gt;0&lt;/sex&gt;
+    &lt;useraction&gt;Anh Lịch&lt;/useraction&gt;
+    &lt;userrequest&gt;Anh Linh&lt;/userrequest&gt;
+    &lt;surveyno&gt;KS000007&lt;/surveyno&gt;
+    &lt;sign&gt;MITSUBISHI&lt;/sign&gt;
+    &lt;idsurvey&gt;KS000007&lt;/idsurvey&gt;
+    &lt;address&gt;Lầu 5, Tòa  nhà Shereton, số 88, Đường Đồng Khởi, Quận 1, TP HCM&lt;/address&gt;
+    &lt;tel&gt;0947461234&lt;/tel&gt;
+    &lt;contact&gt;Anh Linh&lt;/contact&gt;
+    &lt;idcommodity&gt;HH000430&lt;/idcommodity&gt;
+    &lt;idquotation&gt;QS002370&lt;/idquotation&gt;
+    &lt;dateend&gt;2017-12-06T00:00:00+07:00&lt;/dateend&gt;
+  &lt;/survey&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52585</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T16:58:39.193+07:00</date>
+    <idform>frm_survey_S</idform>
+    <status>0</status>
+    <object>KS000007</object>
+    <caption>KS000007</caption>
+    <action>F4 Lưu - In</action>
+    <computer>HCHANH-07</computer>
+    <tableName>survey</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;survey&gt;
+    &lt;dateaction&gt;2017-12-06T16:51:58+07:00&lt;/dateaction&gt;
+    &lt;daterequest&gt;2017-12-06T16:51:58+07:00&lt;/daterequest&gt;
+    &lt;note&gt;Đã hoàn thành khảo sát -&amp;gt; đề nghị thay Bộ xy lanh thủy lực ( hệ thống side shifter)&lt;/note&gt;
+    &lt;description&gt;Hư ty ben xếp càng&lt;/description&gt;
+    &lt;spec /&gt;
+    &lt;content&gt;Yêu cầu khảo sát  báo giá sửa chữa&lt;/content&gt;
+    &lt;sex&gt;0&lt;/sex&gt;
+    &lt;useraction&gt;Anh Lịch&lt;/useraction&gt;
+    &lt;userrequest&gt;Anh Linh&lt;/userrequest&gt;
+    &lt;surveyno&gt;KS000007&lt;/surveyno&gt;
+    &lt;model /&gt;
+    &lt;sign&gt;MITSUBISHI&lt;/sign&gt;
+    &lt;idsurvey&gt;KS000007&lt;/idsurvey&gt;
+    &lt;address&gt;Lầu 5, Tòa  nhà Shereton, số 88, Đường Đồng Khởi, Quận 1, TP HCM&lt;/address&gt;
+    &lt;tel&gt;0947461234&lt;/tel&gt;
+    &lt;contact&gt;Anh Linh&lt;/contact&gt;
+    &lt;idcommodity&gt;HH000430&lt;/idcommodity&gt;
+    &lt;idquotation&gt;QS002370&lt;/idquotation&gt;
+    &lt;dateend&gt;2017-12-06T00:00:00+07:00&lt;/dateend&gt;
+  &lt;/survey&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52586</ID>
+    <userid>US000018</userid>
+    <date>2017-12-07T17:02:56.967+07:00</date>
+    <idform>frm_survey_S</idform>
+    <status>0</status>
+    <object>KS000007</object>
+    <caption>KS000007</caption>
+    <action>F4 Lưu - In</action>
+    <computer>HCHANH-07</computer>
+    <tableName>survey</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;survey&gt;
+    &lt;dateaction&gt;2017-12-06T16:51:58+07:00&lt;/dateaction&gt;
+    &lt;daterequest&gt;2017-12-06T16:51:58+07:00&lt;/daterequest&gt;
+    &lt;note&gt;Đã hoàn thành khảo sát -&amp;gt; đề nghị thay Bộ xy lanh thủy lực ( hệ thống side shifter)&lt;/note&gt;
+    &lt;description&gt;Hư ty ben xếp càng&lt;/description&gt;
+    &lt;spec /&gt;
+    &lt;content&gt;Yêu cầu khảo sát  báo giá sửa chữa&lt;/content&gt;
+    &lt;sex&gt;0&lt;/sex&gt;
+    &lt;useraction&gt;Anh Lịch&lt;/useraction&gt;
+    &lt;userrequest&gt;Anh Linh&lt;/userrequest&gt;
+    &lt;surveyno&gt;KS000007&lt;/surveyno&gt;
+    &lt;model /&gt;
+    &lt;sign&gt;MITSUBISHI&lt;/sign&gt;
+    &lt;idsurvey&gt;KS000007&lt;/idsurvey&gt;
+    &lt;address&gt;Lầu 5, Tòa  nhà Shereton, số 88, Đường Đồng Khởi, Quận 1, TP HCM&lt;/address&gt;
+    &lt;tel&gt;0947461234&lt;/tel&gt;
+    &lt;contact&gt;Anh Linh&lt;/contact&gt;
+    &lt;idcommodity&gt;HH000430&lt;/idcommodity&gt;
+    &lt;idquotation&gt;QS002370&lt;/idquotation&gt;
+    &lt;dateend&gt;2017-12-06T00:00:00+07:00&lt;/dateend&gt;
+  &lt;/survey&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52587</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T08:27:44.503+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52588</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T09:17:49.56+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52589</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T09:27:06.57+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002597</object>
+    <caption>A.HIẾU</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002597&lt;/idcontact&gt;
+    &lt;sign&gt;KH002597&lt;/sign&gt;
+    &lt;tel&gt;0938326346&lt;/tel&gt;
+    &lt;contactname&gt;A.HIẾU&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002499&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52590</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T09:30:28.227+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002377</object>
+    <caption>QS002377</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-05</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-01T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-08T09:27:35+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002499&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000027&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002377&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;VH003-1217/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;SỐ 29 ĐƯỜNG 128,ẤP 12, XÃ TÂN THẠNH ĐÔNG, HUYỆN CỦ CHI&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002597&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000027&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52591</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T09:38:22.35+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002378</object>
+    <caption>QS002378</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-05</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-07T00:00:00+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-07T00:00:00+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH001293&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000027&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002378&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;VH006-1712/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;KCN NHƠN TRẠCH 3, HUYỆN NHƠN TRẠCH, ĐỒNG NAI&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH001250&lt;/receiver&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000027&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52592</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T10:05:32.833+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002379</object>
+    <caption>QS002379</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-05</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-11-21T09:53:41+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-08T09:53:41+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000929&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000027&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002379&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;VH004-1117/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;47 Điểu Xiển, KP 5B, P. Tân Biên, Biên Hòa, Đồng Nai.&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH002546&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000027&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52593</ID>
+    <userid>US000020</userid>
+    <date>2017-12-08T10:43:09.92+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52594</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T14:45:00.453+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002598</object>
+    <caption>jennifer.slvn@gmail.com</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002598&lt;/idcontact&gt;
+    &lt;sign&gt;KH002598&lt;/sign&gt;
+    &lt;email&gt;jennifer.slvn@gmail.com&lt;/email&gt;
+    &lt;contactname&gt;jennifer.slvn@gmail.com&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002507&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52595</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T14:45:07.24+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002598</object>
+    <caption>jennifer.slvn@gmail.com</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002598&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002598&lt;/sign&gt;
+    &lt;tel /&gt;
+    &lt;email&gt;jennifer.slvn@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;jennifer.slvn@gmail.com&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002507&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52596</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T14:46:02.49+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000616</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ khách hàng y/c báo giá bình điện-&amp;gt; đã gửi báo giá&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002598&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000003&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000616&lt;/idplan&gt;
+    &lt;sign&gt;KH000616&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-08T14:45:15+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002507&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52597</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T14:56:21.727+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>DV000318</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;namsx&gt;0&lt;/namsx&gt;
+    &lt;quantity&gt;2&lt;/quantity&gt;
+    &lt;note&gt;2 xe nâng dầu ( 1 xe 1.5 tấn. 1 xe 2 tấn)&lt;/note&gt;
+    &lt;iddevice&gt;DV000318&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-12-08T14:55:35+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000007&lt;/idbrand&gt;
+    &lt;createdDate&gt;2017-12-08T14:55:35+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH002102&lt;/idcustomer&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52598</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T14:57:58.86+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000617</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ khách hàng hỏi thăm nhu cầu. công ty hiện sử dung 2 xe nâng dầu hiệu NYCHIYU ( 1,5 tấn, 2 tấn)
+không có kỹ thuật thường thuê ngoài
+khi nào có nhu cầu khách hàng liên hệ&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002270&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000617&lt;/idplan&gt;
+    &lt;sign&gt;KH000617&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-08T14:56:27+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002102&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52599</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T15:11:37.2+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000818</object>
+    <caption>CÔNG TY TNHH GIẤY GLATZ VN</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000012&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000014&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000818&lt;/idcustomer&gt;
+    &lt;note&gt;KH THUY ANH&lt;/note&gt;
+    &lt;sign&gt;000188&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel /&gt;
+    &lt;fax /&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;3701817878&lt;/tax&gt;
+    &lt;address&gt;SỐ 8 ĐƯỜNG DÂN CHỦ,KCN VIỆT NAM SINGAPO PHƯỜNG HOÀ PHÚ, TX THỦ DẦU 1 BÌNH DƯƠNG&lt;/address&gt;
+    &lt;surrogate&gt;ÔNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH GIẤY GLATZ VN&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:26:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000018&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52600</ID>
+    <userid>US000018</userid>
+    <date>2017-12-08T15:16:24.92+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000618</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ hỏi thăm nhu cầu 
+chị quỳnh  báo chưa có đơn hàng mới . khi có sẽ liên lạc
+đã gửi lại mail&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH001556&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000618&lt;/idplan&gt;
+    &lt;sign&gt;KH000618&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-08T15:15:22+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000818&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52601</ID>
+    <userid>US000018</userid>
+    <date>2017-12-09T08:37:55.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52602</ID>
+    <userid>US000016</userid>
+    <date>2017-12-09T10:53:14.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52603</ID>
+    <userid>US000017</userid>
+    <date>2017-12-09T15:38:46.5+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000017</object>
+    <caption>thuyanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALE-06</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52604</ID>
+    <userid>US000018</userid>
+    <date>2017-12-11T08:51:38.543+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52605</ID>
+    <userid>US000018</userid>
+    <date>2017-12-11T09:39:28.827+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>DV000270</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;namsx&gt;0&lt;/namsx&gt;
+    &lt;quantity&gt;2&lt;/quantity&gt;
+    &lt;note&gt;Công ty sử dụng 2 xe nang dầu TOYOTA( kh không nhớ thông số)&lt;/note&gt;
+    &lt;iddevice&gt;DV000270&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-12-11T09:39:28+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000002&lt;/idbrand&gt;
+    &lt;createdDate&gt;2017-10-09T08:34:20+07:00&lt;/createdDate&gt;
+    &lt;model /&gt;
+    &lt;sokhung /&gt;
+    &lt;hethongphutro /&gt;
+    &lt;dongco /&gt;
+    &lt;idcustomer&gt;KH000697&lt;/idcustomer&gt;
+    &lt;xuatxu /&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52606</ID>
+    <userid>US000020</userid>
+    <date>2017-12-11T13:05:11.387+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52607</ID>
+    <userid>US000020</userid>
+    <date>2017-12-11T13:07:58.767+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002510</object>
+    <caption>CÔNG TY CỔ PHẦN HOÀNG THUẬN PHÁT</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000032&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002510&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002510&lt;/sign&gt;
+    &lt;station&gt;Thôn Như Xuân, Xã Vĩnh Phương, Thành phố Nha Trang, Khánh Hòa&lt;/station&gt;
+    &lt;tax&gt;4200433431&lt;/tax&gt;
+    &lt;address&gt;Thôn Như Xuân, Xã Vĩnh Phương, Thành phố Nha Trang, Khánh Hòa&lt;/address&gt;
+    &lt;surrogate&gt;HOÀNG TIẾN THI&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN HOÀNG THUẬN PHÁT&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-11T13:05:37+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-11T13:25:20+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000020&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52608</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T08:15:34.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52609</ID>
+    <userid>US000020</userid>
+    <date>2017-12-12T08:04:15.903+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52610</ID>
+    <userid>US000016</userid>
+    <date>2017-12-12T09:42:07.647+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52611</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T10:08:31.133+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002511</object>
+    <caption>XÍ NGHIỆP CƠ KHÍ ÔT MIỀN ĐÔNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000001&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002511&lt;/sign&gt;
+    &lt;station&gt;2450 Quốc Lộ 1A, Phường Trung Mỹ Tây, Quận 12&lt;/station&gt;
+    &lt;tax&gt;0300512577-003&lt;/tax&gt;
+    &lt;address&gt;2450 Quốc Lộ 1A, Phường Trung Mỹ Tây, Quận 12&lt;/address&gt;
+    &lt;surrogate&gt;CTY ĐẦU TƯ MIỀN ĐÔNG&lt;/surrogate&gt;
+    &lt;customer&gt;XÍ NGHIỆP CƠ KHÍ ÔT MIỀN ĐÔNG&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-12T10:01:49+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-12T10:01:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000018&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52612</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T10:12:08.86+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002380</object>
+    <caption>QS002380</caption>
+    <action>F1 Tạo</action>
+    <computer>HCHANH-07</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2017-12-29T10:09:06+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-12-12T10:09:06+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000023&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002380&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TM016-1117/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;BD000000&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-1217/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000023&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52613</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T10:18:50.627+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002511</object>
+    <caption>XÍ NGHIỆP CƠ KHÍ Ô TÔ MIỀN ĐÔNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002511&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel /&gt;
+    &lt;fax /&gt;
+    &lt;station&gt;2450 Quốc Lộ 1A, Phường Trung Mỹ Tây, Quận 12&lt;/station&gt;
+    &lt;tax&gt;0300512577-003&lt;/tax&gt;
+    &lt;address&gt;2450 Quốc Lộ 1A, Phường Trung Mỹ Tây, Quận 12&lt;/address&gt;
+    &lt;surrogate&gt;CTY ĐẦU TƯ MIỀN ĐÔNG&lt;/surrogate&gt;
+    &lt;customer&gt;XÍ NGHIỆP CƠ KHÍ Ô TÔ MIỀN ĐÔNG&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-12T10:01:49+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-12T10:01:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000018&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52614</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T10:20:08.06+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002599</object>
+    <caption>ANH PHƯỚC</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002599&lt;/idcontact&gt;
+    &lt;sign&gt;KH002599&lt;/sign&gt;
+    &lt;tel&gt;0942411126&lt;/tel&gt;
+    &lt;email&gt;phuocphan.tv@gmail.com&lt;/email&gt;
+    &lt;contactname&gt;ANH PHƯỚC&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52615</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T14:11:40.983+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52616</ID>
+    <userid>US000018</userid>
+    <date>2017-12-12T16:11:15.963+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52617</ID>
+    <userid>US000016</userid>
+    <date>2017-12-13T08:20:05.12+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52618</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T08:27:42.423+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52619</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T08:42:09.557+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000620</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ hỏi thăm nhu cầu . Khách hàng có nhu cầu báo giá bạc đạn khung nâng xe komatsu 3 tấn: 118*40*33
+Đã gửi báo giá&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002599&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000003&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000620&lt;/idplan&gt;
+    &lt;sign&gt;KH000620&lt;/sign&gt;
+    &lt;datecontact&gt;2017-11-29T08:28:00+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52620</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T08:44:53.187+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000621</object>
+    <caption>Kết quả báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;khách hàng báo giá cty cao hơn sao với  các nhà cung cấp khác (nhật :540k, bỉ 550k)
+Có nhu cầu khách hàng liên lạc lại&lt;/note&gt;
+    &lt;description&gt;Kết quả báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH002599&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000006&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000621&lt;/idplan&gt;
+    &lt;sign&gt;KH000621&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-12T08:42:12+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52621</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T08:45:09.177+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>DV000319</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;namsx&gt;0&lt;/namsx&gt;
+    &lt;quantity&gt;3&lt;/quantity&gt;
+    &lt;iddevice&gt;DV000319&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-12-13T08:44:56+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000003&lt;/idbrand&gt;
+    &lt;createdDate&gt;2017-12-13T08:44:56+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH002511&lt;/idcustomer&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52622</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T09:49:26.773+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000622</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ khách hàng hỏi thăm nhu cầu. y/c báo giá bơm tay dầu xe komatsu 2,5 tấn-&amp;gt; chờ bổ sung thông tin&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH001686&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000622&lt;/idplan&gt;
+    &lt;sign&gt;KH000622&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-13T09:47:33+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000848&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52623</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T10:24:29.977+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000623</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ hỏi thăm nhiều lần số tb không liên lạc được&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002249&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000623&lt;/idplan&gt;
+    &lt;sign&gt;KH000623&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-13T10:23:46+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002082&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52624</ID>
+    <userid>US000018</userid>
+    <date>2017-12-13T10:25:58.683+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000624</object>
+    <caption>Liên hệ khách hàng
+</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Liên hệ khách hàng hỏi thăm nhu cầu thuê xe-&amp;gt; chưa có. đã gửi mail&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH001747&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000624&lt;/idplan&gt;
+    &lt;sign&gt;KH000624&lt;/sign&gt;
+    &lt;datecontact&gt;2017-12-11T10:25:05+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001906&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52625</ID>
+    <userid>US000018</userid>
+    <date>2017-12-14T08:06:30.963+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52626</ID>
+    <userid>US000016</userid>
+    <date>2017-12-14T09:59:30.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52627</ID>
+    <userid>US000018</userid>
+    <date>2017-12-15T10:45:39.38+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52628</ID>
+    <userid>US000018</userid>
+    <date>2017-12-16T08:10:55.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52629</ID>
+    <userid>US000020</userid>
+    <date>2017-12-16T08:29:19.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52630</ID>
+    <userid>US000020</userid>
+    <date>2017-12-16T08:30:33.243+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002512</object>
+    <caption>CÔNG TY TNHH VIETNAM JINTUO ELECTRONICS</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000011&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002512&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002512&lt;/sign&gt;
+    &lt;station&gt;Lô số 4, KCN Tân Hồng - Hoàn Sơn (thuộc KCN Tiên Sơn mở rộng, Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh&lt;/station&gt;
+    &lt;tax&gt;02413734456&lt;/tax&gt;
+    &lt;address&gt;Lô số 4, KCN Tân Hồng - Hoàn Sơn (thuộc KCN Tiên Sơn mở rộng, Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh&lt;/address&gt;
+    &lt;surrogate&gt;Huang Jingbin&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH VIETNAM JINTUO ELECTRONICS&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-16T08:29:23+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-16T08:48:53+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000020&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52631</ID>
+    <userid>US000020</userid>
+    <date>2017-12-16T08:31:21.837+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002512</object>
+    <caption>CÔNG TY TNHH VIETNAM JINTUO ELECTRONICS</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000011&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000002&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002512&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002512&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel /&gt;
+    &lt;fax /&gt;
+    &lt;station&gt;Lô số 4, KCN Tân Hồng - Hoàn Sơn (thuộc KCN Tiên Sơn mở rộng, Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh&lt;/station&gt;
+    &lt;tax&gt;2300777295&lt;/tax&gt;
+    &lt;address&gt;Lô số 4, KCN Tân Hồng - Hoàn Sơn (thuộc KCN Tiên Sơn mở rộng, Phường Tân Hồng, Thị xã Từ Sơn, Tỉnh Bắc Ninh&lt;/address&gt;
+    &lt;surrogate&gt;Huang Jingbin&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH VIETNAM JINTUO ELECTRONICS&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2017-12-16T08:29:23+07:00&lt;/date2&gt;
+    &lt;date1&gt;2017-12-16T08:48:53+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000020&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000002&lt;/idregion&gt;
+    &lt;idarea&gt;KV000003&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52632</ID>
+    <userid>US000016</userid>
+    <date>2017-12-16T14:54:53.747+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52633</ID>
+    <userid>US000018</userid>
+    <date>2017-12-16T15:29:01.873+07:00</date>
+    <idform>frm_survey_S</idform>
+    <status>0</status>
+    <object>KS000007</object>
+    <caption>KS000007</caption>
+    <action>F4 Lưu - In</action>
+    <computer>HCHANH-07</computer>
+    <tableName>survey</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;survey&gt;
+    &lt;dateaction&gt;2017-12-06T16:51:58+07:00&lt;/dateaction&gt;
+    &lt;daterequest&gt;2017-12-06T16:51:58+07:00&lt;/daterequest&gt;
+    &lt;note&gt;Đã hoàn thành khảo sát -&amp;gt; đề nghị thay Bộ xy lanh thủy lực ( hệ thống side shifter)&lt;/note&gt;
+    &lt;description&gt;Hư ty ben xếp càng&lt;/description&gt;
+    &lt;spec /&gt;
+    &lt;content&gt;Yêu cầu khảo sát  báo giá sửa chữa&lt;/content&gt;
+    &lt;sex&gt;0&lt;/sex&gt;
+    &lt;useraction&gt;Anh Lịch&lt;/useraction&gt;
+    &lt;userrequest&gt;Anh Linh&lt;/userrequest&gt;
+    &lt;surveyno&gt;KS000007&lt;/surveyno&gt;
+    &lt;model /&gt;
+    &lt;sign&gt;MITSUBISHI&lt;/sign&gt;
+    &lt;idsurvey&gt;KS000007&lt;/idsurvey&gt;
+    &lt;address&gt;Lầu 5, Tòa  nhà Shereton, số 88, Đường Đồng Khởi, Quận 1, TP HCM&lt;/address&gt;
+    &lt;tel&gt;0947461234&lt;/tel&gt;
+    &lt;contact&gt;Anh Linh&lt;/contact&gt;
+    &lt;idcommodity&gt;HH000430&lt;/idcommodity&gt;
+    &lt;idquotation&gt;QS002370&lt;/idquotation&gt;
+    &lt;dateend&gt;2017-12-06T00:00:00+07:00&lt;/dateend&gt;
+  &lt;/survey&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52634</ID>
+    <userid>US000018</userid>
+    <date>2017-12-16T15:40:30.493+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH005858</object>
+    <caption>b</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH005858&lt;/idcommodity&gt;
+    &lt;sign&gt;HH005858&lt;/sign&gt;
+    &lt;commodity&gt;b&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;spec&gt;b&lt;/spec&gt;
+    &lt;model&gt;b&lt;/model&gt;
+    &lt;equipmentinfo&gt;b&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;b&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52635</ID>
+    <userid>US000018</userid>
+    <date>2017-12-16T15:40:40.653+07:00</date>
+    <idform>frm_DMCOMMODITY_SH</idform>
+    <status>0</status>
+    <object>HH005858</object>
+    <caption>HH005858</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HCHANH-07</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH005858&lt;/idcommodity&gt;
+    &lt;sign&gt;HH005858&lt;/sign&gt;
+    &lt;commodity&gt;b&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;spec&gt;b&lt;/spec&gt;
+    &lt;model&gt;b&lt;/model&gt;
+    &lt;equipmentinfo&gt;b&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;b&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52636</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:32:21.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52637</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:33:29.957+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>NVKD1</object>
+    <caption>Nhân viên kinh doanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;NVKD1&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Nhân viên kinh doanh&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000001&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@NVKD1@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52638</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:34:02.37+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>QLKD</object>
+    <caption>Quản lý kinh doanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;QLKD&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Quản lý kinh doanh&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000001&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@QLKD@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52639</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:34:31.103+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>QLPO</object>
+    <caption>Quản lý PO</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;QLPO&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Quản lý PO&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000001&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@QLPO@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52640</ID>
+    <userid>US000018</userid>
+    <date>2017-12-16T16:35:37.037+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52641</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:36:05.65+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52642</ID>
+    <userid>US000001</userid>
+    <date>2017-12-16T16:36:40.293+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>NVKD1</object>
+    <caption>Nhân viên kinh doanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;NVKD1&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Nhân viên kinh doanh&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000001&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@NVKD1@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52643</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:07:40.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52644</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:33:56.767+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52645</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:35:32.353+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52646</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:41:03.503+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52647</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:46:36.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52648</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T08:53:09.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52649</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T12:04:17.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52650</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T12:11:16.24+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52651</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T12:20:13.26+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52652</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T12:45:26.71+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52653</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T12:46:31.143+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000003</object>
+    <caption>Xe mới 100%</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICERENTINFO&gt;
+    &lt;updatedat&gt;2017-09-28T12:18:11+07:00&lt;/updatedat&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idthuexe&gt;HH000004&lt;/idthuexe&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note /&gt;
+    &lt;iddevice&gt;IF000003&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-12-23T12:46:31+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-28T12:18:11+07:00&lt;/createdDate&gt;
+    &lt;serial /&gt;
+    &lt;devicename&gt;Xe xúc EULIFT&lt;/devicename&gt;
+    &lt;original&gt;Đài Loan&lt;/original&gt;
+    &lt;model&gt;TEU FD25&lt;/model&gt;
+    &lt;statusdevice&gt;Xe mới 100%&lt;/statusdevice&gt;
+  &lt;/DEVICERENTINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>52654</ID>
+    <userid>US000016</userid>
+    <date>2017-12-23T12:46:47.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52655</ID>
+    <userid>US000016</userid>
+    <date>2017-12-23T12:53:52.017+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52656</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T13:08:23.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52657</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T13:19:25.823+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52658</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T13:23:12.31+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52659</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T13:40:12.493+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52660</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T13:52:53.283+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52661</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T14:04:45.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52662</ID>
+    <userid>US000016</userid>
+    <date>2017-12-23T14:30:37.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52663</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T14:33:57.617+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52664</ID>
+    <userid>US000001</userid>
+    <date>2017-12-23T14:35:54.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52665</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T13:15:12.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52666</ID>
+    <userid>US000016</userid>
+    <date>2017-12-30T13:19:04.723+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52667</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T13:56:30.717+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52668</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T14:26:47.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52669</ID>
+    <userid>US000016</userid>
+    <date>2017-12-30T14:28:40.9+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52670</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T15:18:26.04+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52671</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T15:21:36.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52672</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T15:34:43.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52673</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T15:55:00.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52674</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T16:00:46.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52675</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T16:31:46.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52676</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T16:34:53.993+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52677</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T16:54:54.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52678</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T17:03:35.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>52679</ID>
+    <userid>US000001</userid>
+    <date>2017-12-30T17:09:52.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

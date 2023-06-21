@@ -731,7 +731,7 @@
             this.xtraTabPage2.Controls.Add(this.gct_device_C);
             this.xtraTabPage2.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.xtraTabPage2.Name = "xtraTabPage2";
-            this.xtraTabPage2.Size = new System.Drawing.Size(1369, 294);
+            this.xtraTabPage2.Size = new System.Drawing.Size(1371, 297);
             this.xtraTabPage2.Text = "Số lượng Thiết bị/ Phụ tùng nhập mới";
             // 
             // gct_device_C
@@ -742,7 +742,7 @@
             this.gct_device_C.MainView = this.gv_device_C;
             this.gct_device_C.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.gct_device_C.Name = "gct_device_C";
-            this.gct_device_C.Size = new System.Drawing.Size(1369, 294);
+            this.gct_device_C.Size = new System.Drawing.Size(1371, 297);
             this.gct_device_C.TabIndex = 5;
             this.gct_device_C.UseEmbeddedNavigator = true;
             this.gct_device_C.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {

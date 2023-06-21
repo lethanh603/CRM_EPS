@@ -1,0 +1,5617 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>81072</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T06:09:10.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81073</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:19:55.81+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81074</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:34:26.797+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T14:34:25+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81075</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:35:25.603+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T14:35:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81076</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:54:28.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81077</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:06:59.703+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81078</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:07:31.397+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T15:07:30+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81079</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:16:33.12+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81080</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:19:19.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81081</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:22:35.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81082</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:27:45.057+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81083</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:32:25.753+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81084</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:35:32.673+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81085</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:43:05.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81086</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:43:23.01+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000018</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T15:43:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000018&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000018&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81087</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:59:16.477+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81088</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:01:09.95+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81089</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:30:15.613+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81090</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:30:51.653+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:30:50+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81091</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:36:01.733+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81092</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:36:20.55+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000018</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:36:19+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000018&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000018&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81093</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:37:22.72+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000019</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:37:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000019&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000019&lt;/sign&gt;
+    &lt;idplan&gt;GH000015&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81094</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:45:35.363+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81095</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:47:41.05+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81096</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:49:02.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81097</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:00:17.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81098</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:01:12.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81099</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:07:50.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81100</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:10:51.307+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81101</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:11:59.55+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000019</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T17:11:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000019&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000019&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH001722_QS003054&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81102</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:14:43.083+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000020</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T17:14:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000020&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000020&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH001722_QS003054&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81103</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:22:40.42+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000021</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-03-28T17:22:14+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000021&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000021&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81104</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:22:51.157+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000022</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T17:22:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000022&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000022&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81105</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:23:04.54+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000023</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-07-28T17:22:53+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000023&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000023&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81106</ID>
+    <userid>US000001</userid>
+    <date>2019-05-05T22:48:25.32+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81107</ID>
+    <userid>US000001</userid>
+    <date>2019-05-05T23:24:10.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81108</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T21:44:53.587+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81109</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:14:45.913+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003104</object>
+    <caption>QS003104</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-05-08T22:13:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-05-08T22:13:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003104&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD041-0519/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81110</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:16:25.82+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000024</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000024&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000024&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81111</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:16:30.47+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000025</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:29+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000025&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000025&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81112</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T08:16:17.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81113</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T08:41:10.187+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000026</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T08:41:00+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000026&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000026&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000109_QS002580&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81114</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T12:58:01.727+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81115</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:21:11.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81116</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:25:15.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81117</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:27:36.287+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81118</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T13:59:28.333+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000027</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T13:59:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000027&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000027&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000083_QS002624&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81119</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:16:39.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81120</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:17:26.07+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000028</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:17:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000028&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000028&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81121</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:17:36.367+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000029</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:17:35+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000029&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000029&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81122</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:24:00.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81123</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:24:36.403+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000030</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:24:31+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000030&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000030&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81124</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T14:27:51.473+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000031</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:27:47+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000031&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000031&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000083_QS002624&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81125</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:39:47.303+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81126</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:40:20.017+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000024</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000024&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000024&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81127</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:40:27.71+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000032</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:40:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000032&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000032&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81128</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:41:17.91+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000033</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:41:10+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000033&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000033&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81129</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:43:39.38+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:43:37+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81130</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:44:18.8+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:44:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81131</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:44:39.627+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000003</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:44:38+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000003&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000003&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81132</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:50:34.75+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81133</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:57:47.353+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81134</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:08:38.953+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81135</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:18:26.12+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:18:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81136</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:18:58.757+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:18:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81137</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:19:04.06+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:19:03+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81138</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T16:52:38.143+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81139</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T11:20:14.323+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81140</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T11:37:13.62+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T11:37:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81141</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:13:22.623+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81142</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:51:29.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81143</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:52:20.29+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T14:52:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81144</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:57:50.65+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81145</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:05:45.647+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81146</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:15:48.447+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81147</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:24:04.083+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81148</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:24:28.707+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T15:24:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81149</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:47:25.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81150</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:52:02.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81151</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:56:20.687+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81152</ID>
+    <userid>US000012</userid>
+    <date>2019-05-18T15:57:19.913+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81153</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:00:08.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81154</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:03:55.68+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81155</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:04:17.537+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T16:04:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81156</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:04:28.69+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T16:04:26+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81157</ID>
+    <userid>US000001</userid>
+    <date>2019-05-19T10:41:16.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81158</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T10:48:05.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81159</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T11:26:42.62+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000003</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-19T11:26:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000003&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000003&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81160</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T11:26:55.59+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-19T11:26:54+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81161</ID>
+    <userid>US000001</userid>
+    <date>2019-05-21T22:10:54.153+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81162</ID>
+    <userid>US000001</userid>
+    <date>2019-05-21T22:29:40.7+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81163</ID>
+    <userid>US000001</userid>
+    <date>2019-05-22T06:59:29.173+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81164</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:38:17.527+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81165</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:42:57.04+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000029</object>
+    <caption>Trần Thị Kim Ngân</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;EMP000029&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel&gt;0943 634 358&lt;/tel&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Trần Thị Kim Ngân&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2019-01-11T21:48:02+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:48:02+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81166</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:43:21.163+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000044</object>
+    <caption>Nguyen Dinh Chuc</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000029&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000044&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;ndchuc&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel&gt;0943  634 359&lt;/tel&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Nguyen Dinh Chuc&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@EMP000044@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2019-03-01T08:05:10+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2020-03-01T08:05:10+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000029&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81167</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T11:49:51.607+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81168</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:38:26.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81169</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:40:02.213+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81170</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:40:25.37+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:40:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81171</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:41:02.5+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81172</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:41:06.42+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:40:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81173</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:58:37.99+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81174</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:19:16.66+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81175</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:22:41.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81176</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:37:03.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81177</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:41:09.91+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81178</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:41:33.04+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:41:31+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81179</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:42:01.98+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:41:59+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81180</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:42:32.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81181</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:46:27.487+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:46:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81182</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:47:59.853+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:47:55+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81183</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:50:52.107+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:50:46+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81184</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:51:18.75+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:50:46+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81185</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:51:48.847+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:51:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81186</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:02:12.75+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81187</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:02:36.25+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:02:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81188</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:03:23.853+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:03:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81189</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:22:17.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81190</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:24:37.347+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:24:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81191</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:26:44.357+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:26:40+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81192</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:34:47.907+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:34:44+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81193</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:39:16.807+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:39:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81194</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:41:25.307+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:41:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81195</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:43:41.993+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:43:38+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81196</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:44:20.823+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:44:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81197</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:56:13.897+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81198</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:56:43.617+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:56:42+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81199</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:05:19.04+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:05:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81200</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:06:46.35+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:06:40+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81201</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:09:29.873+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:07:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81202</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:10:45.933+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:10:42+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81203</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:00.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81204</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:16.123+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:14:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81205</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:24+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:51:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81206</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:35.82+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:14:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81207</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:46:55.457+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:46:52+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81208</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:47:09.737+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:47:08+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81209</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:42:32.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81210</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:49:34.89+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:48:45+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81211</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:49:46.023+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:49:44+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81212</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:53:49.03+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:53:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81213</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:54:15.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:54:13+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81214</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:55:18.287+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:53:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81215</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:55:24.57+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:54:13+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81216</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:56:40.533+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:56:39+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81217</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:04:12.677+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81218</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:50:34.003+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000007</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T22:50:29+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000007&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000007&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81219</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:57:01.21+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81220</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:02:58.733+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000008</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:02:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000008&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000008&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81221</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:33:54.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81222</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:35:41.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000007</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:35:39+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000007&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000007&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81223</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:35:53.147+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000008</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:35:51+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000008&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000008&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81224</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T06:09:10.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81225</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:19:55.81+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81226</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:34:26.797+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T14:34:25+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81227</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:35:25.603+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T14:35:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81228</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T14:54:28.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81229</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:06:59.703+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81230</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:07:31.397+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T15:07:30+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81231</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:16:33.12+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81232</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:19:19.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81233</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:22:35.977+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81234</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:27:45.057+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81235</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:32:25.753+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81236</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:35:32.673+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81237</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:43:05.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81238</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:43:23.01+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000018</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T15:43:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000018&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000018&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81239</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T15:59:16.477+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81240</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:01:09.95+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81241</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:30:15.613+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81242</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:30:51.653+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000017</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:30:50+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000017&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000017&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81243</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:36:01.733+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81244</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:36:20.55+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000018</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:36:19+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000018&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000018&lt;/sign&gt;
+    &lt;idplan&gt;GH000014&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81245</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:37:22.72+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000019</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T16:37:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000019&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000019&lt;/sign&gt;
+    &lt;idplan&gt;GH000015&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81246</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:45:35.363+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81247</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:47:41.05+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81248</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T16:49:02.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81249</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:00:17.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81250</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:01:12.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81251</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:07:50.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81252</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:10:51.307+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81253</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:11:59.55+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000019</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T17:11:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000019&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000019&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH001722_QS003054&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81254</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:14:43.083+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000020</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-04T17:14:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000020&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000020&lt;/sign&gt;
+    &lt;idplan&gt;GH000002&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH001722_QS003054&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81255</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:22:40.42+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000021</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-03-28T17:22:14+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000021&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000021&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81256</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:22:51.157+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000022</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T17:22:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000022&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000022&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81257</ID>
+    <userid>US000001</userid>
+    <date>2019-05-04T17:23:04.54+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000023</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-07-28T17:22:53+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000023&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000023&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000116_QS002981&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81258</ID>
+    <userid>US000001</userid>
+    <date>2019-05-05T22:48:25.32+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81259</ID>
+    <userid>US000001</userid>
+    <date>2019-05-05T23:24:10.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81260</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T21:44:53.587+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81261</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:14:45.913+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS003104</object>
+    <caption>QS003104</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2019-05-08T22:13:21+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2019-05-08T22:13:21+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS003104&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD041-0519/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000619&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81262</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:16:25.82+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000024</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000024&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000024&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81263</ID>
+    <userid>US000001</userid>
+    <date>2019-05-08T22:16:30.47+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000025</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:29+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000025&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000025&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81264</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T08:16:17.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81265</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T08:41:10.187+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000026</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T08:41:00+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000026&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000026&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000109_QS002580&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81266</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T12:58:01.727+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81267</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:21:11.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81268</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:25:15.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81269</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T13:27:36.287+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81270</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T13:59:28.333+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000027</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T13:59:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000027&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000027&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000083_QS002624&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81271</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:16:39.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81272</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:17:26.07+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000028</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:17:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000028&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000028&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81273</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:17:36.367+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000029</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:17:35+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000029&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000029&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81274</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:24:00.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81275</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:24:36.403+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000030</object>
+    <caption>Lần 4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:24:31+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000030&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000030&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 4&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81276</ID>
+    <userid>US000024</userid>
+    <date>2019-05-11T14:27:51.473+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000031</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:27:47+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000031&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000031&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000083_QS002624&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81277</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:39:47.303+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81278</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:40:20.017+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000024</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-08T22:16:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000024&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000024&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81279</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:40:27.71+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000032</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:40:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000032&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000032&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81280</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:41:17.91+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000033</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:41:10+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000033&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000033&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81281</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:43:39.38+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:43:37+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81282</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:44:18.8+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:44:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81283</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:44:39.627+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000003</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T14:44:38+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000003&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000003&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81284</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:50:34.75+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81285</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T14:57:47.353+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81286</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:08:38.953+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81287</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:18:26.12+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:18:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81288</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:18:58.757+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:18:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81289</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T15:19:04.06+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-11T15:19:03+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000078_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81290</ID>
+    <userid>US000001</userid>
+    <date>2019-05-11T16:52:38.143+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81291</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T11:20:14.323+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81292</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T11:37:13.62+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T11:37:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81293</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:13:22.623+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81294</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:51:29.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81295</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:52:20.29+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T14:52:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81296</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T14:57:50.65+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81297</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:05:45.647+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81298</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:15:48.447+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81299</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:24:04.083+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81300</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:24:28.707+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T15:24:24+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81301</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:47:25.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81302</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:52:02.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81303</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T15:56:20.687+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81304</ID>
+    <userid>US000012</userid>
+    <date>2019-05-18T15:57:19.913+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81305</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:00:08.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81306</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:03:55.68+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81307</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:04:17.537+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T16:04:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000001&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000001&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81308</ID>
+    <userid>US000001</userid>
+    <date>2019-05-18T16:04:28.69+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000002</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-18T16:04:26+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000002&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000002&lt;/sign&gt;
+    &lt;idplan&gt;GH000003&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81309</ID>
+    <userid>US000001</userid>
+    <date>2019-05-19T10:41:16.44+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81310</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T10:48:05.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000024</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81311</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T11:26:42.62+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000003</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-19T11:26:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000003&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000003&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81312</ID>
+    <userid>US000024</userid>
+    <date>2019-05-19T11:26:55.59+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-19T11:26:54+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000004&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81313</ID>
+    <userid>US000001</userid>
+    <date>2019-05-21T22:10:54.153+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81314</ID>
+    <userid>US000001</userid>
+    <date>2019-05-21T22:29:40.7+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81315</ID>
+    <userid>US000001</userid>
+    <date>2019-05-22T06:59:29.173+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81316</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:38:17.527+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81317</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:42:57.04+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000029</object>
+    <caption>Trần Thị Kim Ngân</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;EMP000029&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel&gt;0943 634 358&lt;/tel&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Trần Thị Kim Ngân&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2019-01-11T21:48:02+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:48:02+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81318</ID>
+    <userid>US000001</userid>
+    <date>2019-05-23T22:43:21.163+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000044</object>
+    <caption>Nguyen Dinh Chuc</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000029&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000044&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;ndchuc&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel&gt;0943  634 359&lt;/tel&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Nguyen Dinh Chuc&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@EMP000044@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2019-03-01T08:05:10+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2020-03-01T08:05:10+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000029&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81319</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T11:49:51.607+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81320</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:38:26.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81321</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:40:02.213+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81322</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:40:25.37+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:40:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81323</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:41:02.5+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81324</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:41:06.42+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:40:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81325</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T12:58:37.99+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81326</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:19:16.66+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81327</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:22:41.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81328</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:37:03.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81329</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:41:09.91+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81330</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:41:33.04+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:41:31+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81331</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:42:01.98+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:41:59+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81332</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:42:32.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T12:39:49+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81333</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:46:27.487+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:46:23+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81334</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:47:59.853+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:47:55+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81335</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:50:52.107+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:50:46+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81336</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:51:18.75+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:50:46+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81337</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T13:51:48.847+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:51:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81338</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:02:12.75+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81339</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:02:36.25+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:02:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81340</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:03:23.853+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:03:22+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81341</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:22:17.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81342</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:24:37.347+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:24:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81343</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:26:44.357+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:26:40+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81344</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:34:47.907+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:34:44+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81345</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:39:16.807+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:39:12+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81346</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:41:25.307+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:41:21+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81347</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:43:41.993+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:43:38+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81348</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:44:20.823+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:44:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81349</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:56:13.897+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81350</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T14:56:43.617+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T14:56:42+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81351</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:05:19.04+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:05:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81352</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:06:46.35+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:06:40+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81353</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:09:29.873+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:07:17+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81354</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:10:45.933+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:10:42+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81355</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:00.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81356</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:16.123+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:14:15+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81357</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:24+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T13:51:43+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81358</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:14:35.82+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:14:34+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 3&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81359</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:46:55.457+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:46:52+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81360</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T15:47:09.737+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T15:47:08+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81361</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:42:32.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81362</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:49:34.89+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:48:45+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81363</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:49:46.023+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:49:44+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81364</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:53:49.03+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:53:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81365</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:54:15.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:54:13+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81366</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:55:18.287+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:53:41+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000004&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000004&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81367</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:55:24.57+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000005</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:54:13+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;true&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000005&lt;/idkyhan&gt;
+    &lt;ghichu /&gt;
+    &lt;sign&gt;KH000005&lt;/sign&gt;
+    &lt;idplan&gt;GH000005&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+    &lt;iddetail /&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81368</ID>
+    <userid>US000001</userid>
+    <date>2019-05-25T16:56:40.533+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-25T16:56:39+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000006&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000006&lt;/sign&gt;
+    &lt;idplan&gt;GH000001&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+    &lt;iddetail&gt;HH000071_QS003104&lt;/iddetail&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81369</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:04:12.677+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81370</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:50:34.003+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000007</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T22:50:29+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000007&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000007&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81371</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T22:57:01.21+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81372</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:02:58.733+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000008</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:02:57+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000008&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000008&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81373</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:33:54.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>81374</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:35:41.317+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000007</object>
+    <caption>Lần 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:35:39+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000007&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000007&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 1&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>81375</ID>
+    <userid>US000001</userid>
+    <date>2019-05-28T23:35:53.147+07:00</date>
+    <idform>frm_NHIEMVUKYHAN_S</idform>
+    <status>0</status>
+    <object>KH000008</object>
+    <caption>Lần 2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>NHIEMVUKYHAN</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;NHIEMVUKYHAN&gt;
+    &lt;thoidiem&gt;2019-05-28T23:35:51+07:00&lt;/thoidiem&gt;
+    &lt;tinhtrang&gt;false&lt;/tinhtrang&gt;
+    &lt;idkyhan&gt;KH000008&lt;/idkyhan&gt;
+    &lt;sign&gt;KH000008&lt;/sign&gt;
+    &lt;idplan&gt;GH000006&lt;/idplan&gt;
+    &lt;kyhan&gt;Lần 2&lt;/kyhan&gt;
+  &lt;/NHIEMVUKYHAN&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_TIENDODONHANG</namespace>
+  </sysTrace>
+</NewDataSet>

@@ -1,0 +1,3978 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>53958</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T08:05:16.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53959</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T09:04:26.817+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000814</object>
+    <caption>liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Chị Hạnh k làm thu mua nữa, vẫn còn làm ở cty. Xin sdt thu mua chị Hạnh k cho. gửi mail giới thiệu cty, có gì chị Hạnh giới thiệu cho&lt;/note&gt;
+    &lt;description&gt;liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000848&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000814&lt;/idplan&gt;
+    &lt;sign&gt;KH000814&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T09:03:17+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000049&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53960</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T09:06:52.34+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000815</object>
+    <caption>liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;sdt k có&lt;/note&gt;
+    &lt;description&gt;liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000701&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000815&lt;/idplan&gt;
+    &lt;sign&gt;KH000815&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T09:05:45+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000205&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53961</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T09:23:58.203+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000816</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;có mua hàng bên cty mình r, gửi mail, nào cần sẽ liên hệ&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000324&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000816&lt;/idplan&gt;
+    &lt;sign&gt;KH000816&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T09:23:27+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000235&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53962</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T09:28:53.037+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000817</object>
+    <caption>liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;có liên kết vs bên bao bì Sapaco, mà bên Sapaco hay mua hàng bên mình. gửi mail giới thiệu cty, có gì cần mua anh Sen giới thiệu cho&lt;/note&gt;
+    &lt;description&gt;liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000151&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000817&lt;/idplan&gt;
+    &lt;sign&gt;KH000817&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T09:26:58+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000276&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53963</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T10:20:24.933+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000818</object>
+    <caption>liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH sử dụng xe nâng Mitsubishi - Nhật. gửi mail, khi cần liên hệ mua đồ chính hãng&lt;/note&gt;
+    &lt;description&gt;liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000269&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000818&lt;/idplan&gt;
+    &lt;sign&gt;KH000818&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T10:19:24+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000357&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53964</ID>
+    <userid>US000016</userid>
+    <date>2018-05-02T10:54:59.933+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53965</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T13:32:21.597+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53966</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:07:38.763+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000819</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;kbm&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000174&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000819&lt;/idplan&gt;
+    &lt;sign&gt;KH000819&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:07:15+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000495&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53967</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:10:34.673+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000820</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;kbm&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002441&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000820&lt;/idplan&gt;
+    &lt;sign&gt;KH000820&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:10:20+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000631&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53968</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:12:06.12+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000631</object>
+    <caption>CÔNG TY TNHH KAO VIỆT NAM</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000009&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000022&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000631&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;000001&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.kao.com/vn/&lt;/website&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;(061)3891190&lt;/tel&gt;
+    &lt;fax&gt;(061)3891189&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;3600246811&lt;/tax&gt;
+    &lt;address&gt;LÔ A12 KCN AMATA, P. LONG BÌNH, TP.BIÊN HÒA, ĐỒNG NAI&lt;/address&gt;
+    &lt;surrogate&gt;TSUNEO OBA&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH KAO VIỆT NAM&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:26:28+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000020&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53969</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:14:04.62+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000821</object>
+    <caption>liên hệ Kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;xe còn tốt, gửi mail nhắc thườn xuyên, để khi có nhu cầu anh liên hệ&lt;/note&gt;
+    &lt;description&gt;liên hệ Kh&lt;/description&gt;
+    &lt;idcontact&gt;KH001618&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000821&lt;/idplan&gt;
+    &lt;sign&gt;KH000821&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:13:35+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000631&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53970</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:20:55.34+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000822</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH sử dụng nhiều xe nâng, a Phong k chịu trách nhiệm trực tiếp. nhắn tin gửi sdt ng thu mua: a Quảng&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000613&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000822&lt;/idplan&gt;
+    &lt;sign&gt;KH000822&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:19:22+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000660&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53971</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:22:36.75+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002699</object>
+    <caption>anh Quảng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002699&lt;/idcontact&gt;
+    &lt;sign&gt;KH002699&lt;/sign&gt;
+    &lt;tel&gt;01255.82.66.72&lt;/tel&gt;
+    &lt;email&gt;plan1@hcmc.com.vn&lt;/email&gt;
+    &lt;contactname&gt;anh Quảng&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000660&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53972</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:24:18.473+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000823</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;kbm&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002699&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000823&lt;/idplan&gt;
+    &lt;sign&gt;KH000823&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:24:05+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000660&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53973</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:38:43.68+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000824</object>
+    <caption>liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Chưa có nhu cầu, gửi mail cần thì liên hệ&lt;/note&gt;
+    &lt;description&gt;liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH002401&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000824&lt;/idplan&gt;
+    &lt;sign&gt;KH000824&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:38:03+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000670&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53974</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:49:29.23+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002700</object>
+    <caption>chị Diệp</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002700&lt;/idcontact&gt;
+    &lt;sign&gt;KH002700&lt;/sign&gt;
+    &lt;tel&gt;09666.88.785&lt;/tel&gt;
+    &lt;email&gt;nghi.diep@kerryexpress.com.vn&lt;/email&gt;
+    &lt;contactname&gt;chị Diệp&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001514&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53975</ID>
+    <userid>US000020</userid>
+    <date>2018-05-02T15:50:51.597+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000825</object>
+    <caption>liên hệ báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;báo giá bình accquy GS 12V-75AH cho xe nâng chạy dầu&lt;/note&gt;
+    &lt;description&gt;liên hệ báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH002700&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000825&lt;/idplan&gt;
+    &lt;sign&gt;KH000825&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-02T15:49:48+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001514&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53976</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T08:07:21.103+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53977</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T08:24:28.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53978</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T09:08:08.383+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000826</object>
+    <caption>hỏi thăm nhu cầu khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;cty chuyển đổi khác&lt;/note&gt;
+    &lt;description&gt;hỏi thăm nhu cầu khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000707&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000826&lt;/idplan&gt;
+    &lt;sign&gt;KH000826&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T09:06:53+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001035&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53979</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T09:10:50.947+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000827</object>
+    <caption>chưa có
+</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;không ll đc&lt;/note&gt;
+    &lt;description&gt;chưa có&lt;/description&gt;
+    &lt;idcontact&gt;KH000651&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000827&lt;/idplan&gt;
+    &lt;sign&gt;KH000827&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T09:10:37+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001003&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53980</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T09:41:10.573+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH000646</object>
+    <caption>ANH TÀI</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH000646&lt;/idcontact&gt;
+    &lt;note&gt;Mail sử dụng là mail của giám đốc.&lt;/note&gt;
+    &lt;sign&gt;KH000646&lt;/sign&gt;
+    &lt;tel&gt;0903890911&lt;/tel&gt;
+    &lt;email&gt;khovattunm@avcovietnam.com.vn&lt;/email&gt;
+    &lt;address&gt;khovattunm@avcochem.com.vn&lt;/address&gt;
+    &lt;contactname&gt;ANH TÀI&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000999&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53981</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T09:58:20.823+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002449</object>
+    <caption>CHỊ THY</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002449&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002449&lt;/sign&gt;
+    &lt;tel&gt;0909921511&lt;/tel&gt;
+    &lt;email&gt;qltm08@pancera.com.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;CHỊ THY&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000640&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53982</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T09:59:14.57+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000828</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;lâu lâu mới có đơn hàng, gửi mail!&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002449&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000828&lt;/idplan&gt;
+    &lt;sign&gt;KH000828&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T09:58:30+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000640&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53983</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T09:59:34.597+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002449</object>
+    <caption>CHỊ THY</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002449&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002449&lt;/sign&gt;
+    &lt;tel&gt;0909921511&lt;/tel&gt;
+    &lt;email&gt;qltm08@pancera.com.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;CHỊ THY&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000640&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53984</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T10:18:42.773+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000829</object>
+    <caption>KHÁCH CÓ NHU CẦU MUA XE NÂNG ĐIỆN</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;ĐANG HỖ TRỢ KHÁCH&lt;/note&gt;
+    &lt;description&gt;KHÁCH CÓ NHU CẦU MUA XE NÂNG ĐIỆN&lt;/description&gt;
+    &lt;idcontact&gt;KH000646&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000829&lt;/idplan&gt;
+    &lt;sign&gt;KH000829&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:18:13+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000999&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53985</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:11:19.91+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002449</object>
+    <caption>CHỊ THY</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002449&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002449&lt;/sign&gt;
+    &lt;tel&gt;0909921511&lt;/tel&gt;
+    &lt;email&gt;qltm08@pancera.com.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;CHỊ THY&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000640&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53986</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T10:21:31.837+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000830</object>
+    <caption>HỎI THĂM KHÁCH HÀNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;CÓ NHU CẦU NÊN GỌI LẠI&lt;/note&gt;
+    &lt;description&gt;HỎI THĂM KHÁCH HÀNG&lt;/description&gt;
+    &lt;idcontact&gt;KH000654&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000830&lt;/idplan&gt;
+    &lt;sign&gt;KH000830&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:21:09+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001005&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53987</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:13:03.35+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000831</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;k liên lạc được&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000914&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000831&lt;/idplan&gt;
+    &lt;sign&gt;KH000831&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:12:45+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000675&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53988</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T10:25:38.397+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000832</object>
+    <caption>HỎI THĂM</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;NGHĨ HƯU VÀ THUÊ BAO&lt;/note&gt;
+    &lt;description&gt;HỎI THĂM&lt;/description&gt;
+    &lt;idcontact&gt;KH000658&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000832&lt;/idplan&gt;
+    &lt;sign&gt;KH000832&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:25:14+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001009&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53989</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:17:32.99+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002701</object>
+    <caption>a Thức</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002701&lt;/idcontact&gt;
+    &lt;sign&gt;KH002701&lt;/sign&gt;
+    &lt;tel&gt;0909 826 827&lt;/tel&gt;
+    &lt;contactname&gt;a Thức&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000674&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53990</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:22:12.29+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000833</object>
+    <caption>liên hệ Kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;a Uyên báo k phụ trách thu mua. cho sdt a Thức&lt;/note&gt;
+    &lt;description&gt;liên hệ Kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002428&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000833&lt;/idplan&gt;
+    &lt;sign&gt;KH000833&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:21:48+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000674&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53991</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:23:29.027+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000834</object>
+    <caption>liên hệ Kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;kbm&lt;/note&gt;
+    &lt;description&gt;liên hệ Kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002701&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000834&lt;/idplan&gt;
+    &lt;sign&gt;KH000834&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:23:13+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000674&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53992</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T10:24:26.853+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000835</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;mấy bận&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000922&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000835&lt;/idplan&gt;
+    &lt;sign&gt;KH000835&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T10:24:10+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000677&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53993</ID>
+    <userid>US000020</userid>
+    <date>2018-05-03T11:12:03.477+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000836</object>
+    <caption>liên hệ Kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;nghỉ việc rồi. liên hệ văn thư. gọi số vp k kết nối được!&lt;/note&gt;
+    &lt;description&gt;liên hệ Kh&lt;/description&gt;
+    &lt;idcontact&gt;KH001850&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000836&lt;/idplan&gt;
+    &lt;sign&gt;KH000836&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T11:11:19+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000686&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53994</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T13:41:01.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>53995</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:00:19.687+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000837</object>
+    <caption>gởi thư giới thiệu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu&lt;/description&gt;
+    &lt;idcontact&gt;KH000725&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000837&lt;/idplan&gt;
+    &lt;sign&gt;KH000837&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:00:00+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001041&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53996</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:12:30.723+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000838</object>
+    <caption>gởi thư giới thiệu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu&lt;/description&gt;
+    &lt;idcontact&gt;KH001333&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000838&lt;/idplan&gt;
+    &lt;sign&gt;KH000838&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:12:01+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001314&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53997</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:24:38.207+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000839</object>
+    <caption>cong ty mình đặt hàng cho cty này sx</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;cong ty mình đặt hàng cho cty này sx&lt;/note&gt;
+    &lt;description&gt;cong ty mình đặt hàng cho cty này sx&lt;/description&gt;
+    &lt;idcontact&gt;KH002156&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000839&lt;/idplan&gt;
+    &lt;sign&gt;KH000839&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:24:08+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001573&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53998</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:26:56.68+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000840</object>
+    <caption>hỏi dò giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;cty đặt hàng bên cty này&lt;/note&gt;
+    &lt;description&gt;hỏi dò giá&lt;/description&gt;
+    &lt;idcontact&gt;KH002156&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000840&lt;/idplan&gt;
+    &lt;sign&gt;KH000840&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:26:29+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001573&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>53999</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:35:50.863+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000841</object>
+    <caption>hỏi thăm khắc</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;thuê bao&lt;/note&gt;
+    &lt;description&gt;hỏi thăm khắc&lt;/description&gt;
+    &lt;idcontact&gt;KH001088&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000841&lt;/idplan&gt;
+    &lt;sign&gt;KH000841&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:35:37+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001193&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54000</ID>
+    <userid>US000016</userid>
+    <date>2018-05-03T14:39:11.823+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54001</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:39:36.74+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000842</object>
+    <caption>gởi thư giới thiệu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;mai gọi lại đang có khách&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu&lt;/description&gt;
+    &lt;idcontact&gt;KH001221&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000842&lt;/idplan&gt;
+    &lt;sign&gt;KH000842&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:39:13+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001271&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54002</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T14:42:40.143+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000843</object>
+    <caption>gởi thư giới thiệu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;giởi thư giới thiệu&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu&lt;/description&gt;
+    &lt;idcontact&gt;KH000671&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000843&lt;/idplan&gt;
+    &lt;sign&gt;KH000843&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T14:42:24+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001015&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54003</ID>
+    <userid>US000016</userid>
+    <date>2018-05-03T14:58:37.277+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002605</object>
+    <caption>Anh THANH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002605&lt;/idcontact&gt;
+    &lt;note&gt;Phòng cơ điện&lt;/note&gt;
+    &lt;sign&gt;KH002605&lt;/sign&gt;
+    &lt;tel /&gt;
+    &lt;email&gt;VoDuy.Thanh@suntorypepsico.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;Anh THANH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54004</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T15:03:19.173+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000844</object>
+    <caption>cty đã chuyển sang chạy xe tải </caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;tư vấn băng chuyền hay cẩu trục&lt;/note&gt;
+    &lt;description&gt;cty đã chuyển sang chạy xe tải&lt;/description&gt;
+    &lt;idcontact&gt;KH002151&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000844&lt;/idplan&gt;
+    &lt;sign&gt;KH000844&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T15:02:45+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001569&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54005</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T15:09:48.803+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000845</object>
+    <caption>gởi thư giới thiệu cty</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu cty&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu cty&lt;/description&gt;
+    &lt;idcontact&gt;KH000631&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000845&lt;/idplan&gt;
+    &lt;sign&gt;KH000845&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T15:09:27+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000988&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54006</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T15:39:50.28+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54007</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T15:44:01.24+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000846</object>
+    <caption>gởi thư giới thiệu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu khh&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu&lt;/description&gt;
+    &lt;idcontact&gt;KH000157&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000846&lt;/idplan&gt;
+    &lt;sign&gt;KH000846&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T15:43:26+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000297&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54008</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T15:59:55.677+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000847</object>
+    <caption>gởi thư giới thiệu cty</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu cty&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu cty&lt;/description&gt;
+    &lt;idcontact&gt;KH000641&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000847&lt;/idplan&gt;
+    &lt;sign&gt;KH000847&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T15:59:37+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000995&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54009</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T16:02:40.737+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000848</object>
+    <caption>gởi thư giới thiệu sp</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu sp&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu sp&lt;/description&gt;
+    &lt;idcontact&gt;KH000644&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000848&lt;/idplan&gt;
+    &lt;sign&gt;KH000848&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T16:01:53+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000998&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54010</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T16:16:32.09+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000849</object>
+    <caption>gởi thư giới thiệu sản phẩm</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu sản phẩm&lt;/description&gt;
+    &lt;idcontact&gt;KH000661&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000849&lt;/idplan&gt;
+    &lt;sign&gt;KH000849&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T16:16:00+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001010&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54011</ID>
+    <userid>US000018</userid>
+    <date>2018-05-03T16:17:24.603+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54012</ID>
+    <userid>US000001</userid>
+    <date>2018-05-03T16:18:08.063+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54013</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T16:20:34.46+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000850</object>
+    <caption>gởi thư giới thiệu sp</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu sp&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu sp&lt;/description&gt;
+    &lt;idcontact&gt;KH000688&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000850&lt;/idplan&gt;
+    &lt;sign&gt;KH000850&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T16:20:13+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001025&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54014</ID>
+    <userid>US000019</userid>
+    <date>2018-05-03T16:23:55.13+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000851</object>
+    <caption>gởi thư giới thiệu sp</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu sp&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu sp&lt;/description&gt;
+    &lt;idcontact&gt;KH000689&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000851&lt;/idplan&gt;
+    &lt;sign&gt;KH000851&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-03T16:23:34+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001026&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54015</ID>
+    <userid>US000016</userid>
+    <date>2018-05-03T16:28:03.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54016</ID>
+    <userid>US000016</userid>
+    <date>2018-05-04T08:43:55.907+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54017</ID>
+    <userid>US000019</userid>
+    <date>2018-05-04T09:55:35.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54018</ID>
+    <userid>US000020</userid>
+    <date>2018-05-04T10:26:29.763+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54019</ID>
+    <userid>US000020</userid>
+    <date>2018-05-04T10:54:53.647+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000852</object>
+    <caption>liên hệ báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Đã gửi báo giá xe dầu Mitsu 2.5T - chính hãng Nhật.&lt;/note&gt;
+    &lt;description&gt;liên hệ báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH000269&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000852&lt;/idplan&gt;
+    &lt;sign&gt;KH000852&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-04T10:54:03+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000357&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54020</ID>
+    <userid>US000020</userid>
+    <date>2018-05-04T11:56:48.373+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000853</object>
+    <caption>hỏi tình hình báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;đang xem xét&lt;/note&gt;
+    &lt;description&gt;hỏi tình hình báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH001889&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000853&lt;/idplan&gt;
+    &lt;sign&gt;KH000853&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-04T10:55:15+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001442&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54021</ID>
+    <userid>US000016</userid>
+    <date>2018-05-04T16:42:39.96+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH002553</object>
+    <caption>CÔNG TY CỔ PHẦN MAY SÀI GÒN 3</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000028&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH002553&lt;/idcustomer&gt;
+    &lt;sign&gt;KH002553&lt;/sign&gt;
+    &lt;website&gt;http://www.saigon3.com.vn&lt;/website&gt;
+    &lt;email&gt;info@saigon3.com.vn&lt;/email&gt;
+    &lt;tel&gt;(028) – 37271140 - 37271152&lt;/tel&gt;
+    &lt;fax&gt;(028) – 37271143&lt;/fax&gt;
+    &lt;tax&gt;0302427278&lt;/tax&gt;
+    &lt;address&gt;40/32 Quốc lộ 13, P. Hiệp Bình Phước, Q. Thủ Đức, TP. HCM, Việt Nam&lt;/address&gt;
+    &lt;surrogate&gt;PHẠM XUÂN HỒNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN MAY SÀI GÒN 3&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date2&gt;2018-05-04T16:38:09+07:00&lt;/date2&gt;
+    &lt;date1&gt;2018-05-04T16:38:09+07:00&lt;/date1&gt;
+    &lt;userid2&gt;Userid2&lt;/userid2&gt;
+    &lt;userid1&gt;US000016&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea&gt;KV000008&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54022</ID>
+    <userid>US000016</userid>
+    <date>2018-05-04T16:43:20.033+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002702</object>
+    <caption>ANH PHONG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002702&lt;/idcontact&gt;
+    &lt;note&gt;Phòng Kế Hoạch Kinh Doanh – Bộ Phận Mua Hàng&lt;/note&gt;
+    &lt;sign&gt;KH002702&lt;/sign&gt;
+    &lt;tel&gt;0908763832&lt;/tel&gt;
+    &lt;email&gt;mqphong@saigon3.com.vn&lt;/email&gt;
+    &lt;contactname&gt;ANH PHONG&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002553&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54023</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T08:13:31.133+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54024</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T09:08:34.517+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54025</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T10:13:07.603+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000854</object>
+    <caption>gởi thư giới thiệu sản phẩm</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thư giới thiệu sản phẩm&lt;/note&gt;
+    &lt;description&gt;gởi thư giới thiệu sản phẩm&lt;/description&gt;
+    &lt;idcontact&gt;KH001209&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000854&lt;/idplan&gt;
+    &lt;sign&gt;KH000854&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T10:12:43+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001261&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54026</ID>
+    <userid>US000016</userid>
+    <date>2018-05-05T10:19:39.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54027</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T10:27:12.963+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000855</object>
+    <caption>Hỏi thăm báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Đã gửi bên kỹ thuật. Nào mua sẽ liên hệ đặt hàng!&lt;/note&gt;
+    &lt;description&gt;Hỏi thăm báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH001889&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000855&lt;/idplan&gt;
+    &lt;sign&gt;KH000855&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T10:26:44+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001442&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54028</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T11:06:07.517+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000856</object>
+    <caption>liên hệ kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;k liên lạc đc&lt;/note&gt;
+    &lt;description&gt;liên hệ kh&lt;/description&gt;
+    &lt;idcontact&gt;KH002403&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000856&lt;/idplan&gt;
+    &lt;sign&gt;KH000856&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T11:05:46+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000733&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54029</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T13:37:23.947+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54030</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T13:57:27.17+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000857</object>
+    <caption>gởi thông tin cho kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;goi thong tin cho khách hàng&lt;/note&gt;
+    &lt;description&gt;gởi thông tin cho kh&lt;/description&gt;
+    &lt;idcontact&gt;KH001360&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000857&lt;/idplan&gt;
+    &lt;sign&gt;KH000857&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T13:56:42+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001337&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54031</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T14:07:21.893+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000858</object>
+    <caption>gởi thong tin cho khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thông tin cho khách&lt;/note&gt;
+    &lt;description&gt;gởi thong tin cho khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH001606&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000858&lt;/idplan&gt;
+    &lt;sign&gt;KH000858&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T14:06:58+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001836&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54032</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T14:07:51.743+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000859</object>
+    <caption>gởi thông tin sp cho kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thông tin sp cho kh&lt;/note&gt;
+    &lt;description&gt;gởi thông tin sp cho kh&lt;/description&gt;
+    &lt;idcontact&gt;KH001606&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000859&lt;/idplan&gt;
+    &lt;sign&gt;KH000859&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T14:07:21+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54033</ID>
+    <userid>US000019</userid>
+    <date>2018-05-05T14:12:46.883+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000860</object>
+    <caption>gởi thong tin sp chp khahcs hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thong tin sp chp khahcs hàng&lt;/note&gt;
+    &lt;description&gt;gởi thong tin sp chp khahcs hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000758&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000860&lt;/idplan&gt;
+    &lt;sign&gt;KH000860&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T14:12:24+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001060&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54034</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T14:27:59.883+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000861</object>
+    <caption>Liên hệ KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;thuê dịch vụ sữa chữa bên ngoài, gửi mail cần thì liên hệ&lt;/note&gt;
+    &lt;description&gt;Liên hệ KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000952&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000861&lt;/idplan&gt;
+    &lt;sign&gt;KH000861&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-05T14:27:28+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000687&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54035</ID>
+    <userid>US000020</userid>
+    <date>2018-05-05T14:30:57.09+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH000599</object>
+    <caption>ANH DŨNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH000599&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH000599&lt;/sign&gt;
+    &lt;tel&gt;0903322024&lt;/tel&gt;
+    &lt;email&gt;phamhoangdung1980@yahoo.com&lt;/email&gt;
+    &lt;address&gt;dung.ph@kymdan.com&lt;/address&gt;
+    &lt;contactname&gt;ANH DŨNG&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000688&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54036</ID>
+    <userid>US000016</userid>
+    <date>2018-05-05T16:53:59.047+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54037</ID>
+    <userid>US000001</userid>
+    <date>2018-05-05T18:06:09.107+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54038</ID>
+    <userid>US000001</userid>
+    <date>2018-05-05T18:08:43.25+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54039</ID>
+    <userid>US000001</userid>
+    <date>2018-05-05T18:11:34.883+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54040</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T08:32:37.133+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54041</ID>
+    <userid>US000020</userid>
+    <date>2018-05-07T08:33:56.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54042</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T09:09:01.653+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000862</object>
+    <caption>gởi thông tin cho khahcs hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thông tin cho khahcs hàng&lt;/note&gt;
+    &lt;description&gt;gởi thông tin cho khahcs hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH002174&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000862&lt;/idplan&gt;
+    &lt;sign&gt;KH000862&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T09:08:42+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH002018&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54043</ID>
+    <userid>US000020</userid>
+    <date>2018-05-07T10:37:47.43+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002649</object>
+    <caption>Anh Thơ</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002649&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002649&lt;/sign&gt;
+    &lt;tel&gt;0914. 25. 11. 35&lt;/tel&gt;
+    &lt;email&gt;tho.pham@maurilanga.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;Anh Thơ&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001765&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54044</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T13:56:44.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54045</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T15:24:49.917+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54046</ID>
+    <userid>US000020</userid>
+    <date>2018-05-07T15:23:44.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54047</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T15:58:05.487+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000863</object>
+    <caption>gởi thông tin cho khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi thông tin cho khách hàng&lt;/note&gt;
+    &lt;description&gt;gởi thông tin cho khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000729&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000863&lt;/idplan&gt;
+    &lt;sign&gt;KH000863&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T15:57:36+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001043&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54048</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T16:03:38.83+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000864</object>
+    <caption>gởi tn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi tn&lt;/note&gt;
+    &lt;description&gt;gởi tn&lt;/description&gt;
+    &lt;idcontact&gt;KH000731&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000864&lt;/idplan&gt;
+    &lt;sign&gt;KH000864&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T16:03:26+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001044&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54049</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T16:07:02.77+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000865</object>
+    <caption>gởi tn </caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi tn&lt;/note&gt;
+    &lt;description&gt;gởi tn&lt;/description&gt;
+    &lt;idcontact&gt;KH000738&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000865&lt;/idplan&gt;
+    &lt;sign&gt;KH000865&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T16:06:39+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001048&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54050</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T16:09:38.367+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000866</object>
+    <caption>gởi tn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi tn&lt;/note&gt;
+    &lt;description&gt;gởi tn&lt;/description&gt;
+    &lt;idcontact&gt;KH000768&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000866&lt;/idplan&gt;
+    &lt;sign&gt;KH000866&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T16:09:25+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001072&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54051</ID>
+    <userid>US000019</userid>
+    <date>2018-05-07T16:13:37.553+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000867</object>
+    <caption>gởi tn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi tn&lt;/note&gt;
+    &lt;description&gt;gởi tn&lt;/description&gt;
+    &lt;idcontact&gt;KH000774&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000867&lt;/idplan&gt;
+    &lt;sign&gt;KH000867&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-07T16:13:17+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001077&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54052</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T08:03:49.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54053</ID>
+    <userid>US000016</userid>
+    <date>2018-05-08T09:41:54.083+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54054</ID>
+    <userid>US000016</userid>
+    <date>2018-05-08T09:55:38.837+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54055</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T09:52:35.007+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002649</object>
+    <caption>Anh Thọ</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002649&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002649&lt;/sign&gt;
+    &lt;tel&gt;0914. 25. 11. 35&lt;/tel&gt;
+    &lt;email&gt;tho.pham@maurilanga.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;Anh Thọ&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001765&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54056</ID>
+    <userid>US000016</userid>
+    <date>2018-05-08T10:39:47.25+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002618</object>
+    <caption>QS002618</caption>
+    <action>F1 Tạo</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-05-08T09:55:59+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-05-08T09:55:59+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000982&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000008&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002618&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;TN007-0518/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000616&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-0518/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;idemppo&gt;EMP000008&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54057</ID>
+    <userid>US000012</userid>
+    <date>2018-05-08T10:38:17.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-02</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54058</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T10:47:08.543+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH000599</object>
+    <caption>ANH DŨNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH000599&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH000599&lt;/sign&gt;
+    &lt;tel&gt;0903322024&lt;/tel&gt;
+    &lt;email&gt;phamhoangdung1980@yahoo.com&lt;/email&gt;
+    &lt;address&gt;dung.ph@kymdan.com&lt;/address&gt;
+    &lt;contactname&gt;ANH DŨNG&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000688&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54059</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T11:16:09.997+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000868</object>
+    <caption>BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;description&gt;BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC&lt;/description&gt;
+    &lt;idcontact&gt;KH002546&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000868&lt;/idplan&gt;
+    &lt;sign&gt;KH000868&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T11:15:34+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000929&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54060</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T11:16:43.84+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000868</object>
+    <caption>BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Báo giá thất bại, có bên khác báo giá tốt hơn&lt;/note&gt;
+    &lt;description&gt;BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC&lt;/description&gt;
+    &lt;idcontact&gt;KH001773&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000868&lt;/idplan&gt;
+    &lt;sign&gt;KH000868&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T11:15:34+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000929&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54061</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T11:18:07.373+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000868</object>
+    <caption>BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;1. Thông báo PO Biến trở tới lui k có hàng
+2. Báo giá BTSC xe nâng thất bại, có bên khác báo giá tốt hơn&lt;/note&gt;
+    &lt;description&gt;BÁO PO HẾT HÀNG, HỎI THĂM BÁO GIÁ BTSC&lt;/description&gt;
+    &lt;idcontact&gt;KH001773&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000868&lt;/idplan&gt;
+    &lt;sign&gt;KH000868&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T11:15:34+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000929&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54062</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T11:19:07.327+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000772</object>
+    <caption>báo tình trạng PO202- 6815: BIẾN TRỞ</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Kiểm tra PO biến trở trước. hẹn 2 tuần sau thông tin cho KH&lt;/note&gt;
+    &lt;description&gt;báo tình trạng PO202- 6815: BIẾN TRỞ&lt;/description&gt;
+    &lt;idcontact&gt;KH001773&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000772&lt;/idplan&gt;
+    &lt;sign&gt;KH000772&lt;/sign&gt;
+    &lt;datecontact&gt;2018-04-20T09:57:01+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000929&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54063</ID>
+    <userid>US000016</userid>
+    <date>2018-05-08T11:41:45.537+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54064</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T13:37:06.077+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54065</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T13:31:28.413+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54066</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T13:46:37.3+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000869</object>
+    <caption>thỏa thuận báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Giảm giá 25tr. KH vẫn chê cao hơn đối thủ 25tr, gửi bảng báo giá cty khác cho bên mình tham khảo&lt;/note&gt;
+    &lt;description&gt;thỏa thuận báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH000269&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000869&lt;/idplan&gt;
+    &lt;sign&gt;KH000869&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T13:45:14+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000357&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54067</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T14:44:16.75+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH001331</object>
+    <caption>CÔNG TY TNHH DINH DƯỠNG Á CHÂU (VN)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000031&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000022&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000006&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH001331&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;001398&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website /&gt;
+    &lt;email /&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;0613869111&lt;/tel&gt;
+    &lt;fax /&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;3600233805&lt;/tax&gt;
+    &lt;address&gt;KCN SÔNG MÂY, XÃ BẮC SƠN, HUYỆN TRẢNG BOM, ĐỒNG NAI&lt;/address&gt;
+    &lt;surrogate&gt;SU MENG - CHIH&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY TNHH DINH DƯỠNG Á CHÂU (VN)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:27:09+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000020&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54068</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T15:13:32.577+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002693</object>
+    <caption>ANH VINH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002693&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002693&lt;/sign&gt;
+    &lt;tel&gt;0975 584 768&lt;/tel&gt;
+    &lt;email&gt;vinhantvn@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;ANH VINH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001331&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54069</ID>
+    <userid>US000020</userid>
+    <date>2018-05-08T15:13:50.97+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002693</object>
+    <caption>ANH VINH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002693&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002693&lt;/sign&gt;
+    &lt;tel&gt;0975 584 768&lt;/tel&gt;
+    &lt;email&gt;vinhantvn@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;ANH VINH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001331&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54070</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T15:49:33.853+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000870</object>
+    <caption>gởi tn sp cho khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi tn sp cho khách hàng&lt;/note&gt;
+    &lt;description&gt;gởi tn sp cho khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000691&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000870&lt;/idplan&gt;
+    &lt;sign&gt;KH000870&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T15:49:06+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001027&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54071</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T16:01:03.357+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000871</object>
+    <caption>GỞI TT SP CHO KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;GỞI TT SP CHO KH&lt;/note&gt;
+    &lt;description&gt;GỞI TT SP CHO KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000692&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000871&lt;/idplan&gt;
+    &lt;sign&gt;KH000871&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T16:00:39+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001028&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54072</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T16:12:40.97+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000872</object>
+    <caption>GỞI TT KHÁCH HÀNG</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;GỞI TT KHÁCH HÀNG&lt;/note&gt;
+    &lt;description&gt;GỞI TT KHÁCH HÀNG&lt;/description&gt;
+    &lt;idcontact&gt;KH000775&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000872&lt;/idplan&gt;
+    &lt;sign&gt;KH000872&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T16:12:22+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001078&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54073</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T16:14:33.167+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000873</object>
+    <caption>GỞI TN KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;GỞI TN KH&lt;/note&gt;
+    &lt;description&gt;GỞI TN KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000779&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000873&lt;/idplan&gt;
+    &lt;sign&gt;KH000873&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T16:14:17+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001081&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54074</ID>
+    <userid>US000019</userid>
+    <date>2018-05-08T16:26:32.92+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000874</object>
+    <caption>GỞI TN CHO KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;GỞI TN CHO KH&lt;/note&gt;
+    &lt;description&gt;GỞI TN CHO KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000791&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000874&lt;/idplan&gt;
+    &lt;sign&gt;KH000874&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-08T16:26:08+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001094&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54075</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T08:08:40.293+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54076</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T08:36:18.34+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000875</object>
+    <caption>thỏa thuận báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;description&gt;thỏa thuận báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH000269&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000875&lt;/idplan&gt;
+    &lt;sign&gt;KH000875&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T08:34:47+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000357&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54077</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T08:59:30.517+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000875</object>
+    <caption>thỏa thuận báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH yêu cầu giảm giá 10%( từ 585tr -&amp;gt; 526,5tr).
+Từ giá đối thủ, bên mình chấp nhận giảm giá xuống còn 530tr! 
+KH xem xét!&lt;/note&gt;
+    &lt;description&gt;thỏa thuận báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH000269&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000875&lt;/idplan&gt;
+    &lt;sign&gt;KH000875&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T08:34:47+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000357&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54078</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T09:12:04.237+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002703</object>
+    <caption>Anh Vương</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002703&lt;/idcontact&gt;
+    &lt;sign&gt;KH002703&lt;/sign&gt;
+    &lt;tel&gt;091 74 79 652&lt;/tel&gt;
+    &lt;contactname&gt;Anh Vương&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002174&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54079</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T09:13:00.217+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002703</object>
+    <caption>Anh Vương</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002703&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002703&lt;/sign&gt;
+    &lt;tel&gt;091 74 79 652&lt;/tel&gt;
+    &lt;email&gt;vuongpurchase@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;Anh Vương&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002174&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54080</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T09:49:33.6+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54081</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T09:57:40.323+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000018</object>
+    <caption>lemo</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-07</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54082</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T10:39:38.153+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000876</object>
+    <caption>Gọi lại chăm sóc KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH chưa có nhu cầu mua xe, đã ký hợp đồng sửa chữa với công ty khác&lt;/note&gt;
+    &lt;description&gt;Gọi lại chăm sóc KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000293&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000876&lt;/idplan&gt;
+    &lt;sign&gt;KH000876&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T10:38:23+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000124&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54083</ID>
+    <userid>US000016</userid>
+    <date>2018-05-09T10:39:59.533+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54084</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T10:38:09.31+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH001030</object>
+    <caption>ANH HÙNG -KTVT</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH001030&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH001030&lt;/sign&gt;
+    &lt;tel&gt;0914406009&lt;/tel&gt;
+    &lt;email&gt;khhungnv@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;ANH HÙNG -KTVT&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000711&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54085</ID>
+    <userid>US000016</userid>
+    <date>2018-05-09T10:53:37.6+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002605</object>
+    <caption>Anh THANH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002605&lt;/idcontact&gt;
+    &lt;note&gt;Phòng cơ điện&lt;/note&gt;
+    &lt;sign&gt;KH002605&lt;/sign&gt;
+    &lt;tel&gt;0932 071 931&lt;/tel&gt;
+    &lt;email&gt;VoDuy.Thanh@suntorypepsico.vn&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;Anh THANH&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH002362&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54086</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T10:55:39.55+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000877</object>
+    <caption>Liên hệ lại KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH không bắt máy&lt;/note&gt;
+    &lt;description&gt;Liên hệ lại KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000713&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000877&lt;/idplan&gt;
+    &lt;sign&gt;KH000877&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T10:55:13+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000207&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54087</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T11:06:05.987+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000878</object>
+    <caption>Liên hệ lại KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Cty không có nhu cầu mua xe - sửa chữa . Đã gửi mail giới thịêu Cty EPS&lt;/note&gt;
+    &lt;description&gt;Liên hệ lại KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000240&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000878&lt;/idplan&gt;
+    &lt;sign&gt;KH000878&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T11:05:03+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000301&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54088</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T11:06:52.45+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000879</object>
+    <caption>liên hệ Kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;cty mình báo giá cao nên k làm việc lâu dài. mong cty mình báo giá thấp xuống.
+Đã gửi mail.&lt;/note&gt;
+    &lt;description&gt;liên hệ Kh&lt;/description&gt;
+    &lt;idcontact&gt;KH000216&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000879&lt;/idplan&gt;
+    &lt;sign&gt;KH000879&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T11:05:35+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000711&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54089</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T11:07:49.403+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH000612</object>
+    <caption>ANH DŨNG PVT</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH000612&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH000612&lt;/sign&gt;
+    &lt;tel&gt;0908.602.353&lt;/tel&gt;
+    &lt;email&gt;dungptq@saigonpaper.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;ANH DŨNG PVT&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH000715&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54090</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T11:41:45.51+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-01</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54091</ID>
+    <userid>US000017</userid>
+    <date>2018-05-09T11:58:50.953+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000017</object>
+    <caption>thuyanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-06</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54092</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T11:52:15.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54093</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T13:46:15.673+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000019</object>
+    <caption>phongnth</caption>
+    <action>Đăng Nhập</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54094</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T14:16:51.413+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000020</object>
+    <caption>nvhai</caption>
+    <action>Đăng Nhập</action>
+    <computer>HCHANH-05</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54095</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T14:19:10.967+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002704</object>
+    <caption>Anh Thái</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002704&lt;/idcontact&gt;
+    &lt;sign&gt;KH002704&lt;/sign&gt;
+    &lt;tel&gt;0985.929.298&lt;/tel&gt;
+    &lt;email&gt;thaile.9180@gmail.com&lt;/email&gt;
+    &lt;contactname&gt;Anh Thái&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001628&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54096</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T14:19:26.73+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002704</object>
+    <caption>Anh Thái</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000003&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002704&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002704&lt;/sign&gt;
+    &lt;tel&gt;0985.929.298&lt;/tel&gt;
+    &lt;email&gt;thaile.9180@gmail.com&lt;/email&gt;
+    &lt;address&gt;sài gòn Coop&lt;/address&gt;
+    &lt;contactname&gt;Anh Thái&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001628&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54097</ID>
+    <userid>US000020</userid>
+    <date>2018-05-09T14:20:13.513+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000880</object>
+    <caption>liên hệ báo giá</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-05</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;đã gửi báo gi8as bạc đạn cảm biến&lt;/note&gt;
+    &lt;description&gt;liên hệ báo giá&lt;/description&gt;
+    &lt;idcontact&gt;KH002704&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000880&lt;/idplan&gt;
+    &lt;sign&gt;KH000880&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T14:19:40+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000027&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001628&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54098</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T14:31:30.713+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000881</object>
+    <caption>Liên lạc lại KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Anh Cuờng khong làm tại cty này nữa&lt;/note&gt;
+    &lt;description&gt;Liên lạc lại KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000694&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000881&lt;/idplan&gt;
+    &lt;sign&gt;KH000881&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T14:30:42+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000636&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54099</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T14:47:11.12+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000882</object>
+    <caption>liên hệ lại KH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KH chưa có nhu cầu&lt;/note&gt;
+    &lt;description&gt;liên hệ lại KH&lt;/description&gt;
+    &lt;idcontact&gt;KH000533&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000882&lt;/idplan&gt;
+    &lt;sign&gt;KH000882&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T14:42:58+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000644&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54100</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T15:03:02.68+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000247</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Ngày 15/09/2017 liên anh Vinh không bắt máy( lưu ý gọi lại)
+Đã gửi mail thông tin&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000723&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000247&lt;/idplan&gt;
+    &lt;sign&gt;KH000247&lt;/sign&gt;
+    &lt;datecontact&gt;2017-09-15T09:50:36+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000649&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54101</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T15:40:44.417+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000883</object>
+    <caption>gởi ttcho kh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;gởi ttcho kh&lt;/note&gt;
+    &lt;description&gt;gởi ttcho kh&lt;/description&gt;
+    &lt;idcontact&gt;KH001194&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000883&lt;/idplan&gt;
+    &lt;sign&gt;KH000883&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T15:40:22+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001247&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54102</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T15:45:53.137+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000884</object>
+    <caption>THUÊ BAO</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;THUÊ BAO&lt;/note&gt;
+    &lt;description&gt;THUÊ BAO&lt;/description&gt;
+    &lt;idcontact&gt;KH001195&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000884&lt;/idplan&gt;
+    &lt;sign&gt;KH000884&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T15:45:43+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001248&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54103</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T15:56:58.247+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000885</object>
+    <caption>KHÁCH CÓ NHU CÂU CHO THÔNG TIN</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;KHÁCH CÓ NHU CÂU CHO THÔNG TIN&lt;/note&gt;
+    &lt;description&gt;KHÁCH CÓ NHU CÂU CHO THÔNG TIN&lt;/description&gt;
+    &lt;idcontact&gt;KH001195&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000885&lt;/idplan&gt;
+    &lt;sign&gt;KH000885&lt;/sign&gt;
+    &lt;datecontact&gt;2018-05-09T15:56:39+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000026&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH001248&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54104</ID>
+    <userid>US000018</userid>
+    <date>2018-05-09T15:59:55.273+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH000247</object>
+    <caption>Liên hệ khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HCHANH-07</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note&gt;Ngày 15/09/2017 liên anh Vinh không bắt máy( lưu ý gọi lại)
+Đã gửi mail thông tin&lt;/note&gt;
+    &lt;description&gt;Liên hệ khách hàng&lt;/description&gt;
+    &lt;idcontact&gt;KH000723&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000002&lt;/idstatus&gt;
+    &lt;idplan&gt;KH000247&lt;/idplan&gt;
+    &lt;sign&gt;KH000247&lt;/sign&gt;
+    &lt;datecontact&gt;2017-09-15T09:50:36+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000023&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000649&lt;/idcustomer&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54105</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T16:00:59.217+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002705</object>
+    <caption>anh vinh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002705&lt;/idcontact&gt;
+    &lt;sign&gt;KH002705&lt;/sign&gt;
+    &lt;email&gt;laiquangdinhasti@gmail.com&lt;/email&gt;
+    &lt;contactname&gt;anh vinh&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001248&lt;/idcustomer&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54106</ID>
+    <userid>US000019</userid>
+    <date>2018-05-09T16:14:31.773+07:00</date>
+    <idform>frm_CUSCONTACT_S</idform>
+    <status>0</status>
+    <object>KH002705</object>
+    <caption>anh vinh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>SALEDEPT-04</computer>
+    <tableName>CUSCONTACT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACT&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;KH002705&lt;/idcontact&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;KH002705&lt;/sign&gt;
+    &lt;tel /&gt;
+    &lt;email&gt;laiquangdinhasti@gmail.com&lt;/email&gt;
+    &lt;address /&gt;
+    &lt;contactname&gt;anh vinh&lt;/contactname&gt;
+    &lt;idcustomer&gt;KH001248&lt;/idcustomer&gt;
+    &lt;account /&gt;
+  &lt;/CUSCONTACT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54107</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:39:22.317+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54108</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:48:02.42+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000028</object>
+    <caption>Nguyễn Thị Thùy Vy</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>APP-SVR</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000028&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000028&lt;/Sign&gt;
+    &lt;StaffName&gt;Nguyễn Thị Thùy Vy&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000028@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2018-05-09T21:47:14+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:47:14+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54109</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:48:36.13+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000029</object>
+    <caption>Nguyễn Thị Hồng Loan</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>APP-SVR</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000029&lt;/Sign&gt;
+    &lt;StaffName&gt;Nguyễn Thị Hồng Loan&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2018-05-09T21:48:02+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:48:02+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54110</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:49:14.567+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000030</object>
+    <caption>Nguyễn Khoa Vĩnh lợi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>APP-SVR</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000030&lt;/IDEMP&gt;
+    &lt;Sign&gt;EMP000030&lt;/Sign&gt;
+    &lt;StaffName&gt;Nguyễn Khoa Vĩnh lợi&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000030@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2018-05-09T21:48:39+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:48:39+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54111</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:49:29.73+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000029</object>
+    <caption>Nguyễn Thị Hoàng Loan</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>APP-SVR</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000002&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000029&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;EMP000029&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Nguyễn Thị Hoàng Loan&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000001@EMP000001@EMP000001@EMP000001@EMP000029@&lt;/idrecursive&gt;
+    &lt;fromdate&gt;2018-05-09T21:48:02+07:00&lt;/fromdate&gt;
+    &lt;todate&gt;2018-05-09T21:48:02+07:00&lt;/todate&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;idempteam&gt;EMP000001&lt;/idempteam&gt;
+    &lt;email /&gt;
+    &lt;telphone /&gt;
+    &lt;mobile /&gt;
+    &lt;phonename /&gt;
+    &lt;transport /&gt;
+    &lt;other /&gt;
+    &lt;ismanager&gt;false&lt;/ismanager&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54112</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:53:00.48+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000021</object>
+    <caption>nttvy</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>54113</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:53:42.333+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000022</object>
+    <caption>nthloan</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>54114</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:54:17.09+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000023</object>
+    <caption>nkvloi</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>54115</ID>
+    <userid>US000001</userid>
+    <date>2018-05-09T21:54:55.823+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000016</object>
+    <caption>ntnhinh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>APP-SVR</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>54116</ID>
+    <userid>US000022</userid>
+    <date>2018-05-09T21:55:16.697+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>nthloan</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54117</ID>
+    <userid>US000016</userid>
+    <date>2018-05-09T21:55:40.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>ntnhinh</caption>
+    <action>Đăng Nhập</action>
+    <computer>APP-SVR</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54118</ID>
+    <userid>US000001</userid>
+    <date>2018-05-18T22:02:30.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54119</ID>
+    <userid>US000001</userid>
+    <date>2018-05-18T22:05:03.207+07:00</date>
+    <idform>frm_DMLOAIBAOTRI_S</idform>
+    <status>0</status>
+    <object>L000003</object>
+    <caption>Xe Xang</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMLOAIBAOTRI</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMLOAIBAOTRI&gt;
+    &lt;idloaibaotri&gt;L000003&lt;/idloaibaotri&gt;
+    &lt;loaibaotri&gt;Xe Xang&lt;/loaibaotri&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;note&gt;Xang&lt;/note&gt;
+  &lt;/DMLOAIBAOTRI&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMLOAIBAOTRI</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54120</ID>
+    <userid>US000001</userid>
+    <date>2018-05-18T22:13:29.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54121</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T07:31:29.393+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54122</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T08:13:38.383+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54123</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T09:10:52.03+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54124</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T09:20:41.123+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54125</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T09:32:48.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54126</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T09:39:09.11+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54127</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:23:37.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54128</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:24:23.917+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002619</object>
+    <caption>QS002619</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-05-19T14:23:46+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-05-19T14:23:46+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002619&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD001-0518/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;test xuat po&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO001-0518/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;vuotdinhmuc&gt;test&lt;/vuotdinhmuc&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;dieukhoan&gt;test&lt;/dieukhoan&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54129</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:25:36.773+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002620</object>
+    <caption>QS002620</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-05-19T14:25:12+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-05-19T14:25:12+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000009&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002620&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD002-0518/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;test p02&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000019&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;vuotdinhmuc&gt;test&lt;/vuotdinhmuc&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;dieukhoan&gt;test&lt;/dieukhoan&gt;
+    &lt;idmanager&gt;EMP000014&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>54130</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:44:08.15+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54131</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:52:46.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>54132</ID>
+    <userid>US000001</userid>
+    <date>2018-05-19T14:53:27.51+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS002621</object>
+    <caption>QS002621</caption>
+    <action>F1 Tạo</action>
+    <computer>HOME-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2018-05-19T14:52:53+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2018-05-19T14:52:53+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS002621&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD003-0518/EPS-BG&lt;/quotationno&gt;
+    &lt;placedelivery&gt;test&lt;/placedelivery&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;invoiceeps&gt;PO002-0518/BTM&lt;/invoiceeps&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;vuotdinhmuc&gt;btm&lt;/vuotdinhmuc&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;dieukhoan&gt;btm&lt;/dieukhoan&gt;
+    &lt;idmanager&gt;EMP000014&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idpotype&gt;PT000002&lt;/idpotype&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+</NewDataSet>

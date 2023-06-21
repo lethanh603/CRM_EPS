@@ -1,0 +1,1879 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>14145</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T18:00:59.71+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14146</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T18:21:16.693+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14147</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T18:23:13.21+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14148</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T21:31:17.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14149</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T21:37:59.837+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14150</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:45:33.477+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14151</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:48:27.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14152</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:51:28.087+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.8</object>
+    <caption>Quản lý báo giá</caption>
+    <action>&amp;1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.8&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quản lý báo giá&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_panel_Quotation&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14153</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:52:08.72+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14154</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:53:29.447+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.9</object>
+    <caption>Quản lý báo giá</caption>
+    <action>&amp;1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.9&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quản lý báo giá&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_panel_Quotation&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14155</ID>
+    <userid>US000001</userid>
+    <date>2016-04-09T23:56:18.54+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14156</ID>
+    <userid>US000001</userid>
+    <date>2016-04-10T00:52:43.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>14157</ID>
+    <userid>US000001</userid>
+    <date>2016-04-10T03:18:29.657+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000001</object>
+    <caption>QS000001</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2016-04-10T03:09:11-07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-10T03:09:11-07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000001&lt;/idexport&gt;
+    &lt;note&gt;Báo giá khách hàng&lt;/note&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000004&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14158</ID>
+    <userid>US000001</userid>
+    <date>2016-04-10T03:45:55.087+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000002</object>
+    <caption>QS000002</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2016-04-10T03:22:06-07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-10T03:22:06-07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000002&lt;/idexport&gt;
+    &lt;note&gt;ưq&lt;/note&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14159</ID>
+    <userid>US000001</userid>
+    <date>2016-04-10T03:56:48.59+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000003</object>
+    <caption>QS000003</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;dateimport&gt;2016-04-10T03:56:26-07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-10T03:56:26-07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000003&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>14160</ID>
+    <userid>US000001</userid>
+    <date>2016-04-10T05:11:19.893+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000005</object>
+    <caption>QS000005</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-10T04:59:13-07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-10T04:59:13-07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000005&lt;/idexport&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15145</ID>
+    <userid>US000001</userid>
+    <date>2016-04-11T23:09:25.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>15146</ID>
+    <userid>US000001</userid>
+    <date>2016-04-12T21:36:29.683+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000006</object>
+    <caption>QS000006</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-12T21:35:40+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-12T21:35:40+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000006&lt;/idexport&gt;
+    &lt;note&gt;4234&lt;/note&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000004&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15147</ID>
+    <userid>US000001</userid>
+    <date>2016-04-12T22:37:30.97+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>15148</ID>
+    <userid>US000001</userid>
+    <date>2016-04-12T23:36:23.657+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000007</object>
+    <caption>QS000007</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-12T23:34:09+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-12T23:34:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000007&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;10&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000004&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000002&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15149</ID>
+    <userid>US000001</userid>
+    <date>2016-04-12T23:37:24.213+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000008</object>
+    <caption>QS000008</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-12T23:36:35+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-12T23:36:35+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000008&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;10&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000004&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000002&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15150</ID>
+    <userid>US000001</userid>
+    <date>2016-04-12T23:40:08.063+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000009</object>
+    <caption>QS000009</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-12T23:37:58+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-12T23:37:58+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000009&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;10&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000004&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000002&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15151</ID>
+    <userid>US000001</userid>
+    <date>2016-04-13T06:01:11.247+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000010</object>
+    <caption>QS000010</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-13T06:00:56+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-13T06:00:56+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000002&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000010&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15152</ID>
+    <userid>US000001</userid>
+    <date>2016-04-13T06:24:12.24+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000011</object>
+    <caption>QS000011</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-13T06:23:44+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-13T06:23:44+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000011&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15153</ID>
+    <userid>US000001</userid>
+    <date>2016-04-13T06:45:19.11+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000012</object>
+    <caption>QS000012</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-13T06:44:54+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-13T06:44:54+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000012&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15154</ID>
+    <userid>US000001</userid>
+    <date>2016-04-13T06:49:30.973+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>15155</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:06:12.807+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000013</object>
+    <caption>QS000013</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:05:45+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:05:45+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000013&lt;/idexport&gt;
+    &lt;note&gt;12324&lt;/note&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15156</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:07:54.57+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000014</object>
+    <caption>QS000014</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:07:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:07:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000014&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15157</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:10:21.063+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000015</object>
+    <caption>QS000015</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:09:55+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:09:55+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000015&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15158</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:14:02.28+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000016</object>
+    <caption>QS000016</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:12:09+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:12:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000016&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15159</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:14:15.923+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>1</status>
+    <object>QS000016</object>
+    <caption>QS000016</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:12:09+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:12:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000016&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15160</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:14:44.183+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>1</status>
+    <object>QS000016</object>
+    <caption>QS000016</caption>
+    <action>F4 Lưu &amp; Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:12:09+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:12:09+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000016&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15161</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T13:18:47.887+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000017</object>
+    <caption>QS000017</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-18T13:18:19+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-18T13:18:19+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000017&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>15162</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T14:16:17.26+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>15163</ID>
+    <userid>US000001</userid>
+    <date>2016-04-18T23:37:24.96+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>2</status>
+    <object>QS000018</object>
+    <caption>QS000018</caption>
+    <action>F3 Xóa</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16155</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T21:05:21.263+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000018</object>
+    <caption>QS000018</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-19T21:04:04+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-19T21:04:04+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000018&lt;/idexport&gt;
+    &lt;note&gt;xxx&lt;/note&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16156</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T21:09:11.243+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000019</object>
+    <caption>QS000019</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-19T21:08:17+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-19T21:08:17+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000019&lt;/idexport&gt;
+    &lt;note&gt;vbvb&lt;/note&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16157</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T21:15:39.463+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000020</object>
+    <caption>QS000020</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-19T21:13:31+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-19T21:13:31+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000020&lt;/idexport&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;discount&gt;1&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16158</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T21:18:05.383+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000021</object>
+    <caption>QS000021</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;1&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-19T21:15:39+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-19T21:15:39+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000021&lt;/idexport&gt;
+    &lt;note&gt;111&lt;/note&gt;
+    &lt;discount&gt;1&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16159</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T21:33:13.71+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000022</object>
+    <caption>QS000022</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-19T21:32:55+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-19T21:32:55+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000022&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16160</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T23:00:51.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16161</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T23:40:10.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16162</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T23:45:33.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16163</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T23:51:23.973+07:00</date>
+    <idform>frm_DMUNIT_S</idform>
+    <status>0</status>
+    <object>DV000016</object>
+    <caption>78</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000016&lt;/idunit&gt;
+    &lt;note&gt;78&lt;/note&gt;
+    &lt;sign&gt;667&lt;/sign&gt;
+    &lt;unit&gt;78&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16164</ID>
+    <userid>US000001</userid>
+    <date>2016-04-19T23:51:31.933+07:00</date>
+    <idform>frm_DMUNIT_SH</idform>
+    <status>0</status>
+    <object>DV000016</object>
+    <caption>DV000016</caption>
+    <action>bbi_allow_delete</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMUNIT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMUNIT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000016&lt;/idunit&gt;
+    &lt;note&gt;78&lt;/note&gt;
+    &lt;sign&gt;667&lt;/sign&gt;
+    &lt;unit&gt;78&lt;/unit&gt;
+  &lt;/DMUNIT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMUNIT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16165</ID>
+    <userid>US000001</userid>
+    <date>2016-04-20T00:01:35.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16166</ID>
+    <userid>US000001</userid>
+    <date>2016-04-20T00:03:05.983+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16167</ID>
+    <userid>US000001</userid>
+    <date>2016-04-20T00:04:38.833+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16168</ID>
+    <userid>US000001</userid>
+    <date>2016-04-20T00:07:10.09+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16169</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T05:35:09.9+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16170</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T05:35:50.993+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS000023</object>
+    <caption>QS000023</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2016-04-21T05:35:33+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2016-04-21T05:35:33+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000023&lt;/idexport&gt;
+    &lt;note /&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;IDMETHOD&gt;MT000003&lt;/IDMETHOD&gt;
+    &lt;isvat&gt;false&lt;/isvat&gt;
+    &lt;iddepartment&gt;BP000001&lt;/iddepartment&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;1&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16171</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:06:57.073+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16172</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:10:56.333+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16173</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:13:50.33+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrators</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16174</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:14:31.05+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000003</object>
+    <caption>Trần Văn A</caption>
+    <action>F4 Save - Insert</action>
+    <computer>MUONG-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000002&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000003&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;TVA&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Trần Văn A&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000003@&lt;/idrecursive&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16175</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:14:47.273+07:00</date>
+    <idform>frm_DMDEPARTMENT_S</idform>
+    <status>0</status>
+    <object>BP000003</object>
+    <caption>Bán hàng</caption>
+    <action>F4 Save - Insert</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMDEPARTMENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMDEPARTMENT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;note&gt;Bán hàng&lt;/note&gt;
+    &lt;sign&gt;BH&lt;/sign&gt;
+    &lt;department&gt;Bán hàng&lt;/department&gt;
+  &lt;/DMDEPARTMENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMDEPARTMENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16176</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:15:02.323+07:00</date>
+    <idform>frm_DMDEPARTMENT_S</idform>
+    <status>0</status>
+    <object>BP000004</object>
+    <caption>Kế toán</caption>
+    <action>F4 Save - Insert</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMDEPARTMENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMDEPARTMENT&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000004&lt;/iddepartment&gt;
+    &lt;note&gt;Kế toán&lt;/note&gt;
+    &lt;sign&gt;KT&lt;/sign&gt;
+    &lt;department&gt;Kế toán&lt;/department&gt;
+  &lt;/DMDEPARTMENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMDEPARTMENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16177</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:15:46.623+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000004</object>
+    <caption>Nguyễn Minh Long</caption>
+    <action>F4 Save - Insert</action>
+    <computer>MUONG-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000003&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000002&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000004&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;NML&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Nguyễn Minh Long&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000002@EMP000004@&lt;/idrecursive&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16178</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:16:04.073+07:00</date>
+    <idform>frm_EMPLOYEES_S</idform>
+    <status>0</status>
+    <object>EMP000005</object>
+    <caption>Mai Văn Khoa</caption>
+    <action>F4 Save - Insert</action>
+    <computer>MUONG-PC</computer>
+    <tableName>EMPLOYEES</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;EMPLOYEES&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddepartment&gt;BP000004&lt;/iddepartment&gt;
+    &lt;IDManager&gt;EMP000001&lt;/IDManager&gt;
+    &lt;idstore&gt;CH000001&lt;/idstore&gt;
+    &lt;IDEMP&gt;EMP000005&lt;/IDEMP&gt;
+    &lt;note /&gt;
+    &lt;Sign&gt;MVK&lt;/Sign&gt;
+    &lt;identitycard /&gt;
+    &lt;tel /&gt;
+    &lt;address /&gt;
+    &lt;StaffName&gt;Mai Văn Khoa&lt;/StaffName&gt;
+    &lt;idrecursive&gt;EMP000001@EMP000005@&lt;/idrecursive&gt;
+  &lt;/EMPLOYEES&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_EMPLOYEES</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16179</ID>
+    <userid>US0003</userid>
+    <date>2016-04-21T06:19:40.187+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US0003</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16180</ID>
+    <userid>US000005</userid>
+    <date>2016-04-21T06:22:25.207+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000005</object>
+    <caption>admin4</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16181</ID>
+    <userid>US000005</userid>
+    <date>2016-04-21T06:35:36.013+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000005</object>
+    <caption>admin4</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16182</ID>
+    <userid>US000002</userid>
+    <date>2016-04-21T06:36:10.533+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000002</object>
+    <caption>admin2</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16183</ID>
+    <userid>US000002</userid>
+    <date>2016-04-21T06:40:04.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000002</object>
+    <caption>admin2</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16184</ID>
+    <userid>US000001</userid>
+    <date>2016-04-21T06:48:11.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16185</ID>
+    <userid>US000004</userid>
+    <date>2016-04-21T06:56:16.693+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000004</object>
+    <caption>admin3</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16186</ID>
+    <userid>US000001</userid>
+    <date>2016-04-24T19:52:54.273+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16187</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:46:44.713+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16188</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:47:26.037+07:00</date>
+    <idform>frm_sysMenu_S</idform>
+    <status>0</status>
+    <object>9</object>
+    <caption>QUẢN LÝ KHÁCH HÀNG</caption>
+    <action>F1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16189</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:48:07.907+07:00</date>
+    <idform>frm_sysGroupSubMenu</idform>
+    <status>0</status>
+    <object>8.2</object>
+    <caption>Quản lý khách hàng</caption>
+    <action>F1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysGroupSubMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16190</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:49:26.847+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.9</object>
+    <caption>Quản lý khách hàng</caption>
+    <action>&amp;1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.9&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quản lý khách hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.2&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmListCustomer&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_CRM&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16191</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:49:37.58+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16192</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:51:55.793+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.1.10</object>
+    <caption>Quản lý khách hàng</caption>
+    <action>&amp;1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.10&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quản lý khách hàng&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.2&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmListCustomer&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_CRM&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;1&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre&gt;dmcustomer/&lt;/tablePre&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16193</ID>
+    <userid>US000001</userid>
+    <date>2016-04-26T23:55:25.723+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16194</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T00:21:00.737+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16195</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T01:59:02.8+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16196</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:01:53.43+07:00</date>
+    <idform>frm_sysMenu_S</idform>
+    <status>0</status>
+    <object>10</object>
+    <caption>BÁO CÁO THỐNG KÊ</caption>
+    <action>F1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16197</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:02:02.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16198</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:02:19.82+07:00</date>
+    <idform>frm_sysGroupSubMenu</idform>
+    <status>0</status>
+    <object>8.3</object>
+    <caption>Báo cáo</caption>
+    <action>F1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysGroupSubMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16199</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:02:25.047+07:00</date>
+    <idform>frm_sysGroupSubMenu</idform>
+    <status>0</status>
+    <object>8.4</object>
+    <caption>Thống kê</caption>
+    <action>F1 Save</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysGroupSubMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16200</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:02:32.757+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16201</ID>
+    <userid>US000001</userid>
+    <date>2016-04-27T02:04:53.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Login</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16202</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:33:32.22+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16203</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:35:03.82+07:00</date>
+    <idform>frm_sysGroupSubMenu</idform>
+    <status>1</status>
+    <object>8.2</object>
+    <caption>QUẢN LÝ KHÁCH HÀNG</caption>
+    <action>F1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysGroupSubMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16204</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:35:09.17+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16205</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:36:31.673+07:00</date>
+    <idform>frm_sysGroupSubMenu</idform>
+    <status>1</status>
+    <object>8.2</object>
+    <caption>Quản lý khách hàng</caption>
+    <action>F1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysGroupSubMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16206</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:37:50.583+07:00</date>
+    <idform>frm_sysMenu_S</idform>
+    <status>1</status>
+    <object>8</object>
+    <caption>TÁC VỤ</caption>
+    <action>F1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysMenu</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>16207</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:37:56.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16208</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:38:09.097+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16209</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:39:57.2+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.8</object>
+    <caption>Quản lý báo giá</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.8&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quản lý báo giá&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_panel_Quotation&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16210</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:40:14.553+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.7</object>
+    <caption>Khuyến mãi</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.7&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Khuyến mãi&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.1&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_PROMOTION_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_PROMOTION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;5&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16211</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:40:32.26+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>1</status>
+    <object>8.1.9</object>
+    <caption>QUẢN LÝ KHÁCH HÀNG</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.1.9&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;QUẢN LÝ KHÁCH HÀNG&lt;/NameSubMenu&gt;
+    &lt;image /&gt;
+    &lt;IDGroupMenu&gt;8.2&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmListCustomer&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_CRM&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+    &lt;note /&gt;
+    &lt;tablePre /&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16212</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T05:40:37.427+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>16213</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T06:08:41.71+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH000174</object>
+    <caption>rưeqr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000174&lt;/idcommodity&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ewrwer&lt;/sign&gt;
+    &lt;commodity&gt;rưeqr&lt;/commodity&gt;
+    &lt;quantity&gt;false&lt;/quantity&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>16214</ID>
+    <userid>US000001</userid>
+    <date>2016-04-28T22:56:01.1+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>admin</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

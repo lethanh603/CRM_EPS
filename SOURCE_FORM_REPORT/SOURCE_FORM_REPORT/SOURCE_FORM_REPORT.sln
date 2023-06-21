@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOURCE_FORM_REPORT", "SOURC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "..\..\Data\Data\Data.csproj", "{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoyalHRM", "..\..\SystemMain version 1.2.4 - CRM\LoyalHRM\LoyalHRM.csproj", "{E85184E8-1D0F-43F8-B108-3CCC5CF832A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +21,10 @@ Global
 		{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E85184E8-1D0F-43F8-B108-3CCC5CF832A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E85184E8-1D0F-43F8-B108-3CCC5CF832A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E85184E8-1D0F-43F8-B108-3CCC5CF832A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E85184E8-1D0F-43F8-B108-3CCC5CF832A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

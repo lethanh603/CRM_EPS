@@ -1,0 +1,4541 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>56872</ID>
+    <userid>US000016</userid>
+    <date>2017-03-02T06:15:07.607+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56873</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T07:54:47.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56874</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T10:40:52.64+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56875</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T10:53:24.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56876</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T10:53:54.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56877</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T12:10:35.777+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56878</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T14:37:56.373+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56879</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T15:27:35.537+07:00</date>
+    <idform>frm_SETTINGPROBLEM_S</idform>
+    <status>0</status>
+    <object>GST000001</object>
+    <caption>Chăm sóc khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEM&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;sign&gt;GST000001&lt;/sign&gt;
+    &lt;groupsetting&gt;Chăm sóc khách hàng&lt;/groupsetting&gt;
+  &lt;/SETTINGPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56880</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T15:28:23.56+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>Nhu cầu</object>
+    <caption>Nhu cầu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56881</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T15:49:43.303+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>123</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56882</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:07:06.513+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56883</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:32:33.9+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>123</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;ST000001&lt;/sign&gt;
+    &lt;settingdetail&gt;123&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56884</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:33:25.63+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>234</object>
+    <caption>234</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;note&gt;345&lt;/note&gt;
+    &lt;sign&gt;ST000002&lt;/sign&gt;
+    &lt;settingdetail&gt;234&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56885</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:39:41.197+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;123&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56886</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:46:55.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56887</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:51:35.127+07:00</date>
+    <idform>frm_SETTINGPROBLEM_S</idform>
+    <status>0</status>
+    <object>GST000002</object>
+    <caption>123123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEM&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;note&gt;32131&lt;/note&gt;
+    &lt;sign&gt;GST000002&lt;/sign&gt;
+    &lt;groupsetting&gt;123123&lt;/groupsetting&gt;
+  &lt;/SETTINGPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56888</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T16:59:50.533+07:00</date>
+    <idform>frm_SETTINGPROBLEM_S</idform>
+    <status>0</status>
+    <object>GST000002</object>
+    <caption>Quản lý PO</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEM&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;note&gt;Quản lý PO&lt;/note&gt;
+    &lt;sign&gt;GST000002&lt;/sign&gt;
+    &lt;groupsetting&gt;Quản lý PO&lt;/groupsetting&gt;
+  &lt;/SETTINGPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56889</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T17:00:11.823+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>1231</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;1231&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56890</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T17:04:43.19+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>ST000002</object>
+    <caption>23444</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;note&gt;345&lt;/note&gt;
+    &lt;sign&gt;ST000002&lt;/sign&gt;
+    &lt;settingdetail&gt;23444&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56891</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T17:28:11.89+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56892</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T17:28:31.96+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001469</object>
+    <caption>QS001469</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-03-04T17:28:24+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-03-04T17:28:24+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001469&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD001-0317/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-03-04T17:28:24+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-03-04T17:28:24+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56893</ID>
+    <userid>US000001</userid>
+    <date>2017-03-04T17:58:40.16+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000002</object>
+    <caption>34343</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;note&gt;43434&lt;/note&gt;
+    &lt;sign&gt;DT000002&lt;/sign&gt;
+    &lt;involve&gt;34343&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPROVINCE</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56894</ID>
+    <userid>US000001</userid>
+    <date>2017-03-06T05:58:32.677+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>ytrr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000010&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-06T05:58:10+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;problem&gt;ytrr&lt;/problem&gt;
+    &lt;note&gt;tryr&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56895</ID>
+    <userid>US000001</userid>
+    <date>2017-03-07T06:23:56.47+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>uggyu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-07T06:23:49+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;problem&gt;uggyu&lt;/problem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56896</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T06:59:30.62+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56897</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:21:03.107+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.2.5</object>
+    <caption>Quy trình quản lý sự vụ</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.2.5&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Quy trình quản lý sự vụ&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.2&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_SETTINGPROBLEM_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_SETTINGPROBLEM&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56898</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:22:20.39+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56899</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:23:07.983+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>Liên lạc khách hàng</object>
+    <caption>Liên lạc khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;sign&gt;ST000001&lt;/sign&gt;
+    &lt;settingdetail&gt;Liên lạc khách hàng&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56900</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:30:50.303+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56901</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:39:07.827+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>2.1.19</object>
+    <caption>Báo cáo chăm sóc khách hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;2.1.19&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo chăm sóc khách hàng&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.4&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_reportcustomercare_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_CRM&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56902</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:39:14.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56903</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:54:10.273+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56904</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T07:58:20.077+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56905</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T08:05:29.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56906</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T08:23:52.08+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56907</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T09:28:36.72+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56908</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T09:33:20.373+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56909</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T09:38:24.773+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>Loi phu tung nha san xuat</object>
+    <caption>Loi phu tung nha san xuat</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;sign&gt;ST000002&lt;/sign&gt;
+    &lt;settingdetail&gt;Loi phu tung nha san xuat&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56910</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T09:38:33.447+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;QLDH&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56911</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T09:38:39.467+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000002</object>
+    <caption>Kho</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000002&lt;/sign&gt;
+    &lt;involve&gt;Kho&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56912</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:30:18.573+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>uggyu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-07T06:23:49+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;problem&gt;uggyu&lt;/problem&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56913</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:34:22.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56914</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:34:41.557+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>werw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:34:38+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;problem&gt;werw&lt;/problem&gt;
+    &lt;note&gt;rưerw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56915</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:34:50.437+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>werw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:34:38+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;problem&gt;werw&lt;/problem&gt;
+    &lt;note&gt;rưerw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56916</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:36:39.947+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>xxx</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:36:34+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;problem&gt;xxx&lt;/problem&gt;
+    &lt;note&gt;xxx&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56917</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:38:23.943+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>xxx</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:36:34+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;problem&gt;xxx&lt;/problem&gt;
+    &lt;note&gt;xxx&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56918</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:39:27.763+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>rwe</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:39:25+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;problem&gt;rwe&lt;/problem&gt;
+    &lt;note&gt;rewrw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56919</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:39:35.713+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>rwe</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:39:25+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;problem&gt;rwe&lt;/problem&gt;
+    &lt;note&gt;rewrw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56920</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:40:08.92+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>gdfgdg</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:40:04+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;problem&gt;gdfgdg&lt;/problem&gt;
+    &lt;note&gt;dfgdfg&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56921</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:40:26.2+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>gdfgdg</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:40:04+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;problem&gt;gdfgdg&lt;/problem&gt;
+    &lt;note&gt;dfgdfg&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56922</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:51:29.66+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56923</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:52:16.187+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:52:11+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000007&lt;/idproblem&gt;
+    &lt;problem&gt;rewrw&lt;/problem&gt;
+    &lt;note&gt;rưerw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56924</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:52:22.74+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000001&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T10:52:11+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;true&lt;/isfinish&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idproblem&gt;PL000007&lt;/idproblem&gt;
+    &lt;problem&gt;rewrw&lt;/problem&gt;
+    &lt;note&gt;rưerw&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idpre /&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56925</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T10:58:05.19+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56926</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:03:07.777+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>ST000002</object>
+    <caption>Bảo trì</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ST000002&lt;/sign&gt;
+    &lt;settingdetail&gt;Bảo trì&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56927</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:03:44.717+07:00</date>
+    <idform>frm_SETTINGPROBLEM_S</idform>
+    <status>0</status>
+    <object>GST000002</object>
+    <caption>Bảo hành</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEM&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;note&gt;Bảo hành&lt;/note&gt;
+    &lt;sign&gt;GST000002&lt;/sign&gt;
+    &lt;groupsetting&gt;Bảo hành&lt;/groupsetting&gt;
+  &lt;/SETTINGPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56928</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:04:31.18+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>ST000001</object>
+    <caption>Tranh chấp khách hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;ST000001&lt;/sign&gt;
+    &lt;settingdetail&gt;Tranh chấp khách hàng&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56929</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:04:47.687+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000003</object>
+    <caption>Kinh Doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000003&lt;/idinvolve&gt;
+    &lt;note&gt;Kinh doanh&lt;/note&gt;
+    &lt;sign&gt;DT000003&lt;/sign&gt;
+    &lt;involve&gt;Kinh Doanh&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56930</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:05:01.57+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000004</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000004&lt;/idinvolve&gt;
+    &lt;note&gt;Quản lý đơn hàng&lt;/note&gt;
+    &lt;sign&gt;DT000004&lt;/sign&gt;
+    &lt;involve&gt;QLDH&lt;/involve&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56931</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:06:53.623+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000008</object>
+    <caption>Khách hàng liên lạc xe bị hư không vận hành được, mới mua được 3 ngày, số đơn hàng là 12345</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idemppre&gt;EMP000021&lt;/idemppre&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-11T11:05:25+07:00&lt;/dateproblem&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000008&lt;/idproblem&gt;
+    &lt;problem&gt;Khách hàng liên lạc xe bị hư không vận hành được, mới mua được 3 ngày, số đơn hàng là 12345&lt;/problem&gt;
+    &lt;note&gt;Ông coi giải quyết vấn đề&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56932</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:07:15.483+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56933</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:08:48.663+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000010</object>
+    <caption>Xe bị lỗi do nhà cung cấp, đề nghị nhận hàng về bảo trì</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-12T11:07:38+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000010&lt;/idproblemdetail&gt;
+    &lt;solution&gt;Xe bị lỗi do nhà cung cấp, đề nghị nhận hàng về bảo trì&lt;/solution&gt;
+    &lt;note&gt;Ngày 13/3 giải quyết&lt;/note&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000008&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;process&gt;10&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56934</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:12:08.89+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000011</object>
+    <caption>Đã yêu cầu nhận hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-13T11:11:35+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000011&lt;/idproblemdetail&gt;
+    &lt;solution&gt;Đã yêu cầu nhận hàng&lt;/solution&gt;
+    &lt;note&gt;Đã yêu cầu nhận hàng 15/3 sẽ nhận được&lt;/note&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000008&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;process&gt;20&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56935</ID>
+    <userid>US000006</userid>
+    <date>2017-03-11T11:12:48.897+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56936</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:16:45.637+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56937</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:17:15.603+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56938</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:18:31.823+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000011</object>
+    <caption>Xe bị lõi do nhà sản xuất đề nghị yêu cầu nhận hàng về gửi nhà sản xuất bảo hành</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-11T11:17:46+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000011&lt;/idproblemdetail&gt;
+    &lt;solution&gt;Xe bị lõi do nhà sản xuất đề nghị yêu cầu nhận hàng về gửi nhà sản xuất bảo hành&lt;/solution&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000009&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56939</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:18:44.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56940</ID>
+    <userid>US000006</userid>
+    <date>2017-03-11T11:19:17.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56941</ID>
+    <userid>US000008</userid>
+    <date>2017-03-11T11:19:39.893+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56942</ID>
+    <userid>US000012</userid>
+    <date>2017-03-11T11:20:33.453+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56943</ID>
+    <userid>US000006</userid>
+    <date>2017-03-11T11:20:47.537+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56944</ID>
+    <userid>US000006</userid>
+    <date>2017-03-11T11:21:21.317+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000012</object>
+    <caption>Đã yêu cầu nhận hàng 3 ngày sau xưởng sẽ nhận hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-12T11:20:56+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000012&lt;/idproblemdetail&gt;
+    &lt;solution&gt;Đã yêu cầu nhận hàng 3 ngày sau xưởng sẽ nhận hàng&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000009&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;process&gt;30&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56945</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:21:36.14+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56946</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:22:02.49+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56947</ID>
+    <userid>US000016</userid>
+    <date>2017-03-11T11:23:20.037+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000013</object>
+    <caption>Nhà sản xuất không chịu trách nhiệm do sản phẩm bị hư trong quá trình vận chuyển</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-16T11:22:16+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000013&lt;/idproblemdetail&gt;
+    &lt;solution&gt;Nhà sản xuất không chịu trách nhiệm do sản phẩm bị hư trong quá trình vận chuyển&lt;/solution&gt;
+    &lt;note&gt;Đề nghị quản lý đơn hàng liên hệ với nhà sản xuất&lt;/note&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000009&lt;/idproblem&gt;
+    &lt;issupport&gt;1&lt;/issupport&gt;
+    &lt;process&gt;30&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56948</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:23:30.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56949</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T11:32:16.263+07:00</date>
+    <idform>frm_DMCOMMODITY_S</idform>
+    <status>0</status>
+    <object>HH002899</object>
+    <caption>Cái mặt hàng</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCOMMODITY</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCOMMODITY&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;cogs&gt;0&lt;/cogs&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idwarehouse&gt;KH000001&lt;/idwarehouse&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH002899&lt;/idcommodity&gt;
+    &lt;note&gt;xxx&lt;/note&gt;
+    &lt;sign&gt;HH002899&lt;/sign&gt;
+    &lt;commodity&gt;Cái mặt hàng&lt;/commodity&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;spec&gt;xxx&lt;/spec&gt;
+    &lt;model&gt;xx&lt;/model&gt;
+    &lt;equipmentinfo&gt;xxx&lt;/equipmentinfo&gt;
+    &lt;baohanh&gt;0&lt;/baohanh&gt;
+    &lt;tenkhongdau&gt;Cai mat hang&lt;/tenkhongdau&gt;
+  &lt;/DMCOMMODITY&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCOMMODITY</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56950</ID>
+    <userid>US000001</userid>
+    <date>2017-03-11T12:04:52.673+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56951</ID>
+    <userid>US000001</userid>
+    <date>2017-03-16T04:57:38.05+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56952</ID>
+    <userid>US000001</userid>
+    <date>2017-03-16T05:51:39.67+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56953</ID>
+    <userid>US000001</userid>
+    <date>2017-03-16T06:37:36.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56954</ID>
+    <userid>US000001</userid>
+    <date>2017-03-16T06:39:22.537+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000005</object>
+    <caption>343</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000005&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000005&lt;/sign&gt;
+    &lt;involve&gt;343&lt;/involve&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56955</ID>
+    <userid>US000001</userid>
+    <date>2017-03-16T06:40:45.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56956</ID>
+    <userid>US000001</userid>
+    <date>2017-03-18T09:54:51.55+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56957</ID>
+    <userid>US000001</userid>
+    <date>2017-03-18T10:15:15.193+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56958</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T13:52:45.513+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56959</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T17:13:12.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56960</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T17:52:25.793+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>Test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;Test&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;Test&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T17:52:16+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56961</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T17:58:36.52+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>tty</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;yu&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;tty&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T17:58:22+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56962</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T17:59:49.487+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>jkl</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;jkl&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T17:59:45+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56963</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T18:03:45.333+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>têt</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;rêt&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;têt&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T18:03:40+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56964</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T22:23:10.767+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56965</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T22:24:07.907+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>234</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;234&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;234&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T22:24:02+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56966</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:33:01.067+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56967</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:33:37.673+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>Kế toán kho</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;note&gt;Kế toán kho cũng liên quan&lt;/note&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;Kế toán kho&lt;/involve&gt;
+    &lt;idemp&gt;EMP000007&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56968</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:33:51.05+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000002</object>
+    <caption>Thu ngân</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;note&gt;Thu ngân&lt;/note&gt;
+    &lt;sign&gt;DT000002&lt;/sign&gt;
+    &lt;involve&gt;Thu ngân&lt;/involve&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56969</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:34:08.207+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000003</object>
+    <caption>Bông hoa</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000003&lt;/idinvolve&gt;
+    &lt;note&gt;hoa bông&lt;/note&gt;
+    &lt;sign&gt;DT000003&lt;/sign&gt;
+    &lt;involve&gt;Bông hoa&lt;/involve&gt;
+    &lt;idemp&gt;EMP000013&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56970</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:34:16.537+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000004</object>
+    <caption>QL</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000004&lt;/idinvolve&gt;
+    &lt;note&gt;QL&lt;/note&gt;
+    &lt;sign&gt;DT000004&lt;/sign&gt;
+    &lt;involve&gt;QL&lt;/involve&gt;
+    &lt;idemp&gt;EMP000014&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56971</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:34:51.913+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>Bán cái gì hok bit</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;problem&gt;Bán cái gì hok bit&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T23:34:22+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56972</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:39:57.01+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56973</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:56:22.313+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56974</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:58:42.497+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56975</ID>
+    <userid>US000001</userid>
+    <date>2017-03-19T23:59:29.55+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>234</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;234&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000002&lt;/idsettingdetail&gt;
+    &lt;problem&gt;234&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-19T23:58:50+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56976</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:06:15.183+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56977</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:06:41.29+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>yu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;yu&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:06:33+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56978</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:07:01.56+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>yu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;yu&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:06:33+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56979</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:07:06.72+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>yu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;yu&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:06:33+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56980</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:07:12.537+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>yu</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;yu&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:06:33+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56981</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:07:27.71+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>23</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;23&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:07:20+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56982</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:10:50.073+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56983</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:14:07.303+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56984</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:14:20.58+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>23</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;23&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:07:20+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56985</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:14:27.657+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>23</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;23&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:07:20+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56986</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:14:44.123+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:14:39+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56987</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:14:50.013+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:14:39+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56988</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:27:32.05+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:14:39+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56989</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:27:38.303+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:14:39+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56990</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:27:54.2+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56991</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:28:26.71+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56992</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:30:23.803+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56993</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:30:40.72+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56994</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:32:37.873+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56995</ID>
+    <userid>US000001</userid>
+    <date>2017-03-20T23:32:46.177+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>43535</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;43535&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-20T23:27:48+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56996</ID>
+    <userid>US000001</userid>
+    <date>2017-03-21T22:09:49.663+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>rwerw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000007&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;rwerw&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-21T22:09:39+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56997</ID>
+    <userid>US000001</userid>
+    <date>2017-03-22T22:45:31.49+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>56998</ID>
+    <userid>US000001</userid>
+    <date>2017-03-22T22:47:40.733+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>Sửa chưa</object>
+    <caption>Sửa chưa</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;sign&gt;ST000003&lt;/sign&gt;
+    &lt;settingdetail&gt;Sửa chưa&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>56999</ID>
+    <userid>US000001</userid>
+    <date>2017-03-22T22:47:57.107+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000005</object>
+    <caption>QLDH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000005&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000005&lt;/sign&gt;
+    &lt;involve&gt;QLDH&lt;/involve&gt;
+    &lt;idemp&gt;EMP000013&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57000</ID>
+    <userid>US000001</userid>
+    <date>2017-03-22T22:48:10.077+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000006</object>
+    <caption>Kỹ thuật</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000006&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000006&lt;/sign&gt;
+    &lt;involve&gt;Kỹ thuật&lt;/involve&gt;
+    &lt;idemp&gt;EMP000017&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57001</ID>
+    <userid>US000001</userid>
+    <date>2017-03-22T22:49:14.607+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>Khách hàng báo xe nâng 8 tấn hư, số đơn hàng là 0000909</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;problem&gt;Khách hàng báo xe nâng 8 tấn hư, số đơn hàng là 0000909&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000002&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-22T22:48:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57002</ID>
+    <userid>US000001</userid>
+    <date>2017-03-23T06:44:35.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57003</ID>
+    <userid>US000001</userid>
+    <date>2017-03-24T05:04:59.04+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57004</ID>
+    <userid>US000001</userid>
+    <date>2017-03-24T05:06:12.28+07:00</date>
+    <idform>frm_SETTINGPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>Bao hanh</object>
+    <caption>Bao hanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGPROBLEMDETAIL&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;sign&gt;ST000004&lt;/sign&gt;
+    &lt;settingdetail&gt;Bao hanh&lt;/settingdetail&gt;
+  &lt;/SETTINGPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57005</ID>
+    <userid>US000001</userid>
+    <date>2017-03-24T05:06:25.517+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000007</object>
+    <caption>Ke toan</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000007&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000007&lt;/sign&gt;
+    &lt;involve&gt;Ke toan&lt;/involve&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57006</ID>
+    <userid>US000001</userid>
+    <date>2017-03-24T05:06:36.097+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000008</object>
+    <caption>Ky thuat</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000008&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000008&lt;/sign&gt;
+    &lt;involve&gt;Ky thuat&lt;/involve&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57007</ID>
+    <userid>US000001</userid>
+    <date>2017-03-24T05:07:49.483+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>bao hanh tinh phi xe nang</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;ghi cai gi thi ghi&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;bao hanh tinh phi xe nang&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-24T05:06:58+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57008</ID>
+    <userid>US000016</userid>
+    <date>2017-03-24T05:08:06.247+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57009</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:02:34.973+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57010</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:10:13.003+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57011</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:10:37.323+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T01:10:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57012</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:10:50.653+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000001&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T01:10:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57013</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:26:10.07+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>Kinh doanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;Kinh doanh&lt;/involve&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57014</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:26:38.23+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000002</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000002&lt;/idinvolve&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;DT000002&lt;/sign&gt;
+    &lt;involve&gt;123&lt;/involve&gt;
+    &lt;idemp&gt;EMP000009&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57015</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:27:35.63+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000003</object>
+    <caption>234</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000001&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000003&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000003&lt;/sign&gt;
+    &lt;involve&gt;234&lt;/involve&gt;
+    &lt;idemp&gt;EMP000007&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57016</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:32:10.473+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000004</object>
+    <caption>wer</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000004&lt;/idinvolve&gt;
+    &lt;note&gt;wer&lt;/note&gt;
+    &lt;sign&gt;DT000004&lt;/sign&gt;
+    &lt;involve&gt;wer&lt;/involve&gt;
+    &lt;idemp&gt;EMP000007&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57017</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:38:12.9+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000005</object>
+    <caption>wer</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000005&lt;/idinvolve&gt;
+    &lt;note&gt;wer&lt;/note&gt;
+    &lt;sign&gt;DT000005&lt;/sign&gt;
+    &lt;involve&gt;wer&lt;/involve&gt;
+    &lt;idemp&gt;EMP000007&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57018</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:43:31.723+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;note&gt;123&lt;/note&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;123&lt;/involve&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57019</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:46:23.94+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57020</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:46:51.05+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T01:46:38+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57021</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T01:47:07.053+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T01:47:04+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;123&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57022</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:09:05.493+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57023</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:09:35.923+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T01:46:38+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57024</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:11:04.567+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000003</object>
+    <caption>Ky thuat</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000003&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000003&lt;/sign&gt;
+    &lt;involve&gt;Ky thuat&lt;/involve&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57025</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:11:24.623+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>Test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;Test&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:11:10+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57026</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:19:22.397+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57027</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:19:37.787+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>Nhinh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000001&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000001&lt;/sign&gt;
+    &lt;involve&gt;Nhinh&lt;/involve&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57028</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:19:47.177+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000003</object>
+    <caption>Thanh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000003&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000003&lt;/sign&gt;
+    &lt;involve&gt;Thanh&lt;/involve&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57029</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:20:31.96+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:20:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57030</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:35:39.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57031</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:35:51.97+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:20:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57032</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:36:15.407+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:20:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57033</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:36:26.043+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:20:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57034</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T08:36:35.787+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000001&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T08:20:23+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57035</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:02:40.287+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57036</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T09:03:20.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57037</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T09:03:54.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57038</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T09:04:03.753+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57039</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:04:21.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57040</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:04:47.133+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57041</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T09:04:55.287+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57042</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T09:05:46.327+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>su vu cua hc 05</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000002&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000010&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;su vu cua hc 05&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T09:05:01+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57043</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:06:16.033+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57044</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:45:03.987+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57045</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T09:50:05.167+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57046</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:00:56.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57047</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:01:05.61+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57048</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:01:29.177+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>123789</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000003&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000010&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123789&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T11:01:13+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57049</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:01:47.53+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57050</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:02:11.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57051</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:02:29.473+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>42342</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000004&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000010&lt;/idemp&gt;
+    &lt;note&gt;43242&lt;/note&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;42342&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T11:02:19+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57052</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:02:56.5+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57053</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:04:24.773+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000004</object>
+    <caption>hien</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000004&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000004&lt;/sign&gt;
+    &lt;involve&gt;hien&lt;/involve&gt;
+    &lt;idemp&gt;EMP000007&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57054</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:09:28.233+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57055</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:10:00.07+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57056</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:10:16.417+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T11:10:05+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57057</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:10:27.597+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57058</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:11:00.097+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57059</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T11:11:10.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57060</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:11:28.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57061</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T11:13:46.683+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57062</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:13:57.35+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57063</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:14:06.93+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57064</ID>
+    <userid>US000008</userid>
+    <date>2017-03-25T11:14:29.313+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000008</object>
+    <caption>hchanh05</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57065</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:14:59.353+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57066</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:15:06.403+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000005</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;idpre /&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;note /&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;123&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T11:10:05+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57067</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T11:15:12.76+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57068</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T11:15:38.547+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>456</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;456&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T11:15:25+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57069</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:15:47.023+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57070</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:15:54.773+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57071</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:16:13.837+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T11:16:05+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;123&lt;/solution&gt;
+    &lt;note&gt;23&lt;/note&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57072</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:16:25.813+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57073</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:21:26.713+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57074</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:21:42.403+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>qưe</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T11:21:39+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;qưe&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57075</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:21:49.413+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57076</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:21:59.663+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>qưe1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T11:21:39+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;qưe1&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;idphatsinh /&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57077</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:24:25.3+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57078</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:24:32.437+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57079</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:27:59.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57080</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T11:28:24.927+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>nhinh tét</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T11:28:19+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000002&lt;/idproblemdetail&gt;
+    &lt;solution&gt;nhinh tét&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57081</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:28:30.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57082</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:45:49.69+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57083</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:50:25.6+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57084</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:50:51.3+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>ưer</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T11:50:49+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;ưer&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57085</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T11:53:22.52+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57086</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T12:00:32.237+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57087</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T12:00:44.587+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>q4</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T12:00:42+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;q4&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57088</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T12:00:51.007+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57089</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T12:01:08.563+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57090</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T12:01:17.66+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>q41</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T12:00:42+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;q41&lt;/solution&gt;
+    &lt;note /&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000005&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;idphatsinh /&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57091</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T13:41:36.717+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57092</ID>
+    <userid>US000001</userid>
+    <date>2017-03-25T13:43:32.017+07:00</date>
+    <idform>frm_SETTINGINVOLVE_S</idform>
+    <status>0</status>
+    <object>DT000006</object>
+    <caption>Trang</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>SETTINGINVOLVE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;SETTINGINVOLVE&gt;
+    &lt;idsettingdetail&gt;ST000003&lt;/idsettingdetail&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idinvolve&gt;DT000006&lt;/idinvolve&gt;
+    &lt;sign&gt;DT000006&lt;/sign&gt;
+    &lt;involve&gt;Trang&lt;/involve&gt;
+    &lt;idemp&gt;EMP000009&lt;/idemp&gt;
+    &lt;readonly&gt;false&lt;/readonly&gt;
+    &lt;hide&gt;false&lt;/hide&gt;
+  &lt;/SETTINGINVOLVE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_SETTINGPROBLEM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57093</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T13:43:47.417+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57094</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T13:43:58.797+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000006</object>
+    <caption>saledept01</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57095</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T13:45:08.023+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000006</object>
+    <caption>su vu gi do</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;su vu gi do&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000001&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-25T13:44:49+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57096</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T13:45:43.713+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000001</object>
+    <caption>giai quyet 1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T13:45:34+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000001&lt;/idproblemdetail&gt;
+    &lt;solution&gt;giai quyet 1&lt;/solution&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57097</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T13:46:34.46+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>test2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T13:46:27+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000002&lt;/idproblemdetail&gt;
+    &lt;solution&gt;test2&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57098</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T13:48:14.787+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>te</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T13:48:12+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000002&lt;/idproblemdetail&gt;
+    &lt;solution&gt;te&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57099</ID>
+    <userid>US000006</userid>
+    <date>2017-03-25T13:49:41.463+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000002</object>
+    <caption>re</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T13:49:38+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000002&lt;/idproblemdetail&gt;
+    &lt;solution&gt;re&lt;/solution&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57100</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T13:56:27.337+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57101</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T13:59:35.27+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57102</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T14:00:07.45+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>rerr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T14:00:04+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000003&lt;/idproblemdetail&gt;
+    &lt;solution&gt;rerr&lt;/solution&gt;
+    &lt;note&gt;rer&lt;/note&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57103</ID>
+    <userid>US000016</userid>
+    <date>2017-03-25T14:00:12.36+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000003</object>
+    <caption>rerr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-25T14:00:04+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000003&lt;/idproblemdetail&gt;
+    &lt;solution&gt;rerr&lt;/solution&gt;
+    &lt;note&gt;rerddd&lt;/note&gt;
+    &lt;idemp&gt;EMP000021&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000006&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;idphatsinh /&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57104</ID>
+    <userid>US000001</userid>
+    <date>2017-03-27T20:48:46.01+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57105</ID>
+    <userid>US000001</userid>
+    <date>2017-03-27T20:50:28.67+07:00</date>
+    <idform>frm_DMPROBLEM_S</idform>
+    <status>0</status>
+    <object>PL000007</object>
+    <caption>su vu phat sinh</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEM&gt;
+    &lt;isfinish&gt;false&lt;/isfinish&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idproblem&gt;PL000007&lt;/idproblem&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idsettingdetail&gt;ST000004&lt;/idsettingdetail&gt;
+    &lt;problem&gt;su vu phat sinh&lt;/problem&gt;
+    &lt;idgroupsetting&gt;GST000002&lt;/idgroupsetting&gt;
+    &lt;idpriority&gt;UT000003&lt;/idpriority&gt;
+    &lt;dateproblem&gt;2017-03-27T20:48:56+07:00&lt;/dateproblem&gt;
+  &lt;/DMPROBLEM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57106</ID>
+    <userid>US000001</userid>
+    <date>2017-03-27T20:51:02.28+07:00</date>
+    <idform>frm_DMPROBLEMDETAIL_S</idform>
+    <status>0</status>
+    <object>PL000004</object>
+    <caption>giai quyet</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMPROBLEMDETAIL</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPROBLEMDETAIL&gt;
+    &lt;dateprocess&gt;2017-03-27T20:50:39+07:00&lt;/dateprocess&gt;
+    &lt;idproblemdetail&gt;PL000004&lt;/idproblemdetail&gt;
+    &lt;solution&gt;giai quyet&lt;/solution&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idproblem&gt;PL000007&lt;/idproblem&gt;
+    &lt;issupport&gt;0&lt;/issupport&gt;
+    &lt;process&gt;20&lt;/process&gt;
+  &lt;/DMPROBLEMDETAIL&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57107</ID>
+    <userid>US000016</userid>
+    <date>2017-03-27T20:51:09.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>thanh</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57108</ID>
+    <userid>US000001</userid>
+    <date>2017-03-27T20:53:34.23+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

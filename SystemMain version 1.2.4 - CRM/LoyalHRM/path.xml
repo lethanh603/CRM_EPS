@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <tbPath>
+    <path>D:\PROJECT.NET\Libs\RunCE</path>
+    <connection>Data Source=MUONG-PC\SQL2005;Database=system; User ID=sa;Password=123456;</connection>
+  </tbPath>
+</NewDataSet>

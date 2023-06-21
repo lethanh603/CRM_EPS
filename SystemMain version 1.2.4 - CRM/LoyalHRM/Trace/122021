@@ -1,0 +1,526 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>92271</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T21:55:22.397+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92272</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:02:35.253+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92273</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:08:26.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92274</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:10:37.447+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92275</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:16:37.707+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92276</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:20:59.057+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02837653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/station&gt;
+    &lt;tax&gt;0301805696&lt;/tax&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;last_action&gt;2021-06-11T09:11:36.373+07:00&lt;/last_action&gt;
+    &lt;user_action&gt;US000022&lt;/user_action&gt;
+    &lt;custype&gt;Sale&lt;/custype&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92277</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:21:13.887+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000006</object>
+    <caption>CÔNG TY CỔ PHẦN CHẾ BIẾN THỦY HẢI SẢN LIÊN THÀNH</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;001416&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;nuocmamlienthanh.vn&lt;/website&gt;
+    &lt;email&gt;lienthanh1906@hcm.fpt.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;02838267951 - THU MUA&lt;/tel&gt;
+    &lt;fax&gt;(08).3826.7435 - 3943.1215&lt;/fax&gt;
+    &lt;station&gt;595/37 ĐƯỜNG XÔ VIẾT NGHỆ TĨNH, PHƯỜNG 26, QUẬN BÌNH THẠNH, THÀNH PHỐ HỒ CHÍ MINH&lt;/station&gt;
+    &lt;tax&gt;0302359405&lt;/tax&gt;
+    &lt;address&gt;243 Bến Vân Đồn, Phường 5, Quận 4, Thành phố Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;Nguyễn Thị Kim Hồng&lt;/surrogate&gt;
+    &lt;customer&gt;CÔNG TY CỔ PHẦN CHẾ BIẾN THỦY HẢI SẢN LIÊN THÀNH&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Ngày tạo:&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea /&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+    &lt;custype&gt;Sale&lt;/custype&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92278</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:24:53.557+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92279</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:34:54.85+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92280</ID>
+    <userid>US000001</userid>
+    <date>2021-12-09T22:44:54.19+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92281</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:28:48.783+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92282</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:29:53.717+07:00</date>
+    <idform>frm_ReasonChangeStatus_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>BD000000</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>ReasonChangeStatus</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92283</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:29:57.85+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS000168</object>
+    <caption>QS000168</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2021-12-10T22:29:16+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000168&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BPT001-1221/AD/NC-CH&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;address&gt;Lô Số A77/I, Đường Số 7 Khu Công Nghiệp Vĩnh Lộc, Phường Bình Hưng Hòa B, Quận Bình Tân, TP Hồ Chí Minh&lt;/address&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92284</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:30:10.22+07:00</date>
+    <idform>frm_ReasonChangeStatus_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>BD000000</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>ReasonChangeStatus</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92285</ID>
+    <userid>US000022</userid>
+    <date>2021-12-10T22:42:54.933+07:00</date>
+    <idform>frm_ReasonChangeStatus_S</idform>
+    <status>0</status>
+    <object>DT000001</object>
+    <caption>BD000000</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>ReasonChangeStatus</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92286</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:48:37.31+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92287</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:49:14.387+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000034</object>
+    <caption>r</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;40&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2021-12-10T22:49:04+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000034&lt;/iddoithu&gt;
+    &lt;sign&gt;DT000034&lt;/sign&gt;
+    &lt;email&gt;rử&lt;/email&gt;
+    &lt;tendoithu&gt;rewrw&lt;/tendoithu&gt;
+    &lt;address&gt;rewr&lt;/address&gt;
+    &lt;idcustomer&gt;r&lt;/idcustomer&gt;
+    &lt;idcommodity&gt;HH000009&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000009_QS000168&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92288</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:50:16.477+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000034</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;5430&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2021-12-10T22:50:03+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000034&lt;/iddoithu&gt;
+    &lt;chinhsach&gt;5435&lt;/chinhsach&gt;
+    &lt;note&gt;543&lt;/note&gt;
+    &lt;sign&gt;DT000034&lt;/sign&gt;
+    &lt;email&gt;534&lt;/email&gt;
+    &lt;tendoithu&gt;53453543&lt;/tendoithu&gt;
+    &lt;address&gt;54353&lt;/address&gt;
+    &lt;idcommodity&gt;HH000009&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000009_QS000168&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92289</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:55:24.79+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92290</ID>
+    <userid>US000001</userid>
+    <date>2021-12-10T22:56:00.393+07:00</date>
+    <idform>frm_DOITHU_S</idform>
+    <status>0</status>
+    <object>DT000035</object>
+    <caption>KH000003</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DOITHU</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DOITHU&gt;
+    &lt;giaban&gt;4320&lt;/giaban&gt;
+    &lt;ngaythamkhao&gt;2021-12-10T22:55:42+07:00&lt;/ngaythamkhao&gt;
+    &lt;idloaidoithu&gt;LDT000001&lt;/idloaidoithu&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;iddoithu&gt;DT000035&lt;/iddoithu&gt;
+    &lt;chinhsach&gt;43242&lt;/chinhsach&gt;
+    &lt;note&gt;4242&lt;/note&gt;
+    &lt;sign&gt;DT000035&lt;/sign&gt;
+    &lt;email&gt;432&lt;/email&gt;
+    &lt;tendoithu&gt;r3243&lt;/tendoithu&gt;
+    &lt;address&gt;432&lt;/address&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;idcommodity&gt;HH000009&lt;/idcommodity&gt;
+    &lt;idquotationdetail&gt;HH000009_QS000168&lt;/idquotationdetail&gt;
+  &lt;/DOITHU&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92291</ID>
+    <userid>US000001</userid>
+    <date>2021-12-13T18:00:23.177+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92292</ID>
+    <userid>US000001</userid>
+    <date>2021-12-13T18:01:27.057+07:00</date>
+    <idform>frm_DMSTATUS_S</idform>
+    <status>0</status>
+    <object>ST000001</object>
+    <caption>Đang thực hiện</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMSTATUS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMSTATUS&gt;
+    &lt;idstatustype&gt;TS000001&lt;/idstatustype&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idstatus&gt;ST000001&lt;/idstatus&gt;
+    &lt;note&gt;Đang thực hiện&lt;/note&gt;
+    &lt;sign&gt;DTH&lt;/sign&gt;
+    &lt;statusname&gt;Đang thực hiện&lt;/statusname&gt;
+    &lt;idcolor /&gt;
+    &lt;iscall&gt;false&lt;/iscall&gt;
+  &lt;/DMSTATUS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMSTATUS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92293</ID>
+    <userid>US000001</userid>
+    <date>2021-12-13T18:02:25.633+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92294</ID>
+    <userid>US000001</userid>
+    <date>2021-12-24T09:34:11.233+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92295</ID>
+    <userid>US000001</userid>
+    <date>2021-12-24T09:42:40.64+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92296</ID>
+    <userid>US000001</userid>
+    <date>2021-12-28T15:06:55.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92297</ID>
+    <userid>US000001</userid>
+    <date>2021-12-28T15:09:30.33+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92298</ID>
+    <userid>US000001</userid>
+    <date>2021-12-28T15:15:58.74+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92299</ID>
+    <userid>US000001</userid>
+    <date>2021-12-28T15:21:27.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

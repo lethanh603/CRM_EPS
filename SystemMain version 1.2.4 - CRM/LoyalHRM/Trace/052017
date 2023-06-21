@@ -1,0 +1,1538 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>57194</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:03:36.037+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57195</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:04:13.137+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000060&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;987&lt;/tax&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000005&lt;/idregion&gt;
+    &lt;idarea&gt;KV000005&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57196</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:04:55.38+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000060&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;987&lt;/tax&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000003&lt;/idregion&gt;
+    &lt;idarea&gt;KV000005&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57197</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:15:01.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57198</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:16:29.043+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000060&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;987&lt;/tax&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000003&lt;/idregion&gt;
+    &lt;idarea&gt;KV000012&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57199</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:30:45.527+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57200</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:30:59.177+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000060&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;987&lt;/tax&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000003&lt;/idregion&gt;
+    &lt;idarea&gt;KV000006&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57201</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:31:07.493+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000001</object>
+    <caption>NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000001&lt;/idscale&gt;
+    &lt;idfields&gt;LV000004&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000060&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000003&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000001&lt;/idcustomer&gt;
+    &lt;note&gt;KHÁCH HÀNG TRÙNG MÃ SỐ THUẾ&lt;/note&gt;
+    &lt;sign&gt;001411&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;TMCP NGOẠI THƯƠNG VIỆT NAM - CN TP.HCM&lt;/bank&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;http://www.incomfish.com/&lt;/website&gt;
+    &lt;email&gt;incomfish@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 3 7653145&lt;/tel&gt;
+    &lt;fax&gt;08 3 7653136&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;987&lt;/tax&gt;
+    &lt;address&gt;A77/I, ĐƯỜNG SỐ 7, KHU CN VĨNH LỘC, QUẬN BÌNH TÂN, THÀNH PHỐ HỒ CHÍ MINH&lt;/address&gt;
+    &lt;surrogate&gt;TRỊNH BÁ HOÀNG&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY CBTP SỐ 4 - CÔNG TY CỔ PHẦN ĐẦU TƯ THƯƠNG MẠI THUỶ SẢN (INCOMFISH)&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000003&lt;/idregion&gt;
+    &lt;idarea&gt;KV000005&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57202</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:46:23.057+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000004</object>
+    <caption>NHÀ MÁY GạCH NGÓI TUNNEL LONG XUYÊN</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000002&lt;/idscale&gt;
+    &lt;idfields&gt;LV000005&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000010&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000004&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;001414&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank /&gt;
+    &lt;atm /&gt;
+    &lt;website&gt;ctyxl.angiang.com.vn&lt;/website&gt;
+    &lt;email&gt;constructagg@hcm.vnn.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;076.3858 197&lt;/tel&gt;
+    &lt;fax&gt;076 3836 013&lt;/fax&gt;
+    &lt;station&gt;316/1A Trần Hưng Đạo - TP Long Xuyên - An Giang&lt;/station&gt;
+    &lt;tax&gt;1600220016-018&lt;/tax&gt;
+    &lt;address&gt;KHÓM BÌNH ĐứC 5, P. BÌNH ĐứC - TP LONG XUYÊN - AN GIANG&lt;/address&gt;
+    &lt;surrogate&gt;NGUYỄN QUỐC HUY&lt;/surrogate&gt;
+    &lt;customer&gt;NHÀ MÁY GạCH NGÓI TUNNEL LONG XUYÊN&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:21:23+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea&gt;KV000012&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57203</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:55:00.77+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57204</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:56:53.687+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57205</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:57:04.653+07:00</date>
+    <idform>frm_DMCUSTOMERS_S</idform>
+    <status>0</status>
+    <object>KH000198</object>
+    <caption>Công ty TNHH Chế Biến Thực Phẩm &amp; Bánh Kẹo Phạm Nguyên</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMCUSTOMERS</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMCUSTOMERS&gt;
+    &lt;idscale&gt;QM000002&lt;/idscale&gt;
+    &lt;idfields&gt;LV000001&lt;/idfields&gt;
+    &lt;idprovince&gt;TT000068&lt;/idprovince&gt;
+    &lt;idtype&gt;TC000004&lt;/idtype&gt;
+    &lt;idcustomer&gt;KH000198&lt;/idcustomer&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;000373&lt;/sign&gt;
+    &lt;nick /&gt;
+    &lt;passport /&gt;
+    &lt;bank&gt;NGÂN HÀNG VIETCOMBANK � CHI NHÁNH NGUYỄN SƠN&lt;/bank&gt;
+    &lt;atm&gt;0421370471920&lt;/atm&gt;
+    &lt;website&gt;http://www.phamnguyenfoods.com/info@phaner.vn&lt;/website&gt;
+    &lt;email&gt;info@phaner.vn&lt;/email&gt;
+    &lt;mobile /&gt;
+    &lt;tel&gt;08 37657979&lt;/tel&gt;
+    &lt;fax&gt;(08) 3877 1580&lt;/fax&gt;
+    &lt;station /&gt;
+    &lt;tax&gt;0302062877&lt;/tax&gt;
+    &lt;address&gt;Số 613, đường Trần Đại Nghĩa, Phường Tân Tạo A, Quận Bình Tân, TP. Hồ Chí Minh&lt;/address&gt;
+    &lt;surrogate&gt;PHẠM NGỌC THÁI&lt;/surrogate&gt;
+    &lt;customer&gt;Công ty TNHH Chế Biến Thực Phẩm &amp;amp; Bánh Kẹo Phạm Nguyên&lt;/customer&gt;
+    &lt;idgroup&gt;0&lt;/idgroup&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;date1&gt;2016-08-06T17:22:24+07:00&lt;/date1&gt;
+    &lt;userid2&gt;US000001&lt;/userid2&gt;
+    &lt;userid1&gt;Userid1&lt;/userid1&gt;
+    &lt;idregion&gt;RG000006&lt;/idregion&gt;
+    &lt;idarea&gt;KV000011&lt;/idarea&gt;
+    &lt;doanhso&gt;0.0000&lt;/doanhso&gt;
+    &lt;solaodong&gt;0&lt;/solaodong&gt;
+    &lt;nguonvon&gt;0.0000&lt;/nguonvon&gt;
+    &lt;sothietbi&gt;0&lt;/sothietbi&gt;
+    &lt;hieuthuongdung /&gt;
+  &lt;/DMCUSTOMERS&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMCUSTOMER</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57206</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T20:58:54.747+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57207</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T21:02:52+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57208</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T21:22:30.227+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57209</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T21:43:05.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57210</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:08:09.55+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57211</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:12:40.363+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57212</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:27:49.84+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57213</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:28:12.18+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57214</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:34:53.89+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57215</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:35:08.997+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57216</ID>
+    <userid>US000001</userid>
+    <date>2017-05-03T22:35:21.383+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57217</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:01:09.657+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57218</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:01:35.613+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57219</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:04:54.263+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57220</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:08:58.507+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57221</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:09:51.74+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000007</object>
+    <caption>Kinh doanh</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000007&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Kinh doanh&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000007@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57222</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:18:49.223+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57223</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:26:35.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57224</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:28:23.11+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57225</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:28:40.187+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>1</status>
+    <object>US000005</object>
+    <caption>admin</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57226</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:29:03.42+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000017</object>
+    <caption>11</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57227</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:36:48.463+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57228</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:41:07.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57229</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:43:22.247+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57230</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:46:35.673+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>0</status>
+    <object>VT000005</object>
+    <caption>TP1</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57231</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T08:46:50.723+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000005</object>
+    <caption>TP1</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000005&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;TP1&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000003&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57232</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T11:06:27.92+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000018</object>
+    <caption>33</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57233</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T11:07:06.81+07:00</date>
+    <idform>frm_sysUser_S</idform>
+    <status>0</status>
+    <object>US000018</object>
+    <caption>44</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysUser</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57234</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:23:22.283+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>0</status>
+    <object>VT000005</object>
+    <caption>Test</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57235</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:27:42.853+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>0</status>
+    <object>VT000006</object>
+    <caption>5454</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57236</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:27:57.82+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000005</object>
+    <caption>Test1</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000005&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Test1&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000003&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57237</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:43:43.08+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454cccc</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454cccc&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57238</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:45:58.567+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57239</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:47:18.11+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454000</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454000&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57240</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:49:04.427+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57241</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:51:31.287+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454999</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454999&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57242</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:53:47.793+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>0</status>
+    <object>VT000007</object>
+    <caption>xxx</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+  </sysTrace>
+  <sysTrace>
+    <ID>57243</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T12:59:13.337+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000007</object>
+    <caption>xxxf</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000007&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;xxxf&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000001&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000007@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57244</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:01:13.717+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454999</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454999&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57245</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:08:35.557+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454999</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454999&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57246</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:12:24.22+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>5454999</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;5454999&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57247</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:15:57.247+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>545499999ee</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;545499999ee&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57248</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:19:39.353+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>Dung roi</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Dung roi&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57249</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:23:20.647+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>Dungroikhi kho</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Dungroikhi kho&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57250</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:30:19.843+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>Dungro</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Dungro&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57251</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T13:35:39.227+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>Dungro1</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Dungro1&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57252</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T14:56:00.443+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57253</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T14:58:26.713+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001474</object>
+    <caption>QS001474</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-05-06T14:58:16+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-05-06T14:58:16+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001474&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD001-0517/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000620&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-05-06T14:58:16+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-05-06T14:58:16+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57254</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T15:46:26.823+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57255</ID>
+    <userid>US000014</userid>
+    <date>2017-05-06T15:47:22.787+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000014</object>
+    <caption>saledept04</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57256</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T16:14:33.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57257</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T16:15:10.043+07:00</date>
+    <idform>frm_QUOTATION_S</idform>
+    <status>0</status>
+    <object>QS001475</object>
+    <caption>QS001475</caption>
+    <action>F1 Tạo</action>
+    <computer>MUONG-PC</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;limit&gt;0&lt;/limit&gt;
+    &lt;vat&gt;0&lt;/vat&gt;
+    &lt;dateimport&gt;2017-05-06T16:14:51+07:00&lt;/dateimport&gt;
+    &lt;limitdept&gt;2017-05-06T16:14:51+07:00&lt;/limitdept&gt;
+    &lt;idcustomer&gt;KH000006&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS001475&lt;/idexport&gt;
+    &lt;discount&gt;0&lt;/discount&gt;
+    &lt;status&gt;0 &lt;/status&gt;
+    &lt;isdelete&gt;false&lt;/isdelete&gt;
+    &lt;isdiscount&gt;false&lt;/isdiscount&gt;
+    &lt;isvat&gt;true&lt;/isvat&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000001&lt;/idcurrency&gt;
+    &lt;exchangerate&gt;0.0000&lt;/exchangerate&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000002&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;AD002-0517/EPS-BG&lt;/quotationno&gt;
+    &lt;receiver&gt;KH000016&lt;/receiver&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 24 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;phat&gt;0.0000&lt;/phat&gt;
+    &lt;datepo&gt;2017-05-06T16:14:51+07:00&lt;/datepo&gt;
+    &lt;datedelivery&gt;2017-05-06T16:14:51+07:00&lt;/datedelivery&gt;
+    &lt;idmanager&gt;EMP000001&lt;/idmanager&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57258</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T16:19:46.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57259</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T16:29:11.147+07:00</date>
+    <idform>frm_sysRole_S</idform>
+    <status>1</status>
+    <object>VT000006</object>
+    <caption>Dungro</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysRole</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysRole&gt;
+    &lt;mavaitro&gt;VT000006&lt;/mavaitro&gt;
+    &lt;tenvaitro&gt;Dungro&lt;/tenvaitro&gt;
+    &lt;ghichu /&gt;
+    &lt;makethua&gt;VT000005&lt;/makethua&gt;
+    &lt;idrecursive&gt;VT000001@VT000002@VT000004@VT000003@VT000005@VT000006@&lt;/idrecursive&gt;
+  &lt;/sysRole&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57260</ID>
+    <userid>US000001</userid>
+    <date>2017-05-06T17:00:29.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57261</ID>
+    <userid>US000011</userid>
+    <date>2017-05-06T17:00:38.997+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000011</object>
+    <caption>hchanh06</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57262</ID>
+    <userid>US000001</userid>
+    <date>2017-05-12T15:25:33.22+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57263</ID>
+    <userid>US000001</userid>
+    <date>2017-05-16T22:21:04.043+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57264</ID>
+    <userid>US000001</userid>
+    <date>2017-05-18T06:03:05.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57265</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T07:43:21.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57266</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T08:03:09.27+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57267</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T13:39:12.503+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57268</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T13:41:15.853+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>1.1.10</object>
+    <caption>Báo cáo doanh số tổng hợp</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>MUONG-PC</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;1.1.10&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Báo cáo doanh số tổng hợp&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.3&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frmReportDoanhSoBaoGia&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_QUOTATION&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>57269</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T13:41:24.623+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57270</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T13:47:43.083+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57271</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T13:56:22.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57272</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T14:49:13.103+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57273</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T14:50:46.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57274</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T15:19:57.547+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57275</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T16:07:23.627+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57276</ID>
+    <userid>US000001</userid>
+    <date>2017-05-20T16:15:46.62+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>57277</ID>
+    <userid>US000001</userid>
+    <date>2017-05-21T18:25:11.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

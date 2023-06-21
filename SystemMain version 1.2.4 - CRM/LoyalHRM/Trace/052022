@@ -1,0 +1,159 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>100808</ID>
+    <userid>US000001</userid>
+    <date>2022-05-24T16:47:54.713+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>100809</ID>
+    <userid>US000001</userid>
+    <date>2022-05-24T16:50:14.907+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>8.4.7</object>
+    <caption>Chăm sóc khách hàng</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;8.4.7&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;Chăm sóc khách hàng&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;8.3&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_REPORT_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_REPORT&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>100810</ID>
+    <userid>US000001</userid>
+    <date>2022-05-24T16:50:34.047+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>100811</ID>
+    <userid>US000001</userid>
+    <date>2022-05-30T09:11:36.573+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>100812</ID>
+    <userid>US000022</userid>
+    <date>2022-05-30T10:16:10.11+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>100813</ID>
+    <userid>US000022</userid>
+    <date>2022-05-30T10:16:30.86+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH009268</object>
+    <caption>test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;description&gt;test&lt;/description&gt;
+    &lt;idcontact&gt;KH001583&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000013&lt;/idstatus&gt;
+    &lt;idplan&gt;KH009268&lt;/idplan&gt;
+    &lt;sign&gt;KH009268&lt;/sign&gt;
+    &lt;datecontact&gt;2022-05-30T10:16:16+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000029&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000008&lt;/idcustomer&gt;
+    &lt;description2&gt;test&lt;/description2&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>100814</ID>
+    <userid>US000022</userid>
+    <date>2022-05-30T10:18:18.11+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH009268</object>
+    <caption>test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note /&gt;
+    &lt;description&gt;test&lt;/description&gt;
+    &lt;idcontact&gt;KH001583&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000014&lt;/idstatus&gt;
+    &lt;idplan&gt;KH009268&lt;/idplan&gt;
+    &lt;sign&gt;KH009268&lt;/sign&gt;
+    &lt;datecontact&gt;2022-05-30T10:16:16+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000029&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000008&lt;/idcustomer&gt;
+    &lt;description2&gt;test&lt;/description2&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>100815</ID>
+    <userid>US000022</userid>
+    <date>2022-05-30T10:22:29.977+07:00</date>
+    <idform>frm_PLANCRM_S</idform>
+    <status>0</status>
+    <object>KH009268</object>
+    <caption>test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>PLANCRM</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;PLANCRM&gt;
+    &lt;note /&gt;
+    &lt;description&gt;test&lt;/description&gt;
+    &lt;idcontact&gt;KH001583&lt;/idcontact&gt;
+    &lt;idstatus&gt;ST000013&lt;/idstatus&gt;
+    &lt;idplan&gt;KH009268&lt;/idplan&gt;
+    &lt;sign&gt;KH009268&lt;/sign&gt;
+    &lt;datecontact&gt;2022-05-30T10:16:16+07:00&lt;/datecontact&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;idemp&gt;EMP000029&lt;/idemp&gt;
+    &lt;idcustomer&gt;KH000008&lt;/idcustomer&gt;
+    &lt;description2&gt;test&lt;/description2&gt;
+  &lt;/PLANCRM&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+</NewDataSet>

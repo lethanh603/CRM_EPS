@@ -1,0 +1,1773 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>49079</ID>
+    <userid>US000001</userid>
+    <date>2017-09-04T19:45:37.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49080</ID>
+    <userid>US000001</userid>
+    <date>2017-09-05T22:29:32.027+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49081</ID>
+    <userid>US000012</userid>
+    <date>2017-09-09T09:56:37.09+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000012</object>
+    <caption>hchanh02</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49082</ID>
+    <userid>US000001</userid>
+    <date>2017-09-16T04:44:26.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49083</ID>
+    <userid>US000001</userid>
+    <date>2017-09-16T05:12:55.31+07:00</date>
+    <idform>frm_DMDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>2342</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;4242&lt;/equipmentinfo&gt;
+    &lt;spec&gt;32424&lt;/spec&gt;
+    &lt;model&gt;424&lt;/model&gt;
+    &lt;sign&gt;432423423423&lt;/sign&gt;
+    &lt;commodity&gt;2342&lt;/commodity&gt;
+  &lt;/DMDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49084</ID>
+    <userid>US000001</userid>
+    <date>2017-09-16T05:23:49.453+07:00</date>
+    <idform>frm_DMDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>2342</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>MUONG-PC</computer>
+    <tableName>DMDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;4242&lt;/equipmentinfo&gt;
+    &lt;spec&gt;32424&lt;/spec&gt;
+    &lt;note&gt;cccc&lt;/note&gt;
+    &lt;model&gt;424&lt;/model&gt;
+    &lt;sign&gt;432423423423&lt;/sign&gt;
+    &lt;commodity&gt;2342&lt;/commodity&gt;
+  &lt;/DMDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49085</ID>
+    <userid>US000001</userid>
+    <date>2017-09-16T06:52:40.457+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49086</ID>
+    <userid>US000001</userid>
+    <date>2017-09-16T14:01:27.47+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>MUONG-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49087</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T10:44:30.35+07:00</date>
+    <idform>frm_DEVICEINFO_S</idform>
+    <status>0</status>
+    <object>IF000000</object>
+    <caption>oi</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEINFO&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;ghi chus&lt;/note&gt;
+    &lt;iddevice&gt;IF000000&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-09-23T10:43:59+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-23T10:43:59+07:00&lt;/createdDate&gt;
+    &lt;model&gt;model&lt;/model&gt;
+  &lt;/DEVICEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49088</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T10:53:29.9+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000001</object>
+    <caption>eww</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49089</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:00:49.7+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000001</object>
+    <caption>test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICERENTINFO&gt;
+    &lt;updatedat&gt;2017-09-23T11:00:35+07:00&lt;/updatedat&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;test&lt;/note&gt;
+    &lt;iddevice&gt;IF000001&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-09-23T11:00:35+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-23T11:00:35+07:00&lt;/createdDate&gt;
+    &lt;serial&gt;test&lt;/serial&gt;
+    &lt;devicename&gt;test&lt;/devicename&gt;
+    &lt;original&gt;test&lt;/original&gt;
+    &lt;model&gt;test&lt;/model&gt;
+    &lt;statusdevice&gt;test&lt;/statusdevice&gt;
+  &lt;/DEVICERENTINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49090</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:03:59.157+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000001</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet /&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49091</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:13:50.537+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000001</object>
+    <caption>123</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000001&lt;/idcontact&gt;
+    &lt;note&gt;432&lt;/note&gt;
+    &lt;sign&gt;CT000001&lt;/sign&gt;
+    &lt;tel&gt;432&lt;/tel&gt;
+    &lt;email&gt;123&lt;/email&gt;
+    &lt;contactname&gt;123&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49092</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:21:29.433+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000002</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000002&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000002&lt;/idcontact&gt;
+    &lt;note&gt;432&lt;/note&gt;
+    &lt;sign&gt;CT000002&lt;/sign&gt;
+    &lt;tel&gt;432&lt;/tel&gt;
+    &lt;email&gt;432&lt;/email&gt;
+    &lt;contactname&gt;rewrw&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49093</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:55:32.11+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000003</object>
+    <caption>43242</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000003&lt;/idcontact&gt;
+    &lt;note&gt;42424&lt;/note&gt;
+    &lt;sign&gt;CT000003&lt;/sign&gt;
+    &lt;tel&gt;4324&lt;/tel&gt;
+    &lt;email&gt;4324&lt;/email&gt;
+    &lt;contactname&gt;43242&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49094</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:56:31.237+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000004</object>
+    <caption>5454353</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000004&lt;/idcontact&gt;
+    &lt;note&gt;5353&lt;/note&gt;
+    &lt;sign&gt;CT000004&lt;/sign&gt;
+    &lt;tel&gt;353&lt;/tel&gt;
+    &lt;email&gt;5435&lt;/email&gt;
+    &lt;contactname&gt;5454353&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49095</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:56:51.67+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000005</object>
+    <caption>222</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000005&lt;/idcontact&gt;
+    &lt;note&gt;22&lt;/note&gt;
+    &lt;sign&gt;CT000005&lt;/sign&gt;
+    &lt;tel&gt;22&lt;/tel&gt;
+    &lt;email&gt;222&lt;/email&gt;
+    &lt;contactname&gt;222&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49096</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T11:58:15.23+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000006</object>
+    <caption>544</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000006&lt;/idcontact&gt;
+    &lt;note&gt;444&lt;/note&gt;
+    &lt;sign&gt;CT000006&lt;/sign&gt;
+    &lt;tel&gt;44&lt;/tel&gt;
+    &lt;email&gt;44&lt;/email&gt;
+    &lt;contactname&gt;544&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49097</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T12:03:15.43+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000007</object>
+    <caption>42342</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000007&lt;/idcontact&gt;
+    &lt;note&gt;242&lt;/note&gt;
+    &lt;sign&gt;CT000007&lt;/sign&gt;
+    &lt;tel&gt;42&lt;/tel&gt;
+    &lt;email&gt;4324&lt;/email&gt;
+    &lt;contactname&gt;42342&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49098</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T12:47:21.513+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>4324</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;242&lt;/equipmentinfo&gt;
+    &lt;spec&gt;42&lt;/spec&gt;
+    &lt;note&gt;43242&lt;/note&gt;
+    &lt;model&gt;424&lt;/model&gt;
+    &lt;sign&gt;43242&lt;/sign&gt;
+    &lt;label&gt;42&lt;/label&gt;
+    &lt;commodity&gt;4324&lt;/commodity&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49099</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T12:48:45.503+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>54353</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000002&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;353&lt;/equipmentinfo&gt;
+    &lt;spec&gt;353&lt;/spec&gt;
+    &lt;note&gt;35353&lt;/note&gt;
+    &lt;model&gt;35&lt;/model&gt;
+    &lt;sign&gt;543535&lt;/sign&gt;
+    &lt;label&gt;353&lt;/label&gt;
+    &lt;commodity&gt;54353&lt;/commodity&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49100</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:17:13.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49101</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:19:58.17+07:00</date>
+    <idform>frm_DMPOSITION_S</idform>
+    <status>0</status>
+    <object>CV000005</object>
+    <caption>rểww</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMPOSITION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPOSITION&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idposition&gt;CV000005&lt;/idposition&gt;
+    &lt;note&gt;rư&lt;/note&gt;
+    &lt;sign&gt;CV000005&lt;/sign&gt;
+    &lt;position&gt;rểww&lt;/position&gt;
+  &lt;/DMPOSITION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPOSITION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49102</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:20:03.107+07:00</date>
+    <idform>frm_DMPOSITION_SH</idform>
+    <status>0</status>
+    <object>CV000005</object>
+    <caption>CV000005</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMPOSITION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMPOSITION&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idposition&gt;CV000005&lt;/idposition&gt;
+    &lt;note&gt;rư&lt;/note&gt;
+    &lt;sign&gt;CV000005&lt;/sign&gt;
+    &lt;position&gt;rểww&lt;/position&gt;
+  &lt;/DMPOSITION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DMPOSITION</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49103</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:25:35.027+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49104</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:27:07.707+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49105</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:29:04.727+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49106</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:31:55.63+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49107</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:33:49.733+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49108</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:34:58.4+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000003</object>
+    <caption>Xe nang điện 3 tấn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;thiết bị nhật&lt;/equipmentinfo&gt;
+    &lt;spec&gt;3432&lt;/spec&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;model&gt;123&lt;/model&gt;
+    &lt;sign&gt;54-2123&lt;/sign&gt;
+    &lt;label&gt;komatsu&lt;/label&gt;
+    &lt;commodity&gt;Xe nang điện 3 tấn&lt;/commodity&gt;
+    &lt;tenkhongdau&gt;Xe nang dien 3 tan&lt;/tenkhongdau&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49109</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:35:07.393+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000003</object>
+    <caption>Xe nang điện 3 tấn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000014&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;thiết bị nhật&lt;/equipmentinfo&gt;
+    &lt;spec&gt;3432&lt;/spec&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;model&gt;123&lt;/model&gt;
+    &lt;sign&gt;54-2123&lt;/sign&gt;
+    &lt;label&gt;komatsu&lt;/label&gt;
+    &lt;commodity&gt;Xe nang điện 3 tấn&lt;/commodity&gt;
+    &lt;tenkhongdau&gt;Xe nang dien 3 tan&lt;/tenkhongdau&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49110</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:35:14.54+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000003</object>
+    <caption>Xe nang điện 3 tấn</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000023&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000014&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;thiết bị nhật&lt;/equipmentinfo&gt;
+    &lt;spec&gt;3432&lt;/spec&gt;
+    &lt;note&gt;ghi chú&lt;/note&gt;
+    &lt;model&gt;123&lt;/model&gt;
+    &lt;sign&gt;54-2123&lt;/sign&gt;
+    &lt;label&gt;komatsu&lt;/label&gt;
+    &lt;commodity&gt;Xe nang điện 3 tấn&lt;/commodity&gt;
+    &lt;tenkhongdau&gt;Xe nang dien 3 tan&lt;/tenkhongdau&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49111</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:36:48.67+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000002</object>
+    <caption>rewr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICERENTINFO&gt;
+    &lt;updatedat&gt;2017-09-23T15:36:28+07:00&lt;/updatedat&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;retre&lt;/note&gt;
+    &lt;iddevice&gt;IF000002&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-09-23T15:36:28+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-23T15:36:28+07:00&lt;/createdDate&gt;
+    &lt;serial&gt;ểw&lt;/serial&gt;
+    &lt;devicename&gt;bình dien&lt;/devicename&gt;
+    &lt;original&gt;rew&lt;/original&gt;
+    &lt;model&gt;dfd&lt;/model&gt;
+    &lt;statusdevice&gt;rewr&lt;/statusdevice&gt;
+  &lt;/DEVICERENTINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49112</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:37:07.57+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000003</object>
+    <caption>rewr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICERENTINFO&gt;
+    &lt;updatedat&gt;2017-09-23T15:36:52+07:00&lt;/updatedat&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;rẻwwr&lt;/note&gt;
+    &lt;iddevice&gt;IF000003&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-09-23T15:36:52+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-23T15:36:52+07:00&lt;/createdDate&gt;
+    &lt;serial&gt;rew&lt;/serial&gt;
+    &lt;devicename&gt;càng 2 mét&lt;/devicename&gt;
+    &lt;original&gt;ẻw&lt;/original&gt;
+    &lt;model&gt;sss&lt;/model&gt;
+    &lt;statusdevice&gt;rewr&lt;/statusdevice&gt;
+  &lt;/DEVICERENTINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49113</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:37:18.543+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000008</object>
+    <caption>ông a</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000008&lt;/idcontact&gt;
+    &lt;sign&gt;CT000008&lt;/sign&gt;
+    &lt;contactname&gt;ông a&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49114</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T15:48:42.887+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49115</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:28:26.843+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49116</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:29:12.39+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000003</object>
+    <caption>HH000003</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-12-01T15:35:33+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T15:35:33+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000008&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;330&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;330&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;33330&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;3330&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;4443330&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;ghichu&gt;33&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;3&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;33&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49117</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:30:12.73+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49118</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:57:15.093+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49119</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:57:24.107+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>HH000001</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T10:18:24+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T10:18:24+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000010&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;0&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;200000&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;30&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;100000&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;10000000&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;444&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000001&lt;/idthuexe&gt;
+    &lt;ghichu&gt;mn&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;xxx&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;no&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T12:13:24+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2003-09-23T12:13:24+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;330&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;330&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;330&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;3330&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;3330&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;43534&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000002&lt;/idthuexe&gt;
+    &lt;ghichu&gt;33&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;3&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;3&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T13:21:01+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:21:01+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5350&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;54350&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;543530&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;543543&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000004&lt;/idthuexe&gt;
+    &lt;ghichu&gt;353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;53&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-30T13:22:00+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:22:00+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;4530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5430&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;530&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;54350&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;54353&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000005&lt;/idthuexe&gt;
+    &lt;ghichu&gt;5353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;54353&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53353&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49120</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:57:27.46+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>HH000001</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T12:13:24+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2003-09-23T12:13:24+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;330&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;330&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;330&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;3330&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;3330&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;43534&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000002&lt;/idthuexe&gt;
+    &lt;ghichu&gt;33&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;3&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;3&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T13:21:01+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:21:01+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5350&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;54350&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;543530&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;543543&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000004&lt;/idthuexe&gt;
+    &lt;ghichu&gt;353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;53&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-30T13:22:00+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:22:00+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;4530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5430&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;530&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;54350&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;54353&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000005&lt;/idthuexe&gt;
+    &lt;ghichu&gt;5353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;54353&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53353&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49121</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T16:57:33.117+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000001</object>
+    <caption>HH000001</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T12:13:24+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2003-09-23T12:13:24+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;330&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;330&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;330&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;3330&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;3330&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;43534&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000002&lt;/idthuexe&gt;
+    &lt;ghichu&gt;33&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;3&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;3&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T13:21:01+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:21:01+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5350&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;54350&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;543530&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;543543&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000004&lt;/idthuexe&gt;
+    &lt;ghichu&gt;353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;53&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-30T13:22:00+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:22:00+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;4530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5430&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;530&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;54350&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;54353&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000005&lt;/idthuexe&gt;
+    &lt;ghichu&gt;5353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;54353&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53353&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49122</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:00:57.923+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000002</object>
+    <caption>HH000002</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T12:13:24+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2003-09-23T12:13:24+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;330&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;330&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;330&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;3330&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;3330&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;43534&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000002&lt;/idthuexe&gt;
+    &lt;ghichu&gt;33&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;3&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;3&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49123</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:33:14.073+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49124</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:38:10.217+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000005</object>
+    <caption>HH000005</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-30T13:22:00+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:22:00+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;4530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5430&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;530&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;54350&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;54353&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000005&lt;/idthuexe&gt;
+    &lt;ghichu&gt;5353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;54353&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53353&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49125</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:41:22.04+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000004</object>
+    <caption>HH000004</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T13:21:01+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T13:21:01+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000001&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;530&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;5350&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;54350&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;5430&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;543530&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idquotation&gt;543543&lt;/idquotation&gt;
+    &lt;idthuexe&gt;HH000004&lt;/idthuexe&gt;
+    &lt;ghichu&gt;353&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;53&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;53&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49126</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:43:35.99+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49127</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:47:11.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49128</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:48:32.37+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49129</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T17:56:25.367+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49130</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T18:00:02.627+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49131</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T18:02:16.863+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49132</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T18:04:55.867+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49133</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T18:06:59.113+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49134</ID>
+    <userid>US000016</userid>
+    <date>2017-09-23T18:10:12.433+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49135</ID>
+    <userid>US000001</userid>
+    <date>2017-09-23T23:54:31.87+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49136</ID>
+    <userid>US000001</userid>
+    <date>2017-09-24T00:57:03.65+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49137</ID>
+    <userid>US000001</userid>
+    <date>2017-09-24T20:03:35.147+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49138</ID>
+    <userid>US000001</userid>
+    <date>2017-09-24T22:33:56.773+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49139</ID>
+    <userid>US000001</userid>
+    <date>2017-09-25T22:47:49.38+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49140</ID>
+    <userid>US000001</userid>
+    <date>2017-09-25T22:50:27.097+07:00</date>
+    <idform>frm_DEVICEFORRENT_SH</idform>
+    <status>0</status>
+    <object>HH000007</object>
+    <caption>HH000007</caption>
+    <action>bbi_allow_delete</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICEFORRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICEFORRENT&gt;
+    &lt;ngayketthuc&gt;2017-09-23T18:10:52+07:00&lt;/ngayketthuc&gt;
+    &lt;ngaybatdau&gt;2017-09-23T18:10:52+07:00&lt;/ngaybatdau&gt;
+    &lt;idemp&gt;EMP000001&lt;/idemp&gt;
+    &lt;idcommodity&gt;HH000003&lt;/idcommodity&gt;
+    &lt;idcustomer&gt;KH000102&lt;/idcustomer&gt;
+    &lt;phivanchuyen&gt;43240&lt;/phivanchuyen&gt;
+    &lt;phivuotdinhmuc&gt;0&lt;/phivuotdinhmuc&gt;
+    &lt;sogiodinhmuc&gt;432424230&lt;/sogiodinhmuc&gt;
+    &lt;datcoc&gt;0&lt;/datcoc&gt;
+    &lt;giatrihopdong&gt;0&lt;/giatrihopdong&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idthuexe&gt;HH000007&lt;/idthuexe&gt;
+    &lt;ghichu&gt;42342&lt;/ghichu&gt;
+    &lt;diachigiaodich&gt;432&lt;/diachigiaodich&gt;
+    &lt;diachidangky&gt;432&lt;/diachidangky&gt;
+  &lt;/DEVICEFORRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49141</ID>
+    <userid>US000001</userid>
+    <date>2017-09-26T23:18:46.887+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49142</ID>
+    <userid>US000001</userid>
+    <date>2017-09-27T22:08:33.937+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49143</ID>
+    <userid>US000001</userid>
+    <date>2017-09-27T22:40:57.817+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49144</ID>
+    <userid>US000001</userid>
+    <date>2017-09-27T23:48:32.607+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49145</ID>
+    <userid>US000001</userid>
+    <date>2017-09-27T23:50:55.763+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49146</ID>
+    <userid>US000001</userid>
+    <date>2017-09-27T23:55:35.637+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49147</ID>
+    <userid>US000001</userid>
+    <date>2017-09-28T22:32:53.32+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49148</ID>
+    <userid>US000001</userid>
+    <date>2017-09-28T22:49:12.327+07:00</date>
+    <idform>frm_DMRENTDEVICE_S</idform>
+    <status>0</status>
+    <object>HH000004</object>
+    <caption>Dream</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DMRENTDEVICE</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMRENTDEVICE&gt;
+    &lt;quantity&gt;true&lt;/quantity&gt;
+    &lt;mininventory&gt;0&lt;/mininventory&gt;
+    &lt;price&gt;0&lt;/price&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idunit&gt;DV000001&lt;/idunit&gt;
+    &lt;idkind&gt;LH000001&lt;/idkind&gt;
+    &lt;idgroup&gt;NH000001&lt;/idgroup&gt;
+    &lt;idcommodity&gt;HH000004&lt;/idcommodity&gt;
+    &lt;equipmentinfo&gt;9090&lt;/equipmentinfo&gt;
+    &lt;spec&gt;09099882222&lt;/spec&gt;
+    &lt;note&gt;Nhap khau tu Nhat&lt;/note&gt;
+    &lt;model&gt;233909000&lt;/model&gt;
+    &lt;sign&gt;4789&lt;/sign&gt;
+    &lt;label&gt;Honda&lt;/label&gt;
+    &lt;commodity&gt;Dream&lt;/commodity&gt;
+    &lt;tenkhongdau&gt;Dream&lt;/tenkhongdau&gt;
+  &lt;/DMRENTDEVICE&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49149</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T11:30:37.013+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49150</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:03:31.393+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49151</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:06:45.777+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49152</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:08:07.507+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49153</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:15:29.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49154</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:41:37.97+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49155</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:48:59.12+07:00</date>
+    <idform>frm_CUSCONTACTRENT_S</idform>
+    <status>0</status>
+    <object>CT000009</object>
+    <caption>rewrw</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>CUSCONTACTRENT</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;CUSCONTACTRENT&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;idposition&gt;CV000001&lt;/idposition&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idcontact&gt;CT000009&lt;/idcontact&gt;
+    &lt;sign&gt;CT000009&lt;/sign&gt;
+    &lt;email&gt;rewr&lt;/email&gt;
+    &lt;contactname&gt;rewrw&lt;/contactname&gt;
+  &lt;/CUSCONTACTRENT&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49156</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T14:55:16.28+07:00</date>
+    <idform>frm_DEVICERENTINFO_S</idform>
+    <status>0</status>
+    <object>IF000004</object>
+    <caption />
+    <action>F4 Lưu - Thêm</action>
+    <computer>HOME-PC</computer>
+    <tableName>DEVICERENTINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DEVICERENTINFO&gt;
+    &lt;updatedat&gt;2017-09-30T14:55:02+07:00&lt;/updatedat&gt;
+    &lt;status&gt;false&lt;/status&gt;
+    &lt;idthuexe&gt;HH000006&lt;/idthuexe&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;iddevice&gt;IF000004&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2017-09-30T14:55:02+07:00&lt;/upadatedat&gt;
+    &lt;createdDate&gt;2017-09-30T14:55:02+07:00&lt;/createdDate&gt;
+    &lt;serial&gt;123&lt;/serial&gt;
+    &lt;devicename&gt;Bánh xe&lt;/devicename&gt;
+    &lt;model&gt;123&lt;/model&gt;
+  &lt;/DEVICERENTINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_DEVICEFORRENT</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>49157</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T15:23:42.003+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49158</ID>
+    <userid>US000016</userid>
+    <date>2017-09-30T15:26:30.967+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49159</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T15:50:28.617+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49160</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T15:53:18.96+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49161</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T15:58:17.52+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49162</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T16:00:34.13+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49163</ID>
+    <userid>US000016</userid>
+    <date>2017-09-30T16:03:19.57+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49164</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T16:06:36.09+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49165</ID>
+    <userid>US000016</userid>
+    <date>2017-09-30T16:06:47.48+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49166</ID>
+    <userid>US000016</userid>
+    <date>2017-09-30T16:12:11.827+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49167</ID>
+    <userid>US000016</userid>
+    <date>2017-09-30T16:15:31.717+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000016</object>
+    <caption>saledept-01</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49168</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T16:19:54.877+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>49169</ID>
+    <userid>US000001</userid>
+    <date>2017-09-30T16:28:31.8+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>HOME-PC</computer>
+    <tableName />
+  </sysTrace>
+</NewDataSet>

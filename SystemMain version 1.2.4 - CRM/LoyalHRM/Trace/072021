@@ -1,0 +1,707 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <sysTrace>
+    <ID>92174</ID>
+    <userid>US000001</userid>
+    <date>2021-07-03T15:42:47.713+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92175</ID>
+    <userid>US000001</userid>
+    <date>2021-07-08T11:29:20.543+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92176</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:13:31.613+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92177</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:53:34.16+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92178</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:55:38.927+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92179</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:56:51.857+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92180</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:58:34.31+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92181</ID>
+    <userid>US000022</userid>
+    <date>2021-07-16T11:59:00.56+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV000040</object>
+    <caption>xxx</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;xxx&lt;/note&gt;
+    &lt;iddevice&gt;DV000040&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2021-07-16T11:58:48+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000019&lt;/idbrand&gt;
+    &lt;createdDate&gt;2021-07-16T11:58:48+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;KH000003&lt;/idcustomer&gt;
+    &lt;thongso&gt;xxx&lt;/thongso&gt;
+    &lt;xuatxu&gt;xx&lt;/xuatxu&gt;
+    &lt;bacdanvoxe&gt;true&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;dsfdsfdsfdsfdsfdsfdsfsfds&lt;/sign&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92182</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T14:55:09.263+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92183</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T14:55:20.73+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV000031</object>
+    <caption>rrewr</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;2&lt;/quantity&gt;
+    &lt;note&gt;werw&lt;/note&gt;
+    &lt;iddevice&gt;DV000031&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2021-07-16T14:55:20+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000020&lt;/idbrand&gt;
+    &lt;createdDate&gt;2021-06-29T22:53:49+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;thongso&gt;rrewr&lt;/thongso&gt;
+    &lt;xuatxu&gt;rử&lt;/xuatxu&gt;
+    &lt;bacdanvoxe&gt;false&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;ccccc&lt;/sign&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92184</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:40:39.357+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92185</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:42:14.807+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92186</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:43:42.767+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92187</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:44:03.95+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV000041</object>
+    <caption>ẻ</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;1&lt;/quantity&gt;
+    &lt;note&gt;rew&lt;/note&gt;
+    &lt;iddevice&gt;DV000041&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2021-07-16T15:43:47+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000019&lt;/idbrand&gt;
+    &lt;createdDate&gt;2021-07-16T15:43:47+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;thongso&gt;ẻ&lt;/thongso&gt;
+    &lt;xuatxu&gt;ewr&lt;/xuatxu&gt;
+    &lt;bacdanvoxe&gt;true&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;1111&lt;/sign&gt;
+    &lt;brand&gt;4423&lt;/brand&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92188</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:44:12.793+07:00</date>
+    <idform>frm_VOXEINFO_S</idform>
+    <status>0</status>
+    <object>DV000042</object>
+    <caption>122</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>VOXEINFO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;VOXEINFO&gt;
+    &lt;quantity&gt;10&lt;/quantity&gt;
+    &lt;note&gt;22&lt;/note&gt;
+    &lt;iddevice&gt;DV000042&lt;/iddevice&gt;
+    &lt;upadatedat&gt;2021-07-16T15:44:06+07:00&lt;/upadatedat&gt;
+    &lt;idbrand&gt;NH000019&lt;/idbrand&gt;
+    &lt;createdDate&gt;2021-07-16T15:44:06+07:00&lt;/createdDate&gt;
+    &lt;idcustomer&gt;BD000000&lt;/idcustomer&gt;
+    &lt;thongso&gt;122&lt;/thongso&gt;
+    &lt;bacdanvoxe&gt;true&lt;/bacdanvoxe&gt;
+    &lt;sign&gt;1111&lt;/sign&gt;
+    &lt;brand&gt;222&lt;/brand&gt;
+  &lt;/VOXEINFO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_CRM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92189</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:48:28.03+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92190</ID>
+    <userid>US000001</userid>
+    <date>2021-07-16T15:51:35.217+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92191</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T13:31:52.967+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92192</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:04:04.42+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92193</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:06:49.08+07:00</date>
+    <idform>frm_sysSubMenu_S</idform>
+    <status>0</status>
+    <object>2.2.12</object>
+    <caption>LÝ DO CHUYỂN BÁO GIÁ</caption>
+    <action>&amp;1 Lưu</action>
+    <computer>THANHLM</computer>
+    <tableName>sysSubMenu</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;sysSubMenu&gt;
+    &lt;IDSubMenu&gt;2.2.12&lt;/IDSubMenu&gt;
+    &lt;NameSubMenu&gt;LÝ DO CHUYỂN BÁO GIÁ&lt;/NameSubMenu&gt;
+    &lt;IDGroupMenu&gt;2.2&lt;/IDGroupMenu&gt;
+    &lt;FormName&gt;frm_DMREASONPO_SH&lt;/FormName&gt;
+    &lt;AddTappage&gt;true&lt;/AddTappage&gt;
+    &lt;Namespace&gt;SOURCE_FORM_REASONPO&lt;/Namespace&gt;
+    &lt;ShowMenu&gt;true&lt;/ShowMenu&gt;
+    &lt;pos&gt;0&lt;/pos&gt;
+  &lt;/sysSubMenu&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92194</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:07:07.34+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92195</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:13:59.803+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92196</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:15:26.937+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92197</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:22:05.887+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92198</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:25:41.937+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92199</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:29:57.933+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92200</ID>
+    <userid>US000022</userid>
+    <date>2021-07-19T14:36:35.5+07:00</date>
+    <idform>frm_DMREASONPO_S</idform>
+    <status>0</status>
+    <object>RS000001</object>
+    <caption>1</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000001&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000001&lt;/id&gt;
+    &lt;note&gt;1&lt;/note&gt;
+    &lt;sign&gt;RS000001&lt;/sign&gt;
+    &lt;reason&gt;1&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92201</ID>
+    <userid>US000022</userid>
+    <date>2021-07-19T14:40:00.797+07:00</date>
+    <idform>frm_DMREASONPO_SH</idform>
+    <status>0</status>
+    <object>RS000001</object>
+    <caption>RS000001</caption>
+    <action>bbi_allow_delete</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000001&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000001&lt;/id&gt;
+    &lt;note&gt;1&lt;/note&gt;
+    &lt;sign&gt;RS000001&lt;/sign&gt;
+    &lt;reason&gt;1&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92202</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:41:46.51+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92203</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:42:08.557+07:00</date>
+    <idform>frm_DMREASONPO_S</idform>
+    <status>0</status>
+    <object>RS000001</object>
+    <caption>Test</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000001&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000001&lt;/id&gt;
+    &lt;note&gt;test&lt;/note&gt;
+    &lt;sign&gt;RS000001&lt;/sign&gt;
+    &lt;reason&gt;Test&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92204</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:42:14.183+07:00</date>
+    <idform>frm_DMREASONPO_S</idform>
+    <status>0</status>
+    <object>RS000002</object>
+    <caption>T2</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000001&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000002&lt;/id&gt;
+    &lt;note&gt;34&lt;/note&gt;
+    &lt;sign&gt;RS000002&lt;/sign&gt;
+    &lt;reason&gt;T2&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92205</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:42:18.527+07:00</date>
+    <idform>frm_DMREASONPO_SH</idform>
+    <status>0</status>
+    <object>RS000002</object>
+    <caption>RS000002</caption>
+    <action>bbi_allow_delete</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000001&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000002&lt;/id&gt;
+    &lt;note&gt;34&lt;/note&gt;
+    &lt;sign&gt;RS000002&lt;/sign&gt;
+    &lt;reason&gt;T2&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92206</ID>
+    <userid>US000022</userid>
+    <date>2021-07-19T14:43:21.307+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000022</object>
+    <caption>ttkngan</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92207</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:55:48.127+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92208</ID>
+    <userid>US000001</userid>
+    <date>2021-07-19T14:56:19.057+07:00</date>
+    <idform>frm_DMREASONPO_S</idform>
+    <status>0</status>
+    <object>RS000001</object>
+    <caption>Đổi nhà cung cấp</caption>
+    <action>F4 Lưu - Thêm</action>
+    <computer>THANHLM</computer>
+    <tableName>DMREASONPO</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;DMREASONPO&gt;
+    &lt;status&gt;true&lt;/status&gt;
+    &lt;idstatusquotation&gt;ST000008&lt;/idstatusquotation&gt;
+    &lt;id&gt;RS000001&lt;/id&gt;
+    &lt;note /&gt;
+    &lt;sign&gt;RS000001&lt;/sign&gt;
+    &lt;reason&gt;Đổi nhà cung cấp&lt;/reason&gt;
+  &lt;/DMREASONPO&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_REASONPO</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92209</ID>
+    <userid>US000001</userid>
+    <date>2021-07-23T21:45:37.307+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92210</ID>
+    <userid>US000001</userid>
+    <date>2021-07-23T21:46:00.09+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS000159</object>
+    <caption>QS000159</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2021-07-23T21:45:45+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000005&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000159&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BPT001-0721/AD/NC-CH&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;address&gt;Lô C 42b/I Đường số 7, KCN Vĩnh Lộc, Xã Vĩnh Lộc A, Huyện Bình Chánh, TP Hồ Chí Minh&lt;/address&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+  <sysTrace>
+    <ID>92211</ID>
+    <userid>US000001</userid>
+    <date>2021-07-23T21:57:35.45+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92212</ID>
+    <userid>US000001</userid>
+    <date>2021-07-23T22:01:54.243+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92213</ID>
+    <userid>US000001</userid>
+    <date>2021-07-23T22:03:43.12+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92214</ID>
+    <userid>US000001</userid>
+    <date>2021-07-24T10:50:27.577+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92215</ID>
+    <userid>US000001</userid>
+    <date>2021-07-24T10:55:36.047+07:00</date>
+    <idform>frmLogin</idform>
+    <status>4</status>
+    <object>US000001</object>
+    <caption>administrator</caption>
+    <action>Đăng Nhập</action>
+    <computer>THANHLM</computer>
+    <tableName />
+  </sysTrace>
+  <sysTrace>
+    <ID>92216</ID>
+    <userid>US000001</userid>
+    <date>2021-07-24T10:55:51.537+07:00</date>
+    <idform>frm_QUOTATION_S2</idform>
+    <status>0</status>
+    <object>QS000160</object>
+    <caption>QS000160</caption>
+    <action>F1 Tạo</action>
+    <computer>THANHLM</computer>
+    <tableName>QUOTATION</tableName>
+    <datapre>&lt;NewDataSet&gt;
+  &lt;QUOTATION&gt;
+    &lt;vat&gt;10&lt;/vat&gt;
+    &lt;dateimport&gt;2021-07-24T10:55:43+07:00&lt;/dateimport&gt;
+    &lt;idcustomer&gt;KH000004&lt;/idcustomer&gt;
+    &lt;IDEMP&gt;EMP000001&lt;/IDEMP&gt;
+    &lt;isdept&gt;true&lt;/isdept&gt;
+    &lt;outlet&gt;true&lt;/outlet&gt;
+    &lt;idexport&gt;QS000160&lt;/idexport&gt;
+    &lt;idstatusquotation&gt;ST000006&lt;/idstatusquotation&gt;
+    &lt;idcurrency&gt;CC000003&lt;/idcurrency&gt;
+    &lt;prepaypercent&gt;0&lt;/prepaypercent&gt;
+    &lt;postpaidpercent&gt;0&lt;/postpaidpercent&gt;
+    &lt;idquotationtype&gt;QT000001&lt;/idquotationtype&gt;
+    &lt;quotationno&gt;BPT002-0721/AD/NC-CH&lt;/quotationno&gt;
+    &lt;chatluong&gt;Hàng mới 100%, bảo hành 6 tháng theo tiêu chuẩn của Nhà sản xuất.&lt;/chatluong&gt;
+    &lt;idemppo&gt;EMP000001&lt;/idemppo&gt;
+    &lt;idcampaign&gt;CD000065&lt;/idcampaign&gt;
+    &lt;address&gt;KHÓM BÌNH ĐứC 5, P. BÌNH ĐứC - TP LONG XUYÊN - AN GIANG&lt;/address&gt;
+  &lt;/QUOTATION&gt;
+&lt;/NewDataSet&gt;</datapre>
+    <namespace>SOURCE_FORM_QUOTATION_EPS</namespace>
+  </sysTrace>
+</NewDataSet>

@@ -452,7 +452,6 @@
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <None Include="app.config">
       <SubType>Designer</SubType>
@@ -464,11 +463,6 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -516,6 +510,9 @@
     <None Include="Resources\images %281%29.jpg" />
     <None Include="Resources\sqlServer.jpg" />
     <None Include="Resources\sqcce.jpg" />
+    <None Include="Resources\bbi_luu_s.png" />
+    <None Include="Resources\close_16x16.png" />
+    <Content Include="Resources\Excel1.png" />
     <Content Include="Service References\Image_Form\btn_in_S.png" />
     <Content Include="Service References\Image_Form\btn_luu_S.png" />
     <Content Include="Service References\Image_Form\btn_naplai_S.png" />
