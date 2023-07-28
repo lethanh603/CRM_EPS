@@ -533,7 +533,7 @@ namespace SOURCE_FORM_DMCOMMODITY.Presentation
             }
             catch (Exception ex)
             {
-                XtraMessageBox.Show(ex.Message, Function.clsFunction.transLateText("Thông báo"));
+                //XtraMessageBox.Show(ex.Message, Function.clsFunction.transLateText("Thông báo"));
             }
         }
 
@@ -586,6 +586,11 @@ namespace SOURCE_FORM_DMCOMMODITY.Presentation
             {
                 Function.clsFunction.MessageInfo("Thông báo", "Lỗi thực thi");
             }
+        }
+
+        private void gv_list_C_DoubleClick(object sender, EventArgs e)
+        {
+            //bbi_allow_edit.PerformClick();
         }
 
 

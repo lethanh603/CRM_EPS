@@ -61,14 +61,16 @@
   </PropertyGroup>
   <PropertyGroup />
   <ItemGroup>
+    <Reference Include="APCoreProcess.cs">
+      <HintPath>E:\EPS\RunCE20220323\RunCE\APCoreProcess.cs.dll</HintPath>
+    </Reference>
     <Reference Include="AxInterop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\AxInterop.zkemkeeper.dll</HintPath>
       <EmbedInteropTypes>False</EmbedInteropTypes>
     </Reference>
-    <Reference Include="ControlDev, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\ControlDev.dll</HintPath>
+    <Reference Include="ControlDev">
+      <HintPath>E:\EPS\RunCE20220323\RunCE\ControlDev.dll</HintPath>
     </Reference>
     <Reference Include="DevExpress.BonusSkins.v13.1, Version=13.1.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -132,11 +134,11 @@
     </Reference>
     <Reference Include="Function, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\Function.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\Function.dll</HintPath>
     </Reference>
     <Reference Include="IMPORTEXCEL, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\IMPORTEXCEL.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\IMPORTEXCEL.dll</HintPath>
     </Reference>
     <Reference Include="Interop.zkemkeeper, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -166,7 +168,7 @@
     </Reference>
     <Reference Include="ReportControls, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\ReportControls.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\ReportControls.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_DMAREA, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -186,10 +188,10 @@
     </Reference>
     <Reference Include="SOURCE_FORM_DMGROUP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\SOURCE_FORM_DMGROUP.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\SOURCE_FORM_DMGROUP.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_DMKIND">
-      <HintPath>..\..\Run\SOURCE_FORM_DMKIND.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\SOURCE_FORM_DMKIND.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_DMSCALE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -201,14 +203,14 @@
     </Reference>
     <Reference Include="SOURCE_FORM_DMUNIT, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\RunCE\SOURCE_FORM_DMUNIT.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\SOURCE_FORM_DMUNIT.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_DMWAREHOUSE">
-      <HintPath>..\..\Run\SOURCE_FORM_DMWAREHOUSE.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\SOURCE_FORM_DMWAREHOUSE.dll</HintPath>
     </Reference>
     <Reference Include="SOURCE_FORM_TRACE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\Run\SOURCE_FORM_TRACE.dll</HintPath>
+      <HintPath>E:\EPS\RunCE20220323\RunCE\SOURCE_FORM_TRACE.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Private>True</Private>
@@ -383,10 +385,6 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\APCoreProcess.cs\APCoreProcess.cs\APCoreProcess.csproj">
-      <Project>{BFCD11FB-6032-4582-A4D5-679A61757134}</Project>
-      <Name>APCoreProcess</Name>
-    </ProjectReference>
     <ProjectReference Include="..\..\Data\Data\Data.csproj">
       <Project>{7B7D3D1A-2330-48FE-9FC0-9D02B44B41EE}</Project>
       <Name>Data</Name>

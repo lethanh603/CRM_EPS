@@ -31,8 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_REPORT_QUOTATION_SH));
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject1 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject2 = new DevExpress.Utils.SerializableAppearanceObject();
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject4 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject3 = new DevExpress.Utils.SerializableAppearanceObject();
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject4 = new DevExpress.Utils.SerializableAppearanceObject();
             this.gct_list_C = new DevExpress.XtraGrid.GridControl();
             this.bgv_list_C = new DevExpress.XtraGrid.Views.BandedGrid.BandedGridView();
             this.gridBand3 = new DevExpress.XtraGrid.Views.BandedGrid.GridBand();
@@ -61,6 +61,9 @@
             this.gridLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.lbl_g_kh_2 = new DevExpress.XtraEditors.LabelControl();
             this.lbl_g_kh2 = new DevExpress.XtraEditors.LabelControl();
+            this.glue_idgrouptk = new DevExpress.XtraEditors.GridLookUpEdit();
+            this.gridView5 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.lbl_g_tk = new DevExpress.XtraEditors.LabelControl();
             this.glue_idtype_I1 = new DevExpress.XtraEditors.GridLookUpEdit();
             this.gridView9 = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.lbl_g_kh4 = new DevExpress.XtraEditors.LabelControl();
@@ -111,9 +114,6 @@
             this.gridColumn26 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn27 = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gridColumn28 = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.lbl_g_tk = new DevExpress.XtraEditors.LabelControl();
-            this.glue_idgrouptk = new DevExpress.XtraEditors.GridLookUpEdit();
-            this.gridView5 = new DevExpress.XtraGrid.Views.Grid.GridView();
             ((System.ComponentModel.ISupportInitialize)(this.gct_list_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.bgv_list_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
@@ -122,6 +122,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView8)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.glue_idregion_I1.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1View)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.glue_idgrouptk.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.glue_idtype_I1.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView9)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboNhom.Properties)).BeginInit();
@@ -151,8 +153,6 @@
             this.xtraTabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.gct_cskh_C)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.gv_cskh_C)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.glue_idgrouptk.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView5)).BeginInit();
             this.SuspendLayout();
             // 
             // gct_list_C
@@ -479,6 +479,37 @@
             this.lbl_g_kh2.Size = new System.Drawing.Size(84, 17);
             this.lbl_g_kh2.TabIndex = 37;
             this.lbl_g_kh2.Text = "Ngành nghề :";
+            // 
+            // glue_idgrouptk
+            // 
+            this.glue_idgrouptk.EditValue = "";
+            this.glue_idgrouptk.Location = new System.Drawing.Point(537, 30);
+            this.glue_idgrouptk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.glue_idgrouptk.Name = "glue_idgrouptk";
+            this.glue_idgrouptk.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, null, new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject3, "", null, null, true)});
+            this.glue_idgrouptk.Properties.NullText = "";
+            this.glue_idgrouptk.Properties.View = this.gridView5;
+            this.glue_idgrouptk.Size = new System.Drawing.Size(164, 22);
+            this.glue_idgrouptk.TabIndex = 40;
+            // 
+            // gridView5
+            // 
+            this.gridView5.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.gridView5.Name = "gridView5";
+            this.gridView5.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.gridView5.OptionsView.ShowGroupPanel = false;
+            // 
+            // lbl_g_tk
+            // 
+            this.lbl_g_tk.Appearance.ForeColor = System.Drawing.Color.Black;
+            this.lbl_g_tk.Location = new System.Drawing.Point(444, 31);
+            this.lbl_g_tk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.lbl_g_tk.Name = "lbl_g_tk";
+            this.lbl_g_tk.Size = new System.Drawing.Size(57, 16);
+            this.lbl_g_tk.TabIndex = 36;
+            this.lbl_g_tk.Text = "Nhóm SP:";
             // 
             // glue_idtype_I1
             // 
@@ -1023,37 +1054,6 @@
             this.gridColumn28.Caption = "idexport";
             this.gridColumn28.Name = "gridColumn28";
             // 
-            // lbl_g_tk
-            // 
-            this.lbl_g_tk.Appearance.ForeColor = System.Drawing.Color.Black;
-            this.lbl_g_tk.Location = new System.Drawing.Point(444, 31);
-            this.lbl_g_tk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.lbl_g_tk.Name = "lbl_g_tk";
-            this.lbl_g_tk.Size = new System.Drawing.Size(57, 16);
-            this.lbl_g_tk.TabIndex = 36;
-            this.lbl_g_tk.Text = "Nhóm SP:";
-            // 
-            // glue_idgrouptk
-            // 
-            this.glue_idgrouptk.EditValue = "";
-            this.glue_idgrouptk.Location = new System.Drawing.Point(537, 30);
-            this.glue_idgrouptk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.glue_idgrouptk.Name = "glue_idgrouptk";
-            this.glue_idgrouptk.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("gridLookUpEdit1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject3, "", null, null, true)});
-            this.glue_idgrouptk.Properties.NullText = "";
-            this.glue_idgrouptk.Properties.View = this.gridView5;
-            this.glue_idgrouptk.Size = new System.Drawing.Size(164, 22);
-            this.glue_idgrouptk.TabIndex = 40;
-            // 
-            // gridView5
-            // 
-            this.gridView5.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
-            this.gridView5.Name = "gridView5";
-            this.gridView5.OptionsSelection.EnableAppearanceFocusedCell = false;
-            this.gridView5.OptionsView.ShowGroupPanel = false;
-            // 
             // frm_REPORT_QUOTATION_SH
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
@@ -1077,6 +1077,8 @@
             ((System.ComponentModel.ISupportInitialize)(this.gridView8)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.glue_idregion_I1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridLookUpEdit1View)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.glue_idgrouptk.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.glue_idtype_I1.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gridView9)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboNhom.Properties)).EndInit();
@@ -1106,8 +1108,6 @@
             this.xtraTabPage1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.gct_cskh_C)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.gv_cskh_C)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.glue_idgrouptk.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.gridView5)).EndInit();
             this.ResumeLayout(false);
 
         }

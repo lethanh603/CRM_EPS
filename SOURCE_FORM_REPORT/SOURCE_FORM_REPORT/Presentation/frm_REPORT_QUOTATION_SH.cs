@@ -133,20 +133,21 @@ namespace SOURCE_FORM_REPORT.Presentation
                 {
                     sql = @"
                     SELECT E.IDEMP, E.StaffName,
-                    count(QS.quotationno) count_all,
+                    sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
                     sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
                     sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
                     sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
                     sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
                     sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
                     sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                    sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000004'  and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_tc,
                     sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                     FROM QUOTATION QS with(nolock)
                     LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				
-                    WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                    WHERE (cast( QS.dateimport as date) between 'from_date' and 'to_date' {0} or cast( QS.datepo as date) between 'from_date' and 'to_date' {0})
                     AND E.idstore like '{1}'
 				    AND isnull(E.idgroup,'') like '{2}'
                     and E.iddepartment like '{3}'
@@ -159,7 +160,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                     }
                     else
                     {
-                        expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+                        expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' )  ";
                     }
 
                     sql = string.Format(sql, expEmp, "%" + glue_idstore_Ik1.EditValue.ToString() + "%", "%" + glue_idteam_IK1.EditValue.ToString() + "%", "%" + glue_iddepartment_I1.EditValue.ToString() + "%");
@@ -174,20 +175,21 @@ namespace SOURCE_FORM_REPORT.Presentation
                 {
                     sql = @"
                 SELECT C.idcustomer IDEMP, C.customer StaffName,
-                count(QS.quotationno) count_all,
+                sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
                 sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
                 sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
                 sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
                 sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
                 sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
                 sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
+                sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_tc,
                 sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                 FROM QUOTATION QS with(nolock)
                 LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = QS.idcustomer
-                WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                WHERE (cast( QS.dateimport as date) between 'from_date' and 'to_date' {0} or cast( QS.datepo as date) between 'from_date' and 'to_date' {0})
                 --AND expresion_join
                 AND isnull(C.idfields,'') like '{1}'
 				    AND  isnull(C.idregion,'') like '{2}'
@@ -216,7 +218,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                     {
                         group = "3";
                     }
-                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%'  )  ";
 
                     sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%", "%" + glue_idregion_I1.EditValue.ToString() + "%", "%" + glue_idtype_I1.EditValue.ToString() + "%", "%" +group + "%");
                    
@@ -230,33 +232,34 @@ namespace SOURCE_FORM_REPORT.Presentation
                     // group sp
                     sql = @"
                     SELECT G.idgrouptk IDEMP, G.grouptk StaffName,
-                    count(QS.quotationno) count_all,
+                    sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
                     sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
                     sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
                     sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
                     sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
                     sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
                     sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                    sum ( case when QS.idstatusquotation ='ST000004' then 1 else 0 end ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end   ) count_tc,
                     sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
 
                     FROM 
                         (
-                        SELECT  distinct  QS.quotationno,QS.idstatusquotation, QS.dateimport, QS.IDEMP, QS.idemppo, QD.idgrouptk FROM QUOTATION QS with(nolock) 
+                        SELECT  distinct  QS.quotationno,QS.idstatusquotation, QS.dateimport, QS.IDEMP, QS.idemppo, QD.idgrouptk,datepo FROM QUOTATION QS with(nolock) 
 					    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QS.idexport = QD.idexport
                         ) QS
                     LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				    
 					INNER JOIN DMGROUPTK G with(nolock) ON QS.idgrouptk =G.idgrouptk
-                    WHERE cast( QS.dateimport as date) between 'from_date' and 'to_date' {0}
+                    WHERE (cast( QS.dateimport as date) between 'from_date' and 'to_date' {0} or cast( QS.datepo as date) between 'from_date' and 'to_date' {0})
                     --AND expresion_join
                     AND G.idgrouptk like '{1}'
 				       
                     GROUP BY G.idgrouptk , G.grouptk
                 ";
 
-                    string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
-
+                    //string expEmp = " AND (E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%' or  (charindex('" + clsFunction.GetIDEMPByUser() + "',E.idrecursive) >0  ) )  ";
+                    string expEmp = " AND E.idemp like '%" + glue_IDEMP_I1.EditValue.ToString().Trim() + "%'  ";
                     sql = string.Format(sql, expEmp, "%" + glue_idfields_I1.EditValue.ToString() + "%");
                     sql = sql.Replace("from_date", Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd")).Replace("to_date", Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"));
                     sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "QS.IDEMP = E.IDEMP" : "QS.idemppo = E.IDEMP");
@@ -785,12 +788,13 @@ namespace SOURCE_FORM_REPORT.Presentation
                     ON Q.IDEMP = E.IDEMP
                     LEFT JOIN EMPLOYEES EM with(nolock) 
                     ON Q.idemppo	 = EM.IDEMP
-                    INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
-                    INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
-                    INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
-                    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+                    LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                    LEFT JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                    LEFT JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                    LEFT JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
                     LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
-                    where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
+                    where expresion_join = '{2}' and (CAST( dateimport AS DATE) between '{0}' and '{1}' or CAST( datepo AS DATE) between '{0}' and '{1}')
+                    and (datepo between '{0}' and '{1}' or QS.idstatusquotation  <> 'ST000004')
                     GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                     DP.department, dateimport, datepo,  E.StaffName,
                     QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
@@ -812,12 +816,13 @@ namespace SOURCE_FORM_REPORT.Presentation
                 ON Q.IDEMP = E.IDEMP
                 LEFT JOIN EMPLOYEES EM with(nolock) 
                 ON Q.idemppo	 = EM.IDEMP
-                INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
-                INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
-                INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
-                INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+                LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                LEFT JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                LEFT JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                LEFT JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
                 LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
-                where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
+                where expresion_join = '{2}' and (CAST( dateimport AS DATE) between '{0}' and '{1}' or CAST( datepo AS DATE) between '{0}' and '{1}')
+                and (datepo between '{0}' and '{1}' or QS.idstatusquotation  <> 'ST000004')
                 GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
@@ -840,13 +845,14 @@ namespace SOURCE_FORM_REPORT.Presentation
                 ON Q.IDEMP = E.IDEMP
                 LEFT JOIN EMPLOYEES EM with(nolock) 
                 ON Q.idemppo	 = EM.IDEMP
-                INNER JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
-                INNER JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
-                INNER JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
-                INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
-				INNER JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
+                LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = Q.idcustomer
+                LEFT JOIN DMQUOTATIONTYPE QT with(nolock) ON QT.idquotationtype = Q.idquotationtype
+                LEFT JOIN DMSTATUSQUOTATION QS with(nolock) ON QS.idstatusquotation =Q.idstatusquotation
+                LEFT JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
+				LEFT JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
                 LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
-                where expresion_join = '{2}' and CAST( dateimport AS DATE) between '{0}' and '{1}' 
+                where expresion_join = '{2}' and (CAST( dateimport AS DATE) between '{0}' and '{1}' or CAST( datepo AS DATE) between '{0}' and '{1}')
+                and (datepo between '{0}' and '{1}' or QS.idstatusquotation  <> 'ST000004')
                 GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport

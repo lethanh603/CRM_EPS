@@ -337,6 +337,7 @@
             this.gridColumn12.Caption = "Mã TB";
             this.gridColumn12.FieldName = "iddevice";
             this.gridColumn12.Name = "gridColumn12";
+            this.gridColumn12.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn12.Visible = true;
             this.gridColumn12.VisibleIndex = 0;
             // 
@@ -345,6 +346,7 @@
             this.gridColumn13.Caption = "Hiệu";
             this.gridColumn13.FieldName = "brand";
             this.gridColumn13.Name = "gridColumn13";
+            this.gridColumn13.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn13.Visible = true;
             this.gridColumn13.VisibleIndex = 1;
             this.gridColumn13.Width = 115;
@@ -354,6 +356,7 @@
             this.gridColumn15.Caption = "Model";
             this.gridColumn15.FieldName = "model";
             this.gridColumn15.Name = "gridColumn15";
+            this.gridColumn15.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn15.Visible = true;
             this.gridColumn15.VisibleIndex = 3;
             this.gridColumn15.Width = 101;
@@ -363,6 +366,7 @@
             this.gridColumn16.Caption = "Số khung";
             this.gridColumn16.FieldName = "sokhung";
             this.gridColumn16.Name = "gridColumn16";
+            this.gridColumn16.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn16.Visible = true;
             this.gridColumn16.VisibleIndex = 4;
             this.gridColumn16.Width = 114;
@@ -372,6 +376,7 @@
             this.gridColumn14.Caption = "Năm SX";
             this.gridColumn14.FieldName = "namsx";
             this.gridColumn14.Name = "gridColumn14";
+            this.gridColumn14.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn14.Visible = true;
             this.gridColumn14.VisibleIndex = 2;
             this.gridColumn14.Width = 92;
@@ -381,6 +386,7 @@
             this.gridColumn17.Caption = "Xuất xứ";
             this.gridColumn17.FieldName = "xuat_xu";
             this.gridColumn17.Name = "gridColumn17";
+            this.gridColumn17.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn17.Visible = true;
             this.gridColumn17.VisibleIndex = 5;
             this.gridColumn17.Width = 100;
@@ -390,6 +396,7 @@
             this.gridColumn18.Caption = "Động cơ";
             this.gridColumn18.FieldName = "dongco";
             this.gridColumn18.Name = "gridColumn18";
+            this.gridColumn18.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn18.Visible = true;
             this.gridColumn18.VisibleIndex = 6;
             this.gridColumn18.Width = 93;
@@ -410,6 +417,7 @@
             this.gridColumn31.Caption = "Attackment";
             this.gridColumn31.FieldName = "Attackment";
             this.gridColumn31.Name = "gridColumn31";
+            this.gridColumn31.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn31.Visible = true;
             this.gridColumn31.VisibleIndex = 8;
             // 
@@ -418,6 +426,7 @@
             this.gridColumn1.Caption = "Ngày tạo";
             this.gridColumn1.FieldName = "createdDate";
             this.gridColumn1.Name = "gridColumn1";
+            this.gridColumn1.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn1.Visible = true;
             this.gridColumn1.VisibleIndex = 9;
             // 
@@ -426,6 +435,7 @@
             this.gridColumn29.Caption = "MAKH";
             this.gridColumn29.FieldName = "idcustomer";
             this.gridColumn29.Name = "gridColumn29";
+            this.gridColumn29.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn29.Visible = true;
             this.gridColumn29.VisibleIndex = 12;
             // 
@@ -434,6 +444,7 @@
             this.gridColumn28.Caption = "Khách hàng";
             this.gridColumn28.FieldName = "customer";
             this.gridColumn28.Name = "gridColumn28";
+            this.gridColumn28.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn28.Visible = true;
             this.gridColumn28.VisibleIndex = 11;
             // 
@@ -442,6 +453,7 @@
             this.gridColumn2.Caption = "Ghi chú";
             this.gridColumn2.FieldName = "note";
             this.gridColumn2.Name = "gridColumn2";
+            this.gridColumn2.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn2.Visible = true;
             this.gridColumn2.VisibleIndex = 10;
             // 
@@ -450,6 +462,7 @@
             this.gridColumn30.Caption = "Nhân viên";
             this.gridColumn30.FieldName = "StaffName";
             this.gridColumn30.Name = "gridColumn30";
+            this.gridColumn30.OptionsFilter.AutoFilterCondition = DevExpress.XtraGrid.Columns.AutoFilterCondition.Contains;
             this.gridColumn30.Visible = true;
             this.gridColumn30.VisibleIndex = 13;
             // 
