@@ -28,9 +28,8 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_DMCOMMODITY_SH));
-            this.bar_menu_C = new DevExpress.XtraBars.BarManager(this.components);
+            this.bar_menu_C = new DevExpress.XtraBars.BarManager();
             this.bar_menu = new DevExpress.XtraBars.Bar();
             this.bbi_allow_insert_S = new DevExpress.XtraBars.BarLargeButtonItem();
             this.barStaticItem8 = new DevExpress.XtraBars.BarStaticItem();

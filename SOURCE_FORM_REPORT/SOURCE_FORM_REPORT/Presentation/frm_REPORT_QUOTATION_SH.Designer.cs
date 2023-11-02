@@ -29,10 +29,10 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_REPORT_QUOTATION_SH));
+            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject5 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject1 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject2 = new DevExpress.Utils.SerializableAppearanceObject();
             DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject3 = new DevExpress.Utils.SerializableAppearanceObject();
-            DevExpress.Utils.SerializableAppearanceObject serializableAppearanceObject4 = new DevExpress.Utils.SerializableAppearanceObject();
             this.gct_list_C = new DevExpress.XtraGrid.GridControl();
             this.bgv_list_C = new DevExpress.XtraGrid.Views.BandedGrid.BandedGridView();
             this.gridBand3 = new DevExpress.XtraGrid.Views.BandedGrid.GridBand();
@@ -426,7 +426,7 @@
             this.glue_idfields_I1.Name = "glue_idfields_I1";
             this.glue_idfields_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idfields_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject1, "", null, null, true)});
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idfields_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject5, "", null, null, true)});
             this.glue_idfields_I1.Properties.NullText = "";
             this.glue_idfields_I1.Properties.View = this.gridView8;
             this.glue_idfields_I1.Size = new System.Drawing.Size(160, 22);
@@ -442,12 +442,12 @@
             // glue_idregion_I1
             // 
             this.glue_idregion_I1.EditValue = "";
-            this.glue_idregion_I1.Location = new System.Drawing.Point(537, 30);
+            this.glue_idregion_I1.Location = new System.Drawing.Point(515, 30);
             this.glue_idregion_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idregion_I1.Name = "glue_idregion_I1";
             this.glue_idregion_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idregion_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject2, "", null, null, true)});
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idregion_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject1, "", null, null, true)});
             this.glue_idregion_I1.Properties.NullText = "";
             this.glue_idregion_I1.Properties.View = this.gridLookUpEdit1View;
             this.glue_idregion_I1.Size = new System.Drawing.Size(164, 22);
@@ -483,12 +483,12 @@
             // glue_idgrouptk
             // 
             this.glue_idgrouptk.EditValue = "";
-            this.glue_idgrouptk.Location = new System.Drawing.Point(537, 30);
+            this.glue_idgrouptk.Location = new System.Drawing.Point(515, 30);
             this.glue_idgrouptk.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idgrouptk.Name = "glue_idgrouptk";
             this.glue_idgrouptk.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, null, new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject3, "", null, null, true)});
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, null, new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject2, "", null, null, true)});
             this.glue_idgrouptk.Properties.NullText = "";
             this.glue_idgrouptk.Properties.View = this.gridView5;
             this.glue_idgrouptk.Size = new System.Drawing.Size(164, 22);
@@ -514,12 +514,12 @@
             // glue_idtype_I1
             // 
             this.glue_idtype_I1.EditValue = "";
-            this.glue_idtype_I1.Location = new System.Drawing.Point(143, 84);
+            this.glue_idtype_I1.Location = new System.Drawing.Point(278, 87);
             this.glue_idtype_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idtype_I1.Name = "glue_idtype_I1";
             this.glue_idtype_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
             new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo),
-            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idtype_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject4, "", null, null, true)});
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Glyph, "", -1, true, false, false, DevExpress.XtraEditors.ImageLocation.MiddleCenter, ((System.Drawing.Image)(resources.GetObject("glue_idtype_I1.Properties.Buttons"))), new DevExpress.Utils.KeyShortcut(System.Windows.Forms.Keys.None), serializableAppearanceObject3, "", null, null, true)});
             this.glue_idtype_I1.Properties.NullText = "";
             this.glue_idtype_I1.Properties.View = this.gridView9;
             this.glue_idtype_I1.Size = new System.Drawing.Size(237, 22);
@@ -599,7 +599,7 @@
             // glue_idteam_IK1
             // 
             this.glue_idteam_IK1.EditValue = "";
-            this.glue_idteam_IK1.Location = new System.Drawing.Point(537, 28);
+            this.glue_idteam_IK1.Location = new System.Drawing.Point(515, 28);
             this.glue_idteam_IK1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_idteam_IK1.Name = "glue_idteam_IK1";
             this.glue_idteam_IK1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
@@ -627,20 +627,21 @@
             // rad_type_S
             // 
             this.rad_type_S.EditValue = "qty";
-            this.rad_type_S.Location = new System.Drawing.Point(1001, 25);
+            this.rad_type_S.Location = new System.Drawing.Point(957, 25);
             this.rad_type_S.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rad_type_S.Name = "rad_type_S";
             this.rad_type_S.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
             new DevExpress.XtraEditors.Controls.RadioGroupItem("row", "Tỷ lệ theo hàng"),
             new DevExpress.XtraEditors.Controls.RadioGroupItem("column", "Tỷ lệ theo cột"),
-            new DevExpress.XtraEditors.Controls.RadioGroupItem("qty", "Số lượng")});
-            this.rad_type_S.Size = new System.Drawing.Size(209, 63);
+            new DevExpress.XtraEditors.Controls.RadioGroupItem("qty", "Số lượng"),
+            new DevExpress.XtraEditors.Controls.RadioGroupItem("revenue", "Doanh số")});
+            this.rad_type_S.Size = new System.Drawing.Size(253, 63);
             this.rad_type_S.TabIndex = 30;
             // 
             // rg_auth_S
             // 
             this.rg_auth_S.EditValue = ((short)(0));
-            this.rg_auth_S.Location = new System.Drawing.Point(708, 25);
+            this.rg_auth_S.Location = new System.Drawing.Point(684, 25);
             this.rg_auth_S.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rg_auth_S.Name = "rg_auth_S";
             this.rg_auth_S.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
@@ -653,14 +654,14 @@
             // rad_option_S
             // 
             this.rad_option_S.EditValue = "emp";
-            this.rad_option_S.Location = new System.Drawing.Point(813, 26);
+            this.rad_option_S.Location = new System.Drawing.Point(787, 26);
             this.rad_option_S.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.rad_option_S.Name = "rad_option_S";
             this.rad_option_S.Properties.Items.AddRange(new DevExpress.XtraEditors.Controls.RadioGroupItem[] {
             new DevExpress.XtraEditors.Controls.RadioGroupItem("emp", "Nhân viên"),
             new DevExpress.XtraEditors.Controls.RadioGroupItem("cus", "Khách hàng"),
             new DevExpress.XtraEditors.Controls.RadioGroupItem("group", "Nhóm SP")});
-            this.rad_option_S.Size = new System.Drawing.Size(187, 63);
+            this.rad_option_S.Size = new System.Drawing.Size(164, 63);
             this.rad_option_S.TabIndex = 30;
             this.rad_option_S.EditValueChanged += new System.EventHandler(this.rad_option_S_EditValueChanged);
             // 
@@ -764,7 +765,7 @@
             // glue_IDEMP_I1
             // 
             this.glue_IDEMP_I1.EditValue = "All";
-            this.glue_IDEMP_I1.Location = new System.Drawing.Point(537, 54);
+            this.glue_IDEMP_I1.Location = new System.Drawing.Point(515, 54);
             this.glue_IDEMP_I1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.glue_IDEMP_I1.Name = "glue_IDEMP_I1";
             this.glue_IDEMP_I1.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {

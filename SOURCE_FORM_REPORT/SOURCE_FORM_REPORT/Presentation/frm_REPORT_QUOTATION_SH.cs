@@ -133,18 +133,30 @@ namespace SOURCE_FORM_REPORT.Presentation
                 {
                     sql = @"
                     SELECT E.IDEMP, E.StaffName,
-                    sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
-					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
-                    sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
-                    sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
-                    sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
-                    sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
-                    sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
-                    sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                    sum ( case when QS.idstatusquotation ='ST000004'  and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_tc,
-                    sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
+                    sum ( case when QS.idstatusquotation <>'ST000004' then x_value else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end ) count_all,
+                    sum ( case when QS.idstatusquotation ='ST000006' then x_value else 0 end ) count_nc_ch,
+                    sum ( case when QS.idstatusquotation ='ST000007' then x_value else 0 end ) count_nc_tn,
+                    sum ( case when QS.idstatusquotation ='ST000008' then x_value else 0 end ) count_nc_ktn,
+                    sum ( case when QS.idstatusquotation ='ST000001' then x_value else 0 end ) count_hg,
+                    sum ( case when QS.idstatusquotation ='ST000002' then x_value else 0 end ) count_bg,
+                    sum ( case when QS.idstatusquotation ='ST000003' then x_value else 0 end ) count_tl,
+                    sum ( case when QS.idstatusquotation ='ST000004'  and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000005' then x_value else 0 end ) count_tb
 
-                    FROM QUOTATION QS with(nolock)
+                    FROM (
+				SELECT     Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg,sum( case when QL.status=1 then  QL.quantity*QL.price else 0 end ) total_amt
+FROM        dbo.QUOTATION AS Q WITH (nolock) INNER JOIN
+                  dbo.QUOTATIONDETAIL AS QL WITH (nolock) ON Q.idexport = QL.idexport
+GROUP BY Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg
+				)
+				QS
                     LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				
                     WHERE (cast( QS.dateimport as date) between 'from_date' and 'to_date' {0} or cast( QS.datepo as date) between 'from_date' and 'to_date' {0})
@@ -175,18 +187,31 @@ namespace SOURCE_FORM_REPORT.Presentation
                 {
                     sql = @"
                 SELECT C.idcustomer IDEMP, C.customer StaffName,
-                sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
-					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
-                sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
-                sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
-                sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
-                sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
-                sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
-                sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_tc,
-                sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
+                sum ( case when QS.idstatusquotation <>'ST000004' then x_value else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end ) count_all,
+                sum ( case when QS.idstatusquotation ='ST000006' then x_value else 0 end ) count_nc_ch,
+                sum ( case when QS.idstatusquotation ='ST000007' then x_value else 0 end ) count_nc_tn,
+                sum ( case when QS.idstatusquotation ='ST000008' then x_value else 0 end ) count_nc_ktn,
+                sum ( case when QS.idstatusquotation ='ST000001' then x_value else 0 end ) count_hg,
+                sum ( case when QS.idstatusquotation ='ST000002' then x_value else 0 end ) count_bg,
+                sum ( case when QS.idstatusquotation ='ST000003' then x_value else 0 end ) count_tl,
+                sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end ) count_tc,
+                sum ( case when QS.idstatusquotation ='ST000005' then x_value else 0 end ) count_tb
 
-                FROM QUOTATION QS with(nolock)
+                FROM 
+(
+				SELECT     Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg,sum( case when QL.status=1 then  QL.quantity*QL.price else 0 end ) total_amt
+FROM        dbo.QUOTATION AS Q WITH (nolock) INNER JOIN
+                  dbo.QUOTATIONDETAIL AS QL WITH (nolock) ON Q.idexport = QL.idexport
+GROUP BY Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg
+				)
+				QS
                 LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				LEFT JOIN DMCUSTOMERS C with(nolock) ON C.idcustomer = QS.idcustomer
                 WHERE (cast( QS.dateimport as date) between 'from_date' and 'to_date' {0} or cast( QS.datepo as date) between 'from_date' and 'to_date' {0})
@@ -232,22 +257,30 @@ namespace SOURCE_FORM_REPORT.Presentation
                     // group sp
                     sql = @"
                     SELECT G.idgrouptk IDEMP, G.grouptk StaffName,
-                    sum ( case when QS.idstatusquotation <>'ST000004' then 1 else 0 end ) +
-					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end ) count_all,
-                    sum ( case when QS.idstatusquotation ='ST000006' then 1 else 0 end ) count_nc_ch,
-                    sum ( case when QS.idstatusquotation ='ST000007' then 1 else 0 end ) count_nc_tn,
-                    sum ( case when QS.idstatusquotation ='ST000008' then 1 else 0 end ) count_nc_ktn,
-                    sum ( case when QS.idstatusquotation ='ST000001' then 1 else 0 end ) count_hg,
-                    sum ( case when QS.idstatusquotation ='ST000002' then 1 else 0 end ) count_bg,
-                    sum ( case when QS.idstatusquotation ='ST000003' then 1 else 0 end ) count_tl,
-                    sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then 1 else 0 end   ) count_tc,
-                    sum ( case when QS.idstatusquotation ='ST000005' then 1 else 0 end ) count_tb
+                    sum ( case when QS.idstatusquotation <>'ST000004' then x_value else 0 end ) +
+					sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end ) count_all,
+                    sum ( case when QS.idstatusquotation ='ST000006' then x_value else 0 end ) count_nc_ch,
+                    sum ( case when QS.idstatusquotation ='ST000007' then x_value else 0 end ) count_nc_tn,
+                    sum ( case when QS.idstatusquotation ='ST000008' then x_value else 0 end ) count_nc_ktn,
+                    sum ( case when QS.idstatusquotation ='ST000001' then x_value else 0 end ) count_hg,
+                    sum ( case when QS.idstatusquotation ='ST000002' then x_value else 0 end ) count_bg,
+                    sum ( case when QS.idstatusquotation ='ST000003' then x_value else 0 end ) count_tl,
+                    sum ( case when QS.idstatusquotation ='ST000004' and cast(QS.datepo as date)  between 'from_date' and 'to_date' then x_value else 0 end   ) count_tc,
+                    sum ( case when QS.idstatusquotation ='ST000005' then x_value else 0 end ) count_tb
 
                     FROM 
                         (
-                        SELECT  distinct  QS.quotationno,QS.idstatusquotation, QS.dateimport, QS.IDEMP, QS.idemppo, QD.idgrouptk,datepo FROM QUOTATION QS with(nolock) 
-					    INNER JOIN QUOTATIONDETAIL QD with(nolock) ON QS.idexport = QD.idexport
-                        ) QS
+				SELECT     Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg,sum( case when QL.status=1 then  QL.quantity*QL.price else 0 end ) total_amt,QL.idgrouptk
+FROM        dbo.QUOTATION AS Q WITH (nolock) INNER JOIN
+                  dbo.QUOTATIONDETAIL AS QL WITH (nolock) ON Q.idexport = QL.idexport
+GROUP BY Q.limit, Q.vat, Q.dateimport, Q.limitdept, Q.idcustomer, Q.IDEMP, Q.idexport, Q.note, Q.idtable, Q.discount, Q.amountdiscount, Q.surcharge, Q.amountsurcharge, Q.invoice, Q.status, Q.tableunion, Q.reasondiscount, Q.reasonsurcharge, Q.isbrowse, Q.reasonbrowse, Q.idstatusquotation, 
+                  Q.idcurrency, Q.exchangerate, Q.fileattack, Q.filename, Q.prepaypercent, Q.postpaidpercent, Q.idquotationtype, Q.quotationno, Q.placedelivery, Q.receiver, Q.invoiceeps, Q.chatluong, Q.vuotdinhmuc, Q.phat, Q.datepo, Q.datedelivery, Q.dieukhoan, Q.nguoichogia, Q.idmanager, Q.hhnv, 
+                  Q.hhkh, Q.idemppo, Q.thoigiantt, Q.datebbnt, Q.idstatusprocedure, Q.daterequire, Q.idpotype, Q.test, Q.sobgnhap, Q.idcampaign, Q.quotationorginal, Q.pokethua, Q.hieulucbaogia, Q.dieukienthanhtoan, Q.last_modified, Q.index_po, Q.quotation_term_id, Q.quotation_term_date, Q.address, 
+                  Q.ngaydukien, Q.duration, Q.idreason, Q.reason, Q.nguoi_can_thiep, Q.nguon_bg,QL.idgrouptk
+				) QS
                     LEFT JOIN EMPLOYEES E with(nolock) ON  expresion_join
 				    
 					INNER JOIN DMGROUPTK G with(nolock) ON QS.idgrouptk =G.idgrouptk
@@ -268,7 +301,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                 }
 
 
-                if (rad_type_S.EditValue.ToString() == "qty") 
+                if (rad_type_S.EditValue.ToString() == "qty" || rad_type_S.EditValue.ToString() == "revenue") 
                 {
                     //bgv_list_C.Columns["count_nc_ch"].DisplayFormat.FormatType = DevExpress.Utils.FormatType.Numeric;
                     bgv_list_C.Columns["count_all"].DisplayFormat.FormatString = "N0";
@@ -362,6 +395,18 @@ namespace SOURCE_FORM_REPORT.Presentation
 
                 }
                 //MessageBox.Show(sql);
+                string x_value = "1";
+                if (rad_type_S.EditValue.ToString() == "revenue")
+                {
+                    x_value = "QS.total_amt";
+                }
+                else
+                {
+                    x_value = "1";
+                }
+
+                sql = sql.Replace("x_value", x_value);
+
                 gct_list_C.DataSource = APCoreProcess.APCoreProcess.Read(sql);
                 if (rg_auth_S.EditValue.ToString() == "1")
                 {
@@ -654,7 +699,7 @@ namespace SOURCE_FORM_REPORT.Presentation
                 string[] fieldname = new string[] { "idemp", "staffname" };
                 string department = "";
                 department = glue_iddepartment_I1.EditValue.ToString();
-                if (clsFunction.checkAdmin())
+                if (clsFunction.checkAdmin() && clsFunction._iduser.ToString() != "US000022")
                 {
                     ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select '' idemp, 'All' staffname union select idemp,staffname from employees  where status=1 and iddepartment like '%"+department+"%'", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
                 }
@@ -781,7 +826,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                     select Q.idexport,
                     EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                     DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-                    QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                    QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate()) *-1  quotation_term_date, 
+                    Q.ngaydukien, sum(case when QD.status=1 then QD.quantity*QD.price else 0 end) amount,
                     Q.nguoi_can_thiep, Q.reason
                     from QUOTATION Q with(nolock)
                     LEFT JOIN EMPLOYEES E with(nolock) 
@@ -809,7 +855,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 select Q.idexport,
                 EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate()) *-1  quotation_term_date, Q.ngaydukien, 
+                sum(case when QD.status=1 then QD.quantity*QD.price else 0 end) amount,
                 Q.nguoi_can_thiep, Q.reason
                 from QUOTATION Q with(nolock)
                 LEFT JOIN EMPLOYEES E with(nolock) 
@@ -838,7 +885,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 select Q.idexport,
                 EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department nguon_bg, dateimport, datepo,  E.StaffName creadted_StaffName,
-                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate())  quotation_term_date, Q.ngaydukien, sum(QD.quantity*QD.price) amount,
+                QT.quotationtype, QS.statusquotation, datediff(d,quotation_term_date, getdate()) *-1  quotation_term_date, Q.ngaydukien, 
+                sum(case when QD.status=1 then QD.quantity*QD.price else 0 end) amount,
                 Q.nguoi_can_thiep, Q.reason
                 from QUOTATION Q with(nolock)
                 LEFT JOIN EMPLOYEES E with(nolock) 
@@ -851,14 +899,15 @@ namespace SOURCE_FORM_REPORT.Presentation
                 LEFT JOIN QUOTATIONDETAIL QD with(nolock) ON QD.idexport =Q.idexport
 				LEFT JOIN DMGROUPTK G with(nolock) ON QD.idgrouptk =G.idgrouptk
                 LEFT JOIN DMDEPARTMENT DP with(nolock) ON DP.iddepartment = E.iddepartment
-                where expresion_join = '{2}' and (CAST( dateimport AS DATE) between '{0}' and '{1}' or CAST( datepo AS DATE) between '{0}' and '{1}')
+                where expresion_join = '{2}' and  EM.IDEMP like '%{3}%'
+                and (CAST( dateimport AS DATE) between '{0}' and '{1}' or CAST( datepo AS DATE) between '{0}' and '{1}')
                 and (datepo between '{0}' and '{1}' or QS.idstatusquotation  <> 'ST000004')
                 GROUP BY EM.idemp, EM.StaffName, C.customer,invoiceeps, quotationno, 
                 DP.department, dateimport, datepo,  E.StaffName,
                 QT.quotationtype, QS.statusquotation, Q.quotation_term_date, Q.ngaydukien,Q.nguoi_can_thiep, Q.reason, Q.idexport
             ";
                     string idgrouptk = bgv_list_C.GetFocusedRowCellValue("IDEMP").ToString();
-                    sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), idgrouptk);
+                    sql = string.Format(sql, Convert.ToDateTime(dte_fromdate_S.EditValue).ToString("yyyy-MM-dd"), Convert.ToDateTime(dte_todate_S.EditValue).ToString("yyyy-MM-dd"), idgrouptk, glue_IDEMP_I1.EditValue.ToString());
                     sql = sql.Replace("expresion_join", rg_auth_S.EditValue.ToString() == "1" ? "   G.idgrouptk" : "  G.idgrouptk");
                 }
                 DataTable dt = APCoreProcess.APCoreProcess.Read(sql);

@@ -9,6 +9,7 @@ using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using DevExpress.XtraGrid.Views.Grid;
 using DevExpress.XtraGrid.Columns;
+using Function;
 
 namespace SOURCE_FORM_REPORT.Presentation
 {
@@ -57,8 +58,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 inner join DMBRAND B ON DV.idbrand=B.idbrand
                 INNER JOIN DMCUSTOMERS C ON C.idcustomer = DV.idcustomer
 				LEFT JOIN EMPCUS EC with(nolock) ON EC.idcustomer = C.idcustomer and ec.status='True'
-				LEFT join EMPLOYEES E ON EC.idemp = E.IDEMP
-                ";
+				LEFT join EMPLOYEES E ON EC.idemp = E.IDEMP where EC.idemp like 
+                " + " '%"+glue_IDEMP_I1.EditValue.ToString()+"%'";
             string sql_bd = @"
 
                 select BD.idbinh, BD.modelbinh, BD.thongso, BD.kichthuoc, BD.modelxe, 
@@ -69,8 +70,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN DMCUSTOMERS C ON C.idcustomer = BD.idcustomer
 				LEFT JOIN EMPCUS EC with(nolock) ON EC.idcustomer = C.idcustomer and ec.status='True'
 				LEFT join EMPLOYEES E ON EC.idemp = E.IDEMP
-       
-                ";
+                WHERE EC.idemp like 
+                " + " '%"+glue_IDEMP_I1.EditValue.ToString()+"%'";
             string sql_vx = @"
                select
                 case when bacdanvoxe=1 then 'BD' else 'VX' end type,
@@ -82,8 +83,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN DMCUSTOMERS C ON C.idcustomer = VX.idcustomer
 				LEFT JOIN EMPCUS EC with(nolock) ON EC.idcustomer = C.idcustomer and ec.status='True'
 				LEFT join EMPLOYEES E ON EC.idemp = E.IDEMP
-                where bacdanvoxe=0
-                ";
+                where bacdanvoxe=0 and EC.idemp like 
+                " + " '%" + glue_IDEMP_I1.EditValue.ToString() + "%' ";
             string sql_bdn = @"
 
                 select
@@ -95,8 +96,8 @@ namespace SOURCE_FORM_REPORT.Presentation
                 INNER JOIN DMCUSTOMERS C ON C.idcustomer = VX.idcustomer
 				LEFT JOIN EMPCUS EC with(nolock) ON EC.idcustomer = C.idcustomer and ec.status='True'
 				LEFT join EMPLOYEES E ON EC.idemp = E.IDEMP
-                where bacdanvoxe=1
-                ";
+                where bacdanvoxe=1 and EC.idemp like 
+                " + " '%" + glue_IDEMP_I1.EditValue.ToString() + "%' "; 
 
             if (cboType.SelectedIndex == 0) // thiet bị
             {
@@ -127,11 +128,31 @@ namespace SOURCE_FORM_REPORT.Presentation
             dte_todate_S.EditValue = new DateTime(DateTime.Now.Year, DateTime.Now.Month, 1).AddMonths(1).AddDays(-1);
             loadGridLookupCustomer();
             cboType_SelectedIndexChanged(sender, e);
-
+            loadGridLookupEmp();
             // Binh dien
             
         }
+        private void loadGridLookupEmp()
+        {
+            try
+            {
+                string[] caption = new string[] { "Mã NV", "Tên Nhân Viên" };
+                string[] fieldname = new string[] { "idemp", "staffname" };
 
+                if (clsFunction.checkAdmin() && clsFunction._iduser.ToString() != "US000022")
+                {
+                    string s = clsFunction._iduser.ToString();
+                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select '' idemp, 'All' staffname union select idemp,staffname from employees  where status=1 ", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
+                }
+                else
+                {
+                    ControlDev.FormatControls.LoadGridLookupEdit(glue_IDEMP_I1, "select idemp,staffname from employees where status=1 and CHARINDEX('" + clsFunction.GetIDEMPByUser() + "', idrecursive) >0 ", "staffname", "idemp", caption, fieldname, this.Name, glue_IDEMP_I1.Width);
+                }
+                glue_IDEMP_I1.EditValue = clsFunction.GetIDEMPByUser();
+
+            }
+            catch { }
+        }
         private void loadGridLookupCustomer()
         {
             try
